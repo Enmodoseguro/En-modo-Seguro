@@ -111,6 +111,34 @@ def a_iso(valor: str) -> str:
         return ""
 
 
+def extraer_imagen(entry) -> str:
+    """Busca la imagen (miniatura) de una noticia dentro del feed."""
+    # 1) media:thumbnail
+    thumbs = entry.get("media_thumbnail") or []
+    if thumbs and thumbs[0].get("url"):
+        return thumbs[0]["url"]
+    # 2) media:content
+    for m in entry.get("media_content") or []:
+        url = m.get("url", "")
+        tipo = (str(m.get("type", "")) + str(m.get("medium", ""))).lower()
+        if url and ("image" in tipo or url.lower().split("?")[0].endswith((".jpg", ".jpeg", ".png", ".webp"))):
+            return url
+    # 3) enclosures (archivos adjuntos)
+    for enc in entry.get("enclosures") or []:
+        if "image" in str(enc.get("type", "")).lower() and enc.get("href"):
+            return enc["href"]
+    # 4) primera imagen dentro del contenido o el resumen
+    blob = ""
+    if entry.get("content"):
+        blob = entry["content"][0].get("value", "")
+    blob = blob or entry.get("summary", "") or entry.get("description", "")
+    if blob:
+        img = BeautifulSoup(blob, "html.parser").find("img")
+        if img and img.get("src"):
+            return img["src"]
+    return ""
+
+
 def desde_rss(fuente: dict) -> list:
     """Lee un feed RSS y devuelve una lista de noticias normalizadas."""
     items = []
@@ -128,6 +156,7 @@ def desde_rss(fuente: dict) -> list:
             "categoria": categorizar(titulo + " " + resumen),
             "fecha": fecha,
             "url": e.get("link") or "",
+            "imagen": extraer_imagen(e),
         })
     return items
 
@@ -151,6 +180,7 @@ def desde_html(pagina: dict) -> list:
             "categoria": categorizar(titulo + " " + pagina["nombre"]),
             "fecha": "",
             "url": link,
+            "imagen": "",
         })
     return items
 
@@ -189,8 +219,10 @@ def main():
     unicas.sort(key=lambda x: x["fecha"] or "0000-00-00", reverse=True)
     unicas = unicas[:MAX_NOTICIAS]
 
+    # Hora de Argentina (UTC-3), aunque el robot corra en un servidor de otra zona
+    ar = datetime.timezone(datetime.timedelta(hours=-3))
     salida = {
-        "actualizado": datetime.datetime.now().isoformat(timespec="minutes"),
+        "actualizado": datetime.datetime.now(ar).isoformat(timespec="minutes"),
         "total": len(unicas),
         "noticias": unicas,
     }

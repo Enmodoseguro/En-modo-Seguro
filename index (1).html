@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>En modo seguro · Noticias del mercado asegurador</title>
+<meta name="description" content="El portal 2.0 de noticias del mercado asegurador argentino: noticias, seguros explicados en simple, videos, cambios y normas, rankings y eventos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#F1F5FF;--surface:#FFFFFF;--ink:#060F26;--ink-2:#0A1838;
+  --text:#0E1B36;--muted:#5C6C8C;--line:#E2EAF8;
+  --brand:#2563FF;--brand-700:#1A4FD6;--brand-soft:#E9F1FF;--brand-line:#D2E0FB;
+  --cyan:#0FC6DE;--cyan-d:#0A93A6;--violet:#7A5BFF;
+  --grad:linear-gradient(135deg,#7A5BFF 0%,#2563FF 52%,#0FC6DE 100%);
+  --grad2:linear-gradient(135deg,#2563FF,#0FC6DE);
+  --radius:14px;--radius-lg:22px;
+  --sh-sm:0 1px 2px rgba(6,15,38,.05),0 8px 22px rgba(6,15,38,.06);
+  --sh-md:0 16px 44px rgba(13,40,110,.16);
+  --glow:0 10px 30px rgba(37,99,255,.45);
+  --display:'Space Grotesk',system-ui,sans-serif;
+  --body:'Plus Jakarta Sans',system-ui,-apple-system,Segoe UI,sans-serif;
+}
+html{scroll-behavior:smooth;}
+body{font-family:var(--body);background:var(--bg);color:var(--text);line-height:1.55;-webkit-font-smoothing:antialiased;}
+a{color:inherit;text-decoration:none;}svg{display:block;}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px;}
+.disp{font-family:var(--display);font-weight:700;letter-spacing:-0.02em;line-height:1.02;}
+.grad-text{background:var(--grad2);-webkit-background-clip:text;background-clip:text;color:transparent;}
+.kick{font-weight:800;font-size:11px;letter-spacing:.09em;text-transform:uppercase;}
+.k-reg{color:var(--brand);}.k-mer{color:var(--violet);}.k-inn{color:var(--cyan-d);}.k-srt{color:#E0533F;}
+
+/* MASTHEAD */
+.mast{position:sticky;top:0;z-index:50;background:rgba(6,15,38,.86);backdrop-filter:saturate(160%) blur(12px);border-bottom:1px solid rgba(255,255,255,.08);}
+.mast-bar{display:flex;align-items:center;gap:24px;height:66px;}
+.logo{display:flex;align-items:center;gap:11px;}
+.logo-tx{font-family:var(--display);font-weight:700;font-size:18px;letter-spacing:-0.01em;color:#fff;line-height:1;}
+.logo-tx small{display:block;font-family:var(--body);font-weight:600;font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--cyan);margin-top:3px;}
+.mnav{display:flex;gap:19px;margin-left:8px;}
+.mnav a{font-size:13.5px;font-weight:600;color:rgba(255,255,255,.72);transition:color .15s;white-space:nowrap;}
+.mnav a:hover{color:#fff;}
+.mast-cta{margin-left:auto;display:flex;align-items:center;gap:13px;}
+.btn{font-family:var(--body);font-weight:700;font-size:14px;border:none;border-radius:100px;padding:10px 19px;cursor:pointer;transition:transform .12s,box-shadow .2s,background .15s;display:inline-flex;align-items:center;gap:8px;}
+.btn-grad{background:var(--grad2);color:#fff;box-shadow:var(--glow);}
+.btn-grad:hover{box-shadow:0 12px 34px rgba(37,99,255,.6);transform:translateY(-1px);}
+.btn-ghost-d{background:rgba(255,255,255,.06);color:#fff;border:1.5px solid rgba(255,255,255,.22);}
+.btn-ghost-d:hover{border-color:#fff;background:rgba(255,255,255,.12);}
+.btn-lg{padding:14px 26px;font-size:15.5px;}
+
+/* TICKER */
+.ticker{background:var(--ink-2);overflow:hidden;display:flex;align-items:stretch;border-bottom:1px solid rgba(255,255,255,.07);}
+.ticker-lab{background:var(--grad2);color:#fff;font-weight:800;font-size:11px;letter-spacing:.1em;text-transform:uppercase;display:flex;align-items:center;padding:0 16px;white-space:nowrap;flex:none;}
+.ticker-tr{overflow:hidden;flex:1;position:relative;}
+.ticker-mv{display:inline-flex;white-space:nowrap;animation:tick 44s linear infinite;padding:10px 0;}
+.ticker-tr:hover .ticker-mv{animation-play-state:paused;}
+.ticker-it{font-size:12.5px;color:rgba(255,255,255,.82);padding:0 22px;display:inline-flex;align-items:center;font-weight:500;}
+.ticker-it::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--cyan);margin-right:11px;}
+@keyframes tick{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+
+/* HERO */
+.hero{position:relative;overflow:hidden;background:linear-gradient(165deg,#060F26 0%,#0A1838 55%,#0B214A 100%);color:#fff;padding:60px 0 70px;}
+.glow{position:absolute;border-radius:50%;filter:blur(10px);pointer-events:none;}
+.glow.a{top:-120px;right:6%;width:420px;height:420px;background:radial-gradient(circle,rgba(122,91,255,.42),transparent 66%);animation:breathe 8s ease-in-out infinite;}
+.glow.b{bottom:-160px;left:-60px;width:420px;height:420px;background:radial-gradient(circle,rgba(15,198,222,.34),transparent 66%);animation:breathe 9s ease-in-out infinite reverse;}
+@keyframes breathe{0%,100%{opacity:.75;transform:scale(1);}50%{opacity:1;transform:scale(1.08);}}
+.hero-dots{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.08) 1px,transparent 1px);background-size:26px 26px;mask-image:linear-gradient(to bottom,#000,transparent 80%);pointer-events:none;}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.1fr .9fr;gap:36px;align-items:center;}
+.hero-eyebrow{display:inline-flex;align-items:center;gap:9px;font-weight:700;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--cyan);background:rgba(15,198,222,.10);border:1px solid rgba(15,198,222,.25);padding:7px 14px;border-radius:100px;}
+.hero h1{font-family:var(--display);font-weight:700;font-size:clamp(46px,8vw,92px);line-height:0.95;letter-spacing:-0.035em;margin:20px 0 0;}
+.hero h1 .l2{display:block;}
+.hero-sub{font-size:18px;color:rgba(255,255,255,.76);margin-top:20px;max-width:46ch;line-height:1.55;}
+.hero-cta{display:flex;align-items:center;gap:14px;margin-top:30px;flex-wrap:wrap;}
+.hero-meta{display:flex;align-items:center;gap:9px;margin-top:22px;font-size:12.5px;color:rgba(255,255,255,.5);font-weight:600;}
+.hero-vis{position:relative;width:100%;max-width:480px;margin:0 auto;}
+.float-card{transform-box:fill-box;transform-origin:center;}
+.fc1{animation:float 5.5s ease-in-out infinite;}
+.fc2{animation:float 6.5s ease-in-out infinite .6s;}
+.fc3{animation:float 6s ease-in-out infinite 1.1s;}
+@keyframes float{0%,100%{transform:translateY(0);}50%{transform:translateY(-12px);}}
+
+/* SECTION */
+.section{padding:64px 0;}
+.sec-bar{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:30px;flex-wrap:wrap;}
+.sec-bar h2{font-family:var(--display);font-weight:700;font-size:clamp(26px,3.2vw,38px);letter-spacing:-0.02em;line-height:1;}
+.sec-bar .lbl{font-weight:800;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--brand);margin-bottom:8px;display:block;}
+.sec-bar p{font-size:14.5px;color:var(--muted);margin-top:5px;}
+
+/* NEWS (con miniatura) */
+.news-status{display:inline-flex;align-items:center;gap:8px;font-size:12px;font-weight:600;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:100px;padding:6px 13px;}
+.ndot{width:8px;height:8px;border-radius:50%;background:var(--cyan);}
+.ndot.live{animation:pulse2 2s infinite;}.ndot.amber{background:#E0A93E;}
+@keyframes pulse2{0%{box-shadow:0 0 0 0 rgba(15,198,222,.5);}70%{box-shadow:0 0 0 6px rgba(15,198,222,0);}100%{box-shadow:0 0 0 0 rgba(15,198,222,0);}}
+.nspin{width:11px;height:11px;border:2px solid var(--line);border-top-color:var(--brand);border-radius:50%;animation:spin .7s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg);}}
+.ngrid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;}
+.ncard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column;transition:transform .18s,box-shadow .18s,border-color .18s;}
+.ncard:hover{transform:translateY(-4px);box-shadow:var(--sh-md);border-color:var(--brand-line);}
+.ncard-img{height:140px;background-size:cover;background-position:center;background-color:#0B1C44;position:relative;flex:none;}
+.ncard-img.ph{background:var(--grad);}
+.ncard-img.ph::after{content:'';position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.16) 1.2px,transparent 1.2px);background-size:14px 14px;}
+.ncard-body{padding:15px 17px 17px;display:flex;flex-direction:column;gap:9px;flex:1;}
+.ncard-body h4{font-family:var(--display);font-weight:600;font-size:16px;line-height:1.2;letter-spacing:-0.01em;}
+.ncard-body h4 a:hover{color:var(--brand);}
+.ncard-body .nm{font-size:11.5px;color:var(--muted);font-weight:600;margin-top:auto;padding-top:9px;border-top:1px solid var(--line);}
+
+/* LO MÁS IMPORTANTE HOY */
+.feat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+.feat-card{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:28px 24px 24px;display:flex;flex-direction:column;gap:11px;overflow:hidden;box-shadow:var(--sh-sm);transition:transform .18s,box-shadow .18s,border-color .18s;}
+.feat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px;background:var(--grad2);}
+.feat-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md);border-color:var(--brand-line);}
+.feat-card h3{font-family:var(--display);font-weight:700;font-size:21px;line-height:1.16;letter-spacing:-0.015em;}
+.feat-card p{font-size:14px;color:var(--muted);line-height:1.55;}
+.feat-card .nm{font-size:11.5px;color:var(--muted);font-weight:600;margin-top:auto;padding-top:12px;border-top:1px solid var(--line);}
+
+/* SEGUROS EN SIMPLE (acordeón) */
+.simple-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;}
+.faq{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;transition:border-color .15s,box-shadow .15s;}
+.faq[open]{border-color:var(--brand-line);box-shadow:var(--sh-sm);}
+.faq summary{display:flex;align-items:center;gap:14px;padding:18px 20px;cursor:pointer;list-style:none;}
+.faq summary::-webkit-details-marker{display:none;}
+.faq-ic{width:38px;height:38px;border-radius:10px;background:var(--brand-soft);color:var(--brand);display:flex;align-items:center;justify-content:center;flex:none;}
+.faq-ic svg{width:20px;height:20px;}
+.faq-t{font-family:var(--display);font-weight:600;font-size:15.5px;letter-spacing:-0.01em;line-height:1.2;}
+.faq-chev{margin-left:auto;flex:none;color:var(--muted);transition:transform .25s;}
+.faq[open] .faq-chev{transform:rotate(180deg);}
+.faq-a p{padding:0 20px 18px 72px;font-size:14px;color:var(--muted);line-height:1.6;}
+
+/* VIDEOS */
+.vid-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;}
+.vid{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--sh-sm);transition:transform .18s,box-shadow .18s;}
+.vid:hover{transform:translateY(-4px);box-shadow:var(--sh-md);}
+.vid-frame{position:relative;width:100%;padding-top:56.25%;background:#0B1C44;}
+.vid-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0;}
+.vid-body{padding:16px 20px 18px;}
+.vid-body h3{font-family:var(--display);font-weight:600;font-size:17px;line-height:1.22;letter-spacing:-0.01em;margin:6px 0 5px;}
+.vid-body p{font-size:13px;color:var(--muted);line-height:1.5;}
+.vid-note{margin-top:18px;font-size:12.5px;color:var(--muted);text-align:center;line-height:1.5;}
+
+/* EVENTS */
+.ev-sec{background:var(--ink);color:#fff;position:relative;overflow:hidden;}
+.ev-sec .glow.c{position:absolute;top:-100px;right:-40px;width:380px;height:380px;border-radius:50%;background:radial-gradient(circle,rgba(122,91,255,.25),transparent 70%);filter:blur(8px);}
+.ev-sec .sec-bar h2{color:#fff;}.ev-sec .sec-bar .lbl{color:var(--cyan);}.ev-sec .sec-bar p{color:rgba(255,255,255,.6);}
+.ev-grid{position:relative;z-index:1;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+.ev{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:var(--radius-lg);overflow:hidden;transition:transform .18s,background .18s;display:flex;flex-direction:column;backdrop-filter:blur(8px);}
+.ev:hover{transform:translateY(-5px);background:rgba(255,255,255,.10);}
+.ev-top{padding:22px 22px 0;display:flex;align-items:flex-start;justify-content:space-between;gap:12px;}
+.ev-date{font-family:var(--display);font-weight:700;font-size:15px;color:#fff;background:var(--grad2);border-radius:10px;padding:8px 11px;text-align:center;line-height:1.05;flex:none;}
+.ev-tag{font-size:10.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--cyan);border:1px solid rgba(15,198,222,.4);border-radius:100px;padding:5px 11px;}
+.ev-body{padding:16px 22px 24px;display:flex;flex-direction:column;gap:9px;flex:1;}
+.ev-body h3{font-family:var(--display);font-weight:600;font-size:19px;line-height:1.13;color:#fff;letter-spacing:-0.01em;}
+.ev-place{font-size:12.5px;color:var(--cyan);font-weight:600;}
+.ev-body p{font-size:13.5px;color:rgba(255,255,255,.68);line-height:1.5;flex:1;}
+.ev-link{font-size:13px;font-weight:700;color:#fff;border-bottom:2px solid var(--cyan);padding-bottom:2px;align-self:flex-start;}
+
+/* CAMBIOS Y NORMAS */
+.org{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:30px;}
+.org-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--sh-sm);}
+.org-badge{display:inline-flex;align-items:center;gap:8px;font-weight:800;font-size:12px;color:var(--brand);background:var(--brand-soft);border:1px solid var(--brand-line);border-radius:100px;padding:6px 12px;margin-bottom:12px;letter-spacing:.03em;}
+.org-badge.srt{color:var(--violet);background:#F0ECFF;border-color:#DCD3FF;}
+.org-card h3{font-family:var(--display);font-weight:600;font-size:19px;letter-spacing:-0.01em;margin-bottom:8px;}
+.org-card p{font-size:14px;color:var(--muted);margin-bottom:13px;}
+.org-meta{padding-top:13px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:14px;align-items:center;}
+.org-meta a{color:var(--brand);font-weight:700;}
+.reso-filters{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;}
+.rfilter{font-family:var(--body);font-weight:600;font-size:13px;color:var(--muted);background:#fff;border:1.5px solid var(--line);border-radius:100px;padding:6px 14px;cursor:pointer;transition:all .15s;}
+.rfilter:hover{border-color:var(--brand);}
+.rfilter.active{background:var(--brand);color:#fff;border-color:var(--brand);}
+.reso{display:grid;grid-template-columns:1fr 1fr;gap:11px;}
+.reso-item{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;transition:border-color .15s,transform .15s;}
+.reso-item:hover{border-color:var(--brand);transform:translateX(2px);}
+.reso-badge{flex:none;font-size:10px;font-weight:800;color:#fff;border-radius:7px;padding:5px 9px;letter-spacing:.03em;margin-top:1px;}
+.reso-badge.ssn{background:var(--brand);}.reso-badge.srt{background:var(--violet);}
+.reso-txt b{font-family:var(--display);font-weight:600;font-size:14px;}
+.reso-txt p{font-size:13px;color:var(--muted);margin:2px 0 5px;line-height:1.45;}
+.reso-txt a{font-size:12.5px;color:var(--brand);font-weight:700;}
+.quick{margin-top:26px;background:var(--brand-soft);border:1px solid var(--brand-line);border-radius:var(--radius);padding:20px 22px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+.quick h4{font-family:var(--display);font-weight:600;font-size:15px;color:var(--brand);flex:none;}
+.quick-links{display:flex;flex-wrap:wrap;gap:10px;}
+.quick-links a{font-size:13px;font-weight:600;color:var(--brand);background:#fff;border:1px solid var(--brand-line);border-radius:8px;padding:8px 13px;transition:all .15s;}
+.quick-links a:hover{border-color:var(--brand);transform:translateY(-1px);}
+.pro-note{margin-top:14px;font-size:13px;color:var(--muted);text-align:center;}
+.pro-note a{color:var(--brand);font-weight:700;}
+
+/* RANKINGS */
+.rank-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;}
+.rank-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px;box-shadow:var(--sh-sm);}
+.rh{display:flex;align-items:center;gap:11px;margin-bottom:16px;}
+.rh .ric{width:40px;height:40px;border-radius:11px;display:flex;align-items:center;justify-content:center;color:#fff;flex:none;}
+.rh .ric.a{background:var(--grad2);}.rh .ric.b{background:linear-gradient(135deg,var(--violet),var(--brand));}
+.rh h3{font-family:var(--display);font-weight:600;font-size:19px;letter-spacing:-0.01em;}
+.rh small{font-size:12px;color:var(--muted);display:block;}
+.rrow{display:flex;align-items:center;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);}
+.rrow:last-child{border-bottom:none;}
+.rnum{font-family:var(--display);font-weight:700;font-size:16px;color:var(--brand);width:22px;flex:none;text-align:center;}
+.rrow.b .rnum{color:var(--violet);}
+.rname{flex:1;font-size:14px;font-weight:600;min-width:0;}
+.rbar{height:7px;border-radius:4px;background:var(--brand-soft);width:110px;flex:none;overflow:hidden;}
+.rbar i{display:block;height:100%;border-radius:4px;background:var(--grad2);}
+.rrow.b .rbar{background:#F0ECFF;}.rrow.b .rbar i{background:linear-gradient(90deg,var(--violet),var(--brand));}
+.rpct{font-size:12.5px;font-weight:700;color:var(--text);width:46px;text-align:right;flex:none;font-family:var(--display);}
+.rank-note{text-align:center;font-size:12px;color:var(--muted);margin-top:20px;}
+
+/* NEWSLETTER */
+.nl{background:linear-gradient(135deg,#0B214A,#060F26);color:#fff;border-radius:var(--radius-lg);padding:50px 40px;text-align:center;position:relative;overflow:hidden;border:1px solid rgba(255,255,255,.08);}
+.nl::after{content:'';position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:380px;height:380px;border-radius:50%;background:radial-gradient(circle,rgba(37,99,255,.34),transparent 70%);filter:blur(8px);}
+.nl-in{position:relative;z-index:1;}
+.nl .lbl{font-weight:800;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--cyan);}
+.nl h2{font-family:var(--display);font-weight:700;font-size:clamp(26px,3.4vw,38px);letter-spacing:-0.02em;margin:8px auto 10px;max-width:18ch;}
+.nl p{font-size:16px;color:rgba(255,255,255,.78);max-width:50ch;margin:0 auto 24px;}
+.nl-form{display:flex;gap:10px;max-width:460px;margin:0 auto;flex-wrap:wrap;justify-content:center;}
+.nl-form input{flex:1;min-width:220px;font-family:var(--body);font-size:15px;color:#fff;background:rgba(255,255,255,.08);border:1.5px solid rgba(255,255,255,.2);border-radius:100px;padding:13px 20px;}
+.nl-form input::placeholder{color:rgba(255,255,255,.5);}
+.nl-form input:focus{outline:none;border-color:var(--cyan);}
+.nl-ok{margin-top:14px;font-size:14px;color:var(--cyan);font-weight:600;display:none;}
+.nl-ok.show{display:block;}
+
+/* FOOTER */
+.foot{background:var(--ink);color:rgba(255,255,255,.62);padding:54px 0 30px;border-top:1px solid rgba(255,255,255,.08);}
+.foot-grid{display:grid;grid-template-columns:1.7fr 1fr 1fr 1fr;gap:34px;padding-bottom:34px;border-bottom:1px solid rgba(255,255,255,.12);}
+.foot-logo{display:flex;align-items:center;gap:11px;margin-bottom:12px;}
+.foot p.f-desc{font-size:14px;max-width:32ch;line-height:1.6;}
+.foot h5{color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin-bottom:13px;}
+.foot ul{list-style:none;display:flex;flex-direction:column;gap:9px;}
+.foot ul a{font-size:14px;transition:color .15s;}
+.foot ul a:hover{color:#fff;}
+.foot-bottom{padding-top:22px;font-size:12px;line-height:1.6;display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;}
+
+:focus-visible{outline:3px solid var(--cyan);outline-offset:2px;border-radius:6px;}
+.reveal{opacity:0;transform:translateY(22px);transition:opacity .6s ease,transform .6s ease;}
+.reveal.in{opacity:1;transform:none;}
+
+/* RESPONSIVE */
+@media (max-width:960px){
+  .hero-grid{grid-template-columns:1fr;gap:24px;}
+  .hero-vis{max-width:380px;order:-1;}
+  .ngrid{grid-template-columns:repeat(2,1fr);}
+  .feat-grid,.vid-grid,.ev-grid,.rank-grid,.org,.reso{grid-template-columns:1fr;}
+  .foot-grid{grid-template-columns:1fr 1fr;gap:28px;}
+  .mnav{display:none;}
+}
+@media (max-width:760px){
+  .simple-grid{grid-template-columns:1fr;}
+  .faq-a p{padding-left:20px;}
+}
+@media (max-width:560px){
+  .wrap{padding:0 16px;}
+  .ngrid{grid-template-columns:1fr;}
+  .section{padding:48px 0;}
+  .nl{padding:30px 22px;}
+  .hero h1{font-size:54px;}
+}
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto;}*{animation:none!important;transition:none!important;}.reveal{opacity:1;transform:none;}
+}
+</style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<header class="mast">
+  <div class="wrap mast-bar">
+    <a href="#top" class="logo">
+      <svg width="36" height="36" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lgM" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="0.55" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient></defs><rect x="2" y="2" width="36" height="36" rx="11" fill="url(#lgM)"/><path d="M20 8.5 L29.5 12 V19.5 c0 6.2-4.2 9.8-9.5 11.8 c-5.3-2-9.5-5.6-9.5-11.8 V12 Z" fill="none" stroke="#fff" stroke-width="2.1" stroke-linejoin="round" opacity="0.95"/><path d="M14 19.5 h2.6 l1.5-3.4 2.4 6 1.4-2.6 h2.6" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span class="logo-tx">En modo seguro<small>Mercado asegurador</small></span>
+    </a>
+    <nav class="mnav">
+      <a href="#noticias">Noticias</a>
+      <a href="#simple">Seguros en simple</a>
+      <a href="#videos">Videos</a>
+      <a href="#cambios">Cambios y normas</a>
+      <a href="#rankings">Rankings</a>
+      <a href="#eventos">Eventos</a>
+    </nav>
+    <div class="mast-cta">
+      <button class="btn btn-grad" onclick="document.getElementById('newsletter').scrollIntoView()">Suscribirme</button>
+    </div>
+  </div>
+</header>
+
+<a id="top"></a>
+
+<!-- TICKER -->
+<div class="ticker">
+  <div class="ticker-lab">Última hora</div>
+  <div class="ticker-tr"><div class="ticker-mv" id="ticker"></div></div>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="glow a"></div><div class="glow b"></div><div class="hero-dots"></div>
+  <div class="wrap">
+    <div class="hero-grid">
+      <div>
+        <span class="hero-eyebrow">◆ Noticias del mercado asegurador</span>
+        <h1 class="disp">En modo<span class="l2 grad-text">seguro</span></h1>
+        <p class="hero-sub">Todo el seguro argentino en un solo lugar: noticias, seguros explicados en simple, videos y datos del mercado. Claro, moderno y siempre actualizado.</p>
+        <div class="hero-cta">
+          <button class="btn btn-grad btn-lg" onclick="document.getElementById('noticias').scrollIntoView()">Ver noticias →</button>
+          <a href="#simple" class="btn btn-ghost-d btn-lg">Seguros en simple</a>
+        </div>
+        <div class="hero-meta"><span style="width:8px;height:8px;border-radius:50%;background:var(--cyan);display:inline-block;"></span> Se actualiza solo, todos los días</div>
+      </div>
+
+      <!-- IMAGEN: portada de diario digital con titulares y datos flotando -->
+      <div class="hero-vis">
+        <svg viewBox="0 0 460 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portada digital del portal de seguros">
+          <defs>
+            <linearGradient id="hgLogo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="0.55" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient>
+            <linearGradient id="hgBar2" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient>
+            <linearGradient id="hgImg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E6BFF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient>
+            <linearGradient id="hgRing2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient>
+          </defs>
+          <circle cx="235" cy="220" r="162" fill="none" stroke="url(#hgRing2)" stroke-width="1.5" stroke-dasharray="3 8" opacity="0.4"/>
+
+          <!-- PÁGINA / DIARIO DIGITAL -->
+          <g>
+            <rect x="116" y="58" width="228" height="322" rx="18" fill="rgba(255,255,255,.09)" stroke="rgba(255,255,255,.20)" stroke-width="1.2"/>
+            <rect x="134" y="76" width="20" height="20" rx="6" fill="url(#hgLogo)"/>
+            <rect x="162" y="80" width="92" height="8" rx="4" fill="rgba(255,255,255,.7)"/>
+            <rect x="162" y="92" width="60" height="5" rx="2.5" fill="rgba(255,255,255,.3)"/>
+            <line x1="134" y1="110" x2="326" y2="110" stroke="rgba(255,255,255,.14)" stroke-width="1"/>
+            <rect x="134" y="122" width="56" height="15" rx="7.5" fill="url(#hgBar2)"/>
+            <rect x="134" y="148" width="192" height="10" rx="5" fill="rgba(255,255,255,.85)"/>
+            <rect x="134" y="164" width="150" height="10" rx="5" fill="rgba(255,255,255,.85)"/>
+            <rect x="134" y="186" width="192" height="74" rx="9" fill="url(#hgImg)" opacity="0.85"/>
+            <circle cx="164" cy="208" r="8" fill="rgba(255,255,255,.55)"/>
+            <path d="M148 250 l18-20 13 13 11-11 16 18 z" fill="rgba(255,255,255,.5)"/>
+            <rect x="134" y="272" width="192" height="6" rx="3" fill="rgba(255,255,255,.3)"/>
+            <rect x="134" y="284" width="178" height="6" rx="3" fill="rgba(255,255,255,.3)"/>
+            <line x1="134" y1="302" x2="326" y2="302" stroke="rgba(255,255,255,.12)" stroke-width="1"/>
+            <rect x="134" y="314" width="46" height="46" rx="8" fill="rgba(255,255,255,.12)"/>
+            <rect x="190" y="320" width="136" height="8" rx="4" fill="rgba(255,255,255,.6)"/>
+            <rect x="190" y="334" width="110" height="6" rx="3" fill="rgba(255,255,255,.28)"/>
+            <rect x="190" y="348" width="80" height="6" rx="3" fill="rgba(255,255,255,.28)"/>
+          </g>
+
+          <!-- CHIP última hora -->
+          <g class="float-card fc1">
+            <rect x="32" y="84" width="130" height="40" rx="12" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.25)" stroke-width="1"/>
+            <circle cx="53" cy="104" r="6" fill="#FF5A4D"/>
+            <rect x="68" y="97" width="82" height="6" rx="3" fill="rgba(255,255,255,.7)"/>
+            <rect x="68" y="108" width="56" height="5" rx="2.5" fill="rgba(255,255,255,.35)"/>
+          </g>
+
+          <!-- CHIP mini chart -->
+          <g class="float-card fc2">
+            <rect x="318" y="94" width="112" height="84" rx="13" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.25)" stroke-width="1"/>
+            <rect x="334" y="108" width="46" height="6" rx="3" fill="rgba(255,255,255,.5)"/>
+            <rect x="334" y="152" width="13" height="14" rx="3" fill="url(#hgBar2)"/>
+            <rect x="354" y="142" width="13" height="24" rx="3" fill="url(#hgBar2)"/>
+            <rect x="374" y="132" width="13" height="34" rx="3" fill="url(#hgBar2)"/>
+            <rect x="394" y="124" width="13" height="42" rx="3" fill="url(#hgBar2)"/>
+          </g>
+
+          <!-- CHIP etiqueta -->
+          <g class="float-card fc3">
+            <rect x="38" y="306" width="120" height="48" rx="12" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.25)" stroke-width="1"/>
+            <circle cx="63" cy="330" r="13" fill="none" stroke="#0FC6DE" stroke-width="2.4"/>
+            <path d="M57 330 l4 4 8-8" fill="none" stroke="#0FC6DE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+            <rect x="85" y="323" width="58" height="6" rx="3" fill="rgba(255,255,255,.6)"/>
+            <rect x="85" y="335" width="40" height="5" rx="2.5" fill="rgba(255,255,255,.3)"/>
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 1) ÚLTIMAS NOTICIAS -->
+<section class="section reveal" id="noticias">
+  <div class="wrap">
+    <div class="sec-bar">
+      <div><span class="lbl">El portal</span><h2 class="disp">Últimas noticias</h2><p>De los organismos de control y de todo el mercado, actualizado solo.</p></div>
+      <div class="news-status" id="newsStatus"><span class="nspin"></span> Buscando novedades…</div>
+    </div>
+    <div class="ngrid" id="newsGrid"></div>
+  </div>
+</section>
+
+<!-- 2) LO MÁS IMPORTANTE HOY -->
+<section class="section reveal" id="destacado">
+  <div class="wrap">
+    <div class="sec-bar"><div><span class="lbl">Para no perderte</span><h2 class="disp">Lo más importante hoy</h2><p>Las noticias que marcan la agenda del sector.</p></div></div>
+    <div class="feat-grid">
+      <article class="feat-card"><span class="kick k-reg">Regulación</span><h3>Nueva etapa de desregulación: la SSN deroga dos reservas técnicas</h3><p>Por la Resolución 269/2026 se eliminan la reserva de caución ambiental y la de desvíos de siniestralidad, exigencias sin justificación técnica actual.</p><div class="nm">SSN · Junio 2026</div></article>
+      <article class="feat-card"><span class="kick k-mer">Mercado</span><h3>La SSN le revocó la autorización a Galeno ART por un déficit de capital</h3><p>El organismo detectó un faltante de capital y dispuso el cese de operaciones, lo que implica la disolución y liquidación de la aseguradora.</p><div class="nm">SSN · Boletín Oficial</div></article>
+      <article class="feat-card"><span class="kick k-srt">Riesgos del trabajo</span><h3>Salud mental obligatoria en las ART: el nuevo protocolo de la SRT</h3><p>La Resolución 8/2026 aprueba el Protocolo de Prestaciones en Salud Mental, obligatorio para las ART y los empleadores autoasegurados.</p><div class="nm">SRT · Enero 2026</div></article>
+    </div>
+  </div>
+</section>
+
+<!-- 3) SEGUROS EN SIMPLE -->
+<section class="section reveal" id="simple">
+  <div class="wrap">
+    <div class="sec-bar"><div><span class="lbl">Para todos</span><h2 class="disp">Seguros en simple</h2><p>Lo básico explicado claro, sin letra chica. Tocá cada tema para ver la respuesta.</p></div></div>
+    <div class="simple-grid">
+      <details class="faq">
+        <summary>
+          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l1.5-4.2A2 2 0 0 1 8.4 7.5h7.2a2 2 0 0 1 1.9 1.3L19 13v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-1H8v1a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1z"/><path d="M5 13h14"/></svg></span>
+          <span class="faq-t">Qué revisar antes de contratar un seguro de auto</span>
+          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
+        </summary>
+        <div class="faq-a"><p>Mirá tres cosas: el <b>tipo de cobertura</b> (responsabilidad civil es el mínimo obligatorio; “terceros completo” suma robo e incendio; “todo riesgo” cubre también daños a tu auto), la <b>franquicia</b> (cuánto pagás vos en caso de choque) y las <b>exclusiones</b>. Preguntá si cubre granizo y si tenés auxilio y auto sustituto. Compará no solo el precio, sino qué incluye cada póliza.</p></div>
+      </details>
+      <details class="faq">
+        <summary>
+          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 5.5 6.2V11c0 4.3 2.8 7.2 6.5 8.5 3.7-1.3 6.5-4.2 6.5-8.5V6.2z"/><path d="M12 8v4"/><path d="M12 15.5h.01"/></svg></span>
+          <span class="faq-t">Qué hacer si tu aseguradora rechaza un siniestro</span>
+          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
+        </summary>
+        <div class="faq-a"><p>Pedí el rechazo <b>por escrito</b> y con los motivos. Revisá tu póliza para ver si lo que pasó está cubierto. Si creés que el rechazo es injusto, podés reclamar formalmente ante la compañía y, si no responden, ante la <b>Superintendencia de Seguros de la Nación (SSN)</b>, que tiene un área de atención al asegurado. Guardá toda la documentación.</p></div>
+      </details>
+      <details class="faq">
+        <summary>
+          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 11 12 4l8.5 7"/><path d="M5.5 10v9a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-9"/></svg></span>
+          <span class="faq-t">Qué cubre realmente un seguro de hogar</span>
+          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
+        </summary>
+        <div class="faq-a"><p>Suele cubrir <b>incendio, robo, daños por agua</b> y <b>responsabilidad civil</b> (si algo de tu casa daña a un tercero). Ojo con la diferencia entre cubrir la <b>estructura</b> y cubrir el <b>contenido</b>: no siempre están las dos. Revisá las sumas aseguradas para no quedar “mal asegurado” y fijate qué queda excluido.</p></div>
+      </details>
+      <details class="faq">
+        <summary>
+          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m15 9-3.5 1.2L10 14l3.5-1.2z"/></svg></span>
+          <span class="faq-t">ART, vida, hogar, auto: ¿qué seguro necesito?</span>
+          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
+        </summary>
+        <div class="faq-a"><p>Depende de tu situación. La <b>ART</b> la paga tu empleador y cubre accidentes de trabajo. El de <b>auto</b> es obligatorio si manejás. El de <b>hogar</b> protege tu vivienda y tus cosas. El de <b>vida</b> deja una protección económica a tu familia. No todos son obligatorios, pero cada uno cubre un riesgo distinto.</p></div>
+      </details>
+      <details class="faq">
+        <summary>
+          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6" width="18" height="13" rx="2"/><path d="M3 10h18"/><path d="M7 15h4"/></svg></span>
+          <span class="faq-t">Qué es la franquicia y cómo afecta tu bolsillo</span>
+          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
+        </summary>
+        <div class="faq-a"><p>La franquicia es la <b>parte del gasto que ponés vos</b> antes de que la aseguradora pague el resto. Por ejemplo, si la franquicia es $100.000 y el arreglo cuesta $150.000, vos pagás los primeros $100.000. En general, a mayor franquicia más barata es la póliza, pero más pagás si tenés un siniestro.</p></div>
+      </details>
+      <details class="faq">
+        <summary>
+          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4h6a1 1 0 0 1 1 1v1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h2V5a1 1 0 0 1 1-1z"/><path d="m9 13 2 2 4-4"/></svg></span>
+          <span class="faq-t">Primeros pasos ante un siniestro</span>
+          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
+        </summary>
+        <div class="faq-a"><p>Avisá a tu aseguradora <b>lo antes posible</b> (las pólizas suelen dar un plazo, muchas veces 72 horas). Sacá fotos, guardá comprobantes y, si hay terceros, anotá sus datos. <b>No reconozcas culpa</b> en el momento ni firmes nada que no entiendas. Seguí las instrucciones de tu compañía para hacer la denuncia.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- 4) VIDEOS / ENTREVISTAS -->
+<section class="section reveal" id="videos">
+  <div class="wrap">
+    <div class="sec-bar"><div><span class="lbl">En cámara</span><h2 class="disp">Videos y entrevistas</h2><p>Las voces del sector, en sus propias palabras.</p></div></div>
+    <div class="vid-grid">
+      <article class="vid">
+        <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/u08tTfBRVko" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div class="vid-body"><span class="kick k-inn">Innovación</span><h3>Innovación e inteligencia artificial en las aseguradoras</h3><p>Gustavo Bresba (DC Sistemas) analiza el grado real de innovación en el seguro argentino. — Canal El Seguro en Acción.</p></div>
+      </article>
+      <article class="vid">
+        <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/evrLoLxGm7A" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div class="vid-body"><span class="kick k-mer">Intermediación</span><h3>El nuevo rumbo de la intermediación y la asistencia</h3><p>Pablo Lühning (VisRed) y Mariano Buxdorf (Vaitty), con un repaso del Foro Nacional de Seguros de Córdoba. — Canal El Seguro en Acción.</p></div>
+      </article>
+    </div>
+    <p class="vid-note">Los videos se reproducen desde YouTube, así el canal original conserva las vistas y el crédito. Estos son de ejemplo: pasame los links de las entrevistas que quieras y los cambio.</p>
+  </div>
+</section>
+
+<!-- 5) CAMBIOS Y NORMAS -->
+<section class="section reveal" id="cambios">
+  <div class="wrap">
+    <div class="sec-bar"><div><span class="lbl">Qué cambia en seguros</span><h2 class="disp">Cambios y normas</h2><p>Las resoluciones de la SSN y la SRT, explicadas en simple.</p></div></div>
+    <div class="org">
+      <div class="org-card"><span class="org-badge">● SSN</span><h3 class="disp">Superintendencia de Seguros de la Nación</h3><p>Autoriza y controla a las compañías de seguros y reaseguros, vela por su solvencia y protege a los asegurados. Marco: Ley 20.091.</p><div class="org-meta"><span>Ley 20.091</span><a href="https://www.argentina.gob.ar/superintendencia-de-seguros" target="_blank" rel="noopener">Sitio oficial ↗</a><span>0800-666-8400</span></div></div>
+      <div class="org-card"><span class="org-badge srt">● SRT</span><h3 class="disp">Superintendencia de Riesgos del Trabajo</h3><p>Entidad autárquica que supervisa a las ART y a los empleadores autoasegurados, administra las comisiones médicas e impulsa la prevención. Marco: leyes 24.557, 26.773 y 27.348.</p><div class="org-meta"><span>Ley 24.557</span><a href="https://www.argentina.gob.ar/srt" target="_blank" rel="noopener">Sitio oficial ↗</a></div></div>
+    </div>
+    <div class="reso-filters"><button class="rfilter active" data-org="all">Todas</button><button class="rfilter" data-org="ssn">SSN</button><button class="rfilter" data-org="srt">SRT</button></div>
+    <div class="reso" id="resoList">
+      <div class="reso-item" data-org="ssn"><span class="reso-badge ssn">SSN</span><div class="reso-txt"><b>Res. 269/2026</b><p>Deroga reservas técnicas (caución ambiental y desvíos de siniestralidad).</p><a href="https://www.argentina.gob.ar/noticias/la-ssn-avanza-en-la-desregulacion-del-marco-normativo-asegurador" target="_blank" rel="noopener">Ver detalle ↗</a></div></div>
+      <div class="reso-item" data-org="ssn"><span class="reso-badge ssn">SSN</span><div class="reso-txt"><b>Res. 258/2026</b><p>Habilita los seguros de salud con cobertura prestacional.</p><a href="https://www.argentina.gob.ar/noticias/la-ssn-habilita-la-comercializacion-de-seguros-de-salud-con-cobertura-prestacional" target="_blank" rel="noopener">Ver detalle ↗</a></div></div>
+      <div class="reso-item" data-org="srt"><span class="reso-badge srt">SRT</span><div class="reso-txt"><b>Res. 8/2026</b><p>Protocolo de Prestaciones en Salud Mental, obligatorio para las ART.</p><a href="https://www.boletinoficial.gob.ar/detalleAviso/primera/338015/20260130" target="_blank" rel="noopener">Ver detalle ↗</a></div></div>
+      <div class="reso-item" data-org="srt"><span class="reso-badge srt">SRT</span><div class="reso-txt"><b>Res. 7/2026</b><p>Nuevo protocolo para valorar el daño corporal y la incapacidad.</p><a href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-7-2026-422829/texto" target="_blank" rel="noopener">Ver detalle ↗</a></div></div>
+      <div class="reso-item" data-org="ssn"><span class="reso-badge ssn">SSN</span><div class="reso-txt"><b>Res. 464/2025</b><p>Reforma del SIEP: pólizas informadas dentro de las 24 horas.</p><a href="https://www.argentina.gob.ar/noticias/la-ssn-moderniza-el-sistema-informativo-de-emision-de-polizas" target="_blank" rel="noopener">Ver detalle ↗</a></div></div>
+      <div class="reso-item" data-org="srt"><span class="reso-badge srt">SRT</span><div class="reso-txt"><b>Res. 26/2026</b><p>Actualiza el importe vinculado al Haber Mínimo Garantizado.</p><a href="https://www.boletinoficial.gob.ar/detalleAviso/primera/342727/20260603" target="_blank" rel="noopener">Ver detalle ↗</a></div></div>
+    </div>
+    <div class="quick"><h4>Accesos oficiales</h4><div class="quick-links"><a href="https://www.argentina.gob.ar/superintendencia-de-seguros" target="_blank" rel="noopener">SSN ↗</a><a href="https://www.argentina.gob.ar/srt" target="_blank" rel="noopener">SRT ↗</a><a href="https://tramitesadistancia.gob.ar" target="_blank" rel="noopener">Trámites a Distancia ↗</a><a href="https://www.boletinoficial.gob.ar" target="_blank" rel="noopener">Boletín Oficial ↗</a></div></div>
+    <p class="pro-note">¿Sos productor? Acá tenés la normativa que necesitás para la matrícula y la capacitación continuada. <a href="#cambios">Ver resoluciones →</a></p>
+  </div>
+</section>
+
+<!-- 6) RANKINGS -->
+<section class="section reveal" id="rankings">
+  <div class="wrap">
+    <div class="sec-bar"><div><span class="lbl">Información adicional</span><h2 class="disp">Rankings del mercado</h2><p>Quiénes lideran, según la producción de primas (datos SSN 2025).</p></div></div>
+    <div class="rank-grid">
+      <div class="rank-card">
+        <div class="rh"><div class="ric a"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l1.5-4.2A2 2 0 0 1 8.4 7.5h7.2a2 2 0 0 1 1.9 1.3L19 13v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-1H8v1a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1z"/><path d="M5 13h14"/></svg></div><div><h3 class="disp">Aseguradoras</h3><small>Patrimoniales · participación</small></div></div>
+        <div class="rrow"><span class="rnum">1</span><span class="rname">Federación Patronal</span><span class="rbar"><i style="width:100%"></i></span><span class="rpct">11,9%</span></div>
+        <div class="rrow"><span class="rnum">2</span><span class="rname">Sancor Seguros</span><span class="rbar"><i style="width:78%"></i></span><span class="rpct">9,3%</span></div>
+        <div class="rrow"><span class="rnum">3</span><span class="rname">La Caja</span><span class="rbar"><i style="width:65%"></i></span><span class="rpct">7,7%</span></div>
+        <div class="rrow"><span class="rnum">4</span><span class="rname">Zurich</span><span class="rbar"><i style="width:54%"></i></span><span class="rpct">6,4%</span></div>
+        <div class="rrow"><span class="rnum">5</span><span class="rname">San Cristóbal</span><span class="rbar"><i style="width:51%"></i></span><span class="rpct">6,1%</span></div>
+      </div>
+      <div class="rank-card">
+        <div class="rh"><div class="ric b"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 5.5 6.2V11c0 4.3 2.8 7.2 6.5 8.5 3.7-1.3 6.5-4.2 6.5-8.5V6.2z"/><path d="m9.4 11.6 1.8 1.8 3.4-3.6"/></svg></div><div><h3 class="disp">ART</h3><small>Riesgos del trabajo · por primaje</small></div></div>
+        <div class="rrow b"><span class="rnum">1</span><span class="rname">Prevención ART</span><span class="rbar"><i style="width:100%"></i></span><span class="rpct">1º</span></div>
+        <div class="rrow b"><span class="rnum">2</span><span class="rname">Provincia ART</span><span class="rbar"><i style="width:82%"></i></span><span class="rpct">2º</span></div>
+        <div class="rrow b"><span class="rnum">3</span><span class="rname">Experta ART</span><span class="rbar"><i style="width:46%"></i></span><span class="rpct">3º</span></div>
+        <div class="rrow b"><span class="rnum">4</span><span class="rname">Asociart ART</span><span class="rbar"><i style="width:42%"></i></span><span class="rpct">4º</span></div>
+        <div class="rrow b"><span class="rnum">5</span><span class="rname">La Segunda ART</span><span class="rbar"><i style="width:39%"></i></span><span class="rpct">5º</span></div>
+      </div>
+    </div>
+    <p class="rank-note">Elaborado sobre datos de la SSN (producción 2025). Se actualiza con cada publicación oficial.</p>
+  </div>
+</section>
+
+<!-- 7) EVENTOS -->
+<section class="section ev-sec reveal" id="eventos">
+  <div class="glow c"></div>
+  <div class="wrap">
+    <div class="sec-bar"><div><span class="lbl">Cobertura</span><h2 class="disp">Eventos del sector</h2><p>Congresos, foros y encuentros que marcan la agenda del seguro.</p></div></div>
+    <div class="ev-grid">
+      <article class="ev"><div class="ev-top"><div class="ev-date">28<br>MAY</div><span class="ev-tag">Congreso</span></div><div class="ev-body"><h3>11º Congreso Regional de Seguros</h3><span class="ev-place">◆ Paraná, Entre Ríos</span><p>El superintendente Guillermo Plate cerró el encuentro hablando de “supervisión en tiempos de cambio y desregulación” ante todo el sector.</p><a class="ev-link" href="https://www.argentina.gob.ar/noticias/la-ssn-en-el-11deg-congreso-regional-de-seguros-2026-2" target="_blank" rel="noopener">Ver cobertura →</a></div></article>
+      <article class="ev"><div class="ev-top"><div class="ev-date">2026</div><span class="ev-tag">Foro</span></div><div class="ev-body"><h3>Foro Nacional del Seguro</h3><span class="ev-place">◆ Córdoba</span><p>Bajo la premisa “desregular no es desproteger”, el mercado debatió el futuro de la actividad y su rol en la economía.</p><a class="ev-link" href="https://www.youtube.com/watch?v=evrLoLxGm7A" target="_blank" rel="noopener">Ver cobertura →</a></div></article>
+      <article class="ev"><div class="ev-top"><div class="ev-date">2025</div><span class="ev-tag">Encuentro</span></div><div class="ev-body"><h3>Descubriendo pólizas y oportunidades</h3><span class="ev-place">◆ Organiza Todo Riesgo</span><p>Un encuentro para productores y compañías enfocado en nuevas coberturas y oportunidades, que concluyó con gran convocatoria.</p><a class="ev-link" href="https://todoriesgo.com.ar/" target="_blank" rel="noopener">Ver cobertura →</a></div></article>
+    </div>
+  </div>
+</section>
+
+<!-- 8) NEWSLETTER -->
+<section class="section reveal" id="newsletter">
+  <div class="wrap">
+    <div class="nl"><div class="nl-in">
+      <span class="lbl">Sumate</span>
+      <h2 class="disp">Las noticias del seguro, cada mañana</h2>
+      <p>Recibí lo más importante del mercado, los organismos y los eventos, sin tener que buscar en ningún otro lado.</p>
+      <div class="nl-form"><input type="email" id="nlEmail" placeholder="tu@email.com"><button class="btn btn-grad btn-lg" id="nlBtn">Suscribirme →</button></div>
+      <div class="nl-ok" id="nlOk">¡Listo! (demo) Pronto conectamos esto a un servicio real de newsletter.</div>
+    </div></div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <div class="foot-logo">
+          <svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lgF" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="0.55" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient></defs><rect x="2" y="2" width="36" height="36" rx="11" fill="url(#lgF)"/><path d="M20 8.5 L29.5 12 V19.5 c0 6.2-4.2 9.8-9.5 11.8 c-5.3-2-9.5-5.6-9.5-11.8 V12 Z" fill="none" stroke="#fff" stroke-width="2.1" stroke-linejoin="round" opacity="0.95"/><path d="M14 19.5 h2.6 l1.5-3.4 2.4 6 1.4-2.6 h2.6" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span class="logo-tx">En modo seguro<small>Mercado asegurador</small></span>
+        </div>
+        <p class="f-desc">El portal de noticias del mercado asegurador argentino. Noticias, seguros en simple, videos, cambios y datos.</p>
+      </div>
+      <div><h5>Secciones</h5><ul><li><a href="#noticias">Noticias</a></li><li><a href="#simple">Seguros en simple</a></li><li><a href="#cambios">Cambios y normas</a></li><li><a href="#eventos">Eventos</a></li></ul></div>
+      <div><h5>Organismos</h5><ul><li><a href="https://www.argentina.gob.ar/superintendencia-de-seguros" target="_blank" rel="noopener">SSN</a></li><li><a href="https://www.argentina.gob.ar/srt" target="_blank" rel="noopener">SRT</a></li><li><a href="https://www.boletinoficial.gob.ar" target="_blank" rel="noopener">Boletín Oficial</a></li></ul></div>
+      <div><h5>Más</h5><ul><li><a href="#videos">Videos</a></li><li><a href="#rankings">Rankings</a></li><li><a href="#newsletter">Newsletter</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 En modo seguro. Portal demostrativo.</span><span>Noticias y datos de fuentes públicas del mercado; pueden requerir verificación.</span></div>
+  </div>
+</footer>
+
+<script>
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+/* Filtro de resoluciones */
+document.querySelectorAll('.rfilter').forEach(b=>b.addEventListener('click',()=>{
+  document.querySelectorAll('.rfilter').forEach(x=>x.classList.remove('active'));b.classList.add('active');
+  const o=b.dataset.org;document.querySelectorAll('#resoList .reso-item').forEach(it=>{it.style.display=(o==='all'||it.dataset.org===o)?'':'none';});
+}));
+/* Newsletter (demo) */
+document.getElementById('nlBtn').addEventListener('click',()=>{document.getElementById('nlOk').classList.add('show');document.getElementById('nlEmail').value='';});
+/* Reveal al hacer scroll */
+const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+/* Noticias + ticker — leen noticias.json (lo genera el motor actualizar_noticias.py) */
+const SEED=[
+  {titulo:'La SSN revocó la autorización de Galeno ART por un déficit de capital',categoria:'Mercado',fuente:'SSN',fecha:'2026-02-20',url:'https://www.boletinoficial.gob.ar/',imagen:''},
+  {titulo:'Nueva etapa de desregulación: la SSN deroga dos reservas técnicas',categoria:'Regulación',fuente:'SSN',fecha:'2026-06-22',url:'https://www.argentina.gob.ar/noticias/la-ssn-avanza-en-la-desregulacion-del-marco-normativo-asegurador',imagen:''},
+  {titulo:'La SSN habilita los seguros de salud con cobertura prestacional',categoria:'Regulación',fuente:'SSN',fecha:'2026-06-22',url:'https://www.argentina.gob.ar/noticias/la-ssn-habilita-la-comercializacion-de-seguros-de-salud-con-cobertura-prestacional',imagen:''},
+  {titulo:'Salud mental obligatoria en las ART: el nuevo protocolo de la SRT',categoria:'Regulación',fuente:'SRT',fecha:'2026-01-28',url:'https://www.boletinoficial.gob.ar/detalleAviso/primera/338015/20260130',imagen:''},
+  {titulo:'Andrés Quantín asumió como CEO de Experta Seguros y Experta ART',categoria:'Mercado',fuente:'100% Seguro',fecha:'2026-05-30',url:'https://100seguro.com.ar/',imagen:''},
+  {titulo:'La SSN suma nuevos datasets a su Portal de Datos Abiertos',categoria:'Innovación',fuente:'SSN',fecha:'2026-01-20',url:'https://www.argentina.gob.ar/noticias/la-ssn-actualiza-su-portal-de-datos-abiertos-con-nuevos-datasets-sobre-el-mercado',imagen:''},
+  {titulo:'El SIEP exige informar las pólizas dentro de las 24 horas',categoria:'Regulación',fuente:'SSN',fecha:'2026-01-02',url:'https://www.argentina.gob.ar/noticias/la-ssn-moderniza-el-sistema-informativo-de-emision-de-polizas',imagen:''},
+  {titulo:'Plate cerró el 11º Congreso Regional de Seguros en Paraná',categoria:'Mercado',fuente:'Mercado y Seguros',fecha:'2026-05-28',url:'https://www.argentina.gob.ar/noticias/la-ssn-en-el-11deg-congreso-regional-de-seguros-2026-2',imagen:''}
+];
+const M=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+function fmt(d){if(!d)return'';const p=d.split('-');if(p.length<3)return d;return parseInt(p[2],10)+' '+(M[parseInt(p[1],10)-1]||'');}
+function cc(c){return c==='Regulación'?'k-reg':c==='Innovación'?'k-inn':'k-mer';}
+function renderNews(list){
+  const grid=document.getElementById('newsGrid');
+  grid.innerHTML=list.slice(0,8).map(n=>{
+    const tl=n.url?'<a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.titulo)+'</a>':esc(n.titulo);
+    const hasImg=n.imagen&&/^https?:\/\//i.test(n.imagen);
+    const imgEl='<div class="ncard-img'+(hasImg?'':' ph')+'"'+(hasImg?(' data-img="'+esc(n.imagen)+'"'):'')+'></div>';
+    return '<article class="ncard">'+imgEl+'<div class="ncard-body"><span class="kick '+cc(n.categoria)+'">'+esc(n.categoria||'Mercado')+'</span><h4>'+tl+'</h4><div class="nm">'+esc(n.fuente||'')+(n.fecha?' · '+esc(fmt(n.fecha)):'')+'</div></div></article>';
+  }).join('');
+  grid.querySelectorAll('.ncard-img[data-img]').forEach(el=>{el.style.backgroundImage='url("'+el.dataset.img.replace(/"/g,'')+'")';});
+  document.getElementById('ticker').innerHTML=list.concat(list).map(n=>'<span class="ticker-it">'+esc(n.titulo)+'</span>').join('');
+}
+function setStatus(s,cuando){const el=document.getElementById('newsStatus');if(s==='loading')el.innerHTML='<span class="nspin"></span> Buscando novedades…';else if(s==='live')el.innerHTML='<span class="ndot live"></span> Actualizado'+(cuando?(' · '+cuando):'');else el.innerHTML='<span class="ndot amber"></span> Últimas novedades';}
+async function loadNews(){
+  setStatus('loading');
+  try{
+    const r=await fetch('noticias.json',{cache:'no-store'});if(!r.ok)throw 0;
+    const data=await r.json();
+    const items=(data.noticias||[]).filter(x=>x.titulo);if(!items.length)throw 0;
+    let cuando='';
+    if(data.actualizado){const d=new Date(data.actualizado);if(!isNaN(d.getTime())){const z={timeZone:'America/Argentina/Buenos_Aires'};cuando=d.toLocaleDateString('es-AR',Object.assign({day:'numeric',month:'short'},z))+' '+d.toLocaleTimeString('es-AR',Object.assign({hour:'2-digit',minute:'2-digit'},z));}}
+    renderNews(items);setStatus('live',cuando);
+  }catch(e){renderNews(SEED);setStatus('seed');}
+}
+renderNews(SEED);loadNews();
+</script>
+</body>
+</html>
