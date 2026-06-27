@@ -1,14 +1,51 @@
 {
-  "actualizado": "2026-06-26T12:02",
+  "actualizado": "2026-06-27T11:20-03:00",
   "total": 20,
   "noticias": [
+    {
+      "titulo": "FAPASA reforzó vínculos en España y trajo experiencias para Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre y Jorge Zottos representaron a FAPASA en una misión del 9 al 12 de junio en España con reuniones en ADECOSE, el Consorcio de Compensación de Seguros,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-27",
+      "url": "https://mercadosyseguros.com/fapasa-reforzo-vinculos-en-espana-y-trajo-experiencias-para-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ab Astra cierra ronda pre-seed por 2 millones de dólares",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ab Astra cerró una ronda pre-seed por 2 millones de dólares liderada por Draper Cygnus y con CITES como inversor ancla. El financiamiento financiará la construcción…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-27",
+      "url": "https://mercadosyseguros.com/ab-astra-cierra-ronda-pre-seed-por-2-millones-de-dolares/",
+      "imagen": ""
+    },
+    {
+      "titulo": "DGT y el uso de las luces de emergencia en atascos: qué dice la norma",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La DGT indica en el artículo 109 c) que ante una frenada debe advertirse con las luces de freno o con el brazo y que los warnings se usan en inmovilizaciones en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-27",
+      "url": "https://mercadosyseguros.com/dgt-y-el-uso-de-las-luces-de-emergencia-en-atascos-que-dice-la-norma/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Capacitación de Serena ART sobre IA aplicada al trabajo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Serena ART ofrecerá una capacitación virtual y gratuita el jueves 25 de junio a las 11:30 por Zoom, a cargo de Javier Belmonte (Bizland), sobre aplicaciones prácticas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-27",
+      "url": "https://mercadosyseguros.com/capacitacion-de-serena-art-sobre-ia-aplicada-al-trabajo/",
+      "imagen": ""
+    },
     {
       "titulo": "SSN autorizó seguros de salud prestacionales en Argentina",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la resolución 258/2026 que habilita seguros de salud prestacionales, exige continuidad asistencial y obliga a las aseguradoras a asumir costos por…",
       "fuente": "Mercado y Seguros",
       "categoria": "Regulación",
       "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/ssn-autorizo-seguros-de-salud-prestacionales-en-argentina/"
+      "url": "https://mercadosyseguros.com/ssn-autorizo-seguros-de-salud-prestacionales-en-argentina/",
+      "imagen": ""
     },
     {
       "titulo": "AAPAS: Ángeles Luongo y Nicolás Gasparini asumen la Comisión de Jóvenes",
@@ -16,7 +53,8 @@
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/aapas-angeles-luongo-y-nicolas-gasparini-asumen-la-comision-de-jovenes/"
+      "url": "https://mercadosyseguros.com/aapas-angeles-luongo-y-nicolas-gasparini-asumen-la-comision-de-jovenes/",
+      "imagen": ""
     },
     {
       "titulo": "SSN deroga dos reservas del reglamento asegurador",
@@ -24,7 +62,8 @@
       "fuente": "Mercado y Seguros",
       "categoria": "Regulación",
       "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/ssn-deroga-dos-reservas-del-reglamento-asegurador/"
+      "url": "https://mercadosyseguros.com/ssn-deroga-dos-reservas-del-reglamento-asegurador/",
+      "imagen": ""
     },
     {
       "titulo": "Chubb: estudio revela vulnerabilidades en remitentes de remesas",
@@ -32,7 +71,62 @@
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/chubb-estudio-revela-vulnerabilidades-en-remitentes-de-remesas/"
+      "url": "https://mercadosyseguros.com/chubb-estudio-revela-vulnerabilidades-en-remitentes-de-remesas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El fraude al seguro en agenda: Justicia y aseguradoras trabajan en conjunto",
+      "resumen": "En un nuevo programa de 100% SEGURO, analizamos una problemática clave para el mercado asegurador y para la sociedad: el fraude al seguro. Lo hicimos en el marco de una jornada organizada por ADEAA junto al Ministerio…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-26",
+      "url": "https://100seguro.com.ar/el-fraude-al-seguro-en-agenda-justicia-y-aseguradoras-trabajan-en-conjunto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día Internacional del Orgullo: CNP Seguros reafirma su compromiso con la diversidad, la equidad y la inclusión",
+      "resumen": "En el marco del Día Internacional del Orgullo, que se conmemora cada 28 de junio, CNP Seguros reafirma su compromiso con la construcción de una cultura organizacional cada vez más diversa, equitativa e inclusiva, donde…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-26",
+      "url": "https://100seguro.com.ar/dia-internacional-del-orgullo-cnp-seguros-reafirma-su-compromiso-con-la-diversidad-la-equidad-y-la-inclusion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Lograr Seguros, entre las tres mejores PyMEs para trabajar del país",
+      "resumen": "Lograr Seguros fue distinguida con el puesto número 3 en el ranking de Los Mejores Lugares para Trabajar™ PyMEs 2026 elaborado por Great Place to Work®, consolidándose como una de las organizaciones con mejor cultura…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-26",
+      "url": "https://100seguro.com.ar/lograr-seguros-entre-las-tres-mejores-pymes-para-trabajar-del-pais/",
+      "imagen": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
+    },
+    {
+      "titulo": "La SSN simplifica el cálculo del resultado técnico de operaciones para las aseguradoras",
+      "resumen": "RESOLUCIÓN SSN 274/2026.- La Superintendencia de Seguros de la Nación (SSN) dispuso una modificación del Reglamento General de la Actividad Aseguradora (RGAA) con el objetivo de simplificar y unificar el procedimiento…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-06-26",
+      "url": "https://100seguro.com.ar/la-ssn-simplifica-el-calculo-del-resultado-tecnico-de-operaciones-para-las-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Levantan la prohibición de emitir pólizas a Finisterre, pero mantienen su inhibición de bienes",
+      "resumen": "RESOLUCIÓN SSN 273/2026.- La Superintendencia de Seguros de la Nación (SSN) resolvió levantar la medida cautelar que impedía a Aseguradora del Finisterre Compañía Argentina de Seguros S.A. celebrar nuevos contratos de…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-06-26",
+      "url": "https://100seguro.com.ar/levantan-la-prohibicion-de-emitir-polizas-a-finisterre-pero-mantienen-su-inhibicion-de-bienes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fundación Mapfre destina 100 mil euros a los afectados por los terremotos en Venezuela",
+      "resumen": "Dos fuertes terremotos de magnitudes 7,2 y 7,5 han sacudido el norte de Venezuela causando, hasta el momento, más de 200 fallecidos y dejando en situación de vulnerabilidad a miles de personas. Ante esta situación,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-26",
+      "url": "https://100seguro.com.ar/fundacion-mapfre-destina-100-mil-euros-a-los-afectados-por-los-terremotos-en-venezuela/",
+      "imagen": ""
     },
     {
       "titulo": "El mercado asegurador cerró marzo con solvencia positiva, rentabilidad mínima y fuerte presión judicial",
@@ -40,7 +134,8 @@
       "fuente": "100% Seguro",
       "categoria": "Regulación",
       "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/el-mercado-asegurador-cerro-marzo-con-solvencia-positiva-rentabilidad-minima-y-fuerte-presion-judicial/"
+      "url": "https://100seguro.com.ar/el-mercado-asegurador-cerro-marzo-con-solvencia-positiva-rentabilidad-minima-y-fuerte-presion-judicial/",
+      "imagen": ""
     },
     {
       "titulo": "Una aseguradora en el podio y un broker en el top 10 de “Los Mejores Lugares para Trabajar PyMEs 2026”",
@@ -48,7 +143,8 @@
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/una-aseguradora-en-el-podio-y-un-broker-en-el-top-10-de-los-mejores-lugares-para-trabajar-pymes-2026/"
+      "url": "https://100seguro.com.ar/una-aseguradora-en-el-podio-y-un-broker-en-el-top-10-de-los-mejores-lugares-para-trabajar-pymes-2026/",
+      "imagen": ""
     },
     {
       "titulo": "BBVA Research proyecta un crecimiento de 3% para la economía argentina en 2026 y 2027",
@@ -56,7 +152,8 @@
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/bbva-research-proyecta-un-crecimiento-de-3-para-la-economia-argentina-en-2026-y-2027/"
+      "url": "https://100seguro.com.ar/bbva-research-proyecta-un-crecimiento-de-3-para-la-economia-argentina-en-2026-y-2027/",
+      "imagen": ""
     },
     {
       "titulo": "MIA Hub y Miami Fintech Club anuncian alianza para contribuir estratégicamente al futuro de los servicios financieros",
@@ -64,39 +161,8 @@
       "fuente": "100% Seguro",
       "categoria": "Innovación",
       "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/mia-hub-y-miami-fintech-club-anuncian-alianza-para-contribuir-estrategicamente-al-futuro-de-los-servicios-financieros/"
-    },
-    {
-      "titulo": "Nuevos incentivos para que aseguradoras y reaseguradoras inviertan en títulos públicos adquiridos en el mercado primario",
-      "resumen": "RESOLUCIÓN SSN 272/2026.- La Superintendencia de Seguros de la Nación (SSN) dispuso una serie de medidas destinadas a incentivar la inversión de aseguradoras y reaseguradoras en títulos públicos nacionales adquiridos en…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/nuevos-incentivos-para-que-aseguradoras-y-reaseguradoras-inviertan-en-titulos-publicos-adquiridos-en-el-mercado-primario/"
-    },
-    {
-      "titulo": "Reunión de trabajo entre la Secretaría de Finanzas, la SSN y las aseguradoras",
-      "resumen": "El intercambio entre autoridades y representantes del sector permitió avanzar en una agenda conjunta para fortalecer la actividad aseguradora y promover inversiones de largo plazo. La entrada Reunión de trabajo entre la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/reunion-de-trabajo-entre-la-secretaria-de-finanzas-la-ssn-y-las-aseguradoras/"
-    },
-    {
-      "titulo": "Allianz desplaza a AXA y lidera el ranking mundial de madurez en inteligencia artificial en seguros",
-      "resumen": "El nuevo Evident AI Index for Insurance revela que el sector ingresó en una nueva etapa: ya no se trata de quién invierte más en IA, sino de quién logra convertir esas inversiones en ventajas competitivas concretas. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/allianz-desplaza-a-axa-y-lidera-el-ranking-mundial-de-madurez-en-inteligencia-artificial-en-seguros/"
-    },
-    {
-      "titulo": "Galicia Seguros destaca el valor del asesoramiento profesional para proteger y dar continuidad a los negocios",
-      "resumen": "En el Día Internacional de las Pymes, Galicia Seguros destaca el rol clave de los Productores Asesores de Seguros en la protección y continuidad de los negocios que impulsan el desarrollo económico del país. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/galicia-seguros-destaca-el-valor-del-asesoramiento-profesional-para-proteger-y-dar-continuidad-a-los-negocios/"
+      "url": "https://100seguro.com.ar/mia-hub-y-miami-fintech-club-anuncian-alianza-para-contribuir-estrategicamente-al-futuro-de-los-servicios-financieros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Hilario-Itriago-Omar-Arab.jpg"
     },
     {
       "titulo": "IA y seguros: la renovación automática en jaque",
@@ -104,7 +170,8 @@
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-06-24",
-      "url": "https://mercadosyseguros.com/ia-y-seguros-la-renovacion-automatica-en-jaque/"
+      "url": "https://mercadosyseguros.com/ia-y-seguros-la-renovacion-automatica-en-jaque/",
+      "imagen": ""
     },
     {
       "titulo": "Aprender a toda edad: por qué seguir capacitándose",
@@ -112,55 +179,8 @@
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-06-24",
-      "url": "https://mercadosyseguros.com/aprender-a-toda-edad-por-que-seguir-capacitandose/"
-    },
-    {
-      "titulo": "Mapfre acelera su expansión en Argentina y renueva su identidad",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre presentó su nueva identidad el 7 de enero y reportó un crecimiento de 60% en Argentina en 2024-2025. La aseguradora apunta a duplicar su producción hacia 2029…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-24",
-      "url": "https://mercadosyseguros.com/mapfre-acelera-su-expansion-en-argentina-y-renueva-su-identidad/"
-    },
-    {
-      "titulo": "Prevenir también es elegir llegar: nueva campaña de concientización vial de Prevención ART",
-      "resumen": "La nueva campaña de concientización vial de Prevención ART, en el mes de la Seguridad Vial, propone reflexionar sobre el valor de las decisiones cotidianas y su impacto en la vida propia y la de los demás. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-24",
-      "url": "https://100seguro.com.ar/prevenir-tambien-es-elegir-llegar-nueva-campana-de-concientizacion-vial-de-prevencion-art/"
-    },
-    {
-      "titulo": "La tecnología salva vidas: los 5 hábitos que puede detectar para prevenir accidentes",
-      "resumen": "Cuando pensamos en protegernos al volante, solemos enfocarnos en cuestiones básicas como usar el cinturón de seguridad, mantener los espejos correctamente regulados o prestar mayor atención cuando viajamos con…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-06-24",
-      "url": "https://100seguro.com.ar/la-tecnologia-salva-vidas-los-5-habitos-que-puede-detectar-para-prevenir-accidentes/"
-    },
-    {
-      "titulo": "Rivadavia Seguros agasajó a más de 500 productores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rivadavia Seguros celebró su 80° aniversario realizando 19 encuentros federales que reunieron a más de 500 productores asesores en 18 ciudades. Las jornadas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-23",
-      "url": "https://mercadosyseguros.com/rivadavia-seguros-agasajo-a-mas-de-500-productores/"
-    },
-    {
-      "titulo": "Decarre en Madrid: COPAPROSE en el XXXII Foro de ADECOSE",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre, titular de FAPASA y COPAPROSE, participó el 10 de junio en el XXXII Foro de ADECOSE en Madrid con una delegación regional. Encabezó reuniones con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-23",
-      "url": "https://mercadosyseguros.com/decarre-en-madrid-copaprose-en-el-xxxii-foro-de-adecose/"
-    },
-    {
-      "titulo": "Sancor Seguros: 80 años y una gala con más de 400 productores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros celebró su 80° aniversario el 15 de junio de 2026 en el Teatro Colón con más de 400 productores asesores de seguros, presentaciones de expertos,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-23",
-      "url": "https://mercadosyseguros.com/sancor-seguros-80-anos-y-una-gala-con-mas-de-400-productores/"
+      "url": "https://mercadosyseguros.com/aprender-a-toda-edad-por-que-seguir-capacitandose/",
+      "imagen": ""
     }
   ]
 }
