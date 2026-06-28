@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-06-27T11:20-03:00",
+  "actualizado": "2026-06-28T11:59-03:00",
   "total": 20,
   "noticias": [
+    {
+      "titulo": "Riesgos industriales: la falla del modelo CAT",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un escape químico en Garden Grove en mayo de 2026 obligó a evacuar a 50.000 personas y subraya que incidentes industriales pueden generar pérdidas comparables a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-28",
+      "url": "https://mercadosyseguros.com/riesgos-industriales-la-falla-del-modelo-cat/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Temporada de huracanes 2026: IA y aseguradoras ante riesgos aunque sea leve",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz prevé entre seis y 16 tormentas con nombre en la temporada 2026 y advierte que incluso una temporada por debajo del promedio puede causar pérdidas severas.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-28",
+      "url": "https://mercadosyseguros.com/temporada-de-huracanes-2026-ia-y-aseguradoras-ante-riesgos-aunque-sea-leve/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en seguros: cómo aplicarla sin riesgos según WTW",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com WTW advierte que la IA generativa puede producir predicciones inestables y poco explicables. Magdalena Ramada propone combinar GLM y machine learning con supervisión…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-28",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-como-aplicarla-sin-riesgos-segun-wtw/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mudanza desde zonas con alto riesgo de inundación creció en EE. UU.",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un análisis de Redfin muestra que entre junio de 2024 y junio de 2025 los condados con mayor riesgo de inundación perdieron 63.357 residentes netos, mientras los de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-28",
+      "url": "https://mercadosyseguros.com/mudanza-desde-zonas-con-alto-riesgo-de-inundacion-crecio-en-ee-uu/",
+      "imagen": ""
+    },
     {
       "titulo": "FAPASA reforzó vínculos en España y trajo experiencias para Argentina",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre y Jorge Zottos representaron a FAPASA en una misión del 9 al 12 de junio en España con reuniones en ADECOSE, el Consorcio de Compensación de Seguros,…",
@@ -54,24 +90,6 @@
       "categoria": "Mercado",
       "fecha": "2026-06-26",
       "url": "https://mercadosyseguros.com/aapas-angeles-luongo-y-nicolas-gasparini-asumen-la-comision-de-jovenes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN deroga dos reservas del reglamento asegurador",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la resolución 269/2026 y derogó dos puntos del Reglamento General: la Reserva Especial de Contingencia para Riesgos de Caución Ambiental y la Reserva…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/ssn-deroga-dos-reservas-del-reglamento-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Chubb: estudio revela vulnerabilidades en remitentes de remesas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Chubb presenta el estudio The Remittance Trust Trap (2025): US$685.000 millones en remesas a economías emergentes, 34% de remitentes afectados por fraude y 3% de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/chubb-estudio-revela-vulnerabilidades-en-remitentes-de-remesas/",
       "imagen": ""
     },
     {
@@ -163,24 +181,6 @@
       "fecha": "2026-06-25",
       "url": "https://100seguro.com.ar/mia-hub-y-miami-fintech-club-anuncian-alianza-para-contribuir-estrategicamente-al-futuro-de-los-servicios-financieros/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Hilario-Itriago-Omar-Arab.jpg"
-    },
-    {
-      "titulo": "IA y seguros: la renovación automática en jaque",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe \"Consumer Pulse 2026\" de Accenture revela que el 74% delegaría compras en IA y que más del 70% espera que la IA influya en sus decisiones de seguros en 12…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-24",
-      "url": "https://mercadosyseguros.com/ia-y-seguros-la-renovacion-automatica-en-jaque/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aprender a toda edad: por qué seguir capacitándose",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La creencia de dejar de formarse por tener experiencia suele responder al miedo, no a la falta de necesidad. La actualización profesional y la formación…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-24",
-      "url": "https://mercadosyseguros.com/aprender-a-toda-edad-por-que-seguir-capacitandose/",
-      "imagen": ""
     }
   ]
 }
