@@ -1,41 +1,104 @@
 {
-  "actualizado": "2026-06-28T11:59-03:00",
+  "actualizado": "2026-06-29T14:59-03:00",
   "total": 20,
   "noticias": [
     {
-      "titulo": "Riesgos industriales: la falla del modelo CAT",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un escape químico en Garden Grove en mayo de 2026 obligó a evacuar a 50.000 personas y subraya que incidentes industriales pueden generar pérdidas comparables a…",
+      "titulo": "Cuando la SSN acierta, también hay que decirlo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tras las críticas al organismo, la SSN avanza con medidas hacia una reforma del mercado asegurador: menos burocracia y control más inteligente. La entrada Cuando la…",
       "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-28",
-      "url": "https://mercadosyseguros.com/riesgos-industriales-la-falla-del-modelo-cat/",
+      "categoria": "Regulación",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/ssn-senales-reforma-mercado-asegurador/",
       "imagen": ""
     },
     {
-      "titulo": "Temporada de huracanes 2026: IA y aseguradoras ante riesgos aunque sea leve",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz prevé entre seis y 16 tormentas con nombre en la temporada 2026 y advierte que incluso una temporada por debajo del promedio puede causar pérdidas severas.…",
+      "titulo": "Revocación de autorización a La Nueva Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN revocó la autorización para operar de La Nueva Cooperativa de Seguros Limitada mediante RESOL-2026-252-APN-SSN, tras incumplimientos normativos y deficiencias…",
       "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-28",
-      "url": "https://mercadosyseguros.com/temporada-de-huracanes-2026-ia-y-aseguradoras-ante-riesgos-aunque-sea-leve/",
+      "categoria": "Regulación",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/revocacion-de-autorizacion-a-la-nueva-seguros/",
       "imagen": ""
     },
     {
-      "titulo": "IA en seguros: cómo aplicarla sin riesgos según WTW",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com WTW advierte que la IA generativa puede producir predicciones inestables y poco explicables. Magdalena Ramada propone combinar GLM y machine learning con supervisión…",
+      "titulo": "FAPASA amplió vínculos en España y trajo experiencias clave al mercado",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA, representada por Agustina Decarre y Jorge L. Zottos, participó en Madrid del 12 al 15 de junio en reuniones con el Consorcio de Compensación de Seguros, la…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
-      "fecha": "2026-06-28",
-      "url": "https://mercadosyseguros.com/ia-en-seguros-como-aplicarla-sin-riesgos-segun-wtw/",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/fapasa-amplio-vinculos-en-espana-y-trajo-experiencias-clave-al-mercado/",
       "imagen": ""
     },
     {
-      "titulo": "Mudanza desde zonas con alto riesgo de inundación creció en EE. UU.",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un análisis de Redfin muestra que entre junio de 2024 y junio de 2025 los condados con mayor riesgo de inundación perdieron 63.357 residentes netos, mientras los de…",
+      "titulo": "Fraude al seguro: Plate presentó iniciativas de la SSN",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 16 de junio, el superintendente Dr. Guillermo Plate expuso en la jornada \"Fraude al Seguro\" de ADEAA y el Ministerio Público bonaerense, presentó herramientas de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/fraude-al-seguro-plate-presento-iniciativas-de-la-ssn/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reforma del seguro: modernizar sin perder protección",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Congreso discute un proyecto que unifica leyes y propone que la SSN pase de administrador a supervisor, priorizando la solvencia real, transparencia para el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/reforma-del-seguro-modernizar-sin-perder-proteccion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IAPSER Seguros: crecimiento en seguros agropecuarios 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com IAPSER Seguros aumentó casi 200% las hectáreas aseguradas en granizo en la campaña 2025/2026 y lanzó en 2026 un Seguro Ganadero que cubre muerte accidental,…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
-      "fecha": "2026-06-28",
-      "url": "https://mercadosyseguros.com/mudanza-desde-zonas-con-alto-riesgo-de-inundacion-crecio-en-ee-uu/",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/iapser-seguros-crecimiento-en-seguros-agropecuarios-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros paramétricos y riesgos climáticos en el Mundial 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Mundial 2026, con 48 selecciones y 104 partidos entre el 11/6 y el 19/7/2026, expone sedes como MetLife Stadium a calor extremo; los seguros paramétricos permiten…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/seguros-parametricos-y-riesgos-climaticos-en-el-mundial-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Madurez de la IA en aseguradoras: inversión sin resultados claros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Evident AI Index for Insurance (junio 2026) muestra que 30 grandes aseguradoras incrementaron inversión en IA, pero la mayoría de los 65 casos documentados…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-06-29",
+      "url": "https://mercadosyseguros.com/madurez-de-la-ia-en-aseguradoras-inversion-sin-resultados-claros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Habilitan a las ART a la distribución de afiches informativos en formato digital",
+      "resumen": "La medida, oficializada a través de la Disposición 1/2026 de la Superintendencia de Riesgos del Trabajo (SRT), está en línea con las directrices de modernización, digitalización, despapelización y simplificación…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-06-29",
+      "url": "https://100seguro.com.ar/habilitan-a-las-art-a-la-distribucion-de-afiches-informativos-en-formato-digital/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Del futuro de la IA al nuevo rol del PAS: mirá el streaming de 100% SEGURO del Insurtech MeetDay 2026",
+      "resumen": "COBERTURA 100% SEGURO.- El 10 y 11 de junio pasados, la Cámara Insurtech Argentina organizó la cuarta edición del Insurtech MeetDay, que se realizó en el Centro de Convenciones Puerto Norte de Rosario. En el marco del…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-06-29",
+      "url": "https://100seguro.com.ar/del-futuro-de-la-ia-al-nuevo-rol-del-pas-mira-el-streaming-de-100-seguro-del-insurtech-meetday-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/100-SEGURO-Streaming-Insurtech-MeetDay-2026.jpg"
+    },
+    {
+      "titulo": "VISRED lanza su Portal Socios renovado con nuevas herramientas digitales para productores de seguros",
+      "resumen": "La red de más de 800 productores asesores de seguros presentó una plataforma completamente actualizada, con un administrador de cartera integrado, multicotizador optimizado y nuevas capacidades de integración vía APIs.…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-06-29",
+      "url": "https://100seguro.com.ar/visred-lanza-su-portal-socios-renovado-con-nuevas-herramientas-digitales-para-productores-de-seguros/",
       "imagen": ""
     },
     {
@@ -54,42 +117,6 @@
       "categoria": "Mercado",
       "fecha": "2026-06-27",
       "url": "https://mercadosyseguros.com/ab-astra-cierra-ronda-pre-seed-por-2-millones-de-dolares/",
-      "imagen": ""
-    },
-    {
-      "titulo": "DGT y el uso de las luces de emergencia en atascos: qué dice la norma",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La DGT indica en el artículo 109 c) que ante una frenada debe advertirse con las luces de freno o con el brazo y que los warnings se usan en inmovilizaciones en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-27",
-      "url": "https://mercadosyseguros.com/dgt-y-el-uso-de-las-luces-de-emergencia-en-atascos-que-dice-la-norma/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Capacitación de Serena ART sobre IA aplicada al trabajo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Serena ART ofrecerá una capacitación virtual y gratuita el jueves 25 de junio a las 11:30 por Zoom, a cargo de Javier Belmonte (Bizland), sobre aplicaciones prácticas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-27",
-      "url": "https://mercadosyseguros.com/capacitacion-de-serena-art-sobre-ia-aplicada-al-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN autorizó seguros de salud prestacionales en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la resolución 258/2026 que habilita seguros de salud prestacionales, exige continuidad asistencial y obliga a las aseguradoras a asumir costos por…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/ssn-autorizo-seguros-de-salud-prestacionales-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AAPAS: Ángeles Luongo y Nicolás Gasparini asumen la Comisión de Jóvenes",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS presentó a Ángeles Luongo y Nicolás Gasparini como nuevos coordinadores de la Comisión de Jóvenes tras el pase de mando con Julián Niccolo. El almuerzo reunió a…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://mercadosyseguros.com/aapas-angeles-luongo-y-nicolas-gasparini-asumen-la-comision-de-jovenes/",
       "imagen": ""
     },
     {
@@ -154,33 +181,6 @@
       "fecha": "2026-06-26",
       "url": "https://100seguro.com.ar/el-mercado-asegurador-cerro-marzo-con-solvencia-positiva-rentabilidad-minima-y-fuerte-presion-judicial/",
       "imagen": ""
-    },
-    {
-      "titulo": "Una aseguradora en el podio y un broker en el top 10 de “Los Mejores Lugares para Trabajar PyMEs 2026”",
-      "resumen": "En el contexto del Día Internacional de las Pymes (27 de junio), Great Place to Work®, autoridad global en cultura organizacional, dio a conocer, este jueves 25 de junio, el ranking de Los Mejores Lugares para Trabajar…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/una-aseguradora-en-el-podio-y-un-broker-en-el-top-10-de-los-mejores-lugares-para-trabajar-pymes-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "BBVA Research proyecta un crecimiento de 3% para la economía argentina en 2026 y 2027",
-      "resumen": "La inversión privada y las exportaciones serán los principales motores de la actividad, en un contexto de consolidación macroeconómica, desaceleración de la inflación, mayor estabilidad cambiaria y mejora del frente…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/bbva-research-proyecta-un-crecimiento-de-3-para-la-economia-argentina-en-2026-y-2027/",
-      "imagen": ""
-    },
-    {
-      "titulo": "MIA Hub y Miami Fintech Club anuncian alianza para contribuir estratégicamente al futuro de los servicios financieros",
-      "resumen": "Miami Insurtech Advocates Hub (MIA Hub), una organización sin fines de lucro dedicada a impulsar el ecosistema global insurtech, comunicó su alianza estratégica con Miami Fintech Club, la plataforma para la colaboración…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-06-25",
-      "url": "https://100seguro.com.ar/mia-hub-y-miami-fintech-club-anuncian-alianza-para-contribuir-estrategicamente-al-futuro-de-los-servicios-financieros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Hilario-Itriago-Omar-Arab.jpg"
     }
   ]
 }
