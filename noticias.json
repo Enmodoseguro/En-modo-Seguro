@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-06-29T14:59-03:00",
+  "actualizado": "2026-06-30T13:38-03:00",
   "total": 20,
   "noticias": [
+    {
+      "titulo": "Federación Patronal ART lanzó una nueva campaña para fortalecer la prevención en trabajos de mantenimiento y limpieza",
+      "resumen": "La iniciativa busca promover hábitos saludables y prácticas ergonómicas para prevenir lesiones musculoesqueléticas y accidentes laborales en uno de los sectores con mayor exigencia física. En línea con su compromiso de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://100seguro.com.ar/federacion-patronal-art-lanzo-una-nueva-campana-para-fortalecer-la-prevencion-en-trabajos-de-mantenimiento-y-limpieza/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las principales conclusiones del XX Congreso Nacional e Internacional de Derecho de Seguros",
+      "resumen": "La abogada y miembro de AIDA Argentina comparte las principales conclusiones y debates que dejó este importante evento realizado en Bahía Blanca, del 3 al 5 de junio/26. La reconocida especialista repasa los temas que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://100seguro.com.ar/las-principales-conclusiones-del-xx-congreso-nacional-e-internacional-de-derecho-de-seguros/",
+      "imagen": ""
+    },
     {
       "titulo": "Cuando la SSN acierta, también hay que decirlo",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tras las críticas al organismo, la SSN avanza con medidas hacia una reforma del mercado asegurador: menos burocracia y control más inteligente. La entrada Cuando la…",
@@ -72,6 +90,15 @@
       "categoria": "Mercado",
       "fecha": "2026-06-29",
       "url": "https://mercadosyseguros.com/madurez-de-la-ia-en-aseguradoras-inversion-sin-resultados-claros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN participó en la Conferencia FIBA AML Argentina 2026",
+      "resumen": "El encuentro reunió a especialistas para analizar los desafíos actuales en materia de prevención del lavado de activos, del financiamiento del terrorismo y de la proliferación de armas de destrucción masiva. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-06-29",
+      "url": "https://100seguro.com.ar/la-ssn-participo-en-la-conferencia-fiba-aml-argentina-2026/",
       "imagen": ""
     },
     {
@@ -153,33 +180,6 @@
       "categoria": "Regulación",
       "fecha": "2026-06-26",
       "url": "https://100seguro.com.ar/la-ssn-simplifica-el-calculo-del-resultado-tecnico-de-operaciones-para-las-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Levantan la prohibición de emitir pólizas a Finisterre, pero mantienen su inhibición de bienes",
-      "resumen": "RESOLUCIÓN SSN 273/2026.- La Superintendencia de Seguros de la Nación (SSN) resolvió levantar la medida cautelar que impedía a Aseguradora del Finisterre Compañía Argentina de Seguros S.A. celebrar nuevos contratos de…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/levantan-la-prohibicion-de-emitir-polizas-a-finisterre-pero-mantienen-su-inhibicion-de-bienes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fundación Mapfre destina 100 mil euros a los afectados por los terremotos en Venezuela",
-      "resumen": "Dos fuertes terremotos de magnitudes 7,2 y 7,5 han sacudido el norte de Venezuela causando, hasta el momento, más de 200 fallecidos y dejando en situación de vulnerabilidad a miles de personas. Ante esta situación,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/fundacion-mapfre-destina-100-mil-euros-a-los-afectados-por-los-terremotos-en-venezuela/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El mercado asegurador cerró marzo con solvencia positiva, rentabilidad mínima y fuerte presión judicial",
-      "resumen": "La Superintendencia de Seguros de la Nación publicó el informe de Indicadores del Mercado Asegurador al 31 de marzo de 2026, una radiografía contable que permite analizar la situación del sector desde múltiples…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/el-mercado-asegurador-cerro-marzo-con-solvencia-positiva-rentabilidad-minima-y-fuerte-presion-judicial/",
       "imagen": ""
     }
   ]
