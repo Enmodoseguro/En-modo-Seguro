@@ -46,10 +46,14 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EnModoSeguroBot/1.0)"}
 # En sitios WordPress el feed suele estar en <dominio>/feed/.
 # Agregá o quitá fuentes libremente.
 FEEDS_RSS = [
-    {"nombre": "Mercado y Seguros", "url": "https://mercadosyseguros.com/feed/"},
-    {"nombre": "100% Seguro",       "url": "https://100seguro.com.ar/feed/"},
-    # {"nombre": "Todo Riesgo",     "url": "https://www.todoriesgo.com.ar/feed/"},
-    # {"nombre": "El Seguro en Acción", "url": "https://elseguroenaccion.com.ar/feed/"},
+    {"nombre": "Mercado y Seguros",   "url": "https://mercadosyseguros.com/feed/"},
+    {"nombre": "100% Seguro",         "url": "https://100seguro.com.ar/feed/"},
+    {"nombre": "El Seguro en Acción", "url": "https://elseguroenaccion.com.ar/feed/"},
+    {"nombre": "Tiempo de Seguros",   "url": "https://www.tiempodeseguros.com.ar/feed/"},
+    {"nombre": "Informe Operadores",  "url": "https://www.informeoperadores.com.ar/feed/"},
+    {"nombre": "NBS",                 "url": "https://nbs.ar/feed/"},
+    {"nombre": "Onda Seguro",         "url": "https://www.ondaseguro.com.ar/feed/"},
+    # {"nombre": "Todo Riesgo",       "url": "https://www.todoriesgo.com.ar/feed/"},
 ]
 
 # --- 2) Páginas de organismos para scrapear -----------------------

@@ -110,8 +110,14 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .ncard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column;transition:transform .18s,box-shadow .18s,border-color .18s;}
 .ncard:hover{transform:translateY(-4px);box-shadow:var(--sh-md);border-color:var(--brand-line);}
 .ncard-img{height:144px;background-size:cover;background-position:center;background-color:#0B1C44;position:relative;flex:none;}
-.ncard-img.ph{background:var(--grad);}
-.ncard-img.ph::after{content:'';position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.16) 1.2px,transparent 1.2px);background-size:14px 14px;}
+.ncard-img.ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:9px;}
+.ncard-img.ph::after{content:'';position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.13) 1.2px,transparent 1.2px);background-size:15px 15px;}
+.ph-reg{background:linear-gradient(135deg,#2563FF,#1A4FD6);}
+.ph-srt{background:linear-gradient(135deg,#7A5BFF,#5E3FD9);}
+.ph-inn{background:linear-gradient(135deg,#10B9D8,#0A7C8C);}
+.ph-mer{background:linear-gradient(135deg,#3C6BFF,#7A5BFF);}
+.ph-ic{width:36px;height:36px;color:#fff;opacity:.95;position:relative;z-index:1;}
+.ph-src{position:relative;z-index:1;font-family:var(--display);font-weight:700;font-size:17px;letter-spacing:.03em;color:#fff;text-align:center;max-width:88%;line-height:1.2;}
 .ncard-body{padding:17px 18px 18px;display:flex;flex-direction:column;gap:10px;flex:1;}
 .ncard-body h4{font-family:var(--display);font-weight:700;font-size:16.5px;line-height:1.24;letter-spacing:-0.01em;}
 .ncard-body h4 a:hover{color:var(--brand-ink);}
@@ -287,7 +293,6 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
     </a>
     <nav class="mnav" id="mainNav" aria-label="Navegación principal">
       <a href="#noticias">Noticias</a>
-      <a href="#simple">Seguros en simple</a>
       <a href="#videos">Videos</a>
       <a href="#cambios">Cambios y normas</a>
       <a href="#rankings">Rankings</a>
@@ -322,7 +327,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
         <p class="hero-sub">Todo el seguro argentino en un solo lugar: noticias, seguros explicados en simple, videos y datos del mercado. Claro, moderno y siempre actualizado.</p>
         <div class="hero-cta">
           <button class="btn btn-grad btn-lg" onclick="document.getElementById('noticias').scrollIntoView()">Ver noticias →</button>
-          <a href="#simple" class="btn btn-ghost-d btn-lg">Seguros en simple</a>
+          <a href="#newsletter" class="btn btn-ghost-d btn-lg">Suscribirme</a>
         </div>
         <div class="hero-meta"><span style="width:8px;height:8px;border-radius:50%;background:var(--cyan);display:inline-block;"></span> Se actualiza solo, todos los días</div>
       </div>
@@ -415,63 +420,6 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
       <article class="feat-card"><span class="kick k-reg">Regulación</span><h3>Nueva etapa de desregulación: la SSN deroga dos reservas técnicas</h3><p>Por la Resolución 269/2026 se eliminan la reserva de caución ambiental y la de desvíos de siniestralidad, exigencias sin justificación técnica actual.</p><div class="nm">SSN · Junio 2026</div></article>
       <article class="feat-card"><span class="kick k-mer">Mercado</span><h3>La SSN le revocó la autorización a Galeno ART por un déficit de capital</h3><p>El organismo detectó un faltante de capital y dispuso el cese de operaciones, lo que implica la disolución y liquidación de la aseguradora.</p><div class="nm">SSN · Boletín Oficial</div></article>
       <article class="feat-card"><span class="kick k-srt">Riesgos del trabajo</span><h3>Salud mental obligatoria en las ART: el nuevo protocolo de la SRT</h3><p>La Resolución 8/2026 aprueba el Protocolo de Prestaciones en Salud Mental, obligatorio para las ART y los empleadores autoasegurados.</p><div class="nm">SRT · Enero 2026</div></article>
-    </div>
-  </div>
-</section>
-
-<!-- 3) SEGUROS EN SIMPLE -->
-<section class="section reveal" id="simple">
-  <div class="wrap">
-    <div class="sec-bar"><div><span class="lbl">Para todos</span><h2 class="disp">Seguros en simple</h2><p>Lo básico explicado claro, sin letra chica. Tocá cada tema para ver la respuesta.</p></div></div>
-    <div class="simple-grid">
-      <details class="faq">
-        <summary>
-          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l1.5-4.2A2 2 0 0 1 8.4 7.5h7.2a2 2 0 0 1 1.9 1.3L19 13v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-1H8v1a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1z"/><path d="M5 13h14"/></svg></span>
-          <span class="faq-t">Qué revisar antes de contratar un seguro de auto</span>
-          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="faq-a"><p>Mirá tres cosas: el <b>tipo de cobertura</b> (responsabilidad civil es el mínimo obligatorio; “terceros completo” suma robo e incendio; “todo riesgo” cubre también daños a tu auto), la <b>franquicia</b> (cuánto pagás vos en caso de choque) y las <b>exclusiones</b>. Preguntá si cubre granizo y si tenés auxilio y auto sustituto. Compará no solo el precio, sino qué incluye cada póliza.</p></div>
-      </details>
-      <details class="faq">
-        <summary>
-          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 5.5 6.2V11c0 4.3 2.8 7.2 6.5 8.5 3.7-1.3 6.5-4.2 6.5-8.5V6.2z"/><path d="M12 8v4"/><path d="M12 15.5h.01"/></svg></span>
-          <span class="faq-t">Qué hacer si tu aseguradora rechaza un siniestro</span>
-          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="faq-a"><p>Pedí el rechazo <b>por escrito</b> y con los motivos. Revisá tu póliza para ver si lo que pasó está cubierto. Si creés que el rechazo es injusto, podés reclamar formalmente ante la compañía y, si no responden, ante la <b>Superintendencia de Seguros de la Nación (SSN)</b>, que tiene un área de atención al asegurado. Guardá toda la documentación.</p></div>
-      </details>
-      <details class="faq">
-        <summary>
-          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 11 12 4l8.5 7"/><path d="M5.5 10v9a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-9"/></svg></span>
-          <span class="faq-t">Qué cubre realmente un seguro de hogar</span>
-          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="faq-a"><p>Suele cubrir <b>incendio, robo, daños por agua</b> y <b>responsabilidad civil</b> (si algo de tu casa daña a un tercero). Ojo con la diferencia entre cubrir la <b>estructura</b> y cubrir el <b>contenido</b>: no siempre están las dos. Revisá las sumas aseguradas para no quedar “mal asegurado” y fijate qué queda excluido.</p></div>
-      </details>
-      <details class="faq">
-        <summary>
-          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m15 9-3.5 1.2L10 14l3.5-1.2z"/></svg></span>
-          <span class="faq-t">ART, vida, hogar, auto: ¿qué seguro necesito?</span>
-          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="faq-a"><p>Depende de tu situación. La <b>ART</b> la paga tu empleador y cubre accidentes de trabajo. El de <b>auto</b> es obligatorio si manejás. El de <b>hogar</b> protege tu vivienda y tus cosas. El de <b>vida</b> deja una protección económica a tu familia. No todos son obligatorios, pero cada uno cubre un riesgo distinto.</p></div>
-      </details>
-      <details class="faq">
-        <summary>
-          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6" width="18" height="13" rx="2"/><path d="M3 10h18"/><path d="M7 15h4"/></svg></span>
-          <span class="faq-t">Qué es la franquicia y cómo afecta tu bolsillo</span>
-          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="faq-a"><p>La franquicia es la <b>parte del gasto que ponés vos</b> antes de que la aseguradora pague el resto. Por ejemplo, si la franquicia es $100.000 y el arreglo cuesta $150.000, vos pagás los primeros $100.000. En general, a mayor franquicia más barata es la póliza, pero más pagás si tenés un siniestro.</p></div>
-      </details>
-      <details class="faq">
-        <summary>
-          <span class="faq-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4h6a1 1 0 0 1 1 1v1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h2V5a1 1 0 0 1 1-1z"/><path d="m9 13 2 2 4-4"/></svg></span>
-          <span class="faq-t">Primeros pasos ante un siniestro</span>
-          <span class="faq-chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="faq-a"><p>Avisá a tu aseguradora <b>lo antes posible</b> (las pólizas suelen dar un plazo, muchas veces 72 horas). Sacá fotos, guardá comprobantes y, si hay terceros, anotá sus datos. <b>No reconozcas culpa</b> en el momento ni firmes nada que no entiendas. Seguí las instrucciones de tu compañía para hacer la denuncia.</p></div>
-      </details>
     </div>
   </div>
 </section>
@@ -579,7 +527,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
         </div>
         <p class="f-desc">El portal de noticias del mercado asegurador argentino. Noticias, seguros en simple, videos, cambios y datos.</p>
       </div>
-      <div><h5>Secciones</h5><ul><li><a href="#noticias">Noticias</a></li><li><a href="#simple">Seguros en simple</a></li><li><a href="#cambios">Cambios y normas</a></li><li><a href="#eventos">Eventos</a></li></ul></div>
+      <div><h5>Secciones</h5><ul><li><a href="#noticias">Noticias</a></li><li><a href="#cambios">Cambios y normas</a></li><li><a href="#eventos">Eventos</a></li></ul></div>
       <div><h5>Organismos</h5><ul><li><a href="https://www.argentina.gob.ar/superintendencia-de-seguros" target="_blank" rel="noopener">SSN</a></li><li><a href="https://www.argentina.gob.ar/srt" target="_blank" rel="noopener">SRT</a></li><li><a href="https://www.boletinoficial.gob.ar" target="_blank" rel="noopener">Boletín Oficial</a></li></ul></div>
       <div><h5>Más</h5><ul><li><a href="#videos">Videos</a></li><li><a href="#rankings">Rankings</a></li><li><a href="#newsletter">Newsletter</a></li></ul></div>
     </div>
@@ -623,12 +571,21 @@ const SEED=[
 const M=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 function fmt(d){if(!d)return'';const p=d.split('-');if(p.length<3)return d;return parseInt(p[2],10)+' '+(M[parseInt(p[1],10)-1]||'');}
 function cc(c){return c==='Regulación'?'k-reg':c==='Innovación'?'k-inn':'k-mer';}
+const PHIC={
+  reg:'<svg class="ph-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9.5 12 4l8 5.5"/><path d="M5 10v8h14v-8"/><path d="M9 18v-5h6v5"/></svg>',
+  srt:'<svg class="ph-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 5.5 6.2V11c0 4.3 2.8 7.2 6.5 8.5 3.7-1.3 6.5-4.2 6.5-8.5V6.2z"/><path d="m9.3 11.7 1.8 1.8 3.6-3.8"/></svg>',
+  inn:'<svg class="ph-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M13 3 5 13h6l-1 8 8-10h-6z"/></svg>',
+  mer:'<svg class="ph-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5"/><path d="M4 19h16"/><path d="m7 15 3.5-4 3 2.5L20 7"/></svg>'
+};
+function phKind(n){const f=(n.fuente||'').toUpperCase(),c=n.categoria||'';if(/SSN|SUPERINTENDENCIA DE SEGUROS/.test(f)||c==='Regulación')return'reg';if(/SRT|RIESGOS DEL TRABAJO/.test(f))return'srt';if(c==='Innovación')return'inn';return'mer';}
 function renderNews(list){
   const grid=document.getElementById('newsGrid');
   grid.innerHTML=list.slice(0,8).map(n=>{
     const tl=n.url?'<a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.titulo)+'</a>':esc(n.titulo);
     const hasImg=n.imagen&&/^https?:\/\//i.test(n.imagen);
-    const imgEl='<div class="ncard-img'+(hasImg?'':' ph')+'"'+(hasImg?(' data-img="'+esc(n.imagen)+'"'):'')+'></div>';
+    let imgEl;
+    if(hasImg){imgEl='<div class="ncard-img" data-img="'+esc(n.imagen)+'"></div>';}
+    else{const k=phKind(n);imgEl='<div class="ncard-img ph ph-'+k+'">'+PHIC[k]+'<span class="ph-src">'+esc(n.fuente||'Noticias')+'</span></div>';}
     return '<article class="ncard">'+imgEl+'<div class="ncard-body"><span class="kick '+cc(n.categoria)+'">'+esc(n.categoria||'Mercado')+'</span><h4>'+tl+'</h4><div class="nm">'+esc(n.fuente||'')+(n.fecha?' · '+esc(fmt(n.fecha)):'')+'</div></div></article>';
   }).join('');
   grid.querySelectorAll('.ncard-img[data-img]').forEach(el=>{el.style.backgroundImage='url("'+el.dataset.img.replace(/"/g,'')+'")';});
