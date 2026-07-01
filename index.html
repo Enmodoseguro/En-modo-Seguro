@@ -233,6 +233,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .nl-form input:focus{outline:none;border-color:var(--cyan);}
 .nl-ok{margin-top:16px;font-size:14px;color:var(--cyan);font-weight:600;display:none;}
 .nl-ok.show{display:block;}
+.nl-ok.err{color:#FF9E90;}
 
 /* FOOTER */
 .foot{background:var(--ink);color:rgba(255,255,255,.66);padding:58px 0 32px;border-top:1px solid rgba(255,255,255,.08);}
@@ -510,8 +511,8 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
       <span class="lbl">Sumate</span>
       <h2 class="disp">Las noticias del seguro, cada mañana</h2>
       <p>Recibí lo más importante del mercado, los organismos y los eventos, sin tener que buscar en ningún otro lado.</p>
-      <div class="nl-form"><input type="email" id="nlEmail" placeholder="tu@email.com" aria-label="Tu correo electrónico"><button class="btn btn-grad btn-lg" id="nlBtn">Suscribirme →</button></div>
-      <div class="nl-ok" id="nlOk">¡Listo! (demo) Pronto conectamos esto a un servicio real de newsletter.</div>
+      <form class="nl-form" id="nlForm" novalidate><input type="email" id="nlEmail" name="email" placeholder="tu@email.com" aria-label="Tu correo electrónico" required autocomplete="email"><button class="btn btn-grad btn-lg" id="nlBtn" type="submit">Suscribirme →</button></form>
+      <div class="nl-ok" id="nlOk"></div>
     </div></div>
   </div>
 </section>
@@ -551,8 +552,23 @@ document.querySelectorAll('.rfilter').forEach(b=>b.addEventListener('click',()=>
   document.querySelectorAll('.rfilter').forEach(x=>x.classList.remove('active'));b.classList.add('active');
   const o=b.dataset.org;document.querySelectorAll('#resoList .reso-item').forEach(it=>{it.style.display=(o==='all'||it.dataset.org===o)?'':'none';});
 }));
-/* Newsletter (demo) */
-document.getElementById('nlBtn').addEventListener('click',()=>{document.getElementById('nlOk').classList.add('show');document.getElementById('nlEmail').value='';});
+/* Newsletter → MailerLite (envío real) */
+(function(){
+  var form=document.getElementById('nlForm');if(!form)return;
+  var email=document.getElementById('nlEmail'),btn=document.getElementById('nlBtn'),ok=document.getElementById('nlOk');
+  var ENDPOINT='https://assets.mailerlite.com/jsonp/2483031/forms/191792340383303027/subscribe';
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(!email.value||(email.checkValidity&&!email.checkValidity())){if(email.reportValidity)email.reportValidity();return;}
+    var original=btn.textContent;btn.disabled=true;btn.textContent='Enviando…';
+    var fd=new FormData();fd.append('fields[email]',email.value);fd.append('ml-submit','1');fd.append('anticsrf','true');
+    fetch(ENDPOINT,{method:'POST',body:fd,mode:'no-cors'}).then(function(){
+      ok.textContent='¡Listo! Te mandamos un mail para confirmar tu suscripción. 📬';ok.classList.remove('err');ok.classList.add('show');form.reset();
+    }).catch(function(){
+      ok.textContent='Uy, hubo un problema. Probá de nuevo en un momento.';ok.classList.add('err');ok.classList.add('show');
+    }).finally(function(){btn.disabled=false;btn.textContent=original;});
+  });
+})();
 /* Reveal al hacer scroll */
 const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12});
 document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
