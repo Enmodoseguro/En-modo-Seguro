@@ -1,23 +1,185 @@
 {
-  "actualizado": "2026-06-30T13:38-03:00",
-  "total": 20,
+  "actualizado": "2026-07-01T14:22-03:00",
+  "total": 24,
   "noticias": [
     {
-      "titulo": "Federación Patronal ART lanzó una nueva campaña para fortalecer la prevención en trabajos de mantenimiento y limpieza",
-      "resumen": "La iniciativa busca promover hábitos saludables y prácticas ergonómicas para prevenir lesiones musculoesqueléticas y accidentes laborales en uno de los sectores con mayor exigencia física. En línea con su compromiso de…",
-      "fuente": "100% Seguro",
+      "titulo": "Crisis de las ART: diagnóstico y soluciones financieras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La revocatoria a Galeno ART (20/02/2026), el récord de 134.141 juicios en 2025 y primas por 2.697,7 billones muestran que la crisis de las ART es judicial y…",
+      "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://100seguro.com.ar/federacion-patronal-art-lanzo-una-nueva-campana-para-fortalecer-la-prevencion-en-trabajos-de-mantenimiento-y-limpieza/",
+      "fecha": "2026-07-01",
+      "url": "https://mercadosyseguros.com/crisis-de-las-art-diagnostico-y-soluciones-financieras/",
       "imagen": ""
     },
     {
-      "titulo": "Las principales conclusiones del XX Congreso Nacional e Internacional de Derecho de Seguros",
-      "resumen": "La abogada y miembro de AIDA Argentina comparte las principales conclusiones y debates que dejó este importante evento realizado en Bahía Blanca, del 3 al 5 de junio/26. La reconocida especialista repasa los temas que…",
+      "titulo": "SRT habilitó afiches digitales para las ART",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SRT publicó la disposición 1/2026 que autoriza a las ART a usar afiches digitales para cumplir la resolución SRT 70/97. Las ART deben enviar el afiche digital…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-01",
+      "url": "https://mercadosyseguros.com/srt-habilito-afiches-digitales-para-las-art/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Providencia Seguros anuncia plan de modernización y expansión regional",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Providencia Seguros lanzó un plan de modernización de ocho meses, anunciado el 26 de junio de 2026, para reforzar su estructura regional, presentar nuevas líneas de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://mercadosyseguros.com/providencia-seguros-anuncia-plan-de-modernizacion-y-expansion-regional/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN autoriza mayor contabilización a valor técnico de bonos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN autorizó con la resolución 272/2026 contabilizar a valor técnico un mayor porcentaje de títulos públicos adquiridos en licitación primaria. La medida rige…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-01",
+      "url": "https://mercadosyseguros.com/ssn-autoriza-mayor-contabilizacion-a-valor-tecnico-de-bonos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los siniestros de casco en Automotores volvieron a crecer en 2025 y alcanzaron el nivel más alto de los últimos cinco años",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN) publicó su informe anual sobre los siniestros que afectaron coberturas de casco en el ramo Automotores, correspondiente al año 2025, del que surge que las aseguradoras…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/los-siniestros-de-casco-en-automotores-volvieron-a-crecer-en-2025-y-alcanzaron-el-nivel-mas-alto-de-los-ultimos-cinco-anos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Asociart celebra 30 años acompañando la protección de los trabajadores argentinos",
+      "resumen": "La aseguradora de riesgos del trabajo de Grupo San Cristóbal conmemora tres décadas de trayectoria junto al Sistema de Riesgos del Trabajo, consolidándose como una de las ART referentes del mercado argentino. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/asociart-celebra-30-anos-acompanando-la-proteccion-de-los-trabajadores-argentinos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La mirada de la SRT sobre los 30 años del Sistema de Riesgos del Trabajo: avances y desafíos",
+      "resumen": "Vigente desde el año 1996, el nuevo régimen marcó un quiebre conceptual en materia de salud y seguridad laboral, al incorporar estándares de prevención, reparación y una legislación específica al amparo de la seguridad…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/la-mirada-de-la-srt-sobre-los-30-anos-del-sistema-de-riesgos-del-trabajo-avances-y-desafios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Serena ART pone en marcha una nueva etapa de escucha digital para mejorar la experiencia de empresas y trabajadores",
+      "resumen": "La compañía lanzó \"Sere\", un nuevo asistente virtual disponible en su sitio web que busca agilizar consultas frecuentes y, al mismo tiempo, generar información clave para seguir mejorando la experiencia de quienes…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/serena-art-pone-en-marcha-una-nueva-etapa-de-escucha-digital-para-mejorar-la-experiencia-de-empresas-y-trabajadores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Empresas proyectan incrementos salariales del 27% para 2026, casi 3 p.p. menos que la inflación esperada",
+      "resumen": "La conversación entre salario e inflación tiene un lugar prioritario en la agenda económica argentina. En este contexto, las empresas continúan ajustando sus estrategias de compensación para responder a un escenario…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/empresas-proyectan-incrementos-salariales-del-27-para-2026-casi-3-p-p-menos-que-la-inflacion-esperada/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/TISA-Panorama-2026.png"
+    },
+    {
+      "titulo": "En junio repuntó el patentamiento de autos (+7,2%) pero sigue en caída interanual (-12,8%)",
+      "resumen": "De acuerdo con la información oficial recientemente publicada por la Asociación de Concesionarios de Automotores de la República Argentina (ACARA), durante el sexto mes de 2026 se patentaron 45.995 vehículos, lo que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/en-junio-repunto-el-patentamiento-de-autos-72-pero-sigue-en-caida-interanual-128/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Patentamiento-autos-junio-2026-Resumen-del-mercado.png"
+    },
+    {
+      "titulo": "Cooperación Argentina–España: una agenda común para fortalecer la mediación de seguros",
+      "resumen": "La entrada Cooperación Argentina–España: una agenda común para fortalecer la mediación de seguros se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://www.informeoperadores.com.ar/2026/07/01/cooperacion-argentina-espana-una-agenda-comun-para-fortalecer-la-mediacion-de-seguros/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/foto-Mauro-Jack.jpg"
+    },
+    {
+      "titulo": "813",
+      "resumen": "La entrada 813 se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://www.informeoperadores.com.ar/2026/07/01/813/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/06/Tapa-813-R90.jpg"
+    },
+    {
+      "titulo": "Gabriel Grasso: «Queremos crecer con foco en la economía real»",
+      "resumen": "Gabriel Grasso, chief commercial & product officer de Banco del Sol La entrada Gabriel Grasso: «Queremos crecer con foco en la economía real» se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://nbs.ar/gabriel-grasso-queremos-crecer-con-foco-en-la-economia-real/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hernán Santarelli: Generar impacto positivo en el desarrollo económico bonaerense",
+      "resumen": "Hernán Santarelli, subgerente general del Área Comercial de Banco Provincia. La entrada Hernán Santarelli: Generar impacto positivo en el desarrollo económico bonaerense se publicó primero en NBS | Revista de Negocios,…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://nbs.ar/hernan-santarelli-generar-impacto-positivo-en-el-desarrollo-economico-bonaerense/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Productores de Experta Seguros vivieron un sueño mundialista en Dallas con Sergio Goycochea y los goles de Lionel Messi",
+      "resumen": "Los ganadores de la campaña \"Ponete la camiseta\" vivieron una experiencia exclusiva que incluyó los vibrantes partidos de la Selección, un meet & greet con Sergio Goycochea y una extensión del viaje a Miami, como…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-06-30",
-      "url": "https://100seguro.com.ar/las-principales-conclusiones-del-xx-congreso-nacional-e-internacional-de-derecho-de-seguros/",
+      "url": "https://100seguro.com.ar/productores-de-experta-seguros-vivieron-un-sueno-mundialista-en-dallas-con-sergio-goycochea-y-los-goles-de-lionel-messi/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Ganadores-y-referentes-de-Experta-en-Dallas.jpeg"
+    },
+    {
+      "titulo": "Provincia ART designó nuevo Director Comercial",
+      "resumen": "Provincia ART anunció la designación de Sebastián Saire como Director Comercial de la compañía, en el marco de su estrategia de fortalecimiento del negocio y consolidación de su propuesta de valor para intermediarios e…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://100seguro.com.ar/provincia-art-designo-nuevo-director-comercial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mirada aseguradora sobre los cinco desafíos que redefinirán al sector de la construcción en la próxima década",
+      "resumen": "Un nuevo informe de Zurich Insurance Group analiza cómo la convergencia de riesgos climáticos, laborales, tecnológicos y financieros está redefiniendo el futuro de la construcción. La entrada Mirada aseguradora sobre…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://100seguro.com.ar/mirada-aseguradora-sobre-los-cinco-desafios-que-redefiniran-al-sector-de-la-construccion-en-la-proxima-decada/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El 56% de los argentinos teme no tener un seguro si pierde su trabajo y la máxima preocupación es no poder pagar los servicios básicos",
+      "resumen": "Chubb, compañía global líder en seguros, presentó los resultados de su estudio regional Seguridad y Protección: Lo que los latinoamericanos protegen frente al desempleo, realizado en nueve países de América Latina. En…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://100seguro.com.ar/el-56-de-los-argentinos-teme-no-tener-un-seguro-si-pierde-su-trabajo-y-la-maxima-preocupacion-es-no-poder-pagar-los-servicios-basicos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los cinco principales desafíos que redefinirán al sector de la construcción en la próxima década",
+      "resumen": "La entrada Los cinco principales desafíos que redefinirán al sector de la construcción en la próxima década se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://www.informeoperadores.com.ar/2026/06/30/los-cinco-principales-desafios-que-redefiniran-al-sector-de-la-construccion-en-la-proxima-decada/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/06/Imagen-El-Futuro-de-la-Construccion-600x337.png"
+    },
+    {
+      "titulo": "Fernando Palmero: “El cliente ve que lo barato sale caro cuando un siniestro se gestiona mal»",
+      "resumen": "Fernando Palmero, jefe comercial corporativo de Prevención ART. La entrada Fernando Palmero: “El cliente ve que lo barato sale caro cuando un siniestro se gestiona mal» se publicó primero en NBS | Revista de Negocios,…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-06-30",
+      "url": "https://nbs.ar/fernando-palmero-el-cliente-ve-que-lo-barato-sale-caro-cuando-un-siniestro-se-gestiona-mal/",
       "imagen": ""
     },
     {
@@ -54,132 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-06-29",
       "url": "https://mercadosyseguros.com/fraude-al-seguro-plate-presento-iniciativas-de-la-ssn/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reforma del seguro: modernizar sin perder protección",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Congreso discute un proyecto que unifica leyes y propone que la SSN pase de administrador a supervisor, priorizando la solvencia real, transparencia para el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/reforma-del-seguro-modernizar-sin-perder-proteccion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IAPSER Seguros: crecimiento en seguros agropecuarios 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com IAPSER Seguros aumentó casi 200% las hectáreas aseguradas en granizo en la campaña 2025/2026 y lanzó en 2026 un Seguro Ganadero que cubre muerte accidental,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/iapser-seguros-crecimiento-en-seguros-agropecuarios-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros paramétricos y riesgos climáticos en el Mundial 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Mundial 2026, con 48 selecciones y 104 partidos entre el 11/6 y el 19/7/2026, expone sedes como MetLife Stadium a calor extremo; los seguros paramétricos permiten…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/seguros-parametricos-y-riesgos-climaticos-en-el-mundial-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Madurez de la IA en aseguradoras: inversión sin resultados claros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Evident AI Index for Insurance (junio 2026) muestra que 30 grandes aseguradoras incrementaron inversión en IA, pero la mayoría de los 65 casos documentados…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/madurez-de-la-ia-en-aseguradoras-inversion-sin-resultados-claros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN participó en la Conferencia FIBA AML Argentina 2026",
-      "resumen": "El encuentro reunió a especialistas para analizar los desafíos actuales en materia de prevención del lavado de activos, del financiamiento del terrorismo y de la proliferación de armas de destrucción masiva. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-29",
-      "url": "https://100seguro.com.ar/la-ssn-participo-en-la-conferencia-fiba-aml-argentina-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Habilitan a las ART a la distribución de afiches informativos en formato digital",
-      "resumen": "La medida, oficializada a través de la Disposición 1/2026 de la Superintendencia de Riesgos del Trabajo (SRT), está en línea con las directrices de modernización, digitalización, despapelización y simplificación…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-29",
-      "url": "https://100seguro.com.ar/habilitan-a-las-art-a-la-distribucion-de-afiches-informativos-en-formato-digital/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del futuro de la IA al nuevo rol del PAS: mirá el streaming de 100% SEGURO del Insurtech MeetDay 2026",
-      "resumen": "COBERTURA 100% SEGURO.- El 10 y 11 de junio pasados, la Cámara Insurtech Argentina organizó la cuarta edición del Insurtech MeetDay, que se realizó en el Centro de Convenciones Puerto Norte de Rosario. En el marco del…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-06-29",
-      "url": "https://100seguro.com.ar/del-futuro-de-la-ia-al-nuevo-rol-del-pas-mira-el-streaming-de-100-seguro-del-insurtech-meetday-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/100-SEGURO-Streaming-Insurtech-MeetDay-2026.jpg"
-    },
-    {
-      "titulo": "VISRED lanza su Portal Socios renovado con nuevas herramientas digitales para productores de seguros",
-      "resumen": "La red de más de 800 productores asesores de seguros presentó una plataforma completamente actualizada, con un administrador de cartera integrado, multicotizador optimizado y nuevas capacidades de integración vía APIs.…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-06-29",
-      "url": "https://100seguro.com.ar/visred-lanza-su-portal-socios-renovado-con-nuevas-herramientas-digitales-para-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA reforzó vínculos en España y trajo experiencias para Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre y Jorge Zottos representaron a FAPASA en una misión del 9 al 12 de junio en España con reuniones en ADECOSE, el Consorcio de Compensación de Seguros,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-27",
-      "url": "https://mercadosyseguros.com/fapasa-reforzo-vinculos-en-espana-y-trajo-experiencias-para-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ab Astra cierra ronda pre-seed por 2 millones de dólares",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ab Astra cerró una ronda pre-seed por 2 millones de dólares liderada por Draper Cygnus y con CITES como inversor ancla. El financiamiento financiará la construcción…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-27",
-      "url": "https://mercadosyseguros.com/ab-astra-cierra-ronda-pre-seed-por-2-millones-de-dolares/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El fraude al seguro en agenda: Justicia y aseguradoras trabajan en conjunto",
-      "resumen": "En un nuevo programa de 100% SEGURO, analizamos una problemática clave para el mercado asegurador y para la sociedad: el fraude al seguro. Lo hicimos en el marco de una jornada organizada por ADEAA junto al Ministerio…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/el-fraude-al-seguro-en-agenda-justicia-y-aseguradoras-trabajan-en-conjunto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día Internacional del Orgullo: CNP Seguros reafirma su compromiso con la diversidad, la equidad y la inclusión",
-      "resumen": "En el marco del Día Internacional del Orgullo, que se conmemora cada 28 de junio, CNP Seguros reafirma su compromiso con la construcción de una cultura organizacional cada vez más diversa, equitativa e inclusiva, donde…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/dia-internacional-del-orgullo-cnp-seguros-reafirma-su-compromiso-con-la-diversidad-la-equidad-y-la-inclusion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lograr Seguros, entre las tres mejores PyMEs para trabajar del país",
-      "resumen": "Lograr Seguros fue distinguida con el puesto número 3 en el ranking de Los Mejores Lugares para Trabajar™ PyMEs 2026 elaborado por Great Place to Work®, consolidándose como una de las organizaciones con mejor cultura…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/lograr-seguros-entre-las-tres-mejores-pymes-para-trabajar-del-pais/",
-      "imagen": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "titulo": "La SSN simplifica el cálculo del resultado técnico de operaciones para las aseguradoras",
-      "resumen": "RESOLUCIÓN SSN 274/2026.- La Superintendencia de Seguros de la Nación (SSN) dispuso una modificación del Reglamento General de la Actividad Aseguradora (RGAA) con el objetivo de simplificar y unificar el procedimiento…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-06-26",
-      "url": "https://100seguro.com.ar/la-ssn-simplifica-el-calculo-del-resultado-tecnico-de-operaciones-para-las-aseguradoras/",
       "imagen": ""
     }
   ]
