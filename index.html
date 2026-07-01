@@ -7,35 +7,35 @@
 <meta name="description" content="El portal de noticias del mercado asegurador argentino: noticias, seguros explicados en simple, videos, cambios y normas, rankings y eventos.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
 :root{
-  --bg:#F1F5FF;--surface:#FFFFFF;--ink:#060F26;--ink-2:#0A1838;
-  --text:#0E1B36;--muted:#4C5A76;--line:#E2EAF8;
-  --brand:#2563FF;--brand-ink:#1A4FD6;--brand-soft:#E9F1FF;--brand-line:#D2E0FB;
-  --cyan:#0FC6DE;--cyan-ink:#0A7080;--violet:#7A5BFF;--violet-ink:#6A48F0;--srt-ink:#BC4430;
-  --grad:linear-gradient(135deg,#7A5BFF 0%,#2563FF 52%,#0FC6DE 100%);
-  --grad2:linear-gradient(135deg,#2563FF,#0FC6DE);
-  --grad-btn:linear-gradient(135deg,#2563FF,#1A4FD6);
+  --bg:#F4F6FB;--surface:#FFFFFF;--ink:#08152E;--ink-2:#0C1E3E;
+  --text:#333333;--muted:#586074;--line:#E4E8F1;
+  --brand:#0B3D91;--brand-ink:#0B3D91;--brand-soft:#E8EEF9;--brand-line:#CBD9F0;
+  --cyan:#FF8C00;--cyan-ink:#0A7080;--violet:#1E5AB8;--violet-ink:#1A4C97;--srt-ink:#BC4430;
+  --grad:linear-gradient(135deg,#0B3D91,#0B3D9B);
+  --grad2:linear-gradient(135deg,#0B3D91,#1E5AB8);
+  --grad-btn:linear-gradient(135deg,#FF8C00,#F5820A);
   --radius:14px;--radius-lg:22px;
-  --sh-sm:0 1px 2px rgba(6,15,38,.05),0 8px 22px rgba(6,15,38,.06);
-  --sh-md:0 16px 44px rgba(13,40,110,.16);
-  --glow:0 10px 28px rgba(37,99,255,.38);
-  --display:'Space Grotesk',system-ui,sans-serif;
-  --body:'Plus Jakarta Sans',system-ui,-apple-system,Segoe UI,sans-serif;
+  --sh-sm:0 1px 2px rgba(8,21,46,.05),0 8px 22px rgba(8,21,46,.06);
+  --sh-md:0 16px 44px rgba(11,44,107,.16);
+  --glow:0 8px 22px rgba(255,140,0,.36);
+  --display:'Montserrat',system-ui,sans-serif;
+  --body:'Montserrat',system-ui,-apple-system,Segoe UI,sans-serif;
 }
 html{scroll-behavior:smooth;}
 body{font-family:var(--body);background:var(--bg);color:var(--text);line-height:1.6;font-size:16px;-webkit-font-smoothing:antialiased;}
 a{color:inherit;text-decoration:none;}svg{display:block;}
 .wrap{max-width:1200px;margin:0 auto;padding:0 24px;}
 .disp{font-family:var(--display);font-weight:700;letter-spacing:-0.02em;line-height:1.1;}
-.grad-text{background:var(--grad2);-webkit-background-clip:text;background-clip:text;color:transparent;}
+.grad-text{background:linear-gradient(120deg,#FF8C00,#FFB24D);-webkit-background-clip:text;background-clip:text;color:transparent;}
 .kick{display:inline-block;font-weight:700;font-size:11px;letter-spacing:.09em;text-transform:uppercase;padding:4px 9px;border-radius:6px;line-height:1.2;}
-.k-reg{color:var(--brand-ink);background:rgba(37,99,255,.10);}
-.k-mer{color:var(--violet-ink);background:rgba(122,91,255,.12);}
-.k-inn{color:var(--cyan-ink);background:rgba(15,198,222,.16);}
-.k-srt{color:var(--srt-ink);background:rgba(224,83,63,.10);}
+.k-reg{color:#0B3D91;background:rgba(11,61,145,.10);}
+.k-mer{color:#C2410C;background:rgba(255,140,0,.14);}
+.k-inn{color:#0A7080;background:rgba(15,140,160,.14);}
+.k-srt{color:#BC4430;background:rgba(188,68,48,.12);}
 
 /* MASTHEAD */
 .mast{position:sticky;top:0;z-index:50;background:rgba(6,15,38,.88);backdrop-filter:saturate(160%) blur(12px);border-bottom:1px solid rgba(255,255,255,.08);}
@@ -53,8 +53,8 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .menu-toggle[aria-expanded="true"] .ic-open{display:none;}
 .menu-toggle[aria-expanded="true"] .ic-close{display:block;}
 .btn{font-family:var(--body);font-weight:700;font-size:14px;border:none;border-radius:100px;padding:11px 20px;min-height:44px;cursor:pointer;transition:transform .12s,box-shadow .2s,background .15s;display:inline-flex;align-items:center;justify-content:center;gap:8px;}
-.btn-grad{background:var(--grad-btn);color:#fff;box-shadow:var(--glow);}
-.btn-grad:hover{box-shadow:0 12px 32px rgba(37,99,255,.5);transform:translateY(-1px);}
+.btn-grad{background:var(--grad-btn);color:#08152E;box-shadow:var(--glow);}
+.btn-grad:hover{box-shadow:0 12px 30px rgba(255,140,0,.5);transform:translateY(-1px);}
 .btn-ghost-d{background:rgba(255,255,255,.06);color:#fff;border:1.5px solid rgba(255,255,255,.24);}
 .btn-ghost-d:hover{border-color:#fff;background:rgba(255,255,255,.12);}
 .btn-lg{padding:14px 26px;min-height:50px;font-size:15.5px;}
@@ -70,27 +70,24 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 @keyframes tick{from{transform:translateX(0);}to{transform:translateX(-50%);}}
 
 /* HERO */
-.hero{position:relative;overflow:hidden;background:linear-gradient(165deg,#060F26 0%,#0A1838 55%,#0B214A 100%);color:#fff;padding:64px 0 76px;}
+.hero{position:relative;overflow:hidden;color:#fff;padding:116px 0 96px;background:linear-gradient(90deg,rgba(6,15,38,.93) 0%,rgba(6,15,38,.68) 58%,rgba(6,15,38,.50) 100%),url('hero.jpg');background-size:cover;background-position:center;}
 .glow{position:absolute;border-radius:50%;filter:blur(12px);pointer-events:none;}
 .glow.a{top:-120px;right:6%;width:400px;height:400px;background:radial-gradient(circle,rgba(122,91,255,.34),transparent 66%);animation:breathe 10s ease-in-out infinite;}
 .glow.b{bottom:-160px;left:-60px;width:400px;height:400px;background:radial-gradient(circle,rgba(15,198,222,.26),transparent 66%);animation:breathe 11s ease-in-out infinite reverse;}
 @keyframes breathe{0%,100%{opacity:.8;transform:scale(1);}50%{opacity:1;transform:scale(1.04);}}
 .hero-dots{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.07) 1px,transparent 1px);background-size:26px 26px;mask-image:linear-gradient(to bottom,#000,transparent 80%);pointer-events:none;}
 .hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;}
-.hero-eyebrow{display:inline-flex;align-items:center;gap:9px;font-weight:700;font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:var(--cyan);background:rgba(15,198,222,.10);border:1px solid rgba(15,198,222,.28);padding:7px 14px;border-radius:100px;}
+.hero-eyebrow{display:inline-flex;align-items:center;gap:9px;font-weight:700;font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:var(--cyan);background:rgba(255,140,0,.12);border:1px solid rgba(255,140,0,.36);padding:7px 14px;border-radius:100px;}
 .hero h1{font-family:var(--display);font-weight:700;font-size:clamp(46px,8vw,90px);line-height:1.0;letter-spacing:-0.035em;margin:20px 0 0;}
 .hero h1 .l2{display:block;}
 .hero-sub{font-size:18px;color:rgba(255,255,255,.82);margin-top:20px;max-width:46ch;line-height:1.6;}
 .hero-cta{display:flex;align-items:center;gap:14px;margin-top:30px;flex-wrap:wrap;}
 .hero-meta{display:flex;align-items:center;gap:9px;margin-top:22px;font-size:13px;color:rgba(255,255,255,.6);font-weight:600;}
 .hero-vis{position:relative;width:100%;max-width:470px;margin:0 auto;}
-.float-card{transform-box:fill-box;transform-origin:center;}
-.fc1{animation:floatY 6.5s ease-in-out infinite;}
-.fc2{animation:floatY 7.5s ease-in-out infinite .8s;}
-.fc3{animation:floatY 7s ease-in-out infinite 1.2s;}
-@keyframes floatY{0%,100%{transform:translateY(0);}50%{transform:translateY(-7px);}}
-.pin-pulse{transform-box:fill-box;transform-origin:center;animation:pinPulse 2.8s ease-out infinite;}
-@keyframes pinPulse{0%{transform:scale(.6);opacity:.9;}70%{transform:scale(1.7);opacity:0;}100%{opacity:0;}}
+.hero-content{position:relative;z-index:1;max-width:640px;}
+.hero-cats{display:flex;flex-wrap:wrap;gap:10px;margin-top:30px;}
+.hero-cat{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:rgba(255,255,255,.92);background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.20);border-radius:100px;padding:8px 14px;}
+.hero-cat svg{width:17px;height:17px;color:var(--cyan);}
 
 /* SECTION */
 .section{padding:76px 0;}
@@ -103,7 +100,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .news-status{display:inline-flex;align-items:center;gap:8px;font-size:12.5px;font-weight:600;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:100px;padding:7px 14px;min-height:36px;}
 .ndot{width:8px;height:8px;border-radius:50%;background:var(--cyan);}
 .ndot.live{animation:pulse2 2s infinite;}.ndot.amber{background:#C58A1E;}
-@keyframes pulse2{0%{box-shadow:0 0 0 0 rgba(15,198,222,.5);}70%{box-shadow:0 0 0 6px rgba(15,198,222,0);}100%{box-shadow:0 0 0 0 rgba(15,198,222,0);}}
+@keyframes pulse2{0%{box-shadow:0 0 0 0 rgba(255,140,0,.5);}70%{box-shadow:0 0 0 6px rgba(255,140,0,0);}100%{box-shadow:0 0 0 0 rgba(255,140,0,0);}}
 .nspin{width:11px;height:11px;border:2px solid var(--line);border-top-color:var(--brand);border-radius:50%;animation:spin .7s linear infinite;}
 @keyframes spin{to{transform:rotate(360deg);}}
 .ngrid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;}
@@ -112,10 +109,10 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .ncard-img{height:144px;background-size:cover;background-position:center;background-color:#0B1C44;position:relative;flex:none;}
 .ncard-img.ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:9px;}
 .ncard-img.ph::after{content:'';position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.13) 1.2px,transparent 1.2px);background-size:15px 15px;}
-.ph-reg{background:linear-gradient(135deg,#2563FF,#1A4FD6);}
-.ph-srt{background:linear-gradient(135deg,#7A5BFF,#5E3FD9);}
-.ph-inn{background:linear-gradient(135deg,#10B9D8,#0A7C8C);}
-.ph-mer{background:linear-gradient(135deg,#3C6BFF,#7A5BFF);}
+.ph-reg{background:linear-gradient(135deg,#0B3D91,#0B2A66);}
+.ph-srt{background:linear-gradient(135deg,#B23A28,#8A2A1C);}
+.ph-inn{background:linear-gradient(135deg,#0E7D8F,#0A5A66);}
+.ph-mer{background:linear-gradient(135deg,#C2410C,#9A3410);}
 .ph-ic{width:36px;height:36px;color:#fff;opacity:.95;position:relative;z-index:1;}
 .ph-src{position:relative;z-index:1;font-family:var(--display);font-weight:700;font-size:17px;letter-spacing:.03em;color:#fff;text-align:center;max-width:88%;line-height:1.2;}
 .ncard-body{padding:17px 18px 18px;display:flex;flex-direction:column;gap:10px;flex:1;}
@@ -158,7 +155,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 
 /* EVENTS */
 .ev-sec{background:var(--ink);color:#fff;position:relative;overflow:hidden;}
-.ev-sec .glow.c{position:absolute;top:-100px;right:-40px;width:360px;height:360px;border-radius:50%;background:radial-gradient(circle,rgba(122,91,255,.22),transparent 70%);filter:blur(10px);}
+.ev-sec .glow.c{position:absolute;top:-100px;right:-40px;width:360px;height:360px;border-radius:50%;background:radial-gradient(circle,rgba(255,140,0,.14),transparent 70%);filter:blur(10px);}
 .ev-sec .sec-bar h2{color:#fff;}.ev-sec .sec-bar .lbl{color:var(--cyan);}.ev-sec .sec-bar p{color:rgba(255,255,255,.66);}
 .ev-grid{position:relative;z-index:1;display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
 .ev{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:var(--radius-lg);overflow:hidden;transition:transform .18s,background .18s;display:flex;flex-direction:column;backdrop-filter:blur(8px);}
@@ -222,7 +219,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 
 /* NEWSLETTER */
 .nl{background:linear-gradient(135deg,#0B214A,#060F26);color:#fff;border-radius:var(--radius-lg);padding:54px 40px;text-align:center;position:relative;overflow:hidden;border:1px solid rgba(255,255,255,.08);}
-.nl::after{content:'';position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:360px;height:360px;border-radius:50%;background:radial-gradient(circle,rgba(37,99,255,.30),transparent 70%);filter:blur(10px);}
+.nl::after{content:'';position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:360px;height:360px;border-radius:50%;background:radial-gradient(circle,rgba(255,140,0,.18),transparent 70%);filter:blur(10px);}
 .nl-in{position:relative;z-index:1;}
 .nl .lbl{font-weight:800;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--cyan);}
 .nl h2{font-family:var(--display);font-weight:700;font-size:clamp(26px,3.4vw,38px);letter-spacing:-0.02em;margin:8px auto 12px;max-width:18ch;line-height:1.15;}
@@ -273,7 +270,8 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
   .ngrid{grid-template-columns:1fr;}
   .section{padding:54px 0;}
   .nl{padding:32px 22px;}
-  .hero h1{font-size:54px;}
+  .hero{padding:78px 0 58px;background:linear-gradient(180deg,rgba(6,15,38,.86),rgba(6,15,38,.74)),url('hero.jpg');background-size:cover;background-position:center;}
+  .hero h1{font-size:52px;}
 }
 @media (max-width:420px){
   .mast-cta .btn-grad{padding:10px 14px;min-height:44px;font-size:13px;}
@@ -289,7 +287,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 <header class="mast">
   <div class="wrap mast-bar">
     <a href="#top" class="logo">
-      <svg width="36" height="36" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lgM" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="0.55" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient></defs><rect x="2" y="2" width="36" height="36" rx="11" fill="url(#lgM)"/><path d="M20 8.5 L29.5 12 V19.5 c0 6.2-4.2 9.8-9.5 11.8 c-5.3-2-9.5-5.6-9.5-11.8 V12 Z" fill="none" stroke="#fff" stroke-width="2.1" stroke-linejoin="round" opacity="0.95"/><path d="M14 19.5 h2.6 l1.5-3.4 2.4 6 1.4-2.6 h2.6" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <svg width="36" height="36" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lgM" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B3D91"/><stop offset="0.55" stop-color="#1E5AB8"/><stop offset="1" stop-color="#2E6BD6"/></linearGradient></defs><rect x="2" y="2" width="36" height="36" rx="11" fill="url(#lgM)"/><path d="M20 8.5 L29.5 12 V19.5 c0 6.2-4.2 9.8-9.5 11.8 c-5.3-2-9.5-5.6-9.5-11.8 V12 Z" fill="none" stroke="#fff" stroke-width="2.1" stroke-linejoin="round" opacity="0.95"/><path d="M14 19.5 h2.6 l1.5-3.4 2.4 6 1.4-2.6 h2.6" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
       <span class="logo-tx">En modo seguro<small>Mercado asegurador</small></span>
     </a>
     <nav class="mnav" id="mainNav" aria-label="Navegación principal">
@@ -319,84 +317,20 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 
 <!-- HERO -->
 <section class="hero">
-  <div class="glow a"></div><div class="glow b"></div><div class="hero-dots"></div>
   <div class="wrap">
-    <div class="hero-grid">
-      <div>
-        <span class="hero-eyebrow">◆ Noticias del mercado asegurador</span>
-        <h1 class="disp">En modo<span class="l2 grad-text">seguro</span></h1>
-        <p class="hero-sub">Todo el seguro argentino en un solo lugar: noticias, seguros explicados en simple, videos y datos del mercado. Claro, moderno y siempre actualizado.</p>
-        <div class="hero-cta">
-          <button class="btn btn-grad btn-lg" onclick="document.getElementById('noticias').scrollIntoView()">Ver noticias →</button>
-          <a href="#newsletter" class="btn btn-ghost-d btn-lg">Suscribirme</a>
-        </div>
-        <div class="hero-meta"><span style="width:8px;height:8px;border-radius:50%;background:var(--cyan);display:inline-block;"></span> Se actualiza solo, todos los días</div>
+    <div class="hero-content">
+      <span class="hero-eyebrow">◆ Noticias del mercado asegurador argentino</span>
+      <h1 class="disp">En modo<span class="l2 grad-text">seguro</span></h1>
+      <p class="hero-sub">Todo el seguro argentino en un solo lugar: noticias, seguros explicados en simple, videos y datos del mercado. Claro, moderno y siempre actualizado.</p>
+      <div class="hero-cta">
+        <button class="btn btn-grad btn-lg" onclick="document.getElementById('noticias').scrollIntoView()">Ver noticias →</button>
+        <a href="#newsletter" class="btn btn-ghost-d btn-lg">Suscribirme</a>
       </div>
-
-      <!-- IMAGEN VECTOR: panorama tech con foco en Argentina + tarjetas de noticias -->
-      <div class="hero-vis">
-        <svg viewBox="0 0 480 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustración del panorama del mercado asegurador con foco en Argentina">
-          <defs>
-            <linearGradient id="hG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="0.5" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient>
-            <linearGradient id="hB" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient>
-            <radialGradient id="hGlow" cx="0.42" cy="0.45" r="0.6"><stop offset="0" stop-color="#1B3B86" stop-opacity="0.55"/><stop offset="1" stop-color="#1B3B86" stop-opacity="0"/></radialGradient>
-            <radialGradient id="hSA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#19E0F0" stop-opacity="0.42"/><stop offset="1" stop-color="#0FC6DE" stop-opacity="0"/></radialGradient>
-            <pattern id="hDots" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.15" fill="rgba(180,205,255,.30)"/></pattern>
-            <clipPath id="hClip"><circle cx="205" cy="215" r="150"/></clipPath>
-          </defs>
-
-          <circle cx="205" cy="215" r="182" fill="url(#hGlow)"/>
-
-          <!-- GLOBO -->
-          <g>
-            <circle cx="205" cy="215" r="150" fill="rgba(255,255,255,.03)" stroke="rgba(255,255,255,.16)" stroke-width="1.2"/>
-            <g clip-path="url(#hClip)">
-              <rect x="55" y="65" width="300" height="300" fill="url(#hDots)"/>
-              <ellipse cx="166" cy="268" rx="58" ry="80" fill="url(#hSA)"/>
-              <ellipse cx="205" cy="215" rx="60" ry="150" fill="none" stroke="rgba(255,255,255,.10)" stroke-width="1"/>
-              <ellipse cx="205" cy="215" rx="115" ry="150" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
-              <line x1="55" y1="215" x2="355" y2="215" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
-              <ellipse cx="205" cy="215" rx="150" ry="55" fill="none" stroke="rgba(255,255,255,.07)" stroke-width="1"/>
-            </g>
-
-            <!-- PIN Argentina -->
-            <g>
-              <circle class="pin-pulse" cx="166" cy="262" r="14" fill="none" stroke="#0FC6DE" stroke-width="2"/>
-              <path d="M166 240 c-11 0 -19 8.5 -19 19 c0 13 19 28 19 28 c0 0 19 -15 19 -28 c0 -10.5 -8 -19 -19 -19 Z" fill="url(#hB)"/>
-              <circle cx="166" cy="259" r="6.5" fill="#fff"/>
-            </g>
-          </g>
-
-          <!-- CARD noticia A -->
-          <g class="float-card fc1">
-            <rect x="298" y="118" width="172" height="92" rx="14" fill="rgba(255,255,255,.10)" stroke="rgba(255,255,255,.22)" stroke-width="1"/>
-            <rect x="312" y="132" width="46" height="46" rx="9" fill="url(#hB)" opacity="0.9"/>
-            <rect x="370" y="133" width="42" height="13" rx="6.5" fill="rgba(15,198,222,.55)"/>
-            <rect x="370" y="154" width="86" height="7" rx="3.5" fill="rgba(255,255,255,.78)"/>
-            <rect x="370" y="166" width="64" height="7" rx="3.5" fill="rgba(255,255,255,.46)"/>
-            <rect x="312" y="188" width="120" height="6" rx="3" fill="rgba(255,255,255,.28)"/>
-          </g>
-
-          <!-- CARD noticia B -->
-          <g class="float-card fc2">
-            <rect x="312" y="232" width="172" height="92" rx="14" fill="rgba(255,255,255,.10)" stroke="rgba(255,255,255,.22)" stroke-width="1"/>
-            <rect x="326" y="246" width="46" height="46" rx="9" fill="url(#hG)" opacity="0.9"/>
-            <rect x="384" y="247" width="50" height="13" rx="6.5" fill="rgba(122,91,255,.55)"/>
-            <rect x="384" y="268" width="86" height="7" rx="3.5" fill="rgba(255,255,255,.78)"/>
-            <rect x="384" y="280" width="60" height="7" rx="3.5" fill="rgba(255,255,255,.46)"/>
-            <rect x="326" y="302" width="120" height="6" rx="3" fill="rgba(255,255,255,.28)"/>
-          </g>
-
-          <!-- CHIP escudo -->
-          <g class="float-card fc3">
-            <rect x="20" y="120" width="122" height="50" rx="13" fill="rgba(255,255,255,.10)" stroke="rgba(255,255,255,.22)" stroke-width="1"/>
-            <rect x="34" y="131" width="28" height="28" rx="8" fill="url(#hG)"/>
-            <path d="M48 137 l8 3 v4.6 c0 4.2-3.4 6.6-8 8 c-4.6-1.4-8-3.8-8-8 V140 Z" fill="none" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/>
-            <path d="M44.6 145.6 l2.4 2.4 4-4.2" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-            <rect x="72" y="136" width="54" height="7" rx="3.5" fill="rgba(255,255,255,.72)"/>
-            <rect x="72" y="148" width="38" height="6" rx="3" fill="rgba(255,255,255,.42)"/>
-          </g>
-        </svg>
+      <div class="hero-cats" aria-label="Temas que cubrimos">
+        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l1.5-4.2A2 2 0 0 1 8.4 7.5h7.2a2 2 0 0 1 1.9 1.3L19 13v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-1H8v1a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1z"/><path d="M5 13h14"/></svg>Auto</span>
+        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 11 12 4l8.5 7"/><path d="M5.5 10v9a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-9"/></svg>Hogar</span>
+        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg>Salud</span>
+        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-6.5-4-8.5-8.2C2 8.5 3.8 6 6.5 6c1.8 0 3 1 3.5 2 .5-1 1.7-2 3.5-2 2.7 0 4.5 2.5 3 5.8C18.5 16 12 20 12 20z"/></svg>Vida</span>
       </div>
     </div>
   </div>
@@ -523,7 +457,7 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
     <div class="foot-grid">
       <div>
         <div class="foot-logo">
-          <svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lgF" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5BFF"/><stop offset="0.55" stop-color="#2563FF"/><stop offset="1" stop-color="#0FC6DE"/></linearGradient></defs><rect x="2" y="2" width="36" height="36" rx="11" fill="url(#lgF)"/><path d="M20 8.5 L29.5 12 V19.5 c0 6.2-4.2 9.8-9.5 11.8 c-5.3-2-9.5-5.6-9.5-11.8 V12 Z" fill="none" stroke="#fff" stroke-width="2.1" stroke-linejoin="round" opacity="0.95"/><path d="M14 19.5 h2.6 l1.5-3.4 2.4 6 1.4-2.6 h2.6" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lgF" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B3D91"/><stop offset="0.55" stop-color="#1E5AB8"/><stop offset="1" stop-color="#2E6BD6"/></linearGradient></defs><rect x="2" y="2" width="36" height="36" rx="11" fill="url(#lgF)"/><path d="M20 8.5 L29.5 12 V19.5 c0 6.2-4.2 9.8-9.5 11.8 c-5.3-2-9.5-5.6-9.5-11.8 V12 Z" fill="none" stroke="#fff" stroke-width="2.1" stroke-linejoin="round" opacity="0.95"/><path d="M14 19.5 h2.6 l1.5-3.4 2.4 6 1.4-2.6 h2.6" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
           <span class="logo-tx">En modo seguro<small>Mercado asegurador</small></span>
         </div>
         <p class="f-desc">El portal de noticias del mercado asegurador argentino. Noticias, seguros en simple, videos, cambios y datos.</p>
