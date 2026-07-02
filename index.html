@@ -85,9 +85,6 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .hero-meta{display:flex;align-items:center;gap:9px;margin-top:22px;font-size:13px;color:rgba(255,255,255,.6);font-weight:600;}
 .hero-vis{position:relative;width:100%;max-width:470px;margin:0 auto;}
 .hero-content{position:relative;z-index:1;max-width:640px;}
-.hero-cats{display:flex;flex-wrap:wrap;gap:10px;margin-top:30px;}
-.hero-cat{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:rgba(255,255,255,.92);background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.20);border-radius:100px;padding:8px 14px;}
-.hero-cat svg{width:17px;height:17px;color:var(--cyan);}
 
 /* SECTION */
 .section{padding:76px 0;}
@@ -326,12 +323,6 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
         <button class="btn btn-grad btn-lg" onclick="document.getElementById('noticias').scrollIntoView()">Ver noticias →</button>
         <a href="#newsletter" class="btn btn-ghost-d btn-lg">Suscribirme</a>
       </div>
-      <div class="hero-cats" aria-label="Temas que cubrimos">
-        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l1.5-4.2A2 2 0 0 1 8.4 7.5h7.2a2 2 0 0 1 1.9 1.3L19 13v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-1H8v1a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1z"/><path d="M5 13h14"/></svg>Auto</span>
-        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 11 12 4l8.5 7"/><path d="M5.5 10v9a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-9"/></svg>Hogar</span>
-        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg>Salud</span>
-        <span class="hero-cat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-6.5-4-8.5-8.2C2 8.5 3.8 6 6.5 6c1.8 0 3 1 3.5 2 .5-1 1.7-2 3.5-2 2.7 0 4.5 2.5 3 5.8C18.5 16 12 20 12 20z"/></svg>Vida</span>
-      </div>
     </div>
   </div>
 </section>
@@ -365,6 +356,10 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
     <div class="sec-bar"><div><span class="lbl">En cámara</span><h2 class="disp">Videos y entrevistas</h2><p>Las voces del sector, en sus propias palabras.</p></div></div>
     <div class="vid-grid">
       <article class="vid">
+        <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/Zp8PhRxMJ38" title="Entrevista — Superintendente de Seguros de la Nación" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div class="vid-body"><span class="kick k-reg">Regulación</span><h3>Habló el Superintendente de Seguros: reformas, solvencia y control</h3><p>El Dr. Guillermo Plate (SSN) analiza las reformas que vienen, las revocaciones de autorización, la solvencia del sistema y la lucha contra el fraude. — Canal El Seguro en Acción.</p></div>
+      </article>
+      <article class="vid">
         <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/u08tTfBRVko" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
         <div class="vid-body"><span class="kick k-inn">Innovación</span><h3>Innovación e inteligencia artificial en las aseguradoras</h3><p>Gustavo Bresba (DC Sistemas) analiza el grado real de innovación en el seguro argentino. — Canal El Seguro en Acción.</p></div>
       </article>
@@ -372,8 +367,20 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
         <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/evrLoLxGm7A" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
         <div class="vid-body"><span class="kick k-mer">Intermediación</span><h3>El nuevo rumbo de la intermediación y la asistencia</h3><p>Pablo Lühning (VisRed) y Mariano Buxdorf (Vaitty), con un repaso del Foro Nacional de Seguros de Córdoba. — Canal El Seguro en Acción.</p></div>
       </article>
+      <article class="vid">
+        <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/K-cDDxwAoVI" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div class="vid-body"><span class="kick k-mer">Reaseguros</span><h3>Reaseguros, IA y los desafíos de la región</h3><p>María Sol Vélez (CEO de THB Regional) analiza el presente y futuro del reaseguro en Latinoamérica y el rol de la IA. — Canal El Seguro en Acción.</p></div>
+      </article>
+      <article class="vid">
+        <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/Hfw_L8mFUpY" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div class="vid-body"><span class="kick k-inn">Tendencias</span><h3>Las cuatro fuerzas globales que están cambiando el riesgo</h3><p>Fabio Sarrico (Celent) explica las fuerzas que están modelando los riesgos y cómo el seguro se adapta a un entorno volátil. — Canal El Seguro en Acción.</p></div>
+      </article>
+      <article class="vid">
+        <div class="vid-frame"><iframe src="https://www.youtube-nocookie.com/embed/_Uxwz4ZF1ow" title="Entrevista del mercado asegurador" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div class="vid-body"><span class="kick k-reg">Corredores</span><h3>Riesgos corporativos, IA y nuevas generaciones</h3><p>Raúl Bessone (S&amp;C Brokers) habla de los riesgos corporativos, el impacto de la IA y el recambio generacional en el sector. — Canal El Seguro en Acción.</p></div>
+      </article>
     </div>
-    <p class="vid-note">Los videos se reproducen desde YouTube, así el canal original conserva las vistas y el crédito. Estos son de ejemplo: pasame los links de las entrevistas que quieras y los cambio.</p>
+    <p class="vid-note">Los videos se reproducen desde YouTube, así el canal original conserva las vistas y el crédito. Son entrevistas reales del canal El Seguro en Acción; si querés sumar o cambiar alguna, pasame el link y la actualizo.</p>
   </div>
 </section>
 
