@@ -1,7 +1,124 @@
 {
-  "actualizado": "2026-07-01T14:22-03:00",
+  "actualizado": "2026-07-02T13:18-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seguros espaciales: China arma un consorcio que asegura 25 lanzamientos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En marzo de 2025 un consorcio chino cubrió 25 lanzamientos por 1.470 millones de dólares, buscando retener primas y riesgos dentro del país. La iniciativa facilita…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://mercadosyseguros.com/seguros-espaciales-china-arma-un-consorcio-que-asegura-25-lanzamientos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "49% de estadounidenses usan IA con frecuencia, solo 16% la valora",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe \"Americans and AI 2026\" de Pew Research Center indica que el 49% de los adultos en EE. UU. usa IA con frecuencia, ChatGPT lidera con 44% entre usuarios y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://mercadosyseguros.com/49-de-estadounidenses-usan-ia-con-frecuencia-solo-16-la-valora/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN elimina reservas técnicas y ajusta regulación del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN derogó la Reserva Especial de Contingencia para Caución Ambiental y la Reserva por Desvíos de Siniestralidad para Desempleo Involuntario mediante la Resolución…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://mercadosyseguros.com/ssn-elimina-reservas-tecnicas-y-ajusta-regulacion-del-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Encuentro Economía, SSN y aseguradoras por inversiones a largo plazo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 23 de junio, Guillermo Plate, Federico Furiase, Felipe Núñez y Felipe Berón se reunieron con gerentes de inversiones de más de veinte aseguradoras para avanzar en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://mercadosyseguros.com/encuentro-economia-ssn-y-aseguradoras-por-inversiones-a-largo-plazo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La moto se convierte en la brújula de la movilidad argentina con 433 mil unidades patentadas en el primer semestre de 2026",
+      "resumen": "El patentamiento de motovehículos en Argentina culminó los primeros seis meses de 2026 con un alza interanual de más del 43%, superando las 433 mil unidades. El segmento de baja cilindrada y los modelos de origen…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/la-moto-se-convierte-en-la-brujula-de-la-movilidad-argentina-con-433-mil-unidades-patentadas-en-el-primer-semestre-de-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Infografia-CAFAM-PATENTAMIENTOS-SEMESTRE-2026-JUNIO-2026.png"
+    },
+    {
+      "titulo": "Nuevos nombramientos en Marsh para la región de América Latina y el Caribe",
+      "resumen": "Marsh, líder global en riesgo, reaseguro, capital, personas, inversiones, y consultoría de gestión, anunció los nombramientos de Lina Toro como Directora de FINPRO e Instituciones Financieras y de Carlos Villafaina como…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/nuevos-nombramientos-en-marsh-para-la-region-de-america-latina-y-el-caribe/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Operativo Invierno: se desplegarán controles fijos y dinámicos en las principales rutas del país",
+      "resumen": "La Agencia Nacional de Seguridad Vial despliega desde esta semana un operativo en los principales corredores turísticos del país. Habrá controles fijos y “sorpresa” de alcoholemia, velocidad, documentación y maniobras…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/operativo-invierno-se-desplegaran-controles-fijos-y-dinamicos-en-las-principales-rutas-del-pais/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Por qué los productores tienen que animarse a la caución | Mariano Nimmo, Afianzadora Latinoamericana",
+      "resumen": "En esta entrevista, Mariano Nimmo, Gerente General de Afianzadora Latinoamericana, repasa el estado actual del ramo Caución y hacia dónde va en los próximos años. Hablamos sobre los distintos nichos de la caución…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://elseguroenaccion.com.ar/por-que-los-productores-tienen-que-animarse-a-la-caucion-mariano-nimmo-afianzadora-latinoamericana/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gastos que pesan distinto: el mercado asegurador muestra brechas de hasta 24 puntos en su relación gastos/primas",
+      "resumen": "Los datos a marzo de 2026 relevados por la Superintendencia de Seguros de la Nación exhiben una fotografía heterogénea entre los principales grupos aseguradores. Mientras el promedio del mercado ubica los gastos en el…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://elseguroenaccion.com.ar/gastos-que-pesan-distinto-el-mercado-asegurador-muestra-brechas-de-hasta-24-puntos-en-su-relacion-gastos-primas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Productores de Experta Seguros vivieron un sueño mundialista en Dallas con Sergio Goycochea y los goles de Lionel Messi",
+      "resumen": "Los ganadores de la campaña «Ponete la camiseta» vivieron una experiencia exclusiva que incluyó los vibrantes partidos de la Selección, un meet & greet con Sergio Goycochea y una extensión del viaje a Miami, como…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://elseguroenaccion.com.ar/productores-de-experta-seguros-vivieron-un-sueno-mundialista-en-dallas-con-sergio-goycochea-y-los-goles-de-lionel-messi/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“El mérito no está en haber sido la primera mujer en presidir FAPASA, sino en trabajar para que no sea la última”",
+      "resumen": "Agustina Decarre fue entrevistada por la publicación española Muy Segura, referente del sector asegurador con foco en la mujer. En la nota habló de su trayectoria, del presente del seguro en América Latina y del valor…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://elseguroenaccion.com.ar/el-merito-no-esta-en-haber-sido-la-primera-mujer-en-presidir-fapasa-sino-en-trabajar-para-que-no-sea-la-ultima/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“El mercado de seguros crecerá y eso compensará a los productores”",
+      "resumen": "La entrada “El mercado de seguros crecerá y eso compensará a los productores” se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://www.informeoperadores.com.ar/2026/07/02/el-mercado-de-seguros-crecera-y-eso-compensara-a-los-productores/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/001-apertura.jpg"
+    },
+    {
+      "titulo": "Rodrigo García: «Consolidar un banco más ágil, escalable y centrado en el cliente”",
+      "resumen": "Rodrigo García, subgerente general principal de Negocios de Banco Nación. La entrada Rodrigo García: «Consolidar un banco más ágil, escalable y centrado en el cliente” se publicó primero en NBS | Revista de Negocios,…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://nbs.ar/rodrigo-garcia-consolidar-un-banco-mas-agil-escalable-y-centrado-en-el-cliente/",
+      "imagen": ""
+    },
     {
       "titulo": "Crisis de las ART: diagnóstico y soluciones financieras",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La revocatoria a Galeno ART (20/02/2026), el récord de 134.141 juicios en 2025 y primas por 2.697,7 billones muestran que la crisis de las ART es judicial y…",
@@ -39,6 +156,33 @@
       "imagen": ""
     },
     {
+      "titulo": "Mapfre dijo presente en toda la fase de grupos de la CONMEBOL Libertadores",
+      "resumen": "Mapfre, la aseguradora multinacional líder en América Latina, reafirmó por tercer año consecutivo su presencia como sponsor oficial de la CONMEBOL Libertadores, acompañando la pasión por el fútbol y creando experiencias…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/mapfre-dijo-presente-en-toda-la-fase-de-grupos-de-la-conmebol-libertadores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aon designa nuevo Head of Enterprise Client Group & Multinational Clients para Latinoamérica",
+      "resumen": "El ejecutivo Gabriel Dib seguirá fortaleciendo la estrategia integrada de atención a clientes multinacionales en la región. La entrada Aon designa nuevo Head of Enterprise Client Group & Multinational Clients para…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/aon-designa-nuevo-head-of-enterprise-client-group-multinational-clients-para-latinoamerica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Generali refuerza su estructura en Latam e Iberia con el nombramiento de Fabricio Porto al frente de la relación con clientes y brokers",
+      "resumen": "Con más de 15 años de experiencia en el grupo, Porto asume la estrategia de distribución de Generali GC&C en Latinoamérica y la gestión de relaciones con clientes y corredores, con base en Madrid. La entrada Generali…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-01",
+      "url": "https://100seguro.com.ar/generali-refuerza-su-estructura-en-latam-e-iberia-con-el-nombramiento-de-fabricio-porto-al-frente-de-la-relacion-con-clientes-y-brokers/",
+      "imagen": ""
+    },
+    {
       "titulo": "Los siniestros de casco en Automotores volvieron a crecer en 2025 y alcanzaron el nivel más alto de los últimos cinco años",
       "resumen": "La Superintendencia de Seguros de la Nación (SSN) publicó su informe anual sobre los siniestros que afectaron coberturas de casco en el ramo Automotores, correspondiente al año 2025, del que surge que las aseguradoras…",
       "fuente": "100% Seguro",
@@ -72,150 +216,6 @@
       "categoria": "Innovación",
       "fecha": "2026-07-01",
       "url": "https://100seguro.com.ar/serena-art-pone-en-marcha-una-nueva-etapa-de-escucha-digital-para-mejorar-la-experiencia-de-empresas-y-trabajadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Empresas proyectan incrementos salariales del 27% para 2026, casi 3 p.p. menos que la inflación esperada",
-      "resumen": "La conversación entre salario e inflación tiene un lugar prioritario en la agenda económica argentina. En este contexto, las empresas continúan ajustando sus estrategias de compensación para responder a un escenario…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/empresas-proyectan-incrementos-salariales-del-27-para-2026-casi-3-p-p-menos-que-la-inflacion-esperada/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/TISA-Panorama-2026.png"
-    },
-    {
-      "titulo": "En junio repuntó el patentamiento de autos (+7,2%) pero sigue en caída interanual (-12,8%)",
-      "resumen": "De acuerdo con la información oficial recientemente publicada por la Asociación de Concesionarios de Automotores de la República Argentina (ACARA), durante el sexto mes de 2026 se patentaron 45.995 vehículos, lo que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/en-junio-repunto-el-patentamiento-de-autos-72-pero-sigue-en-caida-interanual-128/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Patentamiento-autos-junio-2026-Resumen-del-mercado.png"
-    },
-    {
-      "titulo": "Cooperación Argentina–España: una agenda común para fortalecer la mediación de seguros",
-      "resumen": "La entrada Cooperación Argentina–España: una agenda común para fortalecer la mediación de seguros se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://www.informeoperadores.com.ar/2026/07/01/cooperacion-argentina-espana-una-agenda-comun-para-fortalecer-la-mediacion-de-seguros/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/foto-Mauro-Jack.jpg"
-    },
-    {
-      "titulo": "813",
-      "resumen": "La entrada 813 se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://www.informeoperadores.com.ar/2026/07/01/813/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/06/Tapa-813-R90.jpg"
-    },
-    {
-      "titulo": "Gabriel Grasso: «Queremos crecer con foco en la economía real»",
-      "resumen": "Gabriel Grasso, chief commercial & product officer de Banco del Sol La entrada Gabriel Grasso: «Queremos crecer con foco en la economía real» se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://nbs.ar/gabriel-grasso-queremos-crecer-con-foco-en-la-economia-real/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hernán Santarelli: Generar impacto positivo en el desarrollo económico bonaerense",
-      "resumen": "Hernán Santarelli, subgerente general del Área Comercial de Banco Provincia. La entrada Hernán Santarelli: Generar impacto positivo en el desarrollo económico bonaerense se publicó primero en NBS | Revista de Negocios,…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://nbs.ar/hernan-santarelli-generar-impacto-positivo-en-el-desarrollo-economico-bonaerense/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Productores de Experta Seguros vivieron un sueño mundialista en Dallas con Sergio Goycochea y los goles de Lionel Messi",
-      "resumen": "Los ganadores de la campaña \"Ponete la camiseta\" vivieron una experiencia exclusiva que incluyó los vibrantes partidos de la Selección, un meet & greet con Sergio Goycochea y una extensión del viaje a Miami, como…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://100seguro.com.ar/productores-de-experta-seguros-vivieron-un-sueno-mundialista-en-dallas-con-sergio-goycochea-y-los-goles-de-lionel-messi/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Ganadores-y-referentes-de-Experta-en-Dallas.jpeg"
-    },
-    {
-      "titulo": "Provincia ART designó nuevo Director Comercial",
-      "resumen": "Provincia ART anunció la designación de Sebastián Saire como Director Comercial de la compañía, en el marco de su estrategia de fortalecimiento del negocio y consolidación de su propuesta de valor para intermediarios e…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://100seguro.com.ar/provincia-art-designo-nuevo-director-comercial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mirada aseguradora sobre los cinco desafíos que redefinirán al sector de la construcción en la próxima década",
-      "resumen": "Un nuevo informe de Zurich Insurance Group analiza cómo la convergencia de riesgos climáticos, laborales, tecnológicos y financieros está redefiniendo el futuro de la construcción. La entrada Mirada aseguradora sobre…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://100seguro.com.ar/mirada-aseguradora-sobre-los-cinco-desafios-que-redefiniran-al-sector-de-la-construccion-en-la-proxima-decada/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El 56% de los argentinos teme no tener un seguro si pierde su trabajo y la máxima preocupación es no poder pagar los servicios básicos",
-      "resumen": "Chubb, compañía global líder en seguros, presentó los resultados de su estudio regional Seguridad y Protección: Lo que los latinoamericanos protegen frente al desempleo, realizado en nueve países de América Latina. En…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://100seguro.com.ar/el-56-de-los-argentinos-teme-no-tener-un-seguro-si-pierde-su-trabajo-y-la-maxima-preocupacion-es-no-poder-pagar-los-servicios-basicos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los cinco principales desafíos que redefinirán al sector de la construcción en la próxima década",
-      "resumen": "La entrada Los cinco principales desafíos que redefinirán al sector de la construcción en la próxima década se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://www.informeoperadores.com.ar/2026/06/30/los-cinco-principales-desafios-que-redefiniran-al-sector-de-la-construccion-en-la-proxima-decada/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/06/Imagen-El-Futuro-de-la-Construccion-600x337.png"
-    },
-    {
-      "titulo": "Fernando Palmero: “El cliente ve que lo barato sale caro cuando un siniestro se gestiona mal»",
-      "resumen": "Fernando Palmero, jefe comercial corporativo de Prevención ART. La entrada Fernando Palmero: “El cliente ve que lo barato sale caro cuando un siniestro se gestiona mal» se publicó primero en NBS | Revista de Negocios,…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-06-30",
-      "url": "https://nbs.ar/fernando-palmero-el-cliente-ve-que-lo-barato-sale-caro-cuando-un-siniestro-se-gestiona-mal/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cuando la SSN acierta, también hay que decirlo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tras las críticas al organismo, la SSN avanza con medidas hacia una reforma del mercado asegurador: menos burocracia y control más inteligente. La entrada Cuando la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/ssn-senales-reforma-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Revocación de autorización a La Nueva Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN revocó la autorización para operar de La Nueva Cooperativa de Seguros Limitada mediante RESOL-2026-252-APN-SSN, tras incumplimientos normativos y deficiencias…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/revocacion-de-autorizacion-a-la-nueva-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA amplió vínculos en España y trajo experiencias clave al mercado",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA, representada por Agustina Decarre y Jorge L. Zottos, participó en Madrid del 12 al 15 de junio en reuniones con el Consorcio de Compensación de Seguros, la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/fapasa-amplio-vinculos-en-espana-y-trajo-experiencias-clave-al-mercado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fraude al seguro: Plate presentó iniciativas de la SSN",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 16 de junio, el superintendente Dr. Guillermo Plate expuso en la jornada \"Fraude al Seguro\" de ADEAA y el Ministerio Público bonaerense, presentó herramientas de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-06-29",
-      "url": "https://mercadosyseguros.com/fraude-al-seguro-plate-presento-iniciativas-de-la-ssn/",
       "imagen": ""
     }
   ]
