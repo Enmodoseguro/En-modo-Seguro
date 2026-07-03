@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-07-02T13:18-03:00",
+  "actualizado": "2026-07-03T08:36-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Adopción de IA en agentes de seguros: inversión sin implementación",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aunque las inversiones en IA en seguros siguen creciendo, Cake and Arrow y Gartner señalan que la adopción entre agentes y brokers es fragmentaria: predominan…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-03",
+      "url": "https://mercadosyseguros.com/adopcion-de-ia-en-agentes-de-seguros-inversion-sin-implementacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Citas rápidas: cómo ayudan a vender seguros comerciales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La cita rápida ofrece en segundos un rango estimado de prima para seguros comerciales tras responder pocas preguntas. Implementada por insurtech y corredurías, mejora…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-03",
+      "url": "https://mercadosyseguros.com/citas-rapidas-como-ayudan-a-vender-seguros-comerciales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ROI de la TV para agentes y brokers de seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agentes y brokers independientes están volviendo a la TV conectada: la producción y compra de inventario son más accesibles y empresas como Progressive demostraron en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-03",
+      "url": "https://mercadosyseguros.com/roi-de-la-tv-para-agentes-y-brokers-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Pólizas vigentes: casi 37 millones en el primer trimestre",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El mercado asegurador patrimonial cerró el 1T-2026 con 36.908.241 pólizas vigentes (+6,6% interanual). Automotores concentra 10.818.668 pólizas (29,3%) y Robo y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-03",
+      "url": "https://mercadosyseguros.com/polizas-vigentes-casi-37-millones-en-el-primer-trimestre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Time to Market en seguros: el desafío de acelerar el mundo “legacy”",
+      "resumen": "ENTREVISTA 100% SEGURO.- En un mercado asegurador cada vez más dinámico, donde las necesidades de los clientes, los canales de distribución y los modelos de negocio evolucionan a gran velocidad, el verdadero diferencial…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-03",
+      "url": "https://100seguro.com.ar/time-to-market-en-seguros-el-desafio-de-acelerar-el-mundo-legacy/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Profesionalización del PAS sin fronteras: Argentina y España avanzan en un estándar común de intermediación",
+      "resumen": "APROMES y FAPASA consolidan una agenda bilateral que impulsa la formación, la movilidad internacional y la modernización del canal. La representación institucional de APROMES en Argentina, a cargo de Mauro Jacyk, es…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-03",
+      "url": "https://100seguro.com.ar/profesionalizacion-del-pas-sin-fronteras-argentina-y-espana-avanzan-en-un-estandar-comun-de-intermediacion/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Mauro-Jacyk-Delegado-de-APROMES-en-Argentina.jpg"
+    },
+    {
+      "titulo": "La moto se afianza como la opción de movilidad en Argentina: 433.000 patentamientos en 2026",
+      "resumen": "El primer semestre de 2026 ha marcado un hito en la movilidad en Argentina, con el patentamiento de 433.000 motos, lo que refleja un cambio significativo en la forma en que los argentinos se trasladan. Este fenómeno se…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-03",
+      "url": "https://nbs.ar/la-moto-se-afianza-como-la-opcion-de-movilidad-en-argentina-433-000-patentamientos-en-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Seguros espaciales: China arma un consorcio que asegura 25 lanzamientos",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com En marzo de 2025 un consorcio chino cubrió 25 lanzamientos por 1.470 millones de dólares, buscando retener primas y riesgos dentro del país. La iniciativa facilita…",
@@ -39,6 +102,69 @@
       "imagen": ""
     },
     {
+      "titulo": "AAPAS homenajeó a los comunicadores del seguro por el día del periodista",
+      "resumen": "En el marco del día del periodista, AAPAS compartió una jornada de encuentro con referentes de los principales medios y plataformas especializadas en seguros. La propuesta combinó historia, cultura, gastronomía y, sobre…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/aapas-homenajeo-a-los-comunicadores-del-seguro-por-el-dia-del-periodista/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Dia_Periodista_2026-news.jpg"
+    },
+    {
+      "titulo": "30 años del Sistema de Riesgos del Trabajo: la UART destaca sus logros y plantea los desafíos de la próxima década",
+      "resumen": "El 1° de julio de 1996 comenzó a operar en la Argentina el Sistema de Riesgos del Trabajo, una reforma que transformó la manera de prevenir y reparar los accidentes laborales y las enfermedades profesionales. Tres…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/30-anos-del-sistema-de-riesgos-del-trabajo-la-uart-destaca-sus-logros-y-plantea-los-desafios-de-la-proxima-decada/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/30-anos-del-Sistema-de-Riesgos-del-Trabajo.png"
+    },
+    {
+      "titulo": "Experta celebra los 30 años del sistema de ART que instaló las bases para el resguardo de los trabajadores",
+      "resumen": "La compañía líder en el segmento de ART pone en valor los alcances de la Ley de Riesgos del Trabajo 24.557 que comenzó a regir el 1 de julio de 1996 y modificó significativamente el escenario de la seguridad en ámbitos…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/experta-celebra-los-30-anos-del-sistema-de-art-que-instalo-las-bases-para-el-resguardo-de-los-trabajadores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros de alto vuelo: JetSMART fue habilitada como agente institorio",
+      "resumen": "RESOLUCIÓN SSN 285/2026.- La Superintendencia de Seguros de la Nación (SSN) autorizó a JETSMART AIRLINES S.A. a operar como agente institorio, habilitando a la aerolínea de bajo costo a comercializar seguros en el país…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/seguros-de-alto-vuelo-jetsmart-fue-habilitada-como-agente-institorio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Más de mil millones de dólares en seguridad: la tecnología detrás del mundial más vigilado de la historia",
+      "resumen": "Los grandes eventos deportivos funcionan también como impulsores del desarrollo en tecnología de seguridad. En la Copa Mundial de Fútbol 2026, este fenómeno se potencia al máximo en tanto el contexto global eleva…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/mas-de-mil-millones-de-dolares-en-seguridad-la-tecnologia-detras-del-mundial-mas-vigilado-de-la-historia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RUS presentó su Comunicación sobre el Progreso ante Naciones Unidas reafirmando su compromiso con la sustentabilidad",
+      "resumen": "Río Uruguay Seguros (RUS) presentó una vez más ante el Pacto Global de las Naciones Unidas su Comunicación sobre el Progreso (COP), reafirmando el compromiso que sostiene desde hace más de dos décadas con los principios…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/rus-presento-su-comunicacion-sobre-el-progreso-ante-naciones-unidas-reafirmando-su-compromiso-con-la-sustentabilidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El “efecto Mundial” en las organizaciones: cómo La Segunda Seguros transformó la pasión futbolera en una estrategia de engagement",
+      "resumen": "Bajo el concepto \"Tenemos equipo\", la aseguradora desplegó una campaña integral que combina gamificación, fidelización externa y fortalecimiento de la cultura interna basada en valores cooperativos. La entrada El…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-02",
+      "url": "https://100seguro.com.ar/el-efecto-mundial-en-las-organizaciones-como-la-segunda-seguros-transformo-la-pasion-futbolera-en-una-estrategia-de-engagement/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Efecto-Mundial-L2-3-990x556.jpeg"
+    },
+    {
       "titulo": "La moto se convierte en la brújula de la movilidad argentina con 433 mil unidades patentadas en el primer semestre de 2026",
       "resumen": "El patentamiento de motovehículos en Argentina culminó los primeros seis meses de 2026 con un alza interanual de más del 43%, superando las 433 mil unidades. El segmento de baja cilindrada y los modelos de origen…",
       "fuente": "100% Seguro",
@@ -48,174 +174,48 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Infografia-CAFAM-PATENTAMIENTOS-SEMESTRE-2026-JUNIO-2026.png"
     },
     {
-      "titulo": "Nuevos nombramientos en Marsh para la región de América Latina y el Caribe",
-      "resumen": "Marsh, líder global en riesgo, reaseguro, capital, personas, inversiones, y consultoría de gestión, anunció los nombramientos de Lina Toro como Directora de FINPRO e Instituciones Financieras y de Carlos Villafaina como…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/nuevos-nombramientos-en-marsh-para-la-region-de-america-latina-y-el-caribe/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Operativo Invierno: se desplegarán controles fijos y dinámicos en las principales rutas del país",
-      "resumen": "La Agencia Nacional de Seguridad Vial despliega desde esta semana un operativo en los principales corredores turísticos del país. Habrá controles fijos y “sorpresa” de alcoholemia, velocidad, documentación y maniobras…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/operativo-invierno-se-desplegaran-controles-fijos-y-dinamicos-en-las-principales-rutas-del-pais/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Por qué los productores tienen que animarse a la caución | Mariano Nimmo, Afianzadora Latinoamericana",
-      "resumen": "En esta entrevista, Mariano Nimmo, Gerente General de Afianzadora Latinoamericana, repasa el estado actual del ramo Caución y hacia dónde va en los próximos años. Hablamos sobre los distintos nichos de la caución…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/por-que-los-productores-tienen-que-animarse-a-la-caucion-mariano-nimmo-afianzadora-latinoamericana/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gastos que pesan distinto: el mercado asegurador muestra brechas de hasta 24 puntos en su relación gastos/primas",
-      "resumen": "Los datos a marzo de 2026 relevados por la Superintendencia de Seguros de la Nación exhiben una fotografía heterogénea entre los principales grupos aseguradores. Mientras el promedio del mercado ubica los gastos en el…",
+      "titulo": "IF-2026-64202116-APN-GEYE#SSN – SINIESTROS DE CASCO DEL RAMO AUTOMOTORES – AÑO 2025",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
       "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/gastos-que-pesan-distinto-el-mercado-asegurador-muestra-brechas-de-hasta-24-puntos-en-su-relacion-gastos-primas/",
+      "url": "https://elseguroenaccion.com.ar/if-2026-64202116-apn-geyessn-siniestros-de-casco-del-ramo-automotores-ano-2025/",
       "imagen": ""
     },
     {
-      "titulo": "Productores de Experta Seguros vivieron un sueño mundialista en Dallas con Sergio Goycochea y los goles de Lionel Messi",
-      "resumen": "Los ganadores de la campaña «Ponete la camiseta» vivieron una experiencia exclusiva que incluyó los vibrantes partidos de la Selección, un meet & greet con Sergio Goycochea y una extensión del viaje a Miami, como…",
+      "titulo": "IF-2026-63348952-APN-GEYE#SSN – ESTADO DE COBERTURA DE COMPROMISOS EXIGIBLES Y SINIESTROS LIQUIDADOS A PAGAR – MARZO DE 2026",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
+      "categoria": "Regulación",
       "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/productores-de-experta-seguros-vivieron-un-sueno-mundialista-en-dallas-con-sergio-goycochea-y-los-goles-de-lionel-messi/",
+      "url": "https://elseguroenaccion.com.ar/if-2026-63348952-apn-geyessn-estado-de-cobertura-de-compromisos-exigibles-y-siniestros-liquidados-a-pagar-marzo-de-2026/",
       "imagen": ""
     },
     {
-      "titulo": "“El mérito no está en haber sido la primera mujer en presidir FAPASA, sino en trabajar para que no sea la última”",
-      "resumen": "Agustina Decarre fue entrevistada por la publicación española Muy Segura, referente del sector asegurador con foco en la mujer. En la nota habló de su trayectoria, del presente del seguro en América Latina y del valor…",
+      "titulo": "IF-2026-63038557-APN-GE#SSN – RESOL-2026-272-APN-SSN#MEC-DECLARACIÓN JURADA – TÍTULOS PÚBLICOS NACIONALES ADQUIRIDOS DIRECTAMENTE EN LICITACIÓN PRIMARIA",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
+      "categoria": "Regulación",
       "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/el-merito-no-esta-en-haber-sido-la-primera-mujer-en-presidir-fapasa-sino-en-trabajar-para-que-no-sea-la-ultima/",
+      "url": "https://elseguroenaccion.com.ar/if-2026-63038557-apn-gessn-resol-2026-272-apn-ssnmec-declaracion-jurada-titulos-publicos-nacionales-adquiridos-directamente-en-licitacion-primaria/",
       "imagen": ""
     },
     {
-      "titulo": "“El mercado de seguros crecerá y eso compensará a los productores”",
-      "resumen": "La entrada “El mercado de seguros crecerá y eso compensará a los productores” se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
+      "titulo": "IF-2026-62735866-APN-GEYE#SSN – Rentabilidad Bruta Mensual – Mayo de 2026 – Rentabilidad Bruta Mensual de las entidades de seguros de Retiro para Rentas Vitalicias Previsionales y Rentas Vitalicias de la Ley de Riesgos del Trabajo. Corresponde al mes de mayo de 2026.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
       "fecha": "2026-07-02",
-      "url": "https://www.informeoperadores.com.ar/2026/07/02/el-mercado-de-seguros-crecera-y-eso-compensara-a-los-productores/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/001-apertura.jpg"
+      "url": "https://elseguroenaccion.com.ar/if-2026-62735866-apn-geyessn-rentabilidad-bruta-mensual-mayo-de-2026-rentabilidad-bruta-mensual-de-las-entidades-de-seguros-de-retiro-para-rentas-vitalicias-previsionales-y/",
+      "imagen": ""
     },
     {
-      "titulo": "Rodrigo García: «Consolidar un banco más ágil, escalable y centrado en el cliente”",
-      "resumen": "Rodrigo García, subgerente general principal de Negocios de Banco Nación. La entrada Rodrigo García: «Consolidar un banco más ágil, escalable y centrado en el cliente” se publicó primero en NBS | Revista de Negocios,…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
+      "titulo": "IF-2026-62674667-APN-GEYE#SSN – Indicadores del Mercado Asegurador – Marzo de 2026 Indicadores del Mercado Asegurador al 31 de Marzo de 2026. Contiene información de Indicadores Generales, Patrimoniales, de Solvencia y de Gestión del total del mercado y por aseguradora",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
       "fecha": "2026-07-02",
-      "url": "https://nbs.ar/rodrigo-garcia-consolidar-un-banco-mas-agil-escalable-y-centrado-en-el-cliente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Crisis de las ART: diagnóstico y soluciones financieras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La revocatoria a Galeno ART (20/02/2026), el récord de 134.141 juicios en 2025 y primas por 2.697,7 billones muestran que la crisis de las ART es judicial y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://mercadosyseguros.com/crisis-de-las-art-diagnostico-y-soluciones-financieras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SRT habilitó afiches digitales para las ART",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SRT publicó la disposición 1/2026 que autoriza a las ART a usar afiches digitales para cumplir la resolución SRT 70/97. Las ART deben enviar el afiche digital…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-01",
-      "url": "https://mercadosyseguros.com/srt-habilito-afiches-digitales-para-las-art/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Providencia Seguros anuncia plan de modernización y expansión regional",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Providencia Seguros lanzó un plan de modernización de ocho meses, anunciado el 26 de junio de 2026, para reforzar su estructura regional, presentar nuevas líneas de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://mercadosyseguros.com/providencia-seguros-anuncia-plan-de-modernizacion-y-expansion-regional/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN autoriza mayor contabilización a valor técnico de bonos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN autorizó con la resolución 272/2026 contabilizar a valor técnico un mayor porcentaje de títulos públicos adquiridos en licitación primaria. La medida rige…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-01",
-      "url": "https://mercadosyseguros.com/ssn-autoriza-mayor-contabilizacion-a-valor-tecnico-de-bonos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre dijo presente en toda la fase de grupos de la CONMEBOL Libertadores",
-      "resumen": "Mapfre, la aseguradora multinacional líder en América Latina, reafirmó por tercer año consecutivo su presencia como sponsor oficial de la CONMEBOL Libertadores, acompañando la pasión por el fútbol y creando experiencias…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/mapfre-dijo-presente-en-toda-la-fase-de-grupos-de-la-conmebol-libertadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aon designa nuevo Head of Enterprise Client Group & Multinational Clients para Latinoamérica",
-      "resumen": "El ejecutivo Gabriel Dib seguirá fortaleciendo la estrategia integrada de atención a clientes multinacionales en la región. La entrada Aon designa nuevo Head of Enterprise Client Group & Multinational Clients para…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/aon-designa-nuevo-head-of-enterprise-client-group-multinational-clients-para-latinoamerica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Generali refuerza su estructura en Latam e Iberia con el nombramiento de Fabricio Porto al frente de la relación con clientes y brokers",
-      "resumen": "Con más de 15 años de experiencia en el grupo, Porto asume la estrategia de distribución de Generali GC&C en Latinoamérica y la gestión de relaciones con clientes y corredores, con base en Madrid. La entrada Generali…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/generali-refuerza-su-estructura-en-latam-e-iberia-con-el-nombramiento-de-fabricio-porto-al-frente-de-la-relacion-con-clientes-y-brokers/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los siniestros de casco en Automotores volvieron a crecer en 2025 y alcanzaron el nivel más alto de los últimos cinco años",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) publicó su informe anual sobre los siniestros que afectaron coberturas de casco en el ramo Automotores, correspondiente al año 2025, del que surge que las aseguradoras…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/los-siniestros-de-casco-en-automotores-volvieron-a-crecer-en-2025-y-alcanzaron-el-nivel-mas-alto-de-los-ultimos-cinco-anos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Asociart celebra 30 años acompañando la protección de los trabajadores argentinos",
-      "resumen": "La aseguradora de riesgos del trabajo de Grupo San Cristóbal conmemora tres décadas de trayectoria junto al Sistema de Riesgos del Trabajo, consolidándose como una de las ART referentes del mercado argentino. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/asociart-celebra-30-anos-acompanando-la-proteccion-de-los-trabajadores-argentinos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La mirada de la SRT sobre los 30 años del Sistema de Riesgos del Trabajo: avances y desafíos",
-      "resumen": "Vigente desde el año 1996, el nuevo régimen marcó un quiebre conceptual en materia de salud y seguridad laboral, al incorporar estándares de prevención, reparación y una legislación específica al amparo de la seguridad…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/la-mirada-de-la-srt-sobre-los-30-anos-del-sistema-de-riesgos-del-trabajo-avances-y-desafios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Serena ART pone en marcha una nueva etapa de escucha digital para mejorar la experiencia de empresas y trabajadores",
-      "resumen": "La compañía lanzó \"Sere\", un nuevo asistente virtual disponible en su sitio web que busca agilizar consultas frecuentes y, al mismo tiempo, generar información clave para seguir mejorando la experiencia de quienes…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-01",
-      "url": "https://100seguro.com.ar/serena-art-pone-en-marcha-una-nueva-etapa-de-escucha-digital-para-mejorar-la-experiencia-de-empresas-y-trabajadores/",
+      "url": "https://elseguroenaccion.com.ar/if-2026-62674667-apn-geyessn-indicadores-del-mercado-asegurador-marzo-de-2026-indicadores-del-mercado-asegurador-al-31-de-marzo-de-2026-contiene-informacion-de-indicadores-g/",
       "imagen": ""
     }
   ]
