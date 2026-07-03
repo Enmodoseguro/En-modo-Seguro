@@ -40,7 +40,13 @@ from dateutil import parser as dateparser
 SALIDA = "noticias.json"          # archivo que lee la web
 MAX_NOTICIAS = 24                 # cuántas noticias guardar
 TIMEOUT = 20                      # segundos máximos por pedido
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EnModoSeguroBot/1.0)"}
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+HEADERS = {
+    "User-Agent": BROWSER_UA,
+    "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, text/html;q=0.9, */*;q=0.8",
+    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
+}
 
 # --- 1) Portales del seguro con RSS -------------------------------
 # En sitios WordPress el feed suele estar en <dominio>/feed/.
@@ -143,10 +149,52 @@ def extraer_imagen(entry) -> str:
     return ""
 
 
+def _bajar(url: str) -> bytes:
+    """Descarga una URL con reintentos y headers de navegador. Devuelve bytes o lanza excepción."""
+    ultimo = "sin respuesta"
+    for intento in range(3):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
+            print(f"        GET {url} -> HTTP {r.status_code} ({len(r.content)} bytes)")
+            if r.status_code == 200 and r.content:
+                return r.content
+            ultimo = f"HTTP {r.status_code}"
+        except Exception as ex:
+            ultimo = str(ex)
+            print(f"        intento {intento + 1} de {url} falló: {ex}")
+    raise RuntimeError(ultimo)
+
+
+def _variantes(url: str) -> list:
+    """Devuelve la URL dada y algunas variantes típicas de feed, por si /feed/ no es la correcta."""
+    base = url.rstrip("/")
+    raiz = base[:-5] if base.endswith("/feed") else base
+    candidatas = [url, raiz + "/feed/", raiz + "/?feed=rss2", raiz + "/feed/rss/", raiz + "/rss"]
+    out = []
+    for v in candidatas:
+        if v not in out:
+            out.append(v)
+    return out
+
+
 def desde_rss(fuente: dict) -> list:
-    """Lee un feed RSS y devuelve una lista de noticias normalizadas."""
+    """Lee un feed RSS (probando variantes) y devuelve una lista de noticias normalizadas."""
+    d = None
+    for u in _variantes(fuente["url"]):
+        try:
+            contenido = _bajar(u)
+        except Exception as ex:
+            print(f"        {u}: {ex}")
+            continue
+        parsed = feedparser.parse(contenido)
+        if parsed.entries:
+            d = parsed
+            break
+    if d is None:
+        # Último recurso: que feedparser lo intente por su cuenta.
+        d = feedparser.parse(fuente["url"], request_headers=HEADERS)
+
     items = []
-    d = feedparser.parse(fuente["url"], request_headers=HEADERS)
     for e in d.entries:
         titulo = (e.get("title") or "").strip()
         if not titulo:
