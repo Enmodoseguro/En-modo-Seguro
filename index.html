@@ -558,7 +558,7 @@ function renderNews(list){
     let imgEl;
     if(hasImg){imgEl='<div class="ncard-img" data-img="'+esc(n.imagen)+'"></div>';}
     else{const lg=logoFor(n);
-      if(lg){imgEl='<div class="ncard-img logo '+(LOGO_BG[lg]||'light')+'"><img src="logos/'+lg+'.png" alt="" loading="lazy"></div>';}
+      if(lg){imgEl='<div class="ncard-img logo '+(LOGO_BG[lg]||'light')+'"><img src="logos/'+lg+'.png" alt="" loading="lazy" onerror="this.onerror=null;this.src=&#39;logos/logos/'+lg+'.png&#39;"></div>';}
       else{const k=phKind(n);imgEl='<div class="ncard-img ph ph-'+k+'">'+PHIC[k]+'<span class="ph-src">'+esc(n.fuente||'Noticias')+'</span></div>';}}
     return '<article class="ncard">'+imgEl+'<div class="ncard-body"><span class="kick '+cc(n.categoria)+'">'+esc(n.categoria||'Mercado')+'</span><h4>'+tl+'</h4><div class="nm">'+esc(n.fuente||'')+(n.fecha?' · '+esc(fmt(n.fecha)):'')+'</div></div></article>';
   }).join('');
