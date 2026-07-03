@@ -112,6 +112,10 @@ a{color:inherit;text-decoration:none;}svg{display:block;}
 .ph-mer{background:linear-gradient(135deg,#C2410C,#9A3410);}
 .ph-ic{width:36px;height:36px;color:#fff;opacity:.95;position:relative;z-index:1;}
 .ph-src{position:relative;z-index:1;font-family:var(--display);font-weight:700;font-size:17px;letter-spacing:.03em;color:#fff;text-align:center;max-width:88%;line-height:1.2;}
+.ncard-img.logo{display:flex;align-items:center;justify-content:center;padding:20px 26px;}
+.ncard-img.logo.light{background:#FFFFFF;box-shadow:inset 0 -1px 0 var(--line);}
+.ncard-img.logo.dark{background:linear-gradient(135deg,#0B2E70,#08152E);}
+.ncard-img.logo img{max-width:100%;max-height:60px;width:auto;height:auto;object-fit:contain;}
 .ncard-body{padding:17px 18px 18px;display:flex;flex-direction:column;gap:10px;flex:1;}
 .ncard-body h4{font-family:var(--display);font-weight:700;font-size:16.5px;line-height:1.24;letter-spacing:-0.01em;}
 .ncard-body h4 a:hover{color:var(--brand-ink);}
@@ -535,6 +539,17 @@ const PHIC={
   mer:'<svg class="ph-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5"/><path d="M4 19h16"/><path d="m7 15 3.5-4 3 2.5L20 7"/></svg>'
 };
 function phKind(n){const f=(n.fuente||'').toUpperCase(),c=n.categoria||'';if(/SSN|SUPERINTENDENCIA DE SEGUROS/.test(f)||c==='Regulación')return'reg';if(/SRT|RIESGOS DEL TRABAJO/.test(f))return'srt';if(c==='Innovación')return'inn';return'mer';}
+/* ---- Logos (archivos en la carpeta logos/). Fondo claro u oscuro por logo. ---- */
+const LOGO_BG={'100_seguro':'light','adeaa':'dark','asociart_art':'light','avira':'light','el_seguro_en_accion':'light','experta_art':'light','grupo_san_cristobal':'light','la_segunda_seguros':'light','mapfre_argentina':'light','mercado_y_seguros':'light','nacion_seguros':'light','nbs':'dark','prevencion_art':'light','providencia_seguros':'light','revista_estrategas':'light','revista_todo_riesgo':'light','san_cristobal_seguros':'light','serena_art':'dark','srt':'dark','ssn':'dark','tiempo_de_seguros':'light','triunfo_seguros':'dark','uart':'light'};
+const SUBJECT_RX=[['ssn',/\bssn\b|superintendencia de seguros/],['srt',/\bsrt\b|riesgos del trabajo/],['adeaa',/\badeaa\b/],['avira',/\bavira\b/],['uart',/\buart\b/],['asociart_art',/\basociart\b/],['grupo_san_cristobal',/grupo san crist[oó]bal/],['san_cristobal_seguros',/san crist[oó]bal/],['providencia_seguros',/providencia/],['prevencion_art',/prevenci[oó]n/],['experta_art',/\bexperta\b/],['la_segunda_seguros',/la segunda/],['nacion_seguros',/naci[oó]n seguros/],['mapfre_argentina',/\bmapfre\b/],['serena_art',/\bserena\b/],['triunfo_seguros',/\btriunfo\b/]];
+const SOURCE_MAP={'mercado_y_seguros':['mercado y seguros','mercados y seguros'],'100_seguro':['100% seguro','100 seguro','100seguro'],'el_seguro_en_accion':['el seguro en acci'],'nbs':['nbs'],'revista_todo_riesgo':['todo riesgo'],'revista_estrategas':['estrategas'],'tiempo_de_seguros':['tiempo de seguros']};
+function logoFor(n){
+  const t=((n.titulo||'')+' '+(n.fuente||'')).toLowerCase();
+  for(const par of SUBJECT_RX){if(par[1].test(t))return par[0];}
+  const f=(n.fuente||'').toLowerCase();
+  for(const slug in SOURCE_MAP){if(SOURCE_MAP[slug].some(x=>f.includes(x)))return slug;}
+  return null;
+}
 function renderNews(list){
   const grid=document.getElementById('newsGrid');
   grid.innerHTML=list.slice(0,8).map(n=>{
@@ -542,7 +557,9 @@ function renderNews(list){
     const hasImg=n.imagen&&/^https?:\/\//i.test(n.imagen);
     let imgEl;
     if(hasImg){imgEl='<div class="ncard-img" data-img="'+esc(n.imagen)+'"></div>';}
-    else{const k=phKind(n);imgEl='<div class="ncard-img ph ph-'+k+'">'+PHIC[k]+'<span class="ph-src">'+esc(n.fuente||'Noticias')+'</span></div>';}
+    else{const lg=logoFor(n);
+      if(lg){imgEl='<div class="ncard-img logo '+(LOGO_BG[lg]||'light')+'"><img src="logos/'+lg+'.png" alt="" loading="lazy"></div>';}
+      else{const k=phKind(n);imgEl='<div class="ncard-img ph ph-'+k+'">'+PHIC[k]+'<span class="ph-src">'+esc(n.fuente||'Noticias')+'</span></div>';}}
     return '<article class="ncard">'+imgEl+'<div class="ncard-body"><span class="kick '+cc(n.categoria)+'">'+esc(n.categoria||'Mercado')+'</span><h4>'+tl+'</h4><div class="nm">'+esc(n.fuente||'')+(n.fecha?' · '+esc(fmt(n.fecha)):'')+'</div></div></article>';
   }).join('');
   grid.querySelectorAll('.ncard-img[data-img]').forEach(el=>{el.style.backgroundImage='url("'+el.dataset.img.replace(/"/g,'')+'")';});
