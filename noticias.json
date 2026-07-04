@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-03T13:42-03:00",
+  "actualizado": "2026-07-04T09:48-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Fondación Mapfre dona 100.000 euros por los terremotos en Venezuela",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Fundación Mapfre destinó 100.000 euros para los damnificados por los terremotos de magnitud 7,2 y 7,5 que dejaron más de 200 muertos en el norte de Venezuela. La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-04",
+      "url": "https://mercadosyseguros.com/fondacion-mapfre-dona-100-000-euros-por-los-terremotos-en-venezuela/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevención ART lanza campaña por la Seguridad Vial",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención ART lanzó en junio la campaña \"Elegí prevenir. Elegir llegar\" con cursos virtuales, conferencias y la herramienta \"Capacitate por WhatsApp\" para reducir la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-04",
+      "url": "https://mercadosyseguros.com/prevencion-art-lanza-campana-por-la-seguridad-vial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RGA designa CFO; Nationwide suma monitoreo remoto rural",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com RGA nombró a Laura Cockrill como CFO, reemplazando a Axel Andre el 17 de julio. Nationwide acordó con Barn Owl el suministro de cámaras solares con conectividad…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-04",
+      "url": "https://mercadosyseguros.com/rga-designa-cfo-nationwide-suma-monitoreo-remoto-rural/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Riesgo crediticio por viviendas sin seguro contra inundaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Moody's calcula entre US$375.000 millones y US$1 billón en pérdidas por inundaciones en viviendas sin seguro en EE. UU., concentradas en Florida, Louisiana, South…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-04",
+      "url": "https://mercadosyseguros.com/riesgo-crediticio-por-viviendas-sin-seguro-contra-inundaciones/",
+      "imagen": ""
+    },
     {
       "titulo": "Adopción de IA en agentes de seguros: inversión sin implementación",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aunque las inversiones en IA en seguros siguen creciendo, Cake and Arrow y Gartner señalan que la adopción entre agentes y brokers es fragmentaria: predominan…",
@@ -39,6 +75,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Salud prestacional: el seguro entra en una nueva etapa",
+      "resumen": "En un nuevo programa especial de 100% SEGURO, analizamos la actualidad del sistema de salud argentino y el impacto de la nueva Resolución SSN 258/2026, que habilita la comercialización de seguros de salud con cobertura…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-03",
+      "url": "https://100seguro.com.ar/salud-prestacional-el-seguro-entra-en-una-nueva-etapa/",
+      "imagen": ""
+    },
+    {
       "titulo": "El ahorro que puede costar caro: cinco chequeos del auto que no conviene postergar",
       "resumen": "En la Semana de la Seguridad Vehicular, especialistas advierten que retrasar controles básicos para aliviar el bolsillo puede terminar generando reparaciones mucho más costosas e, incluso, aumentar el riesgo de sufrir…",
       "fuente": "100% Seguro",
@@ -54,15 +99,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-03",
       "url": "https://100seguro.com.ar/provincia-art-cronograma-de-cursos-gratuitos-para-el-mes-de-julio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Salud prestacional: el seguro entra en una nueva etapa",
-      "resumen": "En un nuevo programa especial de 100% SEGURO, analizamos la actualidad del sistema de salud argentino y el impacto de la nueva Resolución SSN 258/2026, que habilita la comercialización de seguros de salud con cobertura…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-03",
-      "url": "https://100seguro.com.ar/salud-prestacional-el-seguro-entra-en-una-nueva-etapa/",
       "imagen": ""
     },
     {
@@ -117,24 +153,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-02",
       "url": "https://mercadosyseguros.com/49-de-estadounidenses-usan-ia-con-frecuencia-solo-16-la-valora/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN elimina reservas técnicas y ajusta regulación del seguro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN derogó la Reserva Especial de Contingencia para Caución Ambiental y la Reserva por Desvíos de Siniestralidad para Desempleo Involuntario mediante la Resolución…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://mercadosyseguros.com/ssn-elimina-reservas-tecnicas-y-ajusta-regulacion-del-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Encuentro Economía, SSN y aseguradoras por inversiones a largo plazo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 23 de junio, Guillermo Plate, Federico Furiase, Felipe Núñez y Felipe Berón se reunieron con gerentes de inversiones de más de veinte aseguradoras para avanzar en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://mercadosyseguros.com/encuentro-economia-ssn-y-aseguradoras-por-inversiones-a-largo-plazo/",
       "imagen": ""
     },
     {
@@ -198,24 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-02",
       "url": "https://elseguroenaccion.com.ar/if-2026-63348952-apn-geyessn-estado-de-cobertura-de-compromisos-exigibles-y-siniestros-liquidados-a-pagar-marzo-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-63038557-APN-GE#SSN – RESOL-2026-272-APN-SSN#MEC-DECLARACIÓN JURADA – TÍTULOS PÚBLICOS NACIONALES ADQUIRIDOS DIRECTAMENTE EN LICITACIÓN PRIMARIA",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/if-2026-63038557-apn-gessn-resol-2026-272-apn-ssnmec-declaracion-jurada-titulos-publicos-nacionales-adquiridos-directamente-en-licitacion-primaria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-62735866-APN-GEYE#SSN – Rentabilidad Bruta Mensual – Mayo de 2026 – Rentabilidad Bruta Mensual de las entidades de seguros de Retiro para Rentas Vitalicias Previsionales y Rentas Vitalicias de la Ley de Riesgos del Trabajo. Corresponde al mes de mayo de 2026.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/if-2026-62735866-apn-geyessn-rentabilidad-bruta-mensual-mayo-de-2026-rentabilidad-bruta-mensual-de-las-entidades-de-seguros-de-retiro-para-rentas-vitalicias-previsionales-y/",
       "imagen": ""
     }
   ]
