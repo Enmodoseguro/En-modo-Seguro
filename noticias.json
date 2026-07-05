@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-04T09:48-03:00",
+  "actualizado": "2026-07-05T09:58-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "SSN amplía incentivos para invertir en títulos públicos 2027",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la Resolución N° 272/2026 que permite a aseguradoras y reaseguradoras valuar a valor técnico los Títulos Públicos Nacionales adquiridos en licitación…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-05",
+      "url": "https://mercadosyseguros.com/ssn-amplia-incentivos-para-invertir-en-titulos-publicos-2027/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN simplifica cálculo del Resultado Técnico de Operaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN emitió la Resolución N° 274/2026, que actualiza el cálculo del Resultado Técnico de Operaciones y elimina la presentación periódica del Informe…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-05",
+      "url": "https://mercadosyseguros.com/ssn-simplifica-calculo-del-resultado-tecnico-de-operaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alianza MIA Hub y Miami Fintech Club impulsa integración insurtech-fintech",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com MIA Hub y Miami Fintech Club firmaron el 29 de junio de 2026 una alianza para integrar insurtech y fintech. MIA Hub aporta 400 empresas y 3.000 profesionales; Miami…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-05",
+      "url": "https://mercadosyseguros.com/alianza-mia-hub-y-miami-fintech-club-impulsa-integracion-insurtech-fintech/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Siniestralidad automotor: tendencias y costos en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Fernando Rodríguez (ATM) y Leandro Brenta (VTC Vendétuchocado.com) explican el aumento de costos de reparación, el impacto del valor de reposición y la dinámica del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-05",
+      "url": "https://mercadosyseguros.com/siniestralidad-automotor-tendencias-y-costos-en-argentina/",
+      "imagen": ""
+    },
     {
       "titulo": "Fondación Mapfre dona 100.000 euros por los terremotos en Venezuela",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Fundación Mapfre destinó 100.000 euros para los damnificados por los terremotos de magnitud 7,2 y 7,5 que dejaron más de 200 muertos en el norte de Venezuela. La…",
@@ -18,51 +54,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-04",
       "url": "https://mercadosyseguros.com/prevencion-art-lanza-campana-por-la-seguridad-vial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RGA designa CFO; Nationwide suma monitoreo remoto rural",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com RGA nombró a Laura Cockrill como CFO, reemplazando a Axel Andre el 17 de julio. Nationwide acordó con Barn Owl el suministro de cámaras solares con conectividad…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-04",
-      "url": "https://mercadosyseguros.com/rga-designa-cfo-nationwide-suma-monitoreo-remoto-rural/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Riesgo crediticio por viviendas sin seguro contra inundaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Moody's calcula entre US$375.000 millones y US$1 billón en pérdidas por inundaciones en viviendas sin seguro en EE. UU., concentradas en Florida, Louisiana, South…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-04",
-      "url": "https://mercadosyseguros.com/riesgo-crediticio-por-viviendas-sin-seguro-contra-inundaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Adopción de IA en agentes de seguros: inversión sin implementación",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aunque las inversiones en IA en seguros siguen creciendo, Cake and Arrow y Gartner señalan que la adopción entre agentes y brokers es fragmentaria: predominan…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://mercadosyseguros.com/adopcion-de-ia-en-agentes-de-seguros-inversion-sin-implementacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Citas rápidas: cómo ayudan a vender seguros comerciales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La cita rápida ofrece en segundos un rango estimado de prima para seguros comerciales tras responder pocas preguntas. Implementada por insurtech y corredurías, mejora…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-03",
-      "url": "https://mercadosyseguros.com/citas-rapidas-como-ayudan-a-vender-seguros-comerciales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ROI de la TV para agentes y brokers de seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agentes y brokers independientes están volviendo a la TV conectada: la producción y compra de inventario son más accesibles y empresas como Progressive demostraron en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://mercadosyseguros.com/roi-de-la-tv-para-agentes-y-brokers-de-seguros/",
       "imagen": ""
     },
     {
@@ -153,6 +144,15 @@
       "categoria": "Mercado",
       "fecha": "2026-07-02",
       "url": "https://mercadosyseguros.com/49-de-estadounidenses-usan-ia-con-frecuencia-solo-16-la-valora/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN elimina reservas técnicas y ajusta regulación del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN derogó la Reserva Especial de Contingencia para Caución Ambiental y la Reserva por Desvíos de Siniestralidad para Desempleo Involuntario mediante la Resolución…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-02",
+      "url": "https://mercadosyseguros.com/ssn-elimina-reservas-tecnicas-y-ajusta-regulacion-del-seguro/",
       "imagen": ""
     },
     {
