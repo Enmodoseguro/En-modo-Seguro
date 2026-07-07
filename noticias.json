@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-07-06T14:58-03:00",
+  "actualizado": "2026-07-07T14:25-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Asociart: 30 años protegiendo a más de 1 millón de trabajadores",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociart cumple 30 años desde 1996 y pasó de cubrir 297.958 trabajadores a más de 1.000.000, gestionando casos con más de 115.000 empleadores. La firma destaca…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-07",
+      "url": "https://mercadosyseguros.com/asociart-30-anos-protegiendo-a-mas-de-1-millon-de-trabajadores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Solo 5% de empresas tiene visibilidad total del riesgo de IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El '2026 Cloud Security Report' de Check Point revela que solo el 5% de las empresas tiene visibilidad completa sobre la IA; el 77% cambió su estrategia de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-07",
+      "url": "https://mercadosyseguros.com/solo-5-de-empresas-tiene-visibilidad-total-del-riesgo-de-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Demanda de perfiles digitales: ciencia de datos e IA al frente",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Fundación VASS y la Universidad Autónoma de Madrid advierten que España tiene más de un millón de especialistas TIC (4,7% del empleo) pero enfrenta una brecha que…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-07",
+      "url": "https://mercadosyseguros.com/demanda-de-perfiles-digitales-ciencia-de-datos-e-ia-al-frente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Asesoramiento profesional para proteger a las pymes",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros destacó el 27 de junio que reforzó en 2025 su canal de Productores Asesores con el programa Con Vos (Black, Gold, Silver) y ofrece coberturas para…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-07",
+      "url": "https://mercadosyseguros.com/asesoramiento-profesional-para-proteger-a-las-pymes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SellingPointLA organiza la 4ª edición de su Seminario Virtual para el mercado asegurador",
+      "resumen": "El próximo miércoles 29 y jueves 30 de julio, entre las 14 y las 18 horas de Argentina, SellingPointLA llevará a cabo la cuarta edición de su Seminario Virtual, con transmisión en vivo a través de YouTube. Se trata de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-07",
+      "url": "https://100seguro.com.ar/sellingpointla-organiza-la-4a-edicion-de-su-seminario-virtual-para-el-mercado-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/SellingPointLA-Programa-2026-DIA-1.png"
+    },
+    {
+      "titulo": "Fernando Werlen: Mista Seguros avanza en el negocio patrimonial y en la cobertura integral",
+      "resumen": "Fernando Werlen, director general de Sancor Salud. La entrada Fernando Werlen: Mista Seguros avanza en el negocio patrimonial y en la cobertura integral se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-07",
+      "url": "https://nbs.ar/fernando-werlen-mista-seguros-avanza-en-el-negocio-patrimonial-y-en-la-cobertura-integral/",
+      "imagen": ""
+    },
     {
       "titulo": "Experta Seguros llevó a 12 productores a Dallas por el Mundial",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros llevó a 12 productores a Dallas para ver los partidos de Argentina en la Copa Mundial FIFA 2026 y organizó un encuentro con Sergio Goycochea; el…",
@@ -39,6 +93,33 @@
       "imagen": ""
     },
     {
+      "titulo": "“El futuro del productor de seguros no está escrito: lo van a definir las alianzas, la tecnología y la vuelta al asesoramiento”",
+      "resumen": "Mientras la digitalización automatiza la venta de seguros masivos, el mercado de intermediación más avanzado del mundo proyecta crecer más de 20% hacia 2030. Para Luciano Fraire, especialista en seguros y CEO de Polko,…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-06",
+      "url": "https://100seguro.com.ar/el-futuro-del-productor-de-seguros-no-esta-escrito-lo-van-a-definir-las-alianzas-la-tecnologia-y-la-vuelta-al-asesoramiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RUS se anticipa al futuro y avanza en el diseño de seguros para robots humanoides",
+      "resumen": "Río Uruguay Seguros (RUS) dio un nuevo paso en su estrategia de innovación al iniciar un proceso de trabajo orientado a comprender, acompañar y asegurar el desarrollo del mercado de robots humanoides en la Argentina. En…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-06",
+      "url": "https://100seguro.com.ar/rus-se-anticipa-al-futuro-y-avanza-en-el-diseno-de-seguros-para-robots-humanoides/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/RUS-seguros-para-robots-humanoides-4.webp"
+    },
+    {
+      "titulo": "El 43% de los argentinos ya fue víctima de hackeos o fraude digital: la IA redefine la confianza y la seguridad online",
+      "resumen": "Un nuevo estudio de CertiSur y D'Alessio IROL revela que los ciberdelitos alcanzaron su nivel más alto desde que comenzó el relevamiento hace más de dos décadas. Mientras la inteligencia artificial se consolida como una…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-06",
+      "url": "https://100seguro.com.ar/el-43-de-los-argentinos-ya-fue-victima-de-hackeos-o-fraude-digital-la-ia-redefine-la-confianza-y-la-seguridad-online/",
+      "imagen": ""
+    },
+    {
       "titulo": "Ariel González: «El precio es una variable de entrada, pero no de permanencia»",
       "resumen": "En Galicia Seguros entendemos que el precio es una variable de entrada, pero no de permanencia. La diferenciación real se construye en la experiencia del cliente: en la velocidad y la claridad con que respondemos ante…",
       "fuente": "NBS",
@@ -63,42 +144,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-05",
       "url": "https://mercadosyseguros.com/ssn-simplifica-calculo-del-resultado-tecnico-de-operaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alianza MIA Hub y Miami Fintech Club impulsa integración insurtech-fintech",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com MIA Hub y Miami Fintech Club firmaron el 29 de junio de 2026 una alianza para integrar insurtech y fintech. MIA Hub aporta 400 empresas y 3.000 profesionales; Miami…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-05",
-      "url": "https://mercadosyseguros.com/alianza-mia-hub-y-miami-fintech-club-impulsa-integracion-insurtech-fintech/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Siniestralidad automotor: tendencias y costos en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Fernando Rodríguez (ATM) y Leandro Brenta (VTC Vendétuchocado.com) explican el aumento de costos de reparación, el impacto del valor de reposición y la dinámica del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-05",
-      "url": "https://mercadosyseguros.com/siniestralidad-automotor-tendencias-y-costos-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fondación Mapfre dona 100.000 euros por los terremotos en Venezuela",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Fundación Mapfre destinó 100.000 euros para los damnificados por los terremotos de magnitud 7,2 y 7,5 que dejaron más de 200 muertos en el norte de Venezuela. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-04",
-      "url": "https://mercadosyseguros.com/fondacion-mapfre-dona-100-000-euros-por-los-terremotos-en-venezuela/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención ART lanza campaña por la Seguridad Vial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención ART lanzó en junio la campaña \"Elegí prevenir. Elegir llegar\" con cursos virtuales, conferencias y la herramienta \"Capacitate por WhatsApp\" para reducir la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-04",
-      "url": "https://mercadosyseguros.com/prevencion-art-lanza-campana-por-la-seguridad-vial/",
       "imagen": ""
     },
     {
@@ -172,51 +217,6 @@
       "fecha": "2026-07-02",
       "url": "https://100seguro.com.ar/aapas-homenajeo-a-los-comunicadores-del-seguro-por-el-dia-del-periodista/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Dia_Periodista_2026-news.jpg"
-    },
-    {
-      "titulo": "30 años del Sistema de Riesgos del Trabajo: la UART destaca sus logros y plantea los desafíos de la próxima década",
-      "resumen": "El 1° de julio de 1996 comenzó a operar en la Argentina el Sistema de Riesgos del Trabajo, una reforma que transformó la manera de prevenir y reparar los accidentes laborales y las enfermedades profesionales. Tres…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/30-anos-del-sistema-de-riesgos-del-trabajo-la-uart-destaca-sus-logros-y-plantea-los-desafios-de-la-proxima-decada/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/30-anos-del-Sistema-de-Riesgos-del-Trabajo.png"
-    },
-    {
-      "titulo": "Experta celebra los 30 años del sistema de ART que instaló las bases para el resguardo de los trabajadores",
-      "resumen": "La compañía líder en el segmento de ART pone en valor los alcances de la Ley de Riesgos del Trabajo 24.557 que comenzó a regir el 1 de julio de 1996 y modificó significativamente el escenario de la seguridad en ámbitos…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/experta-celebra-los-30-anos-del-sistema-de-art-que-instalo-las-bases-para-el-resguardo-de-los-trabajadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros de alto vuelo: JetSMART fue habilitada como agente institorio",
-      "resumen": "RESOLUCIÓN SSN 285/2026.- La Superintendencia de Seguros de la Nación (SSN) autorizó a JETSMART AIRLINES S.A. a operar como agente institorio, habilitando a la aerolínea de bajo costo a comercializar seguros en el país…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/seguros-de-alto-vuelo-jetsmart-fue-habilitada-como-agente-institorio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Más de mil millones de dólares en seguridad: la tecnología detrás del mundial más vigilado de la historia",
-      "resumen": "Los grandes eventos deportivos funcionan también como impulsores del desarrollo en tecnología de seguridad. En la Copa Mundial de Fútbol 2026, este fenómeno se potencia al máximo en tanto el contexto global eleva…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/mas-de-mil-millones-de-dolares-en-seguridad-la-tecnologia-detras-del-mundial-mas-vigilado-de-la-historia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-64202116-APN-GEYE#SSN – SINIESTROS DE CASCO DEL RAMO AUTOMOTORES – AÑO 2025",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-02",
-      "url": "https://elseguroenaccion.com.ar/if-2026-64202116-apn-geyessn-siniestros-de-casco-del-ramo-automotores-ano-2025/",
-      "imagen": ""
     }
   ]
 }
