@@ -1,7 +1,133 @@
 {
-  "actualizado": "2026-07-07T14:25-03:00",
+  "actualizado": "2026-07-08T13:12-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Flood Re recorta pagos a hogares de mayor patrimonio",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El gobierno británico anunció reformas a Flood Re: recorte de primas para viviendas de menor valor, tope a reclamaciones transferibles y certificados de desempeño…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://mercadosyseguros.com/flood-re-recorta-pagos-a-hogares-de-mayor-patrimonio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Desafíos de la supervisión de seguros en Latinoamérica",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate, presidente de ASSAL y superintendente argentino, anunció el relanzamiento de ASSAL, la incorporación asociada de la NAIC y el inicio de una encuesta…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://mercadosyseguros.com/desafios-de-la-supervision-de-seguros-en-latinoamerica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "XII Seminario Latinoamericano de Seguros: apertura y cifras clave",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 27 y 28 de mayo se realizó el XII Seminario Latinoamericano de Seguros y Reaseguros organizado por Mercado Asegurador. En la apertura, autoridades como Guillermo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://mercadosyseguros.com/xii-seminario-latinoamericano-de-seguros-apertura-y-cifras-clave/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Experta Seguros llevó a 12 productores al Mundial en Dallas con Goycochea",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros envió a 12 productores a Dallas para ver los partidos de la Selección en el Mundial, incluyó un meet & greet con Sergio Goycochea y una extensión del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://mercadosyseguros.com/experta-seguros-llevo-a-12-productores-al-mundial-en-dallas-con-goycochea/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SRT brindó una capacitación sobre higiene y seguridad en la Universidad Nacional de Catamarca",
+      "resumen": "En el marco de la formación continua que brinda la Superintendencia de Riesgos del Trabajo (SRT) para promover entornos laborales más sanos y seguros, se realizó una jornada de capacitación en la Facultad de Tecnología…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/la-srt-brindo-una-capacitacion-sobre-higiene-y-seguridad-en-la-universidad-nacional-de-catamarca/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/2026-07-08-SRT-UNCA.jpg"
+    },
+    {
+      "titulo": "Vacaciones de invierno: el frío, el cansancio y las rutas desconocidas, la combinación que más preocupa a los especialistas",
+      "resumen": "Entre enero y octubre de 2025, la mortalidad vial superó el total registrado en todo 2024, impulsada por una mayor gravedad de los siniestros. Aunque se redujo la cantidad de accidentes, los hechos registrados…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/vacaciones-de-invierno-el-frio-el-cansancio-y-las-rutas-desconocidas-la-combinacion-que-mas-preocupa-a-los-especialistas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aprueban nuevo reglamento para la gestión de prestaciones del Fondo de Reserva de Riesgos del Trabajo",
+      "resumen": "RESOLUCIÓN SSN 290/2026.- La Superintendencia de Seguros de la Nación (SSN) aprobó un nuevo reglamento que redefine el funcionamiento del Fondo de Reserva previsto en el artículo 34 de la Ley de Riesgos del Trabajo,…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/aprueban-nuevo-reglamento-para-la-gestion-de-prestaciones-del-fondo-de-reserva-de-riesgos-del-trabajo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Eliminan el Registro de Beneficiario del Exterior para pagos de primas de reaseguros",
+      "resumen": "RESOLUCIÓN SSN 291/2026.- La Superintendencia de Seguros de la Nación (SSN) derogó el Registro de Beneficiario del Exterior, un requisito que estaba vigente desde 2019 para la operatoria de pagos de primas de reaseguros…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/eliminan-el-registro-de-beneficiario-del-exterior-para-pagos-de-primas-de-reaseguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Buenas y malas en el primaje de mayo: caída del ramo Autos y crecimiento en ART, RC y Vida",
+      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,128 billones de pesos en mayo, lo que implica una caída del 1,5% mensual en términos reales con respecto al mes anterior (abril de 2026), que tuvo una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/buenas-y-malas-en-el-primaje-de-mayo-caida-del-ramo-autos-y-crecimiento-en-art-rc-y-vida/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Estimacion-de-la-Produccion-de-Seguros-Mayo-2026.png"
+    },
+    {
+      "titulo": "La SSN multó a Libra Seguros por demoras en el pago de indemnizaciones de siniestros",
+      "resumen": "RESOLUCIÓN SSN 289/2026.- La Superintendencia de Seguros de la Nación (SSN) sancionó a Libra Compañía Argentina de Seguros S.A. con una multa de $13.410.784,75 por haber incumplido los plazos establecidos por la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/la-ssn-multo-a-libra-seguros-por-demoras-en-el-pago-de-indemnizaciones-de-siniestros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El NEA prepara su gran Foro Regional de Seguros",
+      "resumen": "Resistencia será sede, el próximo 8 de octubre, del segundo Foro Regional de Seguros del NEA, organizado por las cuatro APAS de la región junto a FAPASA. Pablo Trangoni, presidente de APAS Chaco, adelantó los objetivos…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://elseguroenaccion.com.ar/el-nea-prepara-su-gran-foro-regional-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los estados contables revelan la verdadera situación del mercado: Análisis con Gabriel Marinozzi",
+      "resumen": "Los estados contables revelan la verdadera situación del mercado. Gabriel Marinozzi, socio de Russell Bedford Argentina, hace un análisis en profundidad de los últimos balances presentados por las empresas y lo que…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://elseguroenaccion.com.ar/los-estados-contables-revelan-la-verdadera-situacion-del-mercado-analisis-con-gabriel-marinozzi/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Menos autos, más motos que el año pasado: el nuevo equilibrio del mercado 0 km",
+      "resumen": "En junio se patentaron 45.995 autos, con una caída del 12,8% frente al mismo mes de 2025, mientras las motos completaron su segundo mes consecutivo a la baja pero siguen un 42,3% arriba en la comparación interanual. El…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://elseguroenaccion.com.ar/menos-autos-mas-motos-que-el-ano-pasado-el-nuevo-equilibrio-del-mercado-0-km/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cuánto pagan los grupos aseguradores: el mapa de la siniestralidad a marzo 2026",
+      "resumen": "Nuestra estadística interactiva para medir, grupo por grupo, cuánto de cada peso de prima terminó en manos de los asegurados. El costo de los siniestros es, junto con los gastos y la rentabilidad financiera, uno de los…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://elseguroenaccion.com.ar/cuanto-pagan-los-grupos-aseguradores-el-mapa-de-la-siniestralidad-a-marzo-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Asociart: 30 años protegiendo a más de 1 millón de trabajadores",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociart cumple 30 años desde 1996 y pasó de cubrir 297.958 trabajadores a más de 1.000.000, gestionando casos con más de 115.000 empleadores. La firma destaca…",
@@ -48,175 +174,49 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/SellingPointLA-Programa-2026-DIA-1.png"
     },
     {
-      "titulo": "Fernando Werlen: Mista Seguros avanza en el negocio patrimonial y en la cobertura integral",
-      "resumen": "Fernando Werlen, director general de Sancor Salud. La entrada Fernando Werlen: Mista Seguros avanza en el negocio patrimonial y en la cobertura integral se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
-      "fuente": "NBS",
+      "titulo": "IF-2026-66229248-APN-GE#SSN – TIPOS DE CAMBIO, COTIZACIÓN DE TÍTULOS PÚBLICOS Y ACCIONES AL 30.06.2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-07",
+      "url": "https://elseguroenaccion.com.ar/if-2026-66229248-apn-gessn-tipos-de-cambio-cotizacion-de-titulos-publicos-y-acciones-al-30-06-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-291-APN-SSN#MEC – DEROGACIÓN RESOLUCIÓN RESOL-2019-927-APNSSN#MHA – REGISTRO DE BENEFICIARIO DEL EXTERIOR ADMITIDO POR LA SUPERINTENDENCIA DE SEGUROS DE LA NACIÓN – AGENTES DE RECAUDACIÓN – COMUNICACIÓN “A” 6780 BCRA.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-07",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-291-apn-ssnmec-derogacion-resolucion-resol-2019-927-apnssnmha-registro-de-beneficiario-del-exterior-admitido-por-la-superintendencia-de-seguros-de-la-nacion-agentes-de-recaudac/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-290-APN-SSN#MEC – APRUEBA REGLAMENTO INTERVENCIÓN FONDO DE RESERVA ARTÍCULO 34 LEY DE RIESGOS DEL TRABAJO N° 24.557 – DEROGA RESOLUCIONES RESOL-2018-966-APN-SSN#MHA Y RESOL-2020-396-APN-SSN#MEC",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-07",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-290-apn-ssnmec-aprueba-reglamento-intervencion-fondo-de-reserva-articulo-34-ley-de-riesgos-del-trabajo-n-24-557-deroga-resoluciones-resol-2018-966-apn-ssnmha-y-resol-2020-3/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-289-APN-SSN#MEC – LIBRA COMPAÑÍA ARGENTINA DE SEGUROS S.A. – RÉGIMEN SANCIONATORIO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-07",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-289-apn-ssnmec-libra-compania-argentina-de-seguros-s-a-regimen-sancionatorio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las ventas minoristas pyme crecieron 0,9% interanual en junio",
+      "resumen": "Durante el mes de junio, las ventas minoristas del segmento pyme evidenciaron una suba interanual del 0,9% a valores constantes. Por el contrario, la medición intermensual arrojó una baja del 1,3%. Con estos resultados…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-07-07",
-      "url": "https://nbs.ar/fernando-werlen-mista-seguros-avanza-en-el-negocio-patrimonial-y-en-la-cobertura-integral/",
+      "url": "https://elseguroenaccion.com.ar/las-ventas-minoristas-pyme-crecieron-09-interanual-en-junio/",
       "imagen": ""
-    },
-    {
-      "titulo": "Experta Seguros llevó a 12 productores a Dallas por el Mundial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros llevó a 12 productores a Dallas para ver los partidos de Argentina en la Copa Mundial FIFA 2026 y organizó un encuentro con Sergio Goycochea; el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-06",
-      "url": "https://mercadosyseguros.com/experta-seguros-llevo-a-12-productores-a-dallas-por-el-mundial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre presente en 18 partidos de la fase de grupos de la Libertadores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre fue sponsor oficial de la CONMEBOL Libertadores y estuvo presente en 18 partidos en Argentina durante la fase de grupos (marzo-mayo 2026), con más de 390…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-06",
-      "url": "https://mercadosyseguros.com/mapfre-presente-en-18-partidos-de-la-fase-de-grupos-de-la-libertadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Provincia ART designó a Sebastián Saire como director comercial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Provincia ART nombró a Sebastián Saire director comercial en julio de 2026. Con más de 30 años de experiencia y un recorrido en la compañía desde 1998, Saire tendrá a…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-06",
-      "url": "https://mercadosyseguros.com/provincia-art-designo-a-sebastian-saire-como-director-comercial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seis sociedades inscriptas como productores de seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN inscribió hoy a Cubus, Iter, DS, TRIA, Buntu y Touring Club Brokers (resoluciones 278/2026 a 283/2026) en el Registro de Sociedades de Productores de Seguros,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-06",
-      "url": "https://mercadosyseguros.com/seis-sociedades-inscriptas-como-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "“El futuro del productor de seguros no está escrito: lo van a definir las alianzas, la tecnología y la vuelta al asesoramiento”",
-      "resumen": "Mientras la digitalización automatiza la venta de seguros masivos, el mercado de intermediación más avanzado del mundo proyecta crecer más de 20% hacia 2030. Para Luciano Fraire, especialista en seguros y CEO de Polko,…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-06",
-      "url": "https://100seguro.com.ar/el-futuro-del-productor-de-seguros-no-esta-escrito-lo-van-a-definir-las-alianzas-la-tecnologia-y-la-vuelta-al-asesoramiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS se anticipa al futuro y avanza en el diseño de seguros para robots humanoides",
-      "resumen": "Río Uruguay Seguros (RUS) dio un nuevo paso en su estrategia de innovación al iniciar un proceso de trabajo orientado a comprender, acompañar y asegurar el desarrollo del mercado de robots humanoides en la Argentina. En…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-06",
-      "url": "https://100seguro.com.ar/rus-se-anticipa-al-futuro-y-avanza-en-el-diseno-de-seguros-para-robots-humanoides/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/RUS-seguros-para-robots-humanoides-4.webp"
-    },
-    {
-      "titulo": "El 43% de los argentinos ya fue víctima de hackeos o fraude digital: la IA redefine la confianza y la seguridad online",
-      "resumen": "Un nuevo estudio de CertiSur y D'Alessio IROL revela que los ciberdelitos alcanzaron su nivel más alto desde que comenzó el relevamiento hace más de dos décadas. Mientras la inteligencia artificial se consolida como una…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-06",
-      "url": "https://100seguro.com.ar/el-43-de-los-argentinos-ya-fue-victima-de-hackeos-o-fraude-digital-la-ia-redefine-la-confianza-y-la-seguridad-online/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ariel González: «El precio es una variable de entrada, pero no de permanencia»",
-      "resumen": "En Galicia Seguros entendemos que el precio es una variable de entrada, pero no de permanencia. La diferenciación real se construye en la experiencia del cliente: en la velocidad y la claridad con que respondemos ante…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-06",
-      "url": "https://nbs.ar/ariel-gonzalez-el-precio-es-una-variable-de-entrada-pero-no-de-permanencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN amplía incentivos para invertir en títulos públicos 2027",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la Resolución N° 272/2026 que permite a aseguradoras y reaseguradoras valuar a valor técnico los Títulos Públicos Nacionales adquiridos en licitación…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-05",
-      "url": "https://mercadosyseguros.com/ssn-amplia-incentivos-para-invertir-en-titulos-publicos-2027/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN simplifica cálculo del Resultado Técnico de Operaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN emitió la Resolución N° 274/2026, que actualiza el cálculo del Resultado Técnico de Operaciones y elimina la presentación periódica del Informe…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-05",
-      "url": "https://mercadosyseguros.com/ssn-simplifica-calculo-del-resultado-tecnico-de-operaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Salud prestacional: el seguro entra en una nueva etapa",
-      "resumen": "En un nuevo programa especial de 100% SEGURO, analizamos la actualidad del sistema de salud argentino y el impacto de la nueva Resolución SSN 258/2026, que habilita la comercialización de seguros de salud con cobertura…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-03",
-      "url": "https://100seguro.com.ar/salud-prestacional-el-seguro-entra-en-una-nueva-etapa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El ahorro que puede costar caro: cinco chequeos del auto que no conviene postergar",
-      "resumen": "En la Semana de la Seguridad Vehicular, especialistas advierten que retrasar controles básicos para aliviar el bolsillo puede terminar generando reparaciones mucho más costosas e, incluso, aumentar el riesgo de sufrir…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://100seguro.com.ar/el-ahorro-que-puede-costar-caro-cinco-chequeos-del-auto-que-no-conviene-postergar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Provincia ART: cronograma de cursos gratuitos para el mes de julio",
-      "resumen": "Provincia ART, la aseguradora de riesgos de Grupo Provincia, confirmó su cronograma de cursos gratuitos para el séptimo mes del año. La entrada Provincia ART: cronograma de cursos gratuitos para el mes de julio se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://100seguro.com.ar/provincia-art-cronograma-de-cursos-gratuitos-para-el-mes-de-julio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Time to Market en seguros: el desafío de acelerar el mundo “legacy”",
-      "resumen": "ENTREVISTA 100% SEGURO.- En un mercado asegurador cada vez más dinámico, donde las necesidades de los clientes, los canales de distribución y los modelos de negocio evolucionan a gran velocidad, el verdadero diferencial…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://100seguro.com.ar/time-to-market-en-seguros-el-desafio-de-acelerar-el-mundo-legacy/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Profesionalización del PAS sin fronteras: Argentina y España avanzan en un estándar común de intermediación",
-      "resumen": "APROMES y FAPASA consolidan una agenda bilateral que impulsa la formación, la movilidad internacional y la modernización del canal. La representación institucional de APROMES en Argentina, a cargo de Mauro Jacyk, es…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://100seguro.com.ar/profesionalizacion-del-pas-sin-fronteras-argentina-y-espana-avanzan-en-un-estandar-comun-de-intermediacion/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Mauro-Jacyk-Delegado-de-APROMES-en-Argentina.jpg"
-    },
-    {
-      "titulo": "Maximiliano Coll: Los nuevos créditos hipotecarios se tramitan de punta a punta por WhatsApp",
-      "resumen": "Maximiliano Coll, subgerente general de Banca Minorista del Banco Ciudad. La entrada Maximiliano Coll: Los nuevos créditos hipotecarios se tramitan de punta a punta por WhatsApp se publicó primero en NBS | Revista de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://nbs.ar/maximiliano-coll-los-nuevos-creditos-hipotecarios-se-tramitan-de-punta-a-punta-por-whatsapp/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La moto se afianza como la opción de movilidad en Argentina: 433.000 patentamientos en 2026",
-      "resumen": "El primer semestre de 2026 ha marcado un hito en la movilidad en Argentina, con el patentamiento de 433.000 motos, lo que refleja un cambio significativo en la forma en que los argentinos se trasladan. Este fenómeno se…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-03",
-      "url": "https://nbs.ar/la-moto-se-afianza-como-la-opcion-de-movilidad-en-argentina-433-000-patentamientos-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AAPAS homenajeó a los comunicadores del seguro por el día del periodista",
-      "resumen": "En el marco del día del periodista, AAPAS compartió una jornada de encuentro con referentes de los principales medios y plataformas especializadas en seguros. La propuesta combinó historia, cultura, gastronomía y, sobre…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-02",
-      "url": "https://100seguro.com.ar/aapas-homenajeo-a-los-comunicadores-del-seguro-por-el-dia-del-periodista/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Dia_Periodista_2026-news.jpg"
     }
   ]
 }
