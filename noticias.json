@@ -1,15 +1,78 @@
 {
-  "actualizado": "2026-07-08T13:12-03:00",
+  "actualizado": "2026-07-09T14:25-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Flood Re recorta pagos a hogares de mayor patrimonio",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El gobierno británico anunció reformas a Flood Re: recorte de primas para viviendas de menor valor, tope a reclamaciones transferibles y certificados de desempeño…",
+      "titulo": "Seguros y ciberataques: ¿están listas las aseguradoras?",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA ya figura en 83% de las brechas reportadas y las aseguradoras enfrentan exposición por credenciales y deepfakes. Expertos alertan sobre la necesidad de…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
-      "fecha": "2026-07-08",
-      "url": "https://mercadosyseguros.com/flood-re-recorta-pagos-a-hogares-de-mayor-patrimonio/",
+      "fecha": "2026-07-09",
+      "url": "https://mercadosyseguros.com/seguros-y-ciberataques-estan-listas-las-aseguradoras/",
       "imagen": ""
+    },
+    {
+      "titulo": "Comparativa Gemini vs GPT-4o: rendimiento y costos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gemini 3.1 Pro (Google, jul 2026) lidera en MATH-500 (96.8%) y SWE-Bench (80-81%) y resulta más barato en API (~$2/M tokens). GPT-4o (OpenAI, may 2024) destaca en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://mercadosyseguros.com/comparativa-gemini-vs-gpt-4o-rendimiento-y-costos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cloudflare impone pago por crawl desde septiembre 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Cloudflare activó pay-per-crawl: desde el 15/09/2026 bloquea por defecto crawlers “mixed-use” en sitios con ads y exige micropagos via x402 (stablecoins) tras un HTTP…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://mercadosyseguros.com/cloudflare-impone-pago-por-crawl-desde-septiembre-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ranking de aseguradoras por mala praxis médica en marzo 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En marzo de 2026 la producción del ramo mala praxis médica fue de 70.629,5 millones de pesos. Swiss Medical Seguros lideró con 33.047,6 millones (46,79%), seguido por…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://mercadosyseguros.com/ranking-de-aseguradoras-por-mala-praxis-medica-en-marzo-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "De la eficiencia al crecimiento: cómo las aseguradoras impulsan los ingresos mediante la implementación estratégica de IA",
+      "resumen": "Un nuevo informe de Accenture revela que ocho de cada diez compañías de seguros ya aumentaron sus primas gracias a iniciativas de IA y datos. Sin embargo, la mayoría todavía no logra desplegar la tecnología de forma…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-09",
+      "url": "https://100seguro.com.ar/de-la-eficiencia-al-crecimiento-como-las-aseguradoras-impulsan-los-ingresos-mediante-la-implementacion-estrategica-de-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aon designa a Gabriel Dib como Head of Enterprise Client Group & Multinational Clients para Latinoamérica",
+      "resumen": "El ejecutivo seguirá fortaleciendo la estrategia integrada de atención a clientes multinacionales en la región Aon plc (NYSE: AON), firma líder mundial en servicios profesionales, anuncia a Gabriel Dib como Head of…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://www.informeoperadores.com.ar/2026/07/09/aon-designa-a-gabriel-dib-como-head-of-enterprise-client-group-multinational-clients-para-latinoamerica/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Gabriel-Dib-600x400.jpg"
+    },
+    {
+      "titulo": "Productores de Experta Seguros vivieron un sueño mundialista en Dallas con Sergio Goycochea y los goles de Lionel Messi",
+      "resumen": "Los ganadores de la campaña “Ponete la camiseta” vivieron una experiencia exclusiva que incluyó los vibrantes partidos de la Selección, un meet & greet con Sergio Goycochea y una extensión del viaje a Miami, como…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://www.informeoperadores.com.ar/2026/07/09/productores-de-experta-seguros-vivieron-un-sueno-mundialista-en-dallas-con-sergio-goycochea-y-los-goles-de-lionel-messi/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Ganadores-y-referentes-de-Experta-en-Dallas-450x600.jpeg"
+    },
+    {
+      "titulo": "Mapfre dijo presente en toda la fase de grupos de la CONMEBOL Libertadores",
+      "resumen": "Mapfre, la aseguradora multinacional líder en América Latina, reafirmó por tercer año consecutivo su presencia como sponsor oficial de la CONMEBOL Libertadores, acompañando la pasión por el fútbol y creando experiencias…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://www.informeoperadores.com.ar/2026/07/09/mapfre-dijo-presente-en-toda-la-fase-de-grupos-de-la-conmebol-libertadores/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/MapfrexLibertadores-600x306.jpg"
     },
     {
       "titulo": "Desafíos de la supervisión de seguros en Latinoamérica",
@@ -36,6 +99,15 @@
       "categoria": "Mercado",
       "fecha": "2026-07-08",
       "url": "https://mercadosyseguros.com/experta-seguros-llevo-a-12-productores-al-mundial-en-dallas-con-goycochea/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Desde la Superintendencia de Riesgos del Trabajo: avances y retos en los 30 años del Sistema",
+      "resumen": "En un programa especial de 100% SEGURO desde la sede de la Superintendencia de Riesgos del Trabajo, conversamos con su Gerente General, Fernando Pérez, a 30 años de la creación del Sistema de Riesgos del Trabajo. El…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-08",
+      "url": "https://100seguro.com.ar/desde-la-superintendencia-de-riesgos-del-trabajo-avances-y-retos-en-los-30-anos-del-sistema/",
       "imagen": ""
     },
     {
@@ -129,93 +201,21 @@
       "imagen": ""
     },
     {
+      "titulo": "Generali refuerza su estructura en Portugal y  Latinoamérica con el nombramiento de Fabrizio Porto al frente de la relación con clientes y brokers",
+      "resumen": "Con más de 15 años de experiencia en el grupo, Porto asume la estrategia de distribución de Generali GC&C en Latinoamérica y la gestión de relaciones con clientes y corredores, con base en Madrid. Generali Global…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-08",
+      "url": "https://www.informeoperadores.com.ar/2026/07/08/generali-refuerza-su-estructura-en-portugal-y-latinoamerica-con-el-nombramiento-de-fabrizio-porto-al-frente-de-la-relacion-con-clientes-y-brokers/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-Fabrizio-Porto-copia-600x398.jpg"
+    },
+    {
       "titulo": "Asociart: 30 años protegiendo a más de 1 millón de trabajadores",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociart cumple 30 años desde 1996 y pasó de cubrir 297.958 trabajadores a más de 1.000.000, gestionando casos con más de 115.000 empleadores. La firma destaca…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-07-07",
       "url": "https://mercadosyseguros.com/asociart-30-anos-protegiendo-a-mas-de-1-millon-de-trabajadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Solo 5% de empresas tiene visibilidad total del riesgo de IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El '2026 Cloud Security Report' de Check Point revela que solo el 5% de las empresas tiene visibilidad completa sobre la IA; el 77% cambió su estrategia de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-07",
-      "url": "https://mercadosyseguros.com/solo-5-de-empresas-tiene-visibilidad-total-del-riesgo-de-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Demanda de perfiles digitales: ciencia de datos e IA al frente",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Fundación VASS y la Universidad Autónoma de Madrid advierten que España tiene más de un millón de especialistas TIC (4,7% del empleo) pero enfrenta una brecha que…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-07",
-      "url": "https://mercadosyseguros.com/demanda-de-perfiles-digitales-ciencia-de-datos-e-ia-al-frente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Asesoramiento profesional para proteger a las pymes",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros destacó el 27 de junio que reforzó en 2025 su canal de Productores Asesores con el programa Con Vos (Black, Gold, Silver) y ofrece coberturas para…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-07",
-      "url": "https://mercadosyseguros.com/asesoramiento-profesional-para-proteger-a-las-pymes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SellingPointLA organiza la 4ª edición de su Seminario Virtual para el mercado asegurador",
-      "resumen": "El próximo miércoles 29 y jueves 30 de julio, entre las 14 y las 18 horas de Argentina, SellingPointLA llevará a cabo la cuarta edición de su Seminario Virtual, con transmisión en vivo a través de YouTube. Se trata de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-07",
-      "url": "https://100seguro.com.ar/sellingpointla-organiza-la-4a-edicion-de-su-seminario-virtual-para-el-mercado-asegurador/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/SellingPointLA-Programa-2026-DIA-1.png"
-    },
-    {
-      "titulo": "IF-2026-66229248-APN-GE#SSN – TIPOS DE CAMBIO, COTIZACIÓN DE TÍTULOS PÚBLICOS Y ACCIONES AL 30.06.2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-07",
-      "url": "https://elseguroenaccion.com.ar/if-2026-66229248-apn-gessn-tipos-de-cambio-cotizacion-de-titulos-publicos-y-acciones-al-30-06-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-291-APN-SSN#MEC – DEROGACIÓN RESOLUCIÓN RESOL-2019-927-APNSSN#MHA – REGISTRO DE BENEFICIARIO DEL EXTERIOR ADMITIDO POR LA SUPERINTENDENCIA DE SEGUROS DE LA NACIÓN – AGENTES DE RECAUDACIÓN – COMUNICACIÓN “A” 6780 BCRA.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-07",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-291-apn-ssnmec-derogacion-resolucion-resol-2019-927-apnssnmha-registro-de-beneficiario-del-exterior-admitido-por-la-superintendencia-de-seguros-de-la-nacion-agentes-de-recaudac/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-290-APN-SSN#MEC – APRUEBA REGLAMENTO INTERVENCIÓN FONDO DE RESERVA ARTÍCULO 34 LEY DE RIESGOS DEL TRABAJO N° 24.557 – DEROGA RESOLUCIONES RESOL-2018-966-APN-SSN#MHA Y RESOL-2020-396-APN-SSN#MEC",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-07",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-290-apn-ssnmec-aprueba-reglamento-intervencion-fondo-de-reserva-articulo-34-ley-de-riesgos-del-trabajo-n-24-557-deroga-resoluciones-resol-2018-966-apn-ssnmha-y-resol-2020-3/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-289-APN-SSN#MEC – LIBRA COMPAÑÍA ARGENTINA DE SEGUROS S.A. – RÉGIMEN SANCIONATORIO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-07",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-289-apn-ssnmec-libra-compania-argentina-de-seguros-s-a-regimen-sancionatorio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Las ventas minoristas pyme crecieron 0,9% interanual en junio",
-      "resumen": "Durante el mes de junio, las ventas minoristas del segmento pyme evidenciaron una suba interanual del 0,9% a valores constantes. Por el contrario, la medición intermensual arrojó una baja del 1,3%. Con estos resultados…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-07",
-      "url": "https://elseguroenaccion.com.ar/las-ventas-minoristas-pyme-crecieron-09-interanual-en-junio/",
       "imagen": ""
     }
   ]
