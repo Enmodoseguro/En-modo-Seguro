@@ -1,14 +1,50 @@
 {
-  "actualizado": "2026-07-09T14:25-03:00",
+  "actualizado": "2026-07-10T13:37-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Seguros y ciberataques: ¿están listas las aseguradoras?",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA ya figura en 83% de las brechas reportadas y las aseguradoras enfrentan exposición por credenciales y deepfakes. Expertos alertan sobre la necesidad de…",
+      "titulo": "SSN aprueba reglamentos para intervenir el Fondo de Reserva",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la resolución 290/2026 que regula la intervención del Fondo de Reserva (art. 34, Ley 24.557) mediante EAGP o de forma directa, aclara responsabilidades…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-10",
+      "url": "https://mercadosyseguros.com/ssn-aprueba-reglamentos-para-intervenir-el-fondo-de-reserva/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Claude Fable 5: diferencias clave frente a Opus 4.8",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Anthropic lanzó Claude Fable 5 el 9 de junio de 2026; fue suspendido el 12 y reactivado el 1 de julio. Fable 5 rinde 80,3% en SWE-bench Pro frente a 69,2% de Opus…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
-      "fecha": "2026-07-09",
-      "url": "https://mercadosyseguros.com/seguros-y-ciberataques-estan-listas-las-aseguradoras/",
+      "fecha": "2026-07-10",
+      "url": "https://mercadosyseguros.com/claude-fable-5-diferencias-clave-frente-a-opus-4-8/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guerra de precios IA 2026: caída masiva de costos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En junio-julio de 2026 OpenAI, Google, Anthropic y proveedores abiertos impulsaron recortes que abarataron la inferencia: GPT-5.6 quedó en USD 5/30 por millón, Gemini…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-10",
+      "url": "https://mercadosyseguros.com/guerra-de-precios-ia-2026-caida-masiva-de-costos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Meta y el programa Cannes: pruebas secretas contra chatbots",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Meta ejecutó el programa secreto \"Cannes\" mediante el contratista Covalen, pagó a cientos de contratistas para simular menores y enviar decenas de miles de prompts…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-10",
+      "url": "https://mercadosyseguros.com/meta-y-el-programa-cannes-pruebas-secretas-contra-chatbots/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El dilema de la ciberseguridad en el sector financiero: cómo mejorar la prevención de fraude sin destruir la experiencia del cliente",
+      "resumen": "Con casi 38 millones de personas con cuentas financieras y una expansión sostenida de los canales digitales en Argentina, las organizaciones enfrentan el desafío de fortalecer sus mecanismos de seguridad sin afectar la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-10",
+      "url": "https://100seguro.com.ar/el-dilema-de-la-ciberseguridad-en-el-sector-financiero-como-mejorar-la-prevencion-de-fraude-sin-destruir-la-experiencia-del-cliente/",
       "imagen": ""
     },
     {
@@ -39,6 +75,15 @@
       "imagen": ""
     },
     {
+      "titulo": "El auge de la inversión en IA de US$ 750 mil millones y la fragmentación geopolítica reconfiguran el panorama mundial de los seguros",
+      "resumen": "Se prevé que la inflación mundial se sitúe en una media del 4% en 2026, mientras que el crecimiento del PIB se desacelerará hasta el 2,5%. Se espera que el crecimiento real de las primas mundiales de seguros de no vida…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-09",
+      "url": "https://100seguro.com.ar/el-auge-de-la-inversion-en-ia-de-us-750-mil-millones-y-la-fragmentacion-geopolitica-reconfiguran-el-panorama-mundial-de-los-seguros/",
+      "imagen": ""
+    },
+    {
       "titulo": "De la eficiencia al crecimiento: cómo las aseguradoras impulsan los ingresos mediante la implementación estratégica de IA",
       "resumen": "Un nuevo informe de Accenture revela que ocho de cada diez compañías de seguros ya aumentaron sus primas gracias a iniciativas de IA y datos. Sin embargo, la mayoría todavía no logra desplegar la tecnología de forma…",
       "fuente": "100% Seguro",
@@ -46,33 +91,6 @@
       "fecha": "2026-07-09",
       "url": "https://100seguro.com.ar/de-la-eficiencia-al-crecimiento-como-las-aseguradoras-impulsan-los-ingresos-mediante-la-implementacion-estrategica-de-ia/",
       "imagen": ""
-    },
-    {
-      "titulo": "Aon designa a Gabriel Dib como Head of Enterprise Client Group & Multinational Clients para Latinoamérica",
-      "resumen": "El ejecutivo seguirá fortaleciendo la estrategia integrada de atención a clientes multinacionales en la región Aon plc (NYSE: AON), firma líder mundial en servicios profesionales, anuncia a Gabriel Dib como Head of…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-09",
-      "url": "https://www.informeoperadores.com.ar/2026/07/09/aon-designa-a-gabriel-dib-como-head-of-enterprise-client-group-multinational-clients-para-latinoamerica/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Gabriel-Dib-600x400.jpg"
-    },
-    {
-      "titulo": "Productores de Experta Seguros vivieron un sueño mundialista en Dallas con Sergio Goycochea y los goles de Lionel Messi",
-      "resumen": "Los ganadores de la campaña “Ponete la camiseta” vivieron una experiencia exclusiva que incluyó los vibrantes partidos de la Selección, un meet & greet con Sergio Goycochea y una extensión del viaje a Miami, como…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-09",
-      "url": "https://www.informeoperadores.com.ar/2026/07/09/productores-de-experta-seguros-vivieron-un-sueno-mundialista-en-dallas-con-sergio-goycochea-y-los-goles-de-lionel-messi/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Ganadores-y-referentes-de-Experta-en-Dallas-450x600.jpeg"
-    },
-    {
-      "titulo": "Mapfre dijo presente en toda la fase de grupos de la CONMEBOL Libertadores",
-      "resumen": "Mapfre, la aseguradora multinacional líder en América Latina, reafirmó por tercer año consecutivo su presencia como sponsor oficial de la CONMEBOL Libertadores, acompañando la pasión por el fútbol y creando experiencias…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-09",
-      "url": "https://www.informeoperadores.com.ar/2026/07/09/mapfre-dijo-presente-en-toda-la-fase-de-grupos-de-la-conmebol-libertadores/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/MapfrexLibertadores-600x306.jpg"
     },
     {
       "titulo": "Desafíos de la supervisión de seguros en Latinoamérica",
@@ -198,24 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-08",
       "url": "https://elseguroenaccion.com.ar/cuanto-pagan-los-grupos-aseguradores-el-mapa-de-la-siniestralidad-a-marzo-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Generali refuerza su estructura en Portugal y  Latinoamérica con el nombramiento de Fabrizio Porto al frente de la relación con clientes y brokers",
-      "resumen": "Con más de 15 años de experiencia en el grupo, Porto asume la estrategia de distribución de Generali GC&C en Latinoamérica y la gestión de relaciones con clientes y corredores, con base en Madrid. Generali Global…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-08",
-      "url": "https://www.informeoperadores.com.ar/2026/07/08/generali-refuerza-su-estructura-en-portugal-y-latinoamerica-con-el-nombramiento-de-fabrizio-porto-al-frente-de-la-relacion-con-clientes-y-brokers/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-Fabrizio-Porto-copia-600x398.jpg"
-    },
-    {
-      "titulo": "Asociart: 30 años protegiendo a más de 1 millón de trabajadores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociart cumple 30 años desde 1996 y pasó de cubrir 297.958 trabajadores a más de 1.000.000, gestionando casos con más de 115.000 empleadores. La firma destaca…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-07",
-      "url": "https://mercadosyseguros.com/asociart-30-anos-protegiendo-a-mas-de-1-millon-de-trabajadores/",
       "imagen": ""
     }
   ]
