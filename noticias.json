@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-10T13:37-03:00",
+  "actualizado": "2026-07-11T08:39-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Allianz: Gerardo Pardo asumirá la dirección regional en Latinoamérica",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Commercial confirmó que Gerardo Pardo, CEO de Allianz Argentina, asumirá desde el 1° de agosto como Regional Managing Director para Latinoamérica tras la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-11",
+      "url": "https://mercadosyseguros.com/allianz-gerardo-pardo-asumira-la-direccion-regional-en-latinoamerica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Compasión en la medicina: evidencia y efectos clínicos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Revisión de evidencia científica sobre la compasión en medicina: estudios clínicos muestran reducciones en uso de analgésicos, presión arterial y complicaciones en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-11",
+      "url": "https://mercadosyseguros.com/compasion-en-la-medicina-evidencia-y-efectos-clinicos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SRT: 30 años del sistema de riesgos del trabajo en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Superintendencia de Riesgos del Trabajo (SRT) evaluó el sistema creado por la ley 24.557 (julio de 1996): la cobertura pasó de 3,5 millones a casi 10 millones de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-11",
+      "url": "https://mercadosyseguros.com/srt-30-anos-del-sistema-de-riesgos-del-trabajo-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "UART cumple 30 años: AACS la felicita por su labor en riesgos del trabajo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La AACS felicitó a la Unión de Aseguradoras de Riesgos del Trabajo (UART) por su 30° aniversario y resaltó que el sistema asiste a más de 10 millones de trabajadores.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-11",
+      "url": "https://mercadosyseguros.com/uart-cumple-30-anos-aacs-la-felicita-por-su-labor-en-riesgos-del-trabajo/",
+      "imagen": ""
+    },
     {
       "titulo": "SSN aprueba reglamentos para intervenir el Fondo de Reserva",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la resolución 290/2026 que regula la intervención del Fondo de Reserva (art. 34, Ley 24.557) mediante EAGP o de forma directa, aclara responsabilidades…",
@@ -30,12 +66,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Meta y el programa Cannes: pruebas secretas contra chatbots",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Meta ejecutó el programa secreto \"Cannes\" mediante el contratista Covalen, pagó a cientos de contratistas para simular menores y enviar decenas de miles de prompts…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
+      "titulo": "Desde la Superintendencia de Riesgos del Trabajo: avances y retos en los 30 años del Sistema",
+      "resumen": "En un programa especial de 100% SEGURO desde la sede de la Superintendencia de Riesgos del Trabajo, conversamos con su Gerente General, Fernando Pérez, a 30 años de la creación del Sistema de Riesgos del Trabajo. El…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
       "fecha": "2026-07-10",
-      "url": "https://mercadosyseguros.com/meta-y-el-programa-cannes-pruebas-secretas-contra-chatbots/",
+      "url": "https://100seguro.com.ar/desde-la-superintendencia-de-riesgos-del-trabajo-avances-y-retos-en-los-30-anos-del-sistema/",
       "imagen": ""
     },
     {
@@ -48,21 +84,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Comparativa Gemini vs GPT-4o: rendimiento y costos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gemini 3.1 Pro (Google, jul 2026) lidera en MATH-500 (96.8%) y SWE-Bench (80-81%) y resulta más barato en API (~$2/M tokens). GPT-4o (OpenAI, may 2024) destaca en…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Argentina y el desafío de gestionar un boom de courier sin cerrar fronteras: USD 103 millones en marzo.",
+      "resumen": "En marzo de 2026, Argentina reportó un ingreso de USD 103 millones provenientes del comercio electrónico internacional, un indicador claro del crecimiento exponencial que este sector ha experimentado en los últimos…",
+      "fuente": "NBS",
       "categoria": "Mercado",
-      "fecha": "2026-07-09",
-      "url": "https://mercadosyseguros.com/comparativa-gemini-vs-gpt-4o-rendimiento-y-costos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cloudflare impone pago por crawl desde septiembre 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Cloudflare activó pay-per-crawl: desde el 15/09/2026 bloquea por defecto crawlers “mixed-use” en sitios con ads y exige micropagos via x402 (stablecoins) tras un HTTP…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-09",
-      "url": "https://mercadosyseguros.com/cloudflare-impone-pago-por-crawl-desde-septiembre-2026/",
+      "fecha": "2026-07-10",
+      "url": "https://nbs.ar/argentina-y-el-desafio-de-gestionar-un-boom-de-courier-sin-cerrar-fronteras-usd-103-millones-en-marzo/",
       "imagen": ""
     },
     {
@@ -108,24 +135,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-08",
       "url": "https://mercadosyseguros.com/xii-seminario-latinoamericano-de-seguros-apertura-y-cifras-clave/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Experta Seguros llevó a 12 productores al Mundial en Dallas con Goycochea",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros envió a 12 productores a Dallas para ver los partidos de la Selección en el Mundial, incluyó un meet & greet con Sergio Goycochea y una extensión del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-08",
-      "url": "https://mercadosyseguros.com/experta-seguros-llevo-a-12-productores-al-mundial-en-dallas-con-goycochea/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Desde la Superintendencia de Riesgos del Trabajo: avances y retos en los 30 años del Sistema",
-      "resumen": "En un programa especial de 100% SEGURO desde la sede de la Superintendencia de Riesgos del Trabajo, conversamos con su Gerente General, Fernando Pérez, a 30 años de la creación del Sistema de Riesgos del Trabajo. El…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-08",
-      "url": "https://100seguro.com.ar/desde-la-superintendencia-de-riesgos-del-trabajo-avances-y-retos-en-los-30-anos-del-sistema/",
       "imagen": ""
     },
     {
@@ -207,15 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-08",
       "url": "https://elseguroenaccion.com.ar/menos-autos-mas-motos-que-el-ano-pasado-el-nuevo-equilibrio-del-mercado-0-km/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cuánto pagan los grupos aseguradores: el mapa de la siniestralidad a marzo 2026",
-      "resumen": "Nuestra estadística interactiva para medir, grupo por grupo, cuánto de cada peso de prima terminó en manos de los asegurados. El costo de los siniestros es, junto con los gastos y la rentabilidad financiera, uno de los…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-08",
-      "url": "https://elseguroenaccion.com.ar/cuanto-pagan-los-grupos-aseguradores-el-mapa-de-la-siniestralidad-a-marzo-2026/",
       "imagen": ""
     }
   ]
