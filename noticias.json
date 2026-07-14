@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-13T14:21-03:00",
+  "actualizado": "2026-07-14T09:55-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Siniestralidad marzo 2026: cuánto pagaron los grupos aseguradores",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A marzo de 2026, los grupos aseguradores relevados registraron una siniestralidad del 54,6% de la prima devengada. La estadística interactiva de El Seguro en Acción…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-14",
+      "url": "https://mercadosyseguros.com/siniestralidad-marzo-2026-cuanto-pagaron-los-grupos-aseguradores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ventas minoristas pyme: suba interanual de 0,9% en junio",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En junio las ventas minoristas pyme subieron 0,9% interanual (CAME), con caída mensual de 1,3% y -2,5% en el primer semestre. El SAC y el Mundial impulsaron sectores…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-14",
+      "url": "https://mercadosyseguros.com/ventas-minoristas-pyme-suba-interanual-de-09-en-junio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Coopathon Educativo: 182 proyectos de 21 provincias",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Coopathon Educativo cerró la inscripción con 182 proyectos de cooperativas y mutuales escolares de 21 provincias. El 17 de julio se anunciarán 50 seleccionados y en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-14",
+      "url": "https://mercadosyseguros.com/coopathon-educativo-182-proyectos-de-21-provincias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "30 años del Sistema de Riesgos del Trabajo en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A 30 años del sistema de riesgos del trabajo, la UART informa cobertura de 10,2 millones de trabajadores, 1 millón de empleadores, 20.000 vidas salvadas y 5,1…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-14",
+      "url": "https://mercadosyseguros.com/30-anos-del-sistema-de-riesgos-del-trabajo-en-argentina/",
+      "imagen": ""
+    },
     {
       "titulo": "ART: 30 años del sistema que protege a 10 millones de trabajadores",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 1 de julio de 1996 se puso en marcha la Ley de Riesgos del Trabajo Nº 24.557. Experta ART destaca que el sistema protege a cerca de 10 millones de trabajadores,…",
@@ -39,6 +75,33 @@
       "imagen": ""
     },
     {
+      "titulo": "Experta Seguros sigue innovando y ahora lanza una solución digital para el alquiler de viviendas",
+      "resumen": "La compañía presenta un nuevo seguro de caución que brinda respaldo tanto a propietarios como a inquilinos. La compañía permite cotizar, emitir y contratar la cobertura de manera 100% online. La entrada Experta Seguros…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-13",
+      "url": "https://100seguro.com.ar/experta-seguros-sigue-innovando-y-ahora-lanza-una-solucion-digital-para-el-alquiler-de-viviendas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Funcionarios de la Oficina del Tesoro de los Estados Unidos se reúnen con la SSN para tratar propuestas de reforma del marco jurídico de los seguros",
+      "resumen": "El Superintendente de Seguros de la Nación, Guillermo Plate, junto a autoridades y funcionarios de la SSN, mantiene durante esta semana una serie de reuniones de trabajo con funcionarios de la Office of Technical…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-13",
+      "url": "https://100seguro.com.ar/funcionarios-de-la-oficina-del-tesoro-de-los-estados-unidos-se-reunen-con-la-ssn-para-tratar-propuestas-de-reforma-del-marco-juridico-de-los-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/ssn_reunion_otta_carrusel_03_-300x200.jpg"
+    },
+    {
+      "titulo": "Weecover impulsa la integración de seguros en el ecosistema bancario a través de su plataforma de distribución",
+      "resumen": "La compañía se posiciona como una plataforma insurtech de distribución de seguros integral, capaz de habilitar seguros embebidos, distribución omnicanal así como operar como core asegurador. Su tecnología permite a la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-13",
+      "url": "https://100seguro.com.ar/weecover-impulsa-la-integracion-de-seguros-en-el-ecosistema-bancario-a-traves-de-su-plataforma-de-distribucion/",
+      "imagen": ""
+    },
+    {
       "titulo": "3ra Edición Premio REDMES LATAM 2026 | Apertura de postulaciones",
       "resumen": "Con mucho entusiasmo anunciamos que ya está abierta la convocatoria a postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman. Este reconocimiento regional busca visibilizar a mujeres que…",
       "fuente": "El Seguro en Acción",
@@ -72,42 +135,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-12",
       "url": "https://mercadosyseguros.com/allianz-gerardo-pardo-asumira-liderazgo-regional-en-latinoamerica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ventas de seguros en mayo 2026: personas +4%, patrimoniales -3,9%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en mayo de 2026 la producción de seguros fue de 2.128,9 billones de pesos: a valores constantes los seguros de personas crecieron 4% e los…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-12",
-      "url": "https://mercadosyseguros.com/ventas-de-seguros-en-mayo-2026-personas-4-patrimoniales-39/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Academia AAPAS: nueva oferta de formación para productores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS lanzó la Academia AAPAS en julio de 2026: una plataforma 100% online con certificación institucional que ofrece cursos en comercial, gestión y inteligencia…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-12",
-      "url": "https://mercadosyseguros.com/academia-aapas-nueva-oferta-de-formacion-para-productores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz: Gerardo Pardo asumirá la dirección regional en Latinoamérica",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Commercial confirmó que Gerardo Pardo, CEO de Allianz Argentina, asumirá desde el 1° de agosto como Regional Managing Director para Latinoamérica tras la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-11",
-      "url": "https://mercadosyseguros.com/allianz-gerardo-pardo-asumira-la-direccion-regional-en-latinoamerica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Compasión en la medicina: evidencia y efectos clínicos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Revisión de evidencia científica sobre la compasión en medicina: estudios clínicos muestran reducciones en uso de analgésicos, presión arterial y complicaciones en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-11",
-      "url": "https://mercadosyseguros.com/compasion-en-la-medicina-evidencia-y-efectos-clinicos/",
       "imagen": ""
     },
     {
@@ -180,33 +207,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-08",
       "url": "https://100seguro.com.ar/aprueban-nuevo-reglamento-para-la-gestion-de-prestaciones-del-fondo-de-reserva-de-riesgos-del-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Eliminan el Registro de Beneficiario del Exterior para pagos de primas de reaseguros",
-      "resumen": "RESOLUCIÓN SSN 291/2026.- La Superintendencia de Seguros de la Nación (SSN) derogó el Registro de Beneficiario del Exterior, un requisito que estaba vigente desde 2019 para la operatoria de pagos de primas de reaseguros…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-08",
-      "url": "https://100seguro.com.ar/eliminan-el-registro-de-beneficiario-del-exterior-para-pagos-de-primas-de-reaseguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Buenas y malas en el primaje de mayo: caída del ramo Autos y crecimiento en ART, RC y Vida",
-      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,128 billones de pesos en mayo, lo que implica una caída del 1,5% mensual en términos reales con respecto al mes anterior (abril de 2026), que tuvo una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-08",
-      "url": "https://100seguro.com.ar/buenas-y-malas-en-el-primaje-de-mayo-caida-del-ramo-autos-y-crecimiento-en-art-rc-y-vida/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Estimacion-de-la-Produccion-de-Seguros-Mayo-2026.png"
-    },
-    {
-      "titulo": "La SSN multó a Libra Seguros por demoras en el pago de indemnizaciones de siniestros",
-      "resumen": "RESOLUCIÓN SSN 289/2026.- La Superintendencia de Seguros de la Nación (SSN) sancionó a Libra Compañía Argentina de Seguros S.A. con una multa de $13.410.784,75 por haber incumplido los plazos establecidos por la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-08",
-      "url": "https://100seguro.com.ar/la-ssn-multo-a-libra-seguros-por-demoras-en-el-pago-de-indemnizaciones-de-siniestros/",
       "imagen": ""
     },
     {
