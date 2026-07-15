@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-15T09:06-03:00",
+  "actualizado": "2026-07-15T10:00-03:00",
   "total": 24,
   "noticias": [
     {
@@ -37,6 +37,15 @@
       "fecha": "2026-07-15",
       "url": "https://mercadosyseguros.com/patentamientos-junio-menos-autos-motos-siguen-arriba/",
       "imagen": ""
+    },
+    {
+      "titulo": "Experta Seguros sigue innovando y ahora lanza una solución digital para el alquiler de vivienda",
+      "resumen": "La compañía presenta un nuevo seguro de caución que brinda respaldo tanto a propietarios como a inquilinos. La compañía permite cotizar, emitir y contratar la cobertura de manera 100 % online. Experta Seguros sigue…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-07-15",
+      "url": "https://www.informeoperadores.com.ar/2026/07/15/experta-seguros-sigue-innovando-y-ahora-lanza-una-solucion-digital-para-el-alquiler-de-vivienda/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Experta-Seguros-lanza-su-producto-Seguro-de-caucion-600x400.jpg"
     },
     {
       "titulo": "Siniestralidad marzo 2026: cuánto pagaron los grupos aseguradores",
@@ -207,15 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-13",
       "url": "https://elseguroenaccion.com.ar/aalps-curso-de-gestion-de-siniestros-marzo-2026-abierta-la-inscripcionon-line-cierre-de-inscripciones-ultimas-vacante-2/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Desde la Superintendencia de Riesgos del Trabajo: avances y retos en los 30 años del Sistema",
-      "resumen": "En un programa especial de 100% SEGURO desde la sede de la Superintendencia de Riesgos del Trabajo, conversamos con su Gerente General, Fernando Pérez, a 30 años de la creación del Sistema de Riesgos del Trabajo. El…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-10",
-      "url": "https://100seguro.com.ar/desde-la-superintendencia-de-riesgos-del-trabajo-avances-y-retos-en-los-30-anos-del-sistema/",
       "imagen": ""
     }
   ]
