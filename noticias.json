@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-16T12:19-03:00",
+  "actualizado": "2026-07-17T09:48-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Lincoln negocia con Talcott reaseguro por miles de millones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lincoln National y Talcott negocian un reaseguro sobre cerca de US$5.000 millones en pólizas de vida universal con garantía secundaria. La operación, aún sin firma,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://mercadosyseguros.com/lincoln-negocia-con-talcott-reaseguro-por-miles-de-millones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro de caución digital para alquileres de Experta Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros presentó el 1 de julio un seguro de caución completamente digital para alquileres. La póliza cubre el impago de alquiler y ofrece opciones contra…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-17",
+      "url": "https://mercadosyseguros.com/seguro-de-caucion-digital-para-alquileres-de-experta-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Premio REDMES LATAM 2026: apertura de postulaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Abrieron las postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman hasta el 11 de agosto de 2026. Se premian tres categorías y pueden…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://mercadosyseguros.com/premio-redmes-latam-2026-apertura-de-postulaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Curso Gestión de Siniestros AALPS: inscripción abierta",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AALPS abrió la inscripción para el Curso de Gestión de Siniestros on line, que inicia el 3 de agosto de 2026 y dura 8 meses. Costo base $1.500.000 con opciones de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://mercadosyseguros.com/curso-gestion-de-siniestros-aalps-inscripcion-abierta/",
+      "imagen": ""
+    },
     {
       "titulo": "AALPS abrió inscripción para curso de gestión de siniestros",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com AALPS lanzó la inscripción para su curso online \"Gestión de siniestros en el sector asegurador\", que empieza el 3 de agosto, dura ocho meses y cuesta $1.350.000. Está…",
@@ -39,12 +75,39 @@
       "imagen": ""
     },
     {
+      "titulo": "Cuando una foto ya no alcanza como prueba: el nuevo desafío de las aseguradoras frente a la inteligencia artificial",
+      "resumen": "El crecimiento del fraude impulsado por la inteligencia artificial obliga a las compañías de seguros a replantear sus procesos de validación, investigación de siniestros y prevención del riesgo frente a maniobras cada…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-16",
+      "url": "https://100seguro.com.ar/cuando-una-foto-ya-no-alcanza-como-prueba-el-nuevo-desafio-de-las-aseguradoras-frente-a-la-inteligencia-artificial/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Flux-IT-seguros-auto.jpg"
+    },
+    {
+      "titulo": "La SSN simplificó el régimen vigente de seguros para el transporte de pasajeros",
+      "resumen": "RESOLUCIÓN SSN 300/2026.- La Superintendencia de Seguros de la Nación (SSN) aprobó una actualización del régimen de seguros aplicable al transporte de pasajeros, con el objetivo de adecuarlo a las modificaciones…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-16",
+      "url": "https://100seguro.com.ar/la-ssn-simplifico-el-regimen-vigente-de-seguros-para-el-transporte-de-pasajeros/",
+      "imagen": ""
+    },
+    {
       "titulo": "El ciberseguro, en un punto de inflexión por el incremento del riesgo y la reducción de las primas",
       "resumen": "S&P Global Ratings advierte de que el mercado de los ciberseguros afronta una encrucijada: mantener la rentabilidad mediante una mayor disciplina tarifaria o entrar en un ciclo de pérdidas por el incremento de los…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-07-16",
       "url": "https://100seguro.com.ar/el-ciberseguro-en-un-punto-de-inflexion-por-el-incremento-del-riesgo-y-la-reduccion-de-las-primas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La electromovilidad ya cambió el riesgo",
+      "resumen": "El primer informe del Alumni Think Tank de AAPAS analiza cómo la llegada de los vehículos eléctricos, la infraestructura de carga y la micromovilidad están modificando el ecosistema de riesgos y cuáles son las…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-16",
+      "url": "https://elseguroenaccion.com.ar/la-electromovilidad-ya-cambio-el-riesgo/",
       "imagen": ""
     },
     {
@@ -111,6 +174,24 @@
       "imagen": ""
     },
     {
+      "titulo": "Socios, no intermediarios",
+      "resumen": "La entrada Socios, no intermediarios se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-16",
+      "url": "https://www.informeoperadores.com.ar/2026/07/16/socios-no-intermediarios/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-1.jpg"
+    },
+    {
+      "titulo": "Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor",
+      "resumen": "La entrada Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-07-16",
+      "url": "https://www.informeoperadores.com.ar/2026/07/16/seguros-y-turismo-desregulacion-tecnologia-y-el-rol-del-asesor/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/FOTO-MARCELO-ANDUCH-MEDIOS.jpeg"
+    },
+    {
       "titulo": "814",
       "resumen": "La entrada 814 se publicó primero en Informe Operadores de Mercado .",
       "fuente": "Informe Operadores",
@@ -135,87 +216,6 @@
       "categoria": "Innovación",
       "fecha": "2026-07-16",
       "url": "https://nbs.ar/fundacion-banco-nacion-y-asociacion-conciencia-lanzan-concurso-para-impulsar-12-emprendimientos-innovadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Pablo Sansuste: Seis desafíos para que los bancos se preparen para el futuro",
-      "resumen": "Un informe de Bain detalla que las entidades que destacarán en la transformación del sector serán aquellos que logren simplificar sus estructuras y actúen con agilidad ante los cambios en el entorno financiero. La…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://nbs.ar/pablo-sansuste-seis-desafios-para-que-los-bancos-se-preparen-para-el-futuro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cámaras obligatorias en autos nuevos: qué pasa con los datos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Desde el 7 de julio de 2026 la UE obliga el sistema ADDW en autos nuevos, que detecta si el conductor está atento y, según el reglamento, no debe grabar ni exportar…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-15",
-      "url": "https://mercadosyseguros.com/camaras-obligatorias-en-autos-nuevos-que-pasa-con-los-datos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Evolución Seguros reunió a su equipo para ver Argentina–Egipto",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Directivos y empleados de Evolución Seguros se reunieron el 8 de julio de 2026 en la sede de la Ciudad de Buenos Aires para ver el partido de octavos de final del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-15",
-      "url": "https://mercadosyseguros.com/evolucion-seguros-reunio-a-su-equipo-para-ver-argentina-egipto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Foro Regional de Seguros NEA: Resistencia 8 de octubre",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Foro Regional de Seguros del NEA se realizará el 8 de octubre de 2026 en el Centro de Convenciones Gala de Resistencia, Chaco, organizado por FAPASA y las APAS de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-15",
-      "url": "https://mercadosyseguros.com/foro-regional-de-seguros-nea-resistencia-8-de-octubre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos junio: menos autos, motos siguen arriba",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En junio se patentaron 45.995 autos (-12,8% interanual) y 68.390 motos (+42,3% interanual), según SIOMAA (ACARA). Toyota y Honda lideran las ventas de autos y motos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-15",
-      "url": "https://mercadosyseguros.com/patentamientos-junio-menos-autos-motos-siguen-arriba/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Festejar con el corazón y al volante con responsabilidad: ATM Seguros comparte 5 claves para que la alegría sea completa",
-      "resumen": "La pasión por la Selección moviliza a millones de argentinos a las calles. Para evitar que las celebraciones se empañen, la aseguradora, promueve pautas de convivencia vial destinadas a cuidar a las familias. Sebastián…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-15",
-      "url": "https://100seguro.com.ar/festejar-con-el-corazon-y-al-volante-con-responsabilidad-atm-seguros-comparte-5-claves-para-que-la-alegria-sea-completa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "The Human Safety Net Argentina recaudó más de $17 millones y logró una recaudación récord para proyectos sociales",
-      "resumen": "La campaña anual “Global Challenge”, que movilizó a colaboradores, productores, clientes y socios de La Caja, alcanzó una recaudación 40% superior a la de 2025 y permitirá financiar proyectos de Haciendo Camino y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-15",
-      "url": "https://100seguro.com.ar/the-human-safety-net-argentina-recaudo-mas-de-17-millones-y-logro-una-recaudacion-record-para-proyectos-sociales/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/06/Carla-Ponce-La-Caja-11.jpg"
-    },
-    {
-      "titulo": "Mercer y Qualtrics reafirman su alianza estratégica en Latinoamérica en programas de Experiencia y Cultura",
-      "resumen": "Mercer, líder global en consultoría de recursos humanos y negocio de Marsh, y Qualtrics, pionero y líder en la categoría de gestión de la experiencia (XM), se complacen en anunciar su nueva alianza estratégica. Esta…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-15",
-      "url": "https://100seguro.com.ar/mercer-y-qualtrics-reafirman-su-alianza-estrategica-en-latinoamerica-en-programas-de-experiencia-y-cultura/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Pablo-Talarico-Director-Commercial-South-America-de-Qualtrics.jpg"
-    },
-    {
-      "titulo": "Marca, Datos y Digitalización: el secreto de CNP Seguros | Foro NEA 2026 en Chaco",
-      "resumen": "En este episodio, Paula Tognola, Gerenta Ejecutiva de Comunicación y Sustentabilidad de CNP Seguros, nos cuenta cómo la compañía trabaja su posicionamiento de marca en un mercado altamente competitivo, y su estrategia…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-07-15",
-      "url": "https://elseguroenaccion.com.ar/marca-datos-y-digitalizacion-el-secreto-de-cnp-seguros-foro-nea-2026-en-chaco/",
       "imagen": ""
     }
   ]
