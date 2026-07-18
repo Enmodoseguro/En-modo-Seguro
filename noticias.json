@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-17T09:48-03:00",
+  "actualizado": "2026-07-18T09:02-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Imágenes aéreas para seguros: Near Space Labs y la preparación para IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Near Space Labs, fundada en 2017, entrega imágenes aéreas de alta resolución con frecuencia trimestral que permiten a aseguradoras mejorar sus suscripciones y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-18",
+      "url": "https://mercadosyseguros.com/imagenes-aereas-para-seguros-near-space-labs-y-la-preparacion-para-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Lloyd’s Lab impulsa IA en 60% de sus startups",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lloyd's Lab, en su 16ª edición y junto a The Hartford y Google Cloud, confirma que entre el 50% y 60% de sus insurtechs usan IA para sus productos u operaciones. El…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-18",
+      "url": "https://mercadosyseguros.com/lloyds-lab-impulsa-ia-en-60-de-sus-startups/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en agencias de seguros: interés alto y uso incipiente",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aunque el 68% de las agencias independientes mostró interés en la IA, solo el 8% la usa; el 56% no tiene políticas escritas y el 44% depende de capacitación entre…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-18",
+      "url": "https://mercadosyseguros.com/ia-en-agencias-de-seguros-interes-alto-y-uso-incipiente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Duck Creek compra Send: IA para sus procesos de suscripción",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Duck Creek Technologies adquirió Send Technology Solutions, motor de suscripción con IA; Andy Moss seguirá como gerente general de suscripción y Send mantendrá su…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-18",
+      "url": "https://mercadosyseguros.com/duck-creek-compra-send-ia-para-sus-procesos-de-suscripcion/",
+      "imagen": ""
+    },
     {
       "titulo": "Lincoln negocia con Talcott reaseguro por miles de millones",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lincoln National y Talcott negocian un reaseguro sobre cerca de US$5.000 millones en pólizas de vida universal con garantía secundaria. La operación, aún sin firma,…",
@@ -39,6 +75,114 @@
       "imagen": ""
     },
     {
+      "titulo": "Klimber alcanza los mil millones de paquetes de seguro emitidos con inteligencia artificial en el centro de su operación",
+      "resumen": "Un hito que redefine la escala posible para una operación aseguradora nativa en IA: 5 mil millones de transacciones procesadas de forma automática, en 6 países, con un equipo de apenas 160 personas. La entrada Klimber…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/klimber-alcanza-los-mil-millones-de-paquetes-de-seguro-emitidos-con-inteligencia-artificial-en-el-centro-de-su-operacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vacaciones de invierno: viajar tranquilo y dejar la casa asegurada",
+      "resumen": "En un nuevo programa de 100% SEGURO, y en el inicio de las vacaciones de invierno, analizamos dos coberturas clave para viajar con tranquilidad: el seguro de hogar, para dejar la vivienda protegida, y la asistencia al…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/vacaciones-de-invierno-viajar-tranquilo-y-dejar-la-casa-asegurada/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Zona Oeste encabeza el ranking de robos de autos en la primera parte del año",
+      "resumen": "Los datos se desprenden del “Indicador Ituran de Robo Vehicular” (IRV) recabados entre enero y junio de 2026, que registra, mes a mes, la variación de este delito en CABA y GBA. La entrada La Zona Oeste encabeza el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/la-zona-oeste-encabeza-el-ranking-de-robos-de-autos-en-la-primera-parte-del-ano/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Tipo-de-vehiculo-mas-robado-Primer-semestre-de-2026.png"
+    },
+    {
+      "titulo": "Sancor Seguros acompaña a la Selección Argentina en una nueva final del mundo",
+      "resumen": "Como Sponsor Oficial de la Selección Argentina, la aseguradora estuvo presente durante todo el recorrido del equipo en la Copa Mundial de la FIFA 2026 y compartió esa pasión junto a los ganadores de Ganá Más Convocados,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/sancor-seguros-acompana-a-la-seleccion-argentina-en-una-nueva-final-del-mundo/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Sancor-Seguros-acompana-a-la-Seleccion-Argentina-en-una-nueva-final-del-mundo-2.jpeg"
+    },
+    {
+      "titulo": "Los riesgos de la siembra: por qué el seguro agrícola es una inversión estratégica",
+      "resumen": "En una campaña donde cada hectárea puede representar una inversión de hasta US$ 1.000, un solo evento de granizo puede comprometer meses de trabajo. En ese contexto, el seguro agrícola gana protagonismo como una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/los-riesgos-de-la-siembra-por-que-el-seguro-agricola-es-una-inversion-estrategica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sistema de Licencias Nacionales Profesionales: más simple, mayor vigencia y libertad de elección para los conductores",
+      "resumen": "​Entre los beneficios, se destacan la validez de la licencia por hasta 5 años y la libre elección de prestadores en un sistema que ya rige en el país y al cual ahora se incorporó la provincia de Buenos Aires. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/sistema-de-licencias-nacionales-profesionales-mas-simple-mayor-vigencia-y-libertad-de-eleccion-para-los-conductores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "A 30 años del Sistema de Riesgos del Trabajo, Federación Patronal ART reafirma su compromiso con la prevención",
+      "resumen": "En el marco del 30° aniversario de la entrada en vigencia de la Ley de Riesgos del Trabajo 24.557, Federación Patronal ART destaca el camino recorrido en materia de prevención, cuidado de la salud y acompañamiento a…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/a-30-anos-del-sistema-de-riesgos-del-trabajo-federacion-patronal-art-reafirma-su-compromiso-con-la-prevencion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Llegan las vacaciones de invierno: cómo prepararse para salir a la ruta y reducir riesgos durante el viaje",
+      "resumen": "En vísperas de las vacaciones de invierno, muchas personas aprovechan para hacer una escapada y tomarse unos días de descanso antes de afrontar la segunda mitad del año. En medio del cierre de pendientes laborales y los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/llegan-las-vacaciones-de-invierno-como-prepararse-para-salir-a-la-ruta-y-reducir-riesgos-durante-el-viaje/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN definió las condiciones del Curso Anual de Actualización 2026 para agentes institorios",
+      "resumen": "RESOLUCIÓN SSN 303/2026.- La Superintendencia de Seguros de la Nación (SSN) estableció las condiciones para la realización del Curso Anual de Actualización 2026 destinado a los responsables de seguros y de atención al…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/la-ssn-definio-las-condiciones-del-curso-anual-de-actualizacion-2026-para-agentes-institorios/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Importes-correspondientes-a-cada-curso-2026.png"
+    },
+    {
+      "titulo": "La SSN concedió recursos de apelación a dos aseguradoras sancionadas y los expedientes pasarán a la Justicia Comercial",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN) concedió los recursos de apelación presentados por La Nueva Cooperativa de Seguros Limitada y Galeno Seguros S.A. contra dos resoluciones sancionatorias dictadas por el…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-17",
+      "url": "https://100seguro.com.ar/la-ssn-concedio-recursos-de-apelacion-a-dos-aseguradoras-sancionadas-y-los-expedientes-pasaran-a-la-justicia-comercial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El restaurante que enamoró a los Cardales: 18 años de cocina mediterránea, alma casera y una carta que invita a compartir",
+      "resumen": "La entrada El restaurante que enamoró a los Cardales: 18 años de cocina mediterránea, alma casera y una carta que invita a compartir se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://www.informeoperadores.com.ar/2026/07/17/el-restaurante-que-enamoro-a-los-cardales-18-anos-de-cocina-mediterranea-alma-casera-y-una-carta-que-invita-a-compartir/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/814-gourmond.jpg"
+    },
+    {
+      "titulo": "Riesgos corporativos: cuando el mercado asegurador no llega al ritmo de la empresa",
+      "resumen": "La entrada Riesgos corporativos: cuando el mercado asegurador no llega al ritmo de la empresa se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://www.informeoperadores.com.ar/2026/07/17/riesgos-corporativos-cuando-el-mercado-asegurador-no-llega-al-ritmo-de-la-empresa/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-2.jpg"
+    },
+    {
       "titulo": "AALPS abrió inscripción para curso de gestión de siniestros",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com AALPS lanzó la inscripción para su curso online \"Gestión de siniestros en el sector asegurador\", que empieza el 3 de agosto, dura ocho meses y cuesta $1.350.000. Está…",
       "fuente": "Mercado y Seguros",
@@ -57,51 +201,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Parque de automotores junio 2026: aumento nacional 2,8%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El parque activo de automotores llegó a 18.861.098 unidades a junio de 2026, un alza interanual de 2,77%. Neuquén (+5,32%), Río Negro (+4,23%), Corrientes (+3,87%) y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://mercadosyseguros.com/parque-de-automotores-junio-2026-aumento-nacional-28/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Juego en la calle y desarrollo infantil",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Estudios históricos y recientes muestran que el \"home range\" infantil se redujo y que jugar al aire libre entre los 2 y 4 años se asocia con mejor salud mental y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://mercadosyseguros.com/juego-en-la-calle-y-desarrollo-infantil/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cuando una foto ya no alcanza como prueba: el nuevo desafío de las aseguradoras frente a la inteligencia artificial",
-      "resumen": "El crecimiento del fraude impulsado por la inteligencia artificial obliga a las compañías de seguros a replantear sus procesos de validación, investigación de siniestros y prevención del riesgo frente a maniobras cada…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-16",
-      "url": "https://100seguro.com.ar/cuando-una-foto-ya-no-alcanza-como-prueba-el-nuevo-desafio-de-las-aseguradoras-frente-a-la-inteligencia-artificial/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Flux-IT-seguros-auto.jpg"
-    },
-    {
-      "titulo": "La SSN simplificó el régimen vigente de seguros para el transporte de pasajeros",
-      "resumen": "RESOLUCIÓN SSN 300/2026.- La Superintendencia de Seguros de la Nación (SSN) aprobó una actualización del régimen de seguros aplicable al transporte de pasajeros, con el objetivo de adecuarlo a las modificaciones…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-16",
-      "url": "https://100seguro.com.ar/la-ssn-simplifico-el-regimen-vigente-de-seguros-para-el-transporte-de-pasajeros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El ciberseguro, en un punto de inflexión por el incremento del riesgo y la reducción de las primas",
-      "resumen": "S&P Global Ratings advierte de que el mercado de los ciberseguros afronta una encrucijada: mantener la rentabilidad mediante una mayor disciplina tarifaria o entrar en un ciclo de pérdidas por el incremento de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://100seguro.com.ar/el-ciberseguro-en-un-punto-de-inflexion-por-el-incremento-del-riesgo-y-la-reduccion-de-las-primas/",
-      "imagen": ""
-    },
-    {
       "titulo": "La electromovilidad ya cambió el riesgo",
       "resumen": "El primer informe del Alumni Think Tank de AAPAS analiza cómo la llegada de los vehículos eléctricos, la infraestructura de carga y la micromovilidad están modificando el ecosistema de riesgos y cuáles son las…",
       "fuente": "El Seguro en Acción",
@@ -117,105 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-16",
       "url": "https://elseguroenaccion.com.ar/cursos-virtuales-prevenir-2026-tercera-edicion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Llegó el invierno: Recomendaciones clave para prevenir averías y garantizar la seguridad al conducir",
-      "resumen": "Las bajas temperaturas pueden afectar el funcionamiento del vehículo. Por eso, un correcto mantenimiento y algunas medidas preventivas permiten reducir los problemas mecánicos y mejorar la seguridad ante fríos extremos.…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/llego-el-invierno-recomendaciones-clave-para-prevenir-averias-y-garantizar-la-seguridad-al-conducir/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vacaciones de invierno: El sueño, un enemigo invisible sobre ruedas",
-      "resumen": "¿Estás preparando las valijas? Luchemos por la Vida y Dormir con Ciencia te advierten que hay un enemigo invisible en la carretera: la somnolencia al volante. A veces pensamos que por «aguantar un poco más» o «dormir…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/vacaciones-de-invierno-el-sueno-un-enemigo-invisible-sobre-ruedas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Experta Seguros sigue innovando y ahora lanza una solución digital para el alquiler de vivienda",
-      "resumen": "La compañía presenta un nuevo seguro de caución que brinda respaldo tanto a propietarios como a inquilinos. La compañía permite cotizar, emitir y contratar la cobertura de manera 100 % online. Experta Seguros sigue…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/experta-seguros-sigue-innovando-y-ahora-lanza-una-solucion-digital-para-el-alquiler-de-vivienda/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fraude al seguro: el «agujero negro» que desangra al mercado entre la desidia estatal y la industria del caranchaje",
-      "resumen": "ESPECIAL PARA EL SEGURO EN ACCION Por Dra. Mariel Adaro, Abogada, especialista en Derecho de Seguros. La reciente jornada “Fraude al Seguro: Aspectos de Fondo y Forma”, organizada por la Asociación de Aseguradores…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/fraude-al-seguro-el-agujero-negro-que-desangra-al-mercado-entre-la-desidia-estatal-y-la-industria-del-caranchaje/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ranking de producción por grupo asegurador a marzo 2026",
-      "resumen": "Los datos de primas emitidas a marzo 2026 muestran un mercado que en conjunto avanzó 42,8% frente al mismo período del año anterior. Pero si se descuenta la inflación del período, que fue del 32,6% según el IPC, el…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/ranking-de-produccion-por-grupo-asegurador-a-marzo-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "29 y 30 de julio: Seminario Virtual SellingPointLA",
-      "resumen": "La consultora SellingPointLA anuncia la realización de la 4ta edición de su Seminario Virtual, que llevará a cabo los días miércoles 29 y jueves 30 de julio, de 14.00 a 18.40 hs. La programación, que constará de 20…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/29-y-30-de-julio-seminario-virtual-sellingpointla/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Socios, no intermediarios",
-      "resumen": "La entrada Socios, no intermediarios se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://www.informeoperadores.com.ar/2026/07/16/socios-no-intermediarios/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-1.jpg"
-    },
-    {
-      "titulo": "Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor",
-      "resumen": "La entrada Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-07-16",
-      "url": "https://www.informeoperadores.com.ar/2026/07/16/seguros-y-turismo-desregulacion-tecnologia-y-el-rol-del-asesor/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/FOTO-MARCELO-ANDUCH-MEDIOS.jpeg"
-    },
-    {
-      "titulo": "814",
-      "resumen": "La entrada 814 se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://www.informeoperadores.com.ar/2026/07/16/814/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Tapa-814-R90.jpg"
-    },
-    {
-      "titulo": "Jorge Colina: “La dualidad del crecimiento es peligrosa porque impide que la gente tome sus frutos”",
-      "resumen": "NBS entrevistó a Jorge Colina para conversar sobre las consecuencias de los cambios en la economía. La entrada Jorge Colina: “La dualidad del crecimiento es peligrosa porque impide que la gente tome sus frutos” se…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://nbs.ar/jorge-colina-la-dualidad-del-crecimiento-es-peligrosa-porque-impide-que-la-gente-tome-sus-frutos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fundación Banco Nación y Asociación Conciencia lanzan concurso para impulsar 12 emprendimientos innovadores",
-      "resumen": "Fundación Banco Nación y Asociación Conciencia lanzan la segunda edición de “Banco Tu Futuro” El concurso federal “Banco Tu Futuro” busca impulsar emprendimientos seleccionando 12 proyectos ganadores que recibirán apoyo…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-07-16",
-      "url": "https://nbs.ar/fundacion-banco-nacion-y-asociacion-conciencia-lanzan-concurso-para-impulsar-12-emprendimientos-innovadores/",
       "imagen": ""
     }
   ]
