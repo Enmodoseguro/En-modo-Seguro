@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-07-18T09:02-03:00",
+  "actualizado": "2026-07-19T09:12-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Servicio de seguros accesible para hipoacúsicos en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Gaman lanzó un servicio nacional de asesoramiento en seguros para la comunidad hipoacúsica, con atención por videollamada en Lengua de Señas Argentina y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-19",
+      "url": "https://mercadosyseguros.com/servicio-de-seguros-accesible-para-hipoacusicos-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reunión SSN y OTA del Tesoro de EE. UU. por reforma del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate y la SSN se reúnen esta semana con la Office of Technical Assistance (OTA) del Tesoro de EE. UU. para definir una agenda 2026 que incluye reforma…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-19",
+      "url": "https://mercadosyseguros.com/reunion-ssn-y-ota-del-tesoro-de-ee-uu-por-reforma-del-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Feedback en evaluaciones de desempeño: por qué importa",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Javier Wetzler plantea que el feedback en evaluaciones de desempeño debe prepararse con ejemplos concretos, consulta de colegas y seguimiento continuo. Recomienda…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-19",
+      "url": "https://mercadosyseguros.com/feedback-en-evaluaciones-de-desempeno-por-que-importa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ART: 30 años del sistema de riesgos laborales en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 1 de julio de 1996 comenzó a regir la Ley 24.557; según Experta ART, el sistema protege a ~10 millones de trabajadores y redujo accidentes 55%, gravedad 39% y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-19",
+      "url": "https://mercadosyseguros.com/art-30-anos-del-sistema-de-riesgos-laborales-en-argentina/",
+      "imagen": ""
+    },
     {
       "titulo": "Imágenes aéreas para seguros: Near Space Labs y la preparación para IA",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Near Space Labs, fundada en 2017, entrega imágenes aéreas de alta resolución con frecuencia trimestral que permiten a aseguradoras mejorar sus suscripciones y…",
@@ -54,24 +90,6 @@
       "categoria": "Innovación",
       "fecha": "2026-07-17",
       "url": "https://mercadosyseguros.com/seguro-de-caucion-digital-para-alquileres-de-experta-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Premio REDMES LATAM 2026: apertura de postulaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Abrieron las postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman hasta el 11 de agosto de 2026. Se premian tres categorías y pueden…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://mercadosyseguros.com/premio-redmes-latam-2026-apertura-de-postulaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Curso Gestión de Siniestros AALPS: inscripción abierta",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AALPS abrió la inscripción para el Curso de Gestión de Siniestros on line, que inicia el 3 de agosto de 2026 y dura 8 meses. Costo base $1.500.000 con opciones de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://mercadosyseguros.com/curso-gestion-de-siniestros-aalps-inscripcion-abierta/",
       "imagen": ""
     },
     {
@@ -183,40 +201,22 @@
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-2.jpg"
     },
     {
-      "titulo": "AALPS abrió inscripción para curso de gestión de siniestros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AALPS lanzó la inscripción para su curso online \"Gestión de siniestros en el sector asegurador\", que empieza el 3 de agosto, dura ocho meses y cuesta $1.350.000. Está…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Socios, no intermediarios",
+      "resumen": "La entrada Socios, no intermediarios se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
       "categoria": "Mercado",
       "fecha": "2026-07-16",
-      "url": "https://mercadosyseguros.com/aalps-abrio-inscripcion-para-curso-de-gestion-de-siniestros/",
-      "imagen": ""
+      "url": "https://www.informeoperadores.com.ar/2026/07/16/socios-no-intermediarios/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-1.jpg"
     },
     {
-      "titulo": "Premio REDMES Latam: abren postulaciones hasta el 11 de agosto",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Red de Mujeres en Seguros (REDMES) abrió las inscripciones para la 3ª edición del Premio REDMES Latam hasta el 11 de agosto de 2026. El galardón reconoce…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
+      "titulo": "Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor",
+      "resumen": "La entrada Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
       "fecha": "2026-07-16",
-      "url": "https://mercadosyseguros.com/premio-redmes-latam-abren-postulaciones-hasta-el-11-de-agosto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La electromovilidad ya cambió el riesgo",
-      "resumen": "El primer informe del Alumni Think Tank de AAPAS analiza cómo la llegada de los vehículos eléctricos, la infraestructura de carga y la micromovilidad están modificando el ecosistema de riesgos y cuáles son las…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/la-electromovilidad-ya-cambio-el-riesgo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cursos virtuales Prevenir 2026 – Tercera edición",
-      "resumen": "Formulario de inscripción",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://elseguroenaccion.com.ar/cursos-virtuales-prevenir-2026-tercera-edicion/",
-      "imagen": ""
+      "url": "https://www.informeoperadores.com.ar/2026/07/16/seguros-y-turismo-desregulacion-tecnologia-y-el-rol-del-asesor/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/FOTO-MARCELO-ANDUCH-MEDIOS.jpeg"
     }
   ]
 }
