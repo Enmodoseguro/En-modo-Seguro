@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-07-19T09:12-03:00",
+  "actualizado": "2026-07-20T12:33-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Festejos seguros: 5 recomendaciones de ATM Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros difundió cinco recomendaciones para evitar siniestros durante caravanas y festejos: conductor designado (Alcohol Cero), respeto al peatón, cinturón y SRI…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://mercadosyseguros.com/festejos-seguros-5-recomendaciones-de-atm-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Siniestros bajaron y crecieron las pólizas en el 1° trimestre de 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en el 1° trimestre de 2026 se pagaron 945.117 siniestros (-1,2% interanual) y se emitieron 13.463.441 pólizas patrimoniales (-2,4% interanual).…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://mercadosyseguros.com/siniestros-bajaron-y-crecieron-las-polizas-en-el-1-trimestre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Comparativa GPT-5.5 Pro vs Claude Opus 4.8: rendimientos y usos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com GPT-5.5 Pro supera en MMLU (92,5%) y Claude Opus 4.8 domina en SWE-Bench (88,6%); ambos promedian Arena ELO ~1500. Elija GPT-5.5 para razonamiento y análisis; Claude…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://mercadosyseguros.com/comparativa-gpt-5-5-pro-vs-claude-opus-4-8-rendimientos-y-usos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SEO para agentes de IA: resultados en 3 semanas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tras optimizar para GEO, páginas cercanas al top pudieron aparecer en respuestas generadas en 1-4 semanas; un caso de Seer Interactive subió a la posición 6 y ganó…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://mercadosyseguros.com/seo-para-agentes-de-ia-resultados-en-3-semanas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día Mundial del Cerebro: guía completa para el uso del casco en motociclistas",
+      "resumen": "El 22 de julio marca el Día Mundial del Cerebro, una conmemoración establecida por la Federación Mundial de Neurología para crear conciencia sobre la importancia de proteger la salud cerebral. Características, normas y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://100seguro.com.ar/dia-mundial-del-cerebro-guia-completa-para-el-uso-del-casco-en-motociclistas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alexia Keglevich: “Tener una buena asistencia cambia completamente la experiencia del viaje”",
+      "resumen": "Alexia Keglevich, CEO y fundadora de PAX Assistance La entrada Alexia Keglevich: “Tener una buena asistencia cambia completamente la experiencia del viaje” se publicó primero en NBS | Revista de Negocios, Bancos y…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://nbs.ar/alexia-keglevich-tener-una-buena-asistencia-cambia-completamente-la-experiencia-del-viaje/",
+      "imagen": ""
+    },
     {
       "titulo": "Servicio de seguros accesible para hipoacúsicos en Argentina",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Gaman lanzó un servicio nacional de asesoramiento en seguros para la comunidad hipoacúsica, con atención por videollamada en Lengua de Señas Argentina y…",
@@ -39,48 +93,21 @@
       "imagen": ""
     },
     {
-      "titulo": "Imágenes aéreas para seguros: Near Space Labs y la preparación para IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Near Space Labs, fundada en 2017, entrega imágenes aéreas de alta resolución con frecuencia trimestral que permiten a aseguradoras mejorar sus suscripciones y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-18",
-      "url": "https://mercadosyseguros.com/imagenes-aereas-para-seguros-near-space-labs-y-la-preparacion-para-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lloyd’s Lab impulsa IA en 60% de sus startups",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lloyd's Lab, en su 16ª edición y junto a The Hartford y Google Cloud, confirma que entre el 50% y 60% de sus insurtechs usan IA para sus productos u operaciones. El…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Alipay+ se integra al sistema de pagos QR en Argentina, facilitando transacciones en millones de comercios",
+      "resumen": "Alipay+, la plataforma de pagos digitales de Ant International, ha dado un paso significativo al integrarse al sistema nacional de pagos con código QR en Argentina. Esta incorporación, realizada a través de PVS,…",
+      "fuente": "NBS",
       "categoria": "Innovación",
       "fecha": "2026-07-18",
-      "url": "https://mercadosyseguros.com/lloyds-lab-impulsa-ia-en-60-de-sus-startups/",
+      "url": "https://nbs.ar/alipay-se-integra-al-sistema-de-pagos-qr-en-argentina-facilitando-transacciones-en-millones-de-comercios/",
       "imagen": ""
     },
     {
-      "titulo": "IA en agencias de seguros: interés alto y uso incipiente",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aunque el 68% de las agencias independientes mostró interés en la IA, solo el 8% la usa; el 56% no tiene políticas escritas y el 44% depende de capacitación entre…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
+      "titulo": "Veridas y Fourthline se fusionan para combatir deepfakes y proteger la identidad digital de los usuarios",
+      "resumen": "La reciente fusión entre Veridas, una empresa especializada en verificación de identidad digital, y Fourthline, dedicada a la tecnología de KYC (Know Your Customer), representa un avance significativo en la lucha contra…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
       "fecha": "2026-07-18",
-      "url": "https://mercadosyseguros.com/ia-en-agencias-de-seguros-interes-alto-y-uso-incipiente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Duck Creek compra Send: IA para sus procesos de suscripción",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Duck Creek Technologies adquirió Send Technology Solutions, motor de suscripción con IA; Andy Moss seguirá como gerente general de suscripción y Send mantendrá su…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-18",
-      "url": "https://mercadosyseguros.com/duck-creek-compra-send-ia-para-sus-procesos-de-suscripcion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lincoln negocia con Talcott reaseguro por miles de millones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lincoln National y Talcott negocian un reaseguro sobre cerca de US$5.000 millones en pólizas de vida universal con garantía secundaria. La operación, aún sin firma,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://mercadosyseguros.com/lincoln-negocia-con-talcott-reaseguro-por-miles-de-millones/",
+      "url": "https://nbs.ar/veridas-y-fourthline-se-fusionan-para-combatir-deepfakes-y-proteger-la-identidad-digital-de-los-usuarios/",
       "imagen": ""
     },
     {
@@ -90,6 +117,15 @@
       "categoria": "Innovación",
       "fecha": "2026-07-17",
       "url": "https://mercadosyseguros.com/seguro-de-caucion-digital-para-alquileres-de-experta-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Premio REDMES LATAM 2026: apertura de postulaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Abrieron las postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman hasta el 11 de agosto de 2026. Se premian tres categorías y pueden…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-17",
+      "url": "https://mercadosyseguros.com/premio-redmes-latam-2026-apertura-de-postulaciones/",
       "imagen": ""
     },
     {
@@ -174,15 +210,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Importes-correspondientes-a-cada-curso-2026.png"
     },
     {
-      "titulo": "La SSN concedió recursos de apelación a dos aseguradoras sancionadas y los expedientes pasarán a la Justicia Comercial",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) concedió los recursos de apelación presentados por La Nueva Cooperativa de Seguros Limitada y Galeno Seguros S.A. contra dos resoluciones sancionatorias dictadas por el…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/la-ssn-concedio-recursos-de-apelacion-a-dos-aseguradoras-sancionadas-y-los-expedientes-pasaran-a-la-justicia-comercial/",
-      "imagen": ""
-    },
-    {
       "titulo": "El restaurante que enamoró a los Cardales: 18 años de cocina mediterránea, alma casera y una carta que invita a compartir",
       "resumen": "La entrada El restaurante que enamoró a los Cardales: 18 años de cocina mediterránea, alma casera y una carta que invita a compartir se publicó primero en Informe Operadores de Mercado .",
       "fuente": "Informe Operadores",
@@ -190,33 +217,6 @@
       "fecha": "2026-07-17",
       "url": "https://www.informeoperadores.com.ar/2026/07/17/el-restaurante-que-enamoro-a-los-cardales-18-anos-de-cocina-mediterranea-alma-casera-y-una-carta-que-invita-a-compartir/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/814-gourmond.jpg"
-    },
-    {
-      "titulo": "Riesgos corporativos: cuando el mercado asegurador no llega al ritmo de la empresa",
-      "resumen": "La entrada Riesgos corporativos: cuando el mercado asegurador no llega al ritmo de la empresa se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://www.informeoperadores.com.ar/2026/07/17/riesgos-corporativos-cuando-el-mercado-asegurador-no-llega-al-ritmo-de-la-empresa/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-2.jpg"
-    },
-    {
-      "titulo": "Socios, no intermediarios",
-      "resumen": "La entrada Socios, no intermediarios se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-16",
-      "url": "https://www.informeoperadores.com.ar/2026/07/16/socios-no-intermediarios/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/01-apertura-1.jpg"
-    },
-    {
-      "titulo": "Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor",
-      "resumen": "La entrada Seguros y Turismo: Desregulación, Tecnología y el Rol del Asesor se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-07-16",
-      "url": "https://www.informeoperadores.com.ar/2026/07/16/seguros-y-turismo-desregulacion-tecnologia-y-el-rol-del-asesor/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/FOTO-MARCELO-ANDUCH-MEDIOS.jpeg"
     }
   ]
 }
