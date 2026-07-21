@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-07-20T12:33-03:00",
+  "actualizado": "2026-07-21T12:24-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Microseguros: cobertura crece pero alcanza solo al 12%",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com 344 millones de personas están cubiertas por microseguros (12% de la población potencial), con 6.200 millones de dólares en primas. Mapfre impulsa programas en Brasil…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-21",
+      "url": "https://mercadosyseguros.com/microseguros-cobertura-crece-pero-alcanza-solo-al-12/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN aprueba nuevo reglamento del Fondo de Reserva LRT",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó el 3 de julio la resolución 290/2026 que reforma el reglamento del Fondo de Reserva (art.34 Ley 24.557) y adjudicó a SML Consultores Médicos SA la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-21",
+      "url": "https://mercadosyseguros.com/ssn-aprueba-nuevo-reglamento-del-fondo-de-reserva-lrt/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro de Transporte: clave para proteger la carga en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En el primer trimestre de 2026 las indemnizaciones en Transporte de Mercaderías aumentaron 46,4% respecto a 2025, en un mercado con 36,3 millones de pólizas vigentes.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-21",
+      "url": "https://mercadosyseguros.com/seguro-de-transporte-clave-para-proteger-la-carga-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CNP Seguros: marca, datos y digitalización en el Foro NEA 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En el Foro NEA 2026, Paula Tognola de CNP Seguros detalló su estrategia de marca, digitalización y uso de datos para apoyar canales comerciales; Pablo Trangoni…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-21",
+      "url": "https://mercadosyseguros.com/cnp-seguros-marca-datos-y-digitalizacion-en-el-foro-nea-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La UTN y Softtek lanzan una nueva edición de la Diplomatura en Tecnología y Seguros",
+      "resumen": "La propuesta académica, diseñada para ejecutivos y líderes del mercado asegurador, comenzará el próximo 26 de agosto y pondrá el foco en inteligencia artificial, datos, automatización, liderazgo y transformación del…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/la-utn-y-softtek-lanzan-una-nueva-edicion-de-la-diplomatura-en-tecnologia-y-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Diplomatura-en-Tecnologia-y-Seguros-UTN-Softtek.png"
+    },
     {
       "titulo": "Festejos seguros: 5 recomendaciones de ATM Seguros",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros difundió cinco recomendaciones para evitar siniestros durante caravanas y festejos: conductor designado (Alcohol Cero), respeto al peatón, cinturón y SRI…",
@@ -39,6 +84,42 @@
       "imagen": ""
     },
     {
+      "titulo": "Todo lo que hay que saber sobre el seguro de Asistencia al Viajero, en una nueva capacitación gratuita de La Perseverancia",
+      "resumen": "Una nueva edición del Programa de Formación en Seguros acerca al público una capacitación online y con certificación universitaria, enfocada en el seguro de Asistencia al Viajero con accidentes personales. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://100seguro.com.ar/todo-lo-que-hay-que-saber-sobre-el-seguro-de-asistencia-al-viajero-en-una-nueva-capacitacion-gratuita-de-la-perseverancia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Designan nueva Business Owner de Vetify, el plan de salud para mascotas de Iké Argentina",
+      "resumen": "Vetify, el plan de salud para mascotas de Iké Asistencia Argentina, anunció la incorporación de Mariana Minutella como nueva Business Owner de la compañía. La entrada Designan nueva Business Owner de Vetify, el plan de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://100seguro.com.ar/designan-nueva-business-owner-de-vetify-el-plan-de-salud-para-mascotas-de-ike-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Llega la 2ª edición del Salesforce Insurance Day Buenos Aires",
+      "resumen": "Casos reales, tendencias y referentes del mercado se darán cita en una nueva edición del evento para analizar cómo la IA agéntica está redefiniendo el futuro de la industria aseguradora. La entrada Llega la 2ª edición…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-20",
+      "url": "https://100seguro.com.ar/llega-la-2a-edicion-del-salesforce-insurance-day-buenos-aires/",
+      "imagen": ""
+    },
+    {
+      "titulo": "De la atención presencial a la autogestión: el caso de éxito de RUS en pasos fronterizos",
+      "resumen": "La innovación abierta vuelve a demostrar su impacto en Río Uruguay Seguros (RUS). A partir del trabajo conjunto con Winse, insurtech argentina que formó parte de la edición 2023 de la Aceleradora RUS, la aseguradora…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-20",
+      "url": "https://100seguro.com.ar/de-la-atencion-presencial-a-la-autogestion-el-caso-de-exito-de-rus-en-pasos-fronterizos/",
+      "imagen": ""
+    },
+    {
       "titulo": "Día Mundial del Cerebro: guía completa para el uso del casco en motociclistas",
       "resumen": "El 22 de julio marca el Día Mundial del Cerebro, una conmemoración establecida por la Federación Mundial de Neurología para crear conciencia sobre la importancia de proteger la salud cerebral. Características, normas y…",
       "fuente": "100% Seguro",
@@ -48,175 +129,94 @@
       "imagen": ""
     },
     {
-      "titulo": "Alexia Keglevich: “Tener una buena asistencia cambia completamente la experiencia del viaje”",
-      "resumen": "Alexia Keglevich, CEO y fundadora de PAX Assistance La entrada Alexia Keglevich: “Tener una buena asistencia cambia completamente la experiencia del viaje” se publicó primero en NBS | Revista de Negocios, Bancos y…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
+      "titulo": "IF-2026-69555849-APN-GEYE#SSN – TASA TESTIGO RENTAS VITALICIAS PREVISIONALES – JULIO DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
       "fecha": "2026-07-20",
-      "url": "https://nbs.ar/alexia-keglevich-tener-una-buena-asistencia-cambia-completamente-la-experiencia-del-viaje/",
+      "url": "https://elseguroenaccion.com.ar/if-2026-69555849-apn-geyessn-tasa-testigo-rentas-vitalicias-previsionales-julio-de-2026/",
       "imagen": ""
     },
     {
-      "titulo": "Servicio de seguros accesible para hipoacúsicos en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Gaman lanzó un servicio nacional de asesoramiento en seguros para la comunidad hipoacúsica, con atención por videollamada en Lengua de Señas Argentina y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-19",
-      "url": "https://mercadosyseguros.com/servicio-de-seguros-accesible-para-hipoacusicos-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reunión SSN y OTA del Tesoro de EE. UU. por reforma del seguro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate y la SSN se reúnen esta semana con la Office of Technical Assistance (OTA) del Tesoro de EE. UU. para definir una agenda 2026 que incluye reforma…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "IF-2026-69555752-APN-GEYE#SSN – TASA TESTIGO SEGURO DE RETIRO VOLUNTARIO – JULIO DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-07-19",
-      "url": "https://mercadosyseguros.com/reunion-ssn-y-ota-del-tesoro-de-ee-uu-por-reforma-del-seguro/",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-69555752-apn-geyessn-tasa-testigo-seguro-de-retiro-voluntario-julio-de-2026/",
       "imagen": ""
     },
     {
-      "titulo": "Feedback en evaluaciones de desempeño: por qué importa",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Javier Wetzler plantea que el feedback en evaluaciones de desempeño debe prepararse con ejemplos concretos, consulta de colegas y seguimiento continuo. Recomienda…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-19",
-      "url": "https://mercadosyseguros.com/feedback-en-evaluaciones-de-desempeno-por-que-importa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ART: 30 años del sistema de riesgos laborales en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 1 de julio de 1996 comenzó a regir la Ley 24.557; según Experta ART, el sistema protege a ~10 millones de trabajadores y redujo accidentes 55%, gravedad 39% y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-19",
-      "url": "https://mercadosyseguros.com/art-30-anos-del-sistema-de-riesgos-laborales-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alipay+ se integra al sistema de pagos QR en Argentina, facilitando transacciones en millones de comercios",
-      "resumen": "Alipay+, la plataforma de pagos digitales de Ant International, ha dado un paso significativo al integrarse al sistema nacional de pagos con código QR en Argentina. Esta incorporación, realizada a través de PVS,…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-07-18",
-      "url": "https://nbs.ar/alipay-se-integra-al-sistema-de-pagos-qr-en-argentina-facilitando-transacciones-en-millones-de-comercios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Veridas y Fourthline se fusionan para combatir deepfakes y proteger la identidad digital de los usuarios",
-      "resumen": "La reciente fusión entre Veridas, una empresa especializada en verificación de identidad digital, y Fourthline, dedicada a la tecnología de KYC (Know Your Customer), representa un avance significativo en la lucha contra…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-07-18",
-      "url": "https://nbs.ar/veridas-y-fourthline-se-fusionan-para-combatir-deepfakes-y-proteger-la-identidad-digital-de-los-usuarios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro de caución digital para alquileres de Experta Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros presentó el 1 de julio un seguro de caución completamente digital para alquileres. La póliza cubre el impago de alquiler y ofrece opciones contra…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-17",
-      "url": "https://mercadosyseguros.com/seguro-de-caucion-digital-para-alquileres-de-experta-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Premio REDMES LATAM 2026: apertura de postulaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Abrieron las postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman hasta el 11 de agosto de 2026. Se premian tres categorías y pueden…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://mercadosyseguros.com/premio-redmes-latam-2026-apertura-de-postulaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Klimber alcanza los mil millones de paquetes de seguro emitidos con inteligencia artificial en el centro de su operación",
-      "resumen": "Un hito que redefine la escala posible para una operación aseguradora nativa en IA: 5 mil millones de transacciones procesadas de forma automática, en 6 países, con un equipo de apenas 160 personas. La entrada Klimber…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/klimber-alcanza-los-mil-millones-de-paquetes-de-seguro-emitidos-con-inteligencia-artificial-en-el-centro-de-su-operacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vacaciones de invierno: viajar tranquilo y dejar la casa asegurada",
-      "resumen": "En un nuevo programa de 100% SEGURO, y en el inicio de las vacaciones de invierno, analizamos dos coberturas clave para viajar con tranquilidad: el seguro de hogar, para dejar la vivienda protegida, y la asistencia al…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/vacaciones-de-invierno-viajar-tranquilo-y-dejar-la-casa-asegurada/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Zona Oeste encabeza el ranking de robos de autos en la primera parte del año",
-      "resumen": "Los datos se desprenden del “Indicador Ituran de Robo Vehicular” (IRV) recabados entre enero y junio de 2026, que registra, mes a mes, la variación de este delito en CABA y GBA. La entrada La Zona Oeste encabeza el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/la-zona-oeste-encabeza-el-ranking-de-robos-de-autos-en-la-primera-parte-del-ano/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Tipo-de-vehiculo-mas-robado-Primer-semestre-de-2026.png"
-    },
-    {
-      "titulo": "Sancor Seguros acompaña a la Selección Argentina en una nueva final del mundo",
-      "resumen": "Como Sponsor Oficial de la Selección Argentina, la aseguradora estuvo presente durante todo el recorrido del equipo en la Copa Mundial de la FIFA 2026 y compartió esa pasión junto a los ganadores de Ganá Más Convocados,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/sancor-seguros-acompana-a-la-seleccion-argentina-en-una-nueva-final-del-mundo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Sancor-Seguros-acompana-a-la-Seleccion-Argentina-en-una-nueva-final-del-mundo-2.jpeg"
-    },
-    {
-      "titulo": "Los riesgos de la siembra: por qué el seguro agrícola es una inversión estratégica",
-      "resumen": "En una campaña donde cada hectárea puede representar una inversión de hasta US$ 1.000, un solo evento de granizo puede comprometer meses de trabajo. En ese contexto, el seguro agrícola gana protagonismo como una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/los-riesgos-de-la-siembra-por-que-el-seguro-agricola-es-una-inversion-estrategica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sistema de Licencias Nacionales Profesionales: más simple, mayor vigencia y libertad de elección para los conductores",
-      "resumen": "​Entre los beneficios, se destacan la validez de la licencia por hasta 5 años y la libre elección de prestadores en un sistema que ya rige en el país y al cual ahora se incorporó la provincia de Buenos Aires. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/sistema-de-licencias-nacionales-profesionales-mas-simple-mayor-vigencia-y-libertad-de-eleccion-para-los-conductores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "A 30 años del Sistema de Riesgos del Trabajo, Federación Patronal ART reafirma su compromiso con la prevención",
-      "resumen": "En el marco del 30° aniversario de la entrada en vigencia de la Ley de Riesgos del Trabajo 24.557, Federación Patronal ART destaca el camino recorrido en materia de prevención, cuidado de la salud y acompañamiento a…",
-      "fuente": "100% Seguro",
+      "titulo": "IF-2026-68660868-APN-GE#SSN – IMPLEMENTACIÓN DEL NUEVO RÉGIMEN DE INFORMACIÓN – NOTAS ESTANDARIZADAS Y GUÍAS DE CÁLCULOS",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/a-30-anos-del-sistema-de-riesgos-del-trabajo-federacion-patronal-art-reafirma-su-compromiso-con-la-prevencion/",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-68660868-apn-gessn-implementacion-del-nuevo-regimen-de-informacion-notas-estandarizadas-y-guias-de-calculos/",
       "imagen": ""
     },
     {
-      "titulo": "Llegan las vacaciones de invierno: cómo prepararse para salir a la ruta y reducir riesgos durante el viaje",
-      "resumen": "En vísperas de las vacaciones de invierno, muchas personas aprovechan para hacer una escapada y tomarse unos días de descanso antes de afrontar la segunda mitad del año. En medio del cierre de pendientes laborales y los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/llegan-las-vacaciones-de-invierno-como-prepararse-para-salir-a-la-ruta-y-reducir-riesgos-durante-el-viaje/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN definió las condiciones del Curso Anual de Actualización 2026 para agentes institorios",
-      "resumen": "RESOLUCIÓN SSN 303/2026.- La Superintendencia de Seguros de la Nación (SSN) estableció las condiciones para la realización del Curso Anual de Actualización 2026 destinado a los responsables de seguros y de atención al…",
-      "fuente": "100% Seguro",
+      "titulo": "IF-2026-68592952-APN-GE#SSN – RESOLUCIÓN RESOL-2026-272-APN-SSN#MEC. TÍTULOS PÚBLICOS NACIONALES ADQUIRIDOS DIRECTAMENTE EN LICITACIÓN PRIMARIA. PRESENTACIÓN DEL ACTA DEL ÓRGANO DE ADMINISTRACIÓN.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-07-17",
-      "url": "https://100seguro.com.ar/la-ssn-definio-las-condiciones-del-curso-anual-de-actualizacion-2026-para-agentes-institorios/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Importes-correspondientes-a-cada-curso-2026.png"
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-68592952-apn-gessn-resolucion-resol-2026-272-apn-ssnmec-titulos-publicos-nacionales-adquiridos-directamente-en-licitacion-primaria-presentacion-del-acta-del-organo-de-administracion/",
+      "imagen": ""
     },
     {
-      "titulo": "El restaurante que enamoró a los Cardales: 18 años de cocina mediterránea, alma casera y una carta que invita a compartir",
-      "resumen": "La entrada El restaurante que enamoró a los Cardales: 18 años de cocina mediterránea, alma casera y una carta que invita a compartir se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-17",
-      "url": "https://www.informeoperadores.com.ar/2026/07/17/el-restaurante-que-enamoro-a-los-cardales-18-anos-de-cocina-mediterranea-alma-casera-y-una-carta-que-invita-a-compartir/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/814-gourmond.jpg"
+      "titulo": "IF-2026-67765719-APN-GTYN#SSN – RECTIFICATIVA CIRCULAR IF-2026-65238990-APN-GTYN#SSN – ACTUALIZACIÓN DE TABLAS RESOLUCIONES RESOL-2019-1080-APN-SSN#MHA Y RESOL-2025-287-APNSSN#MEC – JUNIO 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-67765719-apn-gtynssn-rectificativa-circular-if-2026-65238990-apn-gtynssn-actualizacion-de-tablas-resoluciones-resol-2019-1080-apn-ssnmha-y-resol-2025-287-apnssnmec-junio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-306-APN-SSN#MEC – GALENO SEGUROS S.A. – CONCEDE RECURSO DE APELACIÓN ARTÍCULO 83 DE LA LEY N° 20.091",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-306-apn-ssnmec-galeno-seguros-s-a-concede-recurso-de-apelacion-articulo-83-de-la-ley-n-20-091/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-305-APN-SSN#MEC – LA NUEVA COOPERATIVA DE SEGUROS LIMITADA – CONCEDE RECURSO DE APELACIÓN ARTÍCULO 83 DE LA LEY N° 20.091",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-305-apn-ssnmec-la-nueva-cooperativa-de-seguros-limitada-concede-recurso-de-apelacion-articulo-83-de-la-ley-n-20-091/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-303-APN-SSN#MEC – PROGRAMA DE CAPACITACIÓN – AGENTES INSTITORIOS – CURSO ANUAL DE ACTUALIZACIÓN 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-303-apn-ssnmec-programa-de-capacitacion-agentes-institorios-curso-anual-de-actualizacion-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-302-APN-SSN#MEC – PROVINCIA FIDEICOMISOS S.A.U. – INSCRIPCIÓN RAI",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-302-apn-ssnmec-provincia-fideicomisos-s-a-u-inscripcion-rai/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-301-APN-SSN#MEC – BIND SEGUROS S.A. – AUTORIZACIÓN RAMA RESPONSABILIDAD CIVIL – SEGURO DE RESPONSABILIDAD CIVIL",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-301-apn-ssnmec-bind-seguros-s-a-autorizacion-rama-responsabilidad-civil-seguro-de-responsabilidad-civil/",
+      "imagen": ""
     }
   ]
 }
