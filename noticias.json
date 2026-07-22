@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-07-21T12:24-03:00",
+  "actualizado": "2026-07-22T12:21-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seguro de caución digital para alquileres de Experta Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros presentó el 1 de julio un seguro de caución 100% digital para alquileres que permite cotizar, emitir y contratar online; cubre alquiler impago y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-22",
+      "url": "https://mercadosyseguros.com/seguro-de-caucion-digital-para-alquileres-de-experta-seguros-2/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fraude al seguro: impacto y cifras en el mercado argentino",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADEAA y el Ministerio Público bonaerense advirtieron que el fraude al seguro en Argentina puede representar entre el 30% y el 40% de la siniestralidad en ciertos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-22",
+      "url": "https://mercadosyseguros.com/fraude-al-seguro-impacto-y-cifras-en-el-mercado-argentino/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Producción de primas por grupo: ranking a marzo 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La producción de primas a marzo de 2026 fue de $19.409.600.792 miles, un alza nominal del 42,8% pero con inflación del 32,6% que deja un crecimiento real de 7,7%. El…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-22",
+      "url": "https://mercadosyseguros.com/produccion-de-primas-por-grupo-ranking-a-marzo-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seminario Virtual SellingPointLA: 29 y 30 de julio",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com SellingPointLA organiza la 4ta edición de su Seminario Virtual los días 29 y 30 de julio, de 14:00 a 18:40, con 20 bloques temáticos y expositores de Argentina y el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-22",
+      "url": "https://mercadosyseguros.com/seminario-virtual-sellingpointla-29-y-30-de-julio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Caja fortalece su negocio digital con la creación de una nueva Dirección Comercial",
+      "resumen": "La compañía anuncia una nueva dirección liderada por Cristóbal Cadenas, orientada a impulsar el crecimiento del negocio digital, fortalecer la experiencia de clientes y usuarios, y consolidar la integración entre…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-22",
+      "url": "https://100seguro.com.ar/la-caja-fortalece-su-negocio-digital-con-la-creacion-de-una-nueva-direccion-comercial/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Cristobal-Cadenas-La-Caja.jpg"
+    },
+    {
+      "titulo": "Una oportunidad para ampliar el acceso a la salud en Argentina",
+      "resumen": "El presidente de la Asociación Argentina de Compañías de Seguros (AACS) analiza el alcance de la reciente Resolución SSN 258/2026 y sostiene que su implementación puede abrir una nueva etapa para el desarrollo del…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-22",
+      "url": "https://100seguro.com.ar/una-oportunidad-para-ampliar-el-acceso-a-la-salud-en-argentina/",
+      "imagen": ""
+    },
     {
       "titulo": "Microseguros: cobertura crece pero alcanza solo al 12%",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com 344 millones de personas están cubiertas por microseguros (12% de la población potencial), con 6.200 millones de dólares en primas. Mapfre impulsa programas en Brasil…",
@@ -39,6 +93,69 @@
       "imagen": ""
     },
     {
+      "titulo": "Entre Ríos lanzó el primer seguro multirriesgo para productores de maíz con un fondo inicial de US$ 1 millón",
+      "resumen": "El Gobierno entrerriano presentó un innovador programa de gestión de riesgo agropecuario junto al Iapser, que brindará cobertura gratuita durante el primer año a pequeños productores de maíz afectados por sequías e…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/entre-rios-lanzo-el-primer-seguro-multirriesgo-para-productores-de-maiz-con-un-fondo-inicial-de-us-1-millon/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Marcos-Pereda-vicepresidente-de-la-Rural-Diego-Santilli-Jefe-de-Gabinete-Rogelio-Frigerio-gobernador-de-Entre-Rios-y-Nicolas-Pino-presidente-de-la-Rural-SRA.jpg"
+    },
+    {
+      "titulo": "La inteligencia artificial redefine la gestión del riesgo en las empresas",
+      "resumen": "En el marco del IAEF Digital Finance Forum, realizado en Buenos Aires, Marsh analizó los principales desafíos que enfrentan las organizaciones frente al crecimiento de las amenazas digitales y la adopción acelerada de…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/la-inteligencia-artificial-redefine-la-gestion-del-riesgo-en-las-empresas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuevo marco para seguros de sepelio: más flexibilidad, nuevas coberturas y actualización regulatoria",
+      "resumen": "RESOLUCIÓN SSN 309/2026.- La Superintendencia de Seguros de la Nación (SSN) reformuló por completo el régimen aplicable a los seguros de sepelio, eliminando el esquema de condiciones contractuales uniformes y…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/nuevo-marco-para-seguros-de-sepelio-mas-flexibilidad-nuevas-coberturas-y-actualizacion-regulatoria/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo Gaman reunió a empresarios y especialistas para analizar el impacto de las reformas laboral y tributaria en el sector productivo",
+      "resumen": "El encuentro abordó los principales cambios regulatorios y las oportunidades que se abren para las empresas en materia de empleo, competitividad y desarrollo de negocios. La entrada Grupo Gaman reunió a empresarios y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/grupo-gaman-reunio-a-empresarios-y-especialistas-para-analizar-el-impacto-de-las-reformas-laboral-y-tributaria-en-el-sector-productivo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA reunió a su Consejo Federal y Directivo en Buenos Aires",
+      "resumen": "Presidentes y dirigentes de las 22 APAS de todo el país se dieron cita en la Ciudad de Buenos Aires para repasar la agenda gremial, con foco en la campaña de concientización, los trámites ante la UIF y el combate a la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/fapasa-reunio-a-su-consejo-federal-y-directivo-en-buenos-aires/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/reunion-CD-1024x691-1.jpg"
+    },
+    {
+      "titulo": "Fundación Mapfre convoca ayudas por 275.000 euros para proyectos de investigación en seguros, salud y previsión",
+      "resumen": "Fundación Mapfre ha lanzado una nueva edición de sus ayudas a la investigación Ignacio H. Larramendi por importe total de 275.000 euros, dirigidas a investigadores o equipos de investigación del ámbito académico y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/fundacion-mapfre-convoca-ayudas-por-275-000-euros-para-proyectos-de-investigacion-en-seguros-salud-y-prevision/",
+      "imagen": ""
+    },
+    {
+      "titulo": "BARBUSS Risk fortalece su estructura con la designación de un nuevo Country Manager en Argentina",
+      "resumen": "La compañía anunció la incorporación de Ignacio Morello al frente de la operación argentina, con el objetivo de potenciar su crecimiento y consolidación en el mercado local. La entrada BARBUSS Risk fortalece su…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-21",
+      "url": "https://100seguro.com.ar/barbuss-risk-fortalece-su-estructura-con-la-designacion-de-un-nuevo-country-manager-en-argentina/",
+      "imagen": ""
+    },
+    {
       "titulo": "La UTN y Softtek lanzan una nueva edición de la Diplomatura en Tecnología y Seguros",
       "resumen": "La propuesta académica, diseñada para ejecutivos y líderes del mercado asegurador, comenzará el próximo 26 de agosto y pondrá el foco en inteligencia artificial, datos, automatización, liderazgo y transformación del…",
       "fuente": "100% Seguro",
@@ -63,69 +180,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-20",
       "url": "https://mercadosyseguros.com/siniestros-bajaron-y-crecieron-las-polizas-en-el-1-trimestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Comparativa GPT-5.5 Pro vs Claude Opus 4.8: rendimientos y usos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com GPT-5.5 Pro supera en MMLU (92,5%) y Claude Opus 4.8 domina en SWE-Bench (88,6%); ambos promedian Arena ELO ~1500. Elija GPT-5.5 para razonamiento y análisis; Claude…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://mercadosyseguros.com/comparativa-gpt-5-5-pro-vs-claude-opus-4-8-rendimientos-y-usos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SEO para agentes de IA: resultados en 3 semanas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tras optimizar para GEO, páginas cercanas al top pudieron aparecer en respuestas generadas en 1-4 semanas; un caso de Seer Interactive subió a la posición 6 y ganó…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://mercadosyseguros.com/seo-para-agentes-de-ia-resultados-en-3-semanas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Todo lo que hay que saber sobre el seguro de Asistencia al Viajero, en una nueva capacitación gratuita de La Perseverancia",
-      "resumen": "Una nueva edición del Programa de Formación en Seguros acerca al público una capacitación online y con certificación universitaria, enfocada en el seguro de Asistencia al Viajero con accidentes personales. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://100seguro.com.ar/todo-lo-que-hay-que-saber-sobre-el-seguro-de-asistencia-al-viajero-en-una-nueva-capacitacion-gratuita-de-la-perseverancia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Designan nueva Business Owner de Vetify, el plan de salud para mascotas de Iké Argentina",
-      "resumen": "Vetify, el plan de salud para mascotas de Iké Asistencia Argentina, anunció la incorporación de Mariana Minutella como nueva Business Owner de la compañía. La entrada Designan nueva Business Owner de Vetify, el plan de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://100seguro.com.ar/designan-nueva-business-owner-de-vetify-el-plan-de-salud-para-mascotas-de-ike-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Llega la 2ª edición del Salesforce Insurance Day Buenos Aires",
-      "resumen": "Casos reales, tendencias y referentes del mercado se darán cita en una nueva edición del evento para analizar cómo la IA agéntica está redefiniendo el futuro de la industria aseguradora. La entrada Llega la 2ª edición…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://100seguro.com.ar/llega-la-2a-edicion-del-salesforce-insurance-day-buenos-aires/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De la atención presencial a la autogestión: el caso de éxito de RUS en pasos fronterizos",
-      "resumen": "La innovación abierta vuelve a demostrar su impacto en Río Uruguay Seguros (RUS). A partir del trabajo conjunto con Winse, insurtech argentina que formó parte de la edición 2023 de la Aceleradora RUS, la aseguradora…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-20",
-      "url": "https://100seguro.com.ar/de-la-atencion-presencial-a-la-autogestion-el-caso-de-exito-de-rus-en-pasos-fronterizos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día Mundial del Cerebro: guía completa para el uso del casco en motociclistas",
-      "resumen": "El 22 de julio marca el Día Mundial del Cerebro, una conmemoración establecida por la Federación Mundial de Neurología para crear conciencia sobre la importancia de proteger la salud cerebral. Características, normas y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://100seguro.com.ar/dia-mundial-del-cerebro-guia-completa-para-el-uso-del-casco-en-motociclistas/",
       "imagen": ""
     },
     {
@@ -162,60 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-20",
       "url": "https://elseguroenaccion.com.ar/if-2026-68592952-apn-gessn-resolucion-resol-2026-272-apn-ssnmec-titulos-publicos-nacionales-adquiridos-directamente-en-licitacion-primaria-presentacion-del-acta-del-organo-de-administracion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-67765719-APN-GTYN#SSN – RECTIFICATIVA CIRCULAR IF-2026-65238990-APN-GTYN#SSN – ACTUALIZACIÓN DE TABLAS RESOLUCIONES RESOL-2019-1080-APN-SSN#MHA Y RESOL-2025-287-APNSSN#MEC – JUNIO 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/if-2026-67765719-apn-gtynssn-rectificativa-circular-if-2026-65238990-apn-gtynssn-actualizacion-de-tablas-resoluciones-resol-2019-1080-apn-ssnmha-y-resol-2025-287-apnssnmec-junio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-306-APN-SSN#MEC – GALENO SEGUROS S.A. – CONCEDE RECURSO DE APELACIÓN ARTÍCULO 83 DE LA LEY N° 20.091",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-306-apn-ssnmec-galeno-seguros-s-a-concede-recurso-de-apelacion-articulo-83-de-la-ley-n-20-091/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-305-APN-SSN#MEC – LA NUEVA COOPERATIVA DE SEGUROS LIMITADA – CONCEDE RECURSO DE APELACIÓN ARTÍCULO 83 DE LA LEY N° 20.091",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-305-apn-ssnmec-la-nueva-cooperativa-de-seguros-limitada-concede-recurso-de-apelacion-articulo-83-de-la-ley-n-20-091/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-303-APN-SSN#MEC – PROGRAMA DE CAPACITACIÓN – AGENTES INSTITORIOS – CURSO ANUAL DE ACTUALIZACIÓN 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-303-apn-ssnmec-programa-de-capacitacion-agentes-institorios-curso-anual-de-actualizacion-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-302-APN-SSN#MEC – PROVINCIA FIDEICOMISOS S.A.U. – INSCRIPCIÓN RAI",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-302-apn-ssnmec-provincia-fideicomisos-s-a-u-inscripcion-rai/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-301-APN-SSN#MEC – BIND SEGUROS S.A. – AUTORIZACIÓN RAMA RESPONSABILIDAD CIVIL – SEGURO DE RESPONSABILIDAD CIVIL",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-301-apn-ssnmec-bind-seguros-s-a-autorizacion-rama-responsabilidad-civil-seguro-de-responsabilidad-civil/",
       "imagen": ""
     }
   ]
