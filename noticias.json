@@ -1,7 +1,160 @@
 {
-  "actualizado": "2026-07-22T12:21-03:00",
+  "actualizado": "2026-07-23T13:01-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Electromovilidad: cómo cambió el riesgo para las aseguradoras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe 2026 del Alumni Think Tank de AAPAS detecta brechas en coberturas y protocolos del mercado asegurador argentino frente a la electromovilidad: la batería…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://mercadosyseguros.com/electromovilidad-como-cambio-el-riesgo-para-las-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevenir 2026: cursos virtuales, tercera edición",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La tercera edición de los cursos virtuales Prevenir 2026, organizada por FISO, abrió la inscripción gratuita el 2026-01-01. Ofrece módulos sobre prevención de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://mercadosyseguros.com/prevenir-2026-cursos-virtuales-tercera-edicion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Consejos para prevenir averías y conducir seguro en invierno",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI recomendó revisar batería, aceite, refrigerante y visibilidad ante la llegada del invierno en Argentina. En vehículos eléctricos la autonomía puede caer entre…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://mercadosyseguros.com/consejos-para-prevenir-averias-y-conducir-seguro-en-invierno/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Somnolencia al volante: riesgo en vacaciones de invierno",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La somnolencia al volante aumenta el riesgo de siniestros: dormir 6 horas eleva la probabilidad de accidente en un 33%. Luchemos por la Vida y Dormir con Ciencia…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://mercadosyseguros.com/somnolencia-al-volante-riesgo-en-vacaciones-de-invierno/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El ecosistema insurtech argentino creció un 16% anual y ya alcanzó 110 startups",
+      "resumen": "El ecosistema insurtech latinoamericano alcanzó las 576 startups, registró su mayor crecimiento desde 2023 y redujo su tasa de mortalidad al 7%. En el último año, nacieron 102 insurtech y desaparecieron 35. La inversión…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-23",
+      "url": "https://100seguro.com.ar/el-ecosistema-insurtech-argentino-crecio-un-16-anual-y-ya-alcanzo-110-startups/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Mapa-de-insurtechs-en-Latam.png"
+    },
+    {
+      "titulo": "Pilkington: detrás de cada cristal, 200 años de experiencia",
+      "resumen": "Cuando un conductor necesita reemplazar el parabrisas de su vehículo, pocas veces imagina todo el proceso que hay detrás de ese cambio, existe un proceso mucho más amplio de lo que muchas veces se imagina. Cada cristal…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://100seguro.com.ar/pilkington-detras-de-cada-cristal-200-anos-de-experiencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Coopathon Educativo: 50 iniciativas escolares avanzan hacia la etapa de formación y mentoría",
+      "resumen": "La primera edición de la propuesta impulsada por Fundación Grupo Sancor Seguros, INAES y CALCME recibió 182 postulaciones provenientes de 21 provincias argentinas, consolidando su alcance federal y el compromiso de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://100seguro.com.ar/coopathon-educativo-50-iniciativas-escolares-avanzan-hacia-la-etapa-de-formacion-y-mentoria/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Segunda Seguros es pionera en migrar a Guidewire Cloud y marca un hito en la región",
+      "resumen": "La aseguradora completó con éxito una transición histórica de 8 TB de datos y 4.000 casos de prueba en 10 meses de desarrollo, sentando las bases tecnológicas para la próxima década del sector en la región. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-es-pionera-en-migrar-a-guidewire-cloud-y-marca-un-hito-en-la-region/",
+      "imagen": ""
+    },
+    {
+      "titulo": "3ra Edición Premio REDMES LATAM 2026 | Apertura de postulaciones",
+      "resumen": "Con mucho entusiasmo anunciamos que ya está abierta la convocatoria a postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman. Este reconocimiento regional busca visibilizar a mujeres que…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/3ra-edicion-premio-redmes-latam-2026-apertura-de-postulaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los seguros paramétricos ya tienen reglas propias: la SSN apuesta por una nueva generación de coberturas",
+      "resumen": "Mediante la Resolución 315/2026, la Superintendencia incorpora un marco regulatorio específico para esta modalidad de seguros, impulsada por el desarrollo tecnológico y el uso de datos objetivos. La resolución busca…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/los-seguros-parametricos-ya-tienen-reglas-propias-la-ssn-apuesta-por-una-nueva-generacion-de-coberturas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Automotores manda, pero no pesa igual en todos los grupos",
+      "resumen": "El nuevo tablero interactivo de El Seguro en acción compara, grupo por grupo, qué porción de la cartera patrimonial explica el ramo Automotores a marzo de 2026. En algunos casos supera el 90% de la producción; en otros,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/automotor-manda-pero-no-pesa-igual-en-todos-los-grupos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Patentamientos motos 1° quincena julio",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/cafam-patentamientos-motos-1-quincena-julio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rivadavia Seguros supera las 100.000 inspecciones remotas con Autoinspector",
+      "resumen": "A cuatro años de implementar el sistema, la aseguradora reporta 97% de satisfacción del asegurado y más de 40.000 alertas automáticas de irregularidades detectadas antes de la liquidación. Rivadavia Seguros superó las…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/rivadavia-seguros-supera-las-100-000-inspecciones-remotas-con-autoinspector/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN actualiza la normativa de seguros para el transporte de pasajeros",
+      "resumen": "Adecua el régimen de seguros al nuevo marco regulatorio del transporte, simplifica requisitos administrativos y facilita la operatoria para empresas y aseguradoras. La Superintendencia de Seguros de la Nación (SSN)…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-actualiza-la-normativa-de-seguros-para-el-transporte-de-pasajeros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SANCOR SEGUROS acompaña a la Selección Argentina en una nueva final del mundo",
+      "resumen": "Como Sponsor Oficial de la Selección Argentina, la aseguradora estuvo presente durante todo el recorrido del equipo en la Copa Mundial de la FIFA 2026 y compartió esa pasión junto a los ganadores de Ganá Más Convocados,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/sancor-seguros-acompana-a-la-seleccion-argentina-en-una-nueva-final-del-mundo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "A 30 años del Sistema de Riesgos del Trabajo, Federación Patronal ART reafirma su compromiso con la prevención",
+      "resumen": "En el marco del 30° aniversario de la entrada en vigencia de la Ley de Riesgos del Trabajo N° 24.557, Federación Patronal ART destaca el camino recorrido en materia de prevención, cuidado de la salud y acompañamiento a…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/a-30-anos-del-sistema-de-riesgos-del-trabajo-federacion-patronal-art-reafirma-su-compromiso-con-la-prevencion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN moderniza los Seguros de Sepelio y habilita una nueva generación de coberturas más flexibles e innovadoras",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN) dio un nuevo paso en el proceso de modernización del mercado asegurador con la aprobación de la Resolución N.º 309/2026, que actualiza integralmente el marco regulatorio…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-23",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-moderniza-los-seguros-de-sepelio-y-habilita-una-nueva-generacion-de-coberturas-mas-flexibles-e-innovadoras/",
+      "imagen": ""
+    },
     {
       "titulo": "Seguro de caución digital para alquileres de Experta Seguros",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros presentó el 1 de julio un seguro de caución 100% digital para alquileres que permite cotizar, emitir y contratar online; cubre alquiler impago y…",
@@ -39,6 +192,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Vacaciones de invierno: cinco claves para viajar más seguro por las rutas argentinas",
+      "resumen": "Empezaron las vacaciones de invierno y Zurich Argentina comparte cinco consejos para preparar el auto y reducir riesgos a la hora de viajar por el país. La entrada Vacaciones de invierno: cinco claves para viajar más…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-22",
+      "url": "https://100seguro.com.ar/vacaciones-de-invierno-cinco-claves-para-viajar-mas-seguro-por-las-rutas-argentinas/",
+      "imagen": ""
+    },
+    {
       "titulo": "La Caja fortalece su negocio digital con la creación de una nueva Dirección Comercial",
       "resumen": "La compañía anuncia una nueva dirección liderada por Cristóbal Cadenas, orientada a impulsar el crecimiento del negocio digital, fortalecer la experiencia de clientes y usuarios, y consolidar la integración entre…",
       "fuente": "100% Seguro",
@@ -54,168 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-22",
       "url": "https://100seguro.com.ar/una-oportunidad-para-ampliar-el-acceso-a-la-salud-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Microseguros: cobertura crece pero alcanza solo al 12%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com 344 millones de personas están cubiertas por microseguros (12% de la población potencial), con 6.200 millones de dólares en primas. Mapfre impulsa programas en Brasil…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-21",
-      "url": "https://mercadosyseguros.com/microseguros-cobertura-crece-pero-alcanza-solo-al-12/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN aprueba nuevo reglamento del Fondo de Reserva LRT",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó el 3 de julio la resolución 290/2026 que reforma el reglamento del Fondo de Reserva (art.34 Ley 24.557) y adjudicó a SML Consultores Médicos SA la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-21",
-      "url": "https://mercadosyseguros.com/ssn-aprueba-nuevo-reglamento-del-fondo-de-reserva-lrt/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro de Transporte: clave para proteger la carga en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En el primer trimestre de 2026 las indemnizaciones en Transporte de Mercaderías aumentaron 46,4% respecto a 2025, en un mercado con 36,3 millones de pólizas vigentes.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-21",
-      "url": "https://mercadosyseguros.com/seguro-de-transporte-clave-para-proteger-la-carga-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros: marca, datos y digitalización en el Foro NEA 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En el Foro NEA 2026, Paula Tognola de CNP Seguros detalló su estrategia de marca, digitalización y uso de datos para apoyar canales comerciales; Pablo Trangoni…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-21",
-      "url": "https://mercadosyseguros.com/cnp-seguros-marca-datos-y-digitalizacion-en-el-foro-nea-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Entre Ríos lanzó el primer seguro multirriesgo para productores de maíz con un fondo inicial de US$ 1 millón",
-      "resumen": "El Gobierno entrerriano presentó un innovador programa de gestión de riesgo agropecuario junto al Iapser, que brindará cobertura gratuita durante el primer año a pequeños productores de maíz afectados por sequías e…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/entre-rios-lanzo-el-primer-seguro-multirriesgo-para-productores-de-maiz-con-un-fondo-inicial-de-us-1-millon/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Marcos-Pereda-vicepresidente-de-la-Rural-Diego-Santilli-Jefe-de-Gabinete-Rogelio-Frigerio-gobernador-de-Entre-Rios-y-Nicolas-Pino-presidente-de-la-Rural-SRA.jpg"
-    },
-    {
-      "titulo": "La inteligencia artificial redefine la gestión del riesgo en las empresas",
-      "resumen": "En el marco del IAEF Digital Finance Forum, realizado en Buenos Aires, Marsh analizó los principales desafíos que enfrentan las organizaciones frente al crecimiento de las amenazas digitales y la adopción acelerada de…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/la-inteligencia-artificial-redefine-la-gestion-del-riesgo-en-las-empresas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Nuevo marco para seguros de sepelio: más flexibilidad, nuevas coberturas y actualización regulatoria",
-      "resumen": "RESOLUCIÓN SSN 309/2026.- La Superintendencia de Seguros de la Nación (SSN) reformuló por completo el régimen aplicable a los seguros de sepelio, eliminando el esquema de condiciones contractuales uniformes y…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/nuevo-marco-para-seguros-de-sepelio-mas-flexibilidad-nuevas-coberturas-y-actualizacion-regulatoria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Grupo Gaman reunió a empresarios y especialistas para analizar el impacto de las reformas laboral y tributaria en el sector productivo",
-      "resumen": "El encuentro abordó los principales cambios regulatorios y las oportunidades que se abren para las empresas en materia de empleo, competitividad y desarrollo de negocios. La entrada Grupo Gaman reunió a empresarios y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/grupo-gaman-reunio-a-empresarios-y-especialistas-para-analizar-el-impacto-de-las-reformas-laboral-y-tributaria-en-el-sector-productivo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA reunió a su Consejo Federal y Directivo en Buenos Aires",
-      "resumen": "Presidentes y dirigentes de las 22 APAS de todo el país se dieron cita en la Ciudad de Buenos Aires para repasar la agenda gremial, con foco en la campaña de concientización, los trámites ante la UIF y el combate a la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/fapasa-reunio-a-su-consejo-federal-y-directivo-en-buenos-aires/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/reunion-CD-1024x691-1.jpg"
-    },
-    {
-      "titulo": "Fundación Mapfre convoca ayudas por 275.000 euros para proyectos de investigación en seguros, salud y previsión",
-      "resumen": "Fundación Mapfre ha lanzado una nueva edición de sus ayudas a la investigación Ignacio H. Larramendi por importe total de 275.000 euros, dirigidas a investigadores o equipos de investigación del ámbito académico y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/fundacion-mapfre-convoca-ayudas-por-275-000-euros-para-proyectos-de-investigacion-en-seguros-salud-y-prevision/",
-      "imagen": ""
-    },
-    {
-      "titulo": "BARBUSS Risk fortalece su estructura con la designación de un nuevo Country Manager en Argentina",
-      "resumen": "La compañía anunció la incorporación de Ignacio Morello al frente de la operación argentina, con el objetivo de potenciar su crecimiento y consolidación en el mercado local. La entrada BARBUSS Risk fortalece su…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/barbuss-risk-fortalece-su-estructura-con-la-designacion-de-un-nuevo-country-manager-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La UTN y Softtek lanzan una nueva edición de la Diplomatura en Tecnología y Seguros",
-      "resumen": "La propuesta académica, diseñada para ejecutivos y líderes del mercado asegurador, comenzará el próximo 26 de agosto y pondrá el foco en inteligencia artificial, datos, automatización, liderazgo y transformación del…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-21",
-      "url": "https://100seguro.com.ar/la-utn-y-softtek-lanzan-una-nueva-edicion-de-la-diplomatura-en-tecnologia-y-seguros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Diplomatura-en-Tecnologia-y-Seguros-UTN-Softtek.png"
-    },
-    {
-      "titulo": "Festejos seguros: 5 recomendaciones de ATM Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros difundió cinco recomendaciones para evitar siniestros durante caravanas y festejos: conductor designado (Alcohol Cero), respeto al peatón, cinturón y SRI…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-20",
-      "url": "https://mercadosyseguros.com/festejos-seguros-5-recomendaciones-de-atm-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Siniestros bajaron y crecieron las pólizas en el 1° trimestre de 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en el 1° trimestre de 2026 se pagaron 945.117 siniestros (-1,2% interanual) y se emitieron 13.463.441 pólizas patrimoniales (-2,4% interanual).…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://mercadosyseguros.com/siniestros-bajaron-y-crecieron-las-polizas-en-el-1-trimestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-69555849-APN-GEYE#SSN – TASA TESTIGO RENTAS VITALICIAS PREVISIONALES – JULIO DE 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/if-2026-69555849-apn-geyessn-tasa-testigo-rentas-vitalicias-previsionales-julio-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-69555752-APN-GEYE#SSN – TASA TESTIGO SEGURO DE RETIRO VOLUNTARIO – JULIO DE 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/if-2026-69555752-apn-geyessn-tasa-testigo-seguro-de-retiro-voluntario-julio-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-68660868-APN-GE#SSN – IMPLEMENTACIÓN DEL NUEVO RÉGIMEN DE INFORMACIÓN – NOTAS ESTANDARIZADAS Y GUÍAS DE CÁLCULOS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/if-2026-68660868-apn-gessn-implementacion-del-nuevo-regimen-de-informacion-notas-estandarizadas-y-guias-de-calculos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-68592952-APN-GE#SSN – RESOLUCIÓN RESOL-2026-272-APN-SSN#MEC. TÍTULOS PÚBLICOS NACIONALES ADQUIRIDOS DIRECTAMENTE EN LICITACIÓN PRIMARIA. PRESENTACIÓN DEL ACTA DEL ÓRGANO DE ADMINISTRACIÓN.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-20",
-      "url": "https://elseguroenaccion.com.ar/if-2026-68592952-apn-gessn-resolucion-resol-2026-272-apn-ssnmec-titulos-publicos-nacionales-adquiridos-directamente-en-licitacion-primaria-presentacion-del-acta-del-organo-de-administracion/",
       "imagen": ""
     }
   ]
