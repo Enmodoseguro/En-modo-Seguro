@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-07-24T12:14-03:00",
+  "actualizado": "2026-07-25T09:10-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sancor Seguros y su apoyo a la Selección en la final del Mundial",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros, sponsor oficial de la Selección Argentina, reconoció con viajes y kits a Organizadores y Oficiales de Negocios por su rendimiento comercial a través…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-25",
+      "url": "https://mercadosyseguros.com/sancor-seguros-y-su-apoyo-a-la-seleccion-en-la-final-del-mundial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Federación Patronal ART: 30 años de prevención en riesgos del trabajo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART renovó su compromiso en el 30° aniversario de la Ley 24.557, destacando Prevención 360, exámenes médicos periódicos y la ampliación de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-25",
+      "url": "https://mercadosyseguros.com/federacion-patronal-art-30-anos-de-prevencion-en-riesgos-del-trabajo/",
+      "imagen": ""
+    },
     {
       "titulo": "Seguro multirriesgo para maíz lanzado por Frigerio e IAPSER",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rogelio Frigerio anunció en Palermo el 2026 un seguro multirriesgo para maíz desarrollado con IAPSER Seguros, con financiamiento de 1.000.000 USD (700.000 aportados…",
@@ -39,13 +57,58 @@
       "imagen": ""
     },
     {
-      "titulo": "Desde La Rural, hablan el Secretario de Agricultura, el Superintendente y referentes del sector privado",
+      "titulo": "Desde La Rural, hablaron el Secretario de Agricultura, el Superintendente y referentes del sector privado",
       "resumen": "En un programa especial de 100% SEGURO desde la 138ª Exposición Rural Argentina, analizamos el vínculo entre el campo y el seguro en una jornada clave para la gestión de riesgos agropecuarios, marcada por la renovación…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-07-24",
       "url": "https://100seguro.com.ar/desde-la-rural-hablan-el-secretario-de-agricultura-el-superintendente-y-referentes-del-sector-privado/",
       "imagen": ""
+    },
+    {
+      "titulo": "Europa y Latinoamérica comparten una misma tendencia: la IA agiliza los siniestros, pero el factor humano sigue siendo irremplazable",
+      "resumen": "El nuevo Informe Estratégico de Gestión de Siniestros 2026 de Sedgwick revela que tres de cada cuatro profesionales del sector consideran que la inteligencia artificial necesita supervisión humana para ofrecer…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-24",
+      "url": "https://100seguro.com.ar/europa-y-latinoamerica-comparten-una-misma-tendencia-la-ia-agiliza-los-siniestros-pero-el-factor-humano-sigue-siendo-irremplazable/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El mercado asegurador avanza para acotar el “ciberriesgo silencioso”, uno de los mayores desafíos del ciberseguro",
+      "resumen": "Un nuevo informe elaborado por la Asociación Internacional de Supervisores de Seguros (IAIS) y el Instituto para la Estabilidad Financiera (FSI) del Banco de Pagos Internacionales (BPI) sostiene que el sector está…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-24",
+      "url": "https://100seguro.com.ar/el-mercado-asegurador-avanza-para-acotar-el-ciberriesgo-silencioso-uno-de-los-mayores-desafios-del-ciberseguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "De la seguridad al seguro: crean Prosegur Insurance Broker con una estrategia regional que inicia en Argentina",
+      "resumen": "Prosegur dio un nuevo paso en la evolución de su propuesta de valor con el lanzamiento de Prosegur Insurance Broker, una nueva unidad de negocio que integra soluciones de seguros corporativos e individuales a su…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-24",
+      "url": "https://100seguro.com.ar/de-la-seguridad-al-seguro-crean-prosegur-insurance-broker-con-una-estrategia-regional-que-inicia-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La empatía en la IA generativa: cómo las aseguradoras pueden ganar eficiencia fortaleciendo la cercanía con los clientes",
+      "resumen": "Por Daniel Figueirido, CEO de Illumia.- Un asegurado acaba de tener un accidente. Está en la calle, nervioso, y llama a su compañía. Lo que ocurra en los próximos diez minutos —cuánto espera, cuántas veces tiene que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-24",
+      "url": "https://100seguro.com.ar/la-empatia-en-la-ia-generativa-como-las-aseguradoras-pueden-ganar-eficiencia-fortaleciendo-la-cercania-con-los-clientes/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Daniel-Figueirido-CEO-de-Illumia-2-150x150.jpeg"
+    },
+    {
+      "titulo": "Nimbus inauguró su nueva oficina en Concepción del Uruguay y celebró 14 años de trayectoria",
+      "resumen": "El broker de seguros abrió las puertas de su nueva sede en la esquina de San Martín y Alem, en Concepción del Uruguay. La inauguración se realizó en el marco de un encuentro junto al equipo de la empresa y sus familias.…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-24",
+      "url": "https://100seguro.com.ar/nimbus-inauguro-su-nueva-oficina-en-concepcion-del-uruguay-y-celebro-14-anos-de-trayectoria/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Nimbus-Broker-Concepcion-del-Uruguay.jpg"
     },
     {
       "titulo": "COOPAS: el nuevo programa de incentivos de Cooperación Seguros",
@@ -129,51 +192,6 @@
       "imagen": ""
     },
     {
-      "titulo": "El ecosistema insurtech argentino creció un 16% anual y ya alcanzó 110 startups",
-      "resumen": "El ecosistema insurtech latinoamericano alcanzó las 576 startups, registró su mayor crecimiento desde 2023 y redujo su tasa de mortalidad al 7%. En el último año, nacieron 102 insurtech y desaparecieron 35. La inversión…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/el-ecosistema-insurtech-argentino-crecio-un-16-anual-y-ya-alcanzo-110-startups/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Mapa-de-insurtechs-en-Latam.png"
-    },
-    {
-      "titulo": "La IA acelera el riesgo cibernético y desafía la capacidad de respuesta del mercado asegurador",
-      "resumen": "La actualización de mitad de año del Global Insurance Market Report (GIMAR) 2026, elaborada por la Asociación Internacional de Supervisores de Seguros (IAIS), advierte que la inteligencia artificial está modificando la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/la-ia-acelera-el-riesgo-cibernetico-y-desafia-la-capacidad-de-respuesta-del-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Pilkington: detrás de cada cristal, 200 años de experiencia",
-      "resumen": "Cuando un conductor necesita reemplazar el parabrisas de su vehículo, pocas veces imagina todo el proceso que hay detrás de ese cambio, existe un proceso mucho más amplio de lo que muchas veces se imagina. Cada cristal…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/pilkington-detras-de-cada-cristal-200-anos-de-experiencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Coopathon Educativo: 50 iniciativas escolares avanzan hacia la etapa de formación y mentoría",
-      "resumen": "La primera edición de la propuesta impulsada por Fundación Grupo Sancor Seguros, INAES y CALCME recibió 182 postulaciones provenientes de 21 provincias argentinas, consolidando su alcance federal y el compromiso de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/coopathon-educativo-50-iniciativas-escolares-avanzan-hacia-la-etapa-de-formacion-y-mentoria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Segunda Seguros es pionera en migrar a Guidewire Cloud y marca un hito en la región",
-      "resumen": "La aseguradora completó con éxito una transición histórica de 8 TB de datos y 4.000 casos de prueba en 10 meses de desarrollo, sentando las bases tecnológicas para la próxima década del sector en la región. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/la-segunda-seguros-es-pionera-en-migrar-a-guidewire-cloud-y-marca-un-hito-en-la-region/",
-      "imagen": ""
-    },
-    {
       "titulo": "3ra Edición Premio REDMES LATAM 2026 | Apertura de postulaciones",
       "resumen": "Con mucho entusiasmo anunciamos que ya está abierta la convocatoria a postulaciones para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman. Este reconocimiento regional busca visibilizar a mujeres que…",
       "fuente": "El Seguro en Acción",
@@ -198,24 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-23",
       "url": "https://elseguroenaccion.com.ar/automotor-manda-pero-no-pesa-igual-en-todos-los-grupos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos motos 1° quincena julio",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://elseguroenaccion.com.ar/cafam-patentamientos-motos-1-quincena-julio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia Seguros supera las 100.000 inspecciones remotas con Autoinspector",
-      "resumen": "A cuatro años de implementar el sistema, la aseguradora reporta 97% de satisfacción del asegurado y más de 40.000 alertas automáticas de irregularidades detectadas antes de la liquidación. Rivadavia Seguros superó las…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://elseguroenaccion.com.ar/rivadavia-seguros-supera-las-100-000-inspecciones-remotas-con-autoinspector/",
       "imagen": ""
     }
   ]
