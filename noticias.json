@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-07-25T09:10-03:00",
+  "actualizado": "2026-07-26T09:43-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seguro ante catástrofes: herramienta clave en Latinoamérica",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Directivos de Mapfre México, Argia-GT&E y CAF advierten que el aumento de fenómenos naturales obliga a integrar al seguro en la respuesta en América Latina. Proponen…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-26",
+      "url": "https://mercadosyseguros.com/seguro-ante-catastrofes-herramienta-clave-en-latinoamerica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro caución de alquiler: lanzamiento de Experta Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Experta Seguros lanzó un seguro de caución para alquileres disponible desde el 1 de julio, que garantiza impagos sin exigir garantía propietaria y suma coberturas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-26",
+      "url": "https://mercadosyseguros.com/seguro-caucion-de-alquiler-lanzamiento-de-experta-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Carspreading en Europa: cómo los autos más grandes reducen plazas y aumentan riesgos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de Transport & Environment y Clean Cities revela que los autos nuevos en Europa crecieron 1,2 cm en longitud y 0,5 cm en altura y ancho por año; alertan…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-26",
+      "url": "https://mercadosyseguros.com/carspreading-en-europa-como-los-autos-mas-grandes-reducen-plazas-y-aumentan-riesgos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Esfuerzo de razonamiento en LLMs: cuándo usar cada nivel",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Claude Opus 4.8 y la familia o1 de OpenAI permiten ajustar el esfuerzo de razonamiento —low a max—: más tokens internos aumentan precisión, costo y latencia. Use low…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-26",
+      "url": "https://mercadosyseguros.com/esfuerzo-de-razonamiento-en-llms-cuando-usar-cada-nivel/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Kimi K3 y la automatización SEO en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Moonshot AI lanzó Kimi K3 en julio de 2026: un LLM open source de 2,8 billones de parámetros y contexto de 1.000.000 de tokens. Es útil para extraer temas, generar…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-25",
+      "url": "https://mercadosyseguros.com/kimi-k3-y-la-automatizacion-seo-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Comparativa GPT-5 y Claude API: rendimiento y costos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Comparativa julio 2026: Claude Fable 5 alcanza 95% en SWE-Bench y es la mejor opción para código; GPT-5.6 Sol logra 97% en GPQA Diamond para razonamiento académico.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-25",
+      "url": "https://mercadosyseguros.com/comparativa-gpt-5-y-claude-api-rendimiento-y-costos/",
+      "imagen": ""
+    },
     {
       "titulo": "Sancor Seguros y su apoyo a la Selección en la final del Mundial",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros, sponsor oficial de la Selección Argentina, reconoció con viajes y kits a Organizadores y Oficiales de Negocios por su rendimiento comercial a través…",
@@ -36,24 +90,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-24",
       "url": "https://mercadosyseguros.com/seguro-agricola-proteger-la-inversion-de-la-siembra/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia Seguros: 100.000 inspecciones remotas con Autoinspector",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rivadavia Seguros procesó 100.000 inspecciones remotas con Autoinspector en cuatro años; detectó más de 40.000 alertas por irregularidades y reporta 97% de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-24",
-      "url": "https://mercadosyseguros.com/rivadavia-seguros-100-000-inspecciones-remotas-con-autoinspector/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Olimpíadas de Seguridad Vial: La Perseverancia en Tres Arroyos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 8 de junio, La Perseverancia Seguros y la Secretaría de Seguridad de Tres Arroyos realizaron las Olimpíadas de Seguridad Vial en el Polideportivo Municipal con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-24",
-      "url": "https://mercadosyseguros.com/olimpiadas-de-seguridad-vial-la-perseverancia-en-tres-arroyos/",
       "imagen": ""
     },
     {
@@ -126,42 +162,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-24",
       "url": "https://nbs.ar/tejero-vacas-el-talento-argentino-es-una-de-las-principales-razones-por-las-que-muchas-empresas-tecnologicas-logran-expandirse-hacia-otros-mercados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Electromovilidad: cómo cambió el riesgo para las aseguradoras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe 2026 del Alumni Think Tank de AAPAS detecta brechas en coberturas y protocolos del mercado asegurador argentino frente a la electromovilidad: la batería…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://mercadosyseguros.com/electromovilidad-como-cambio-el-riesgo-para-las-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevenir 2026: cursos virtuales, tercera edición",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La tercera edición de los cursos virtuales Prevenir 2026, organizada por FISO, abrió la inscripción gratuita el 2026-01-01. Ofrece módulos sobre prevención de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://mercadosyseguros.com/prevenir-2026-cursos-virtuales-tercera-edicion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Consejos para prevenir averías y conducir seguro en invierno",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI recomendó revisar batería, aceite, refrigerante y visibilidad ante la llegada del invierno en Argentina. En vehículos eléctricos la autonomía puede caer entre…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://mercadosyseguros.com/consejos-para-prevenir-averias-y-conducir-seguro-en-invierno/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Somnolencia al volante: riesgo en vacaciones de invierno",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La somnolencia al volante aumenta el riesgo de siniestros: dormir 6 horas eleva la probabilidad de accidente en un 33%. Luchemos por la Vida y Dormir con Ciencia…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://mercadosyseguros.com/somnolencia-al-volante-riesgo-en-vacaciones-de-invierno/",
       "imagen": ""
     },
     {
