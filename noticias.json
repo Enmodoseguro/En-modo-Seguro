@@ -1,7 +1,97 @@
 {
-  "actualizado": "2026-07-27T09:14-03:00",
+  "actualizado": "2026-07-28T08:10-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sancor Seguros y la experiencia mundialista para su red comercial",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com SANCOR SEGUROS, sponsor oficial de la Selección en la Copa Mundial FIFA 2026, llevó a los ganadores de Ganá Más Convocados a la fase de grupos en Estados Unidos y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-27",
+      "url": "https://mercadosyseguros.com/sancor-seguros-y-la-experiencia-mundialista-para-su-red-comercial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Federación Patronal ART y 30 años del Sistema de Riesgos del Trabajo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART celebró los 30 años de la Ley de Riesgos del Trabajo N° 24.557 y detalló su estrategia preventiva: Prevención 360, Programa de Bienestar…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-27",
+      "url": "https://mercadosyseguros.com/federacion-patronal-art-y-30-anos-del-sistema-de-riesgos-del-trabajo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN actualiza Seguros de Sepelio y permite coberturas más flexibles",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la Resolución N.º 309/2026 que moderniza los Seguros de Sepelio, permitiendo planes propios de cada aseguradora y elevando la suma básica hasta 15 SMVM.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-27",
+      "url": "https://mercadosyseguros.com/ssn-actualiza-seguros-de-sepelio-y-permite-coberturas-mas-flexibles/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en profesionales TIC: 91% la usa y crece el temor por despidos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La tercera encuesta de InfoJobs indica que el 94% de los profesionales TIC conoce IA y el 91% la usa. Crece la preocupación por el empleo: 52% prevé despidos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-27",
+      "url": "https://mercadosyseguros.com/ia-en-profesionales-tic-91-la-usa-y-crece-el-temor-por-despidos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Se lanza por primera vez en Argentina la convocatoria a las Becas Leonardo",
+      "resumen": "La convocatoria de Becas Leonardo destinadas a investigadores y creadores que necesitan impulso económico se lanza en Argentina y otorgará hasta cinco becas de 50 mil dólares cada una para impulsar proyectos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-27",
+      "url": "https://100seguro.com.ar/se-lanza-por-primera-vez-en-argentina-la-convocatoria-a-las-becas-leonardo/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Camila-Staffora.jpg"
+    },
+    {
+      "titulo": "Suben los costos en logística: la seguridad de las flotas gana protagonismo",
+      "resumen": "En un escenario de costos en alza, la gestión inteligente de las flotas se consolida como una herramienta clave para optimizar recursos, minimizar riesgos y mejorar la rentabilidad de las operaciones. La entrada Suben…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-27",
+      "url": "https://100seguro.com.ar/suben-los-costos-en-logistica-la-seguridad-de-las-flotas-gana-protagonismo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SRT y la SIGEN repasaron los avances del último semestre en materia de control interno",
+      "resumen": "Autoridades de la Superintendencia de Riesgos del Trabajo (SRT) y de la Sindicatura General de la Nación (SIGEN) mantuvieron un encuentro en el marco del Comité de Control Interno. La entrada La SRT y la SIGEN repasaron…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-27",
+      "url": "https://100seguro.com.ar/la-srt-y-la-sigen-repasaron-los-avances-del-ultimo-semestre-en-materia-de-control-interno/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ADIRA impulsa el seguro como herramienta estratégica para el desarrollo de la ganadería argentina",
+      "resumen": "Organizada por ADIRA en la Exposición Rural de Palermo, la jornada reunió a autoridades nacionales y referentes del sector para analizar el aporte del seguro, la tecnología y el financiamiento al nuevo ciclo ganadero.…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-27",
+      "url": "https://100seguro.com.ar/adira-impulsa-el-seguro-como-herramienta-estrategica-para-el-desarrollo-de-la-ganaderia-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Akur8 Agents: cuando la IA deja de sugerir y empieza a actuar en el pricing actuarial",
+      "resumen": "Por Hugues Bertin, CEO & Founder de Digital Insurance LatAm y Presidente de la Alianza Insurtech Panamericana (AIP).- En 2019 me crucé con una insurtech francesa que me capturó de inmediato, porque atacaba un problema…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-27",
+      "url": "https://100seguro.com.ar/akur8-agents-cuando-la-ia-deja-de-sugerir-y-empieza-a-actuar-en-el-pricing-actuarial/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/05/Hugues-Bertin-2-150x150.jpeg"
+    },
+    {
+      "titulo": "El futuro del productor: ¿trabajar solo o integrarse a una organización?",
+      "resumen": "El mercado asegurador se concentra cada vez más: crecen las organizaciones, las redes comerciales y los brokers de gran escala. ¿Qué lugar le queda al Productor Asesor de Seguros que trabaja solo? En esta entrevista,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-27",
+      "url": "https://elseguroenaccion.com.ar/el-futuro-del-productor-trabajar-solo-o-integrarse-a-una-organizacion/",
+      "imagen": ""
+    },
     {
       "titulo": "Seguro ante catástrofes: herramienta clave en Latinoamérica",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Directivos de Mapfre México, Argia-GT&E y CAF advierten que el aumento de fenómenos naturales obliga a integrar al seguro en la respuesta en América Latina. Proponen…",
@@ -57,42 +147,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Sancor Seguros y su apoyo a la Selección en la final del Mundial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros, sponsor oficial de la Selección Argentina, reconoció con viajes y kits a Organizadores y Oficiales de Negocios por su rendimiento comercial a través…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-25",
-      "url": "https://mercadosyseguros.com/sancor-seguros-y-su-apoyo-a-la-seleccion-en-la-final-del-mundial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal ART: 30 años de prevención en riesgos del trabajo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART renovó su compromiso en el 30° aniversario de la Ley 24.557, destacando Prevención 360, exámenes médicos periódicos y la ampliación de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-25",
-      "url": "https://mercadosyseguros.com/federacion-patronal-art-30-anos-de-prevencion-en-riesgos-del-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro multirriesgo para maíz lanzado por Frigerio e IAPSER",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rogelio Frigerio anunció en Palermo el 2026 un seguro multirriesgo para maíz desarrollado con IAPSER Seguros, con financiamiento de 1.000.000 USD (700.000 aportados…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-24",
-      "url": "https://mercadosyseguros.com/seguro-multirriesgo-para-maiz-lanzado-por-frigerio-e-iapser/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro agrícola: proteger la inversión de la siembra",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Perseverancia Seguros presenta LPS Agro para cubrir granizo, incendio y resiembra en campañas donde cada hectárea puede demandar hasta US$1.000. Las tormentas más…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-24",
-      "url": "https://mercadosyseguros.com/seguro-agricola-proteger-la-inversion-de-la-siembra/",
-      "imagen": ""
-    },
-    {
       "titulo": "Desde La Rural, hablaron el Secretario de Agricultura, el Superintendente y referentes del sector privado",
       "resumen": "En un programa especial de 100% SEGURO desde la 138ª Exposición Rural Argentina, analizamos el vínculo entre el campo y el seguro en una jornada clave para la gestión de riesgos agropecuarios, marcada por la renovación…",
       "fuente": "100% Seguro",
@@ -138,57 +192,12 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Daniel-Figueirido-CEO-de-Illumia-2-150x150.jpeg"
     },
     {
-      "titulo": "Nimbus inauguró su nueva oficina en Concepción del Uruguay y celebró 14 años de trayectoria",
-      "resumen": "El broker de seguros abrió las puertas de su nueva sede en la esquina de San Martín y Alem, en Concepción del Uruguay. La inauguración se realizó en el marco de un encuentro junto al equipo de la empresa y sus familias.…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-24",
-      "url": "https://100seguro.com.ar/nimbus-inauguro-su-nueva-oficina-en-concepcion-del-uruguay-y-celebro-14-anos-de-trayectoria/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Nimbus-Broker-Concepcion-del-Uruguay.jpg"
-    },
-    {
-      "titulo": "COOPAS: el nuevo programa de incentivos de Cooperación Seguros",
-      "resumen": "En el marco de sus 100 años, la compañía presenta una propuesta pensada para acompañar el crecimiento de su red de PAS y seguir fortaleciendo el trabajo conjunto. La entrada COOPAS: el nuevo programa de incentivos de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-24",
-      "url": "https://100seguro.com.ar/coopas-el-nuevo-programa-de-incentivos-de-cooperacion-seguros/",
-      "imagen": ""
-    },
-    {
       "titulo": "Tejero Vacas: “El talento argentino es una de las principales razones por las que muchas empresas tecnológicas logran expandirse hacia otros mercados”",
       "resumen": "Alejandro Tejero Vacas, director de Comunicación de la Cámara Argentina Fintech analiza la actualidad de la economía del conocimiento en Argentina. La entrada Tejero Vacas: “El talento argentino es una de las…",
       "fuente": "NBS",
       "categoria": "Mercado",
       "fecha": "2026-07-24",
       "url": "https://nbs.ar/tejero-vacas-el-talento-argentino-es-una-de-las-principales-razones-por-las-que-muchas-empresas-tecnologicas-logran-expandirse-hacia-otros-mercados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Modernizan el marco regulatorio para los seguros paramétricos buscando ampliar la oferta y su desarrollo",
-      "resumen": "RESOLUCIÓN SSN 315/2026.- La Superintendencia de Seguros de la Nación (SSN) aprobó un nuevo marco regulatorio para los seguros paramétricos, una modalidad innovadora de cobertura que busca agilizar las indemnizaciones y…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/modernizan-el-marco-regulatorio-para-los-seguros-parametricos-buscando-ampliar-la-oferta-y-su-desarrollo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/ssn_mesa-agricultura.jpg"
-    },
-    {
-      "titulo": "El Sistema de Riesgos del Trabajo evitó más de 5 millones de accidentes y salvó más de 20 mil vidas",
-      "resumen": "En tres décadas, la mortalidad en el ámbito laboral cayó un 79%. Sin embargo, la Unión de Aseguradoras de Riesgos del Trabajo (UART) advierte que la alta judicialidad jaquea al sistema. La litigiosidad es 23 veces la de…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/el-sistema-de-riesgos-del-trabajo-evito-mas-de-5-millones-de-accidentes-y-salvo-mas-de-20-mil-vidas/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/30-anos-en-30-datos-1.jpg"
-    },
-    {
-      "titulo": "Andina ART designa nuevo Director General",
-      "resumen": "El Grupo Mercantil Andina comunicó un importante cambio en su estructura directiva. Desde el 20 de julio pasado, Gerardo Virkel, quien se venía desempeñando como Gerente Comercial, asumió la Dirección General de Andina…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://100seguro.com.ar/andina-art-designa-nuevo-director-general/",
       "imagen": ""
     },
     {
@@ -207,15 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-07-23",
       "url": "https://elseguroenaccion.com.ar/los-seguros-parametricos-ya-tienen-reglas-propias-la-ssn-apuesta-por-una-nueva-generacion-de-coberturas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Automotores manda, pero no pesa igual en todos los grupos",
-      "resumen": "El nuevo tablero interactivo de El Seguro en acción compara, grupo por grupo, qué porción de la cartera patrimonial explica el ramo Automotores a marzo de 2026. En algunos casos supera el 90% de la producción; en otros,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-23",
-      "url": "https://elseguroenaccion.com.ar/automotor-manda-pero-no-pesa-igual-en-todos-los-grupos/",
       "imagen": ""
     }
   ]
