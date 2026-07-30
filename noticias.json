@@ -1,7 +1,205 @@
 {
-  "actualizado": "2026-07-29T08:16-03:00",
+  "actualizado": "2026-07-30T08:00-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "El oeste encabeza el ranking de robos de autos en la primer parte del año",
+      "resumen": "Los datos se desprenden del «Indicador ITURAN de Robo Vehicular (IRV)» recabados entre enero y junio de 2026 que registra, mes a mes, la variación de este delito en CABA y GBA. Ituran Argentina, presentó los resultados…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/el-oeste-encabeza-el-ranking-de-robos-de-autos-en-la-primer-parte-del-ano/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gerardo Virkel asume la Dirección General de Andina ART",
+      "resumen": "El Grupo Mercantil Andina comunica un importante cambio en su estructura directiva: desde el 20/07, Gerardo Virkel, quien se venía desempeñando como Gerente Comercial, asumió la Dirección General de Andina ART. Gerardo,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/gerardo-virkel-asume-la-direccion-general-de-andina-art/",
+      "imagen": ""
+    },
+    {
+      "titulo": "30 años en 30 datos",
+      "resumen": "● En tres décadas, la mortalidad en el ámbito laboral cayó un 79%. ● Sin embargo, la Unión de Aseguradoras de Riesgos del Trabajo (UART) advierte que la alta judicialidad jaquea al sistema. ● La litigiosidad es 23 veces…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/30-anos-en-30-datos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros Uruguay automatiza la verificación dedocumentos para la suscripción de autos",
+      "resumen": "El equipo de emisión de la aseguradora incorporó verificación automática de fotos y documentos para la suscripción de autos con Autoinspector, la plataforma que ya opera con aseguradoras de Argentina, Paraguay, Bolivia…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/sancor-seguros-uruguay-automatiza-la-verificacion-dedocumentos-para-la-suscripcion-de-autos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Un centro de inteligencia para analizar el mercado asegurador",
+      "resumen": "Todas las estadísticas interactivas de El Seguro en Acción, reunidas en un solo lugar para facilitar el análisis y la toma de decisiones. En un mercado cada vez más competitivo, disponer de información confiable y de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/un-centro-de-inteligencia-para-analizar-el-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN habilita metodologías alternativas para el cálculo de la reserva IBNR",
+      "resumen": "La Resolución Nº 325/2026 permite a las aseguradoras aplicar modelos propios para calcular la Reserva de Siniestros Ocurridos y No Reportados (IBNR), bajo requisitos técnicos y actuariales. La Superintendencia de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-habilita-metodologias-alternativas-para-el-calculo-de-la-reserva-ibnr/",
+      "imagen": ""
+    },
+    {
+      "titulo": "APAS Cuyo inauguró una delegación en San Rafael, fortaleciendo su presencia en el sur de Mendoza",
+      "resumen": "Con la participación de la presidente de FAPASA, Agustina Decarre, y de la vicegobernadora mendocina, Hebe Casado, la entidad abrió una nueva delegación en el sur de la provincia para acercar trámites, asesoramiento y…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/apas-cuyo-inauguro-una-delegacion-en-san-rafael-fortaleciendo-su-presencia-en-el-sur-de-mendoza/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Así se agiliza hoy la emisión, el cobro y la atención al cliente en seguros",
+      "resumen": "En esta entrevista, Gustavo Bresba, Director de DC Sistemas, nos revela cómo la tecnología está transformando la industria aseguradora desde adentro. MIRÁ EL PROGRAMA AQUÍ Hablamos sobre: Dale like si te resultó útil…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/asi-se-agiliza-hoy-la-emision-el-cobro-y-la-atencion-al-cliente-en-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Juicios y mediaciones de aseguradoras: evolución marzo 2024–marzo 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Superintendencia de Seguros de la Nación informó 479.126 juicios y mediaciones en trámite a marzo de 2026, 4% menos que en marzo de 2025. Riesgos del trabajo y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-29",
+      "url": "https://mercadosyseguros.com/juicios-y-mediaciones-de-aseguradoras-evolucion-marzo-2024-marzo-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Internxt ofrece nube con cifrado postcuántico en Europa",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Internxt incorporó Kyber-512 y AES-256 en su servicio de nube para ofrecer cifrado postcuántico y proteger datos frente a futuros ordenadores cuánticos. La plataforma…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://mercadosyseguros.com/internxt-ofrece-nube-con-cifrado-postcuantico-en-europa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Premio REDMES LATAM 2026: apertura de postulaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Se abrió la convocatoria para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman: postulaciones hasta el 11 de agosto de 2026 en tres categorías (Líder…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://mercadosyseguros.com/premio-redmes-latam-2026-apertura-de-postulaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros paramétricos: la SSN aprueba reglas claras y plazos de pago",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reglamentó los seguros paramétricos con la Resolución 315/2026: exige autorización previa, validación actuarial independiente, identificación de fuentes de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-29",
+      "url": "https://mercadosyseguros.com/seguros-parametricos-la-ssn-aprueba-reglas-claras-y-plazos-de-pago/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Impulsan la digitalización del seguro con la firma digital 100% online",
+      "resumen": "Con el lanzamiento de FID (Firma Instantánea Digital), Lakaut incorpora un Pack Cero sin costo para personas, que incluye un certificado digital en la nube y 5 firmas digitales gratuitas, y lanza una nueva solución para…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/impulsan-la-digitalizacion-del-seguro-con-la-firma-digital-100-online/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Daniel-Raskin-Lakaut.jpg"
+    },
+    {
+      "titulo": "Habilitan a las aseguradoras a utilizar modelos propios para calcular la reserva IBNR",
+      "resumen": "RESOLUCIÓN SSN 325/2026.- La Superintendencia de Seguros de la Nación (SSN) dio el visto bueno a las compañías de seguros a utilizar metodologías alternativas para el cálculo de la Reserva de Siniestros Ocurridos y No…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/habilitan-a-las-aseguradoras-a-utilizar-modelos-propios-para-calcular-la-reserva-ibnr/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las catástrofes climáticas y el rol del seguro en Argentina",
+      "resumen": "El reconocido Ajustador Internacional e Ingeniero de Riesgos reflexiona sobre el creciente impacto de las catástrofes climáticas en Argentina y el papel que el mercado asegurador debe asumir frente a estos riesgos. A…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/las-catastrofes-climaticas-y-el-rol-del-seguro-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Leve suba mensual en el primaje de junio, con alza en Autos, RC y Vida",
+      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,175 billones de pesos en junio, lo que implica una suba del 0,3% mensual en términos reales con respecto al mes anterior (mayo de 2026), que tuvo una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/leve-suba-mensual-en-el-primaje-de-junio-con-alza-en-autos-rc-y-vida/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Estimacion-de-la-Produccion-de-Seguros-Junio-2026.png"
+    },
+    {
+      "titulo": "Federación Patronal ART cumple cuatro años impulsando la prevención desde la ergonomía",
+      "resumen": "La aseguradora consolida un servicio especializado que acompaña a las empresas a través de evaluaciones, asesoramiento técnico, capacitaciones y planes de mejora orientados a promover entornos laborales más seguros y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/federacion-patronal-art-cumple-cuatro-anos-impulsando-la-prevencion-desde-la-ergonomia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Una de cada tres personas vive con una enfermedad crónica: un informe de Zurich invita a reflexionar sobre el valor de la prevención y el cuidado a largo plazo",
+      "resumen": "Según el informe The Value of Chronic Care de Zurich Insurance Group, el crecimiento de las enfermedades crónicas plantea la importancia de seguir fortaleciendo estrategias de prevención, coordinación y acompañamiento a…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/una-de-cada-tres-personas-vive-con-una-enfermedad-cronica-un-informe-de-zurich-invita-a-reflexionar-sobre-el-valor-de-la-prevencion-y-el-cuidado-a-largo-plazo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Redion, nuevo nombre global del Grupo Europ Assistance, nombra localmente nueva Directora Comercial",
+      "resumen": "En el marco de la consolidación de su sostenido crecimiento en Argentina y la región, la compañía refuerza su estructura comercial de cara a los próximos desafíos del negocio. La entrada Redion, nuevo nombre global del…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/redion-nuevo-nombre-global-del-grupo-europ-assistance-nombra-localmente-nueva-directora-comercial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros Uruguay automatiza la verificación de documentos para la suscripción de autos",
+      "resumen": "El equipo de emisión de la aseguradora incorporó verificación automática de fotos y documentos para la suscripción de autos con Autoinspector, la plataforma que ya opera con aseguradoras de Argentina, Paraguay, Bolivia…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-29",
+      "url": "https://100seguro.com.ar/sancor-seguros-uruguay-automatiza-la-verificacion-de-documentos-para-la-suscripcion-de-autos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Julia Balestrini: “El sistema exige combinar prevención, calidad de servicio e innovación”",
+      "resumen": "Julia Balestrini, directora de Tecnología y Prevención de Provincia ART, realiza un balance de los 30 años del sistema de riesgos del trabajo. La entrada Julia Balestrini: “El sistema exige combinar prevención, calidad…",
+      "fuente": "NBS",
+      "categoria": "Regulación",
+      "fecha": "2026-07-29",
+      "url": "https://nbs.ar/julia-balestrini-el-sistema-exige-combinar-prevencion-calidad-de-servicio-e-innovacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Banco Santa Fe presenta su primer fondo de inversión sustentable: rentabilidad y impacto positivo juntos",
+      "resumen": "Banco Santa Fe ha presentado su primer fondo común de inversión sustentable, una innovadora propuesta que combina rentabilidad con un impacto positivo en la comunidad. Este lanzamiento responde a la creciente demanda de…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-07-29",
+      "url": "https://nbs.ar/banco-santa-fe-presenta-su-primer-fondo-de-inversion-sustentable-rentabilidad-y-impacto-positivo-juntos/",
+      "imagen": ""
+    },
     {
       "titulo": "Peso de Automotores en carteras de patrimoniales",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com A marzo de 2026, Automotores representa entre menos del 33% y cerca del 90% de la cartera en los diez principales grupos patrimoniales, según el tablero de El Seguro…",
@@ -18,204 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-28",
       "url": "https://mercadosyseguros.com/patentamientos-de-motos-primera-quincena-de-julio-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia: 100.000 inspecciones remotas con Autoinspector",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rivadavia Seguros superó 100.000 inspecciones remotas con Autoinspector en cuatro años, obtuvo 97% de satisfacción y detectó más de 40.000 alertas automáticas de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-28",
-      "url": "https://mercadosyseguros.com/rivadavia-100-000-inspecciones-remotas-con-autoinspector/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN actualiza seguros para transporte de pasajeros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN dictó la RESOL-2026-300-APN-SSN#MEC que exige póliza uniforme de responsabilidad civil para transporte interjurisdiccional, de oferta libre y unidades fuera de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://mercadosyseguros.com/ssn-actualiza-seguros-para-transporte-de-pasajeros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La inteligencia artificial redefine el crecimiento de las aseguradoras al priorizar la retención de clientes",
-      "resumen": "Un incremento de solo 1 punto porcentual en la retención genera el mismo impacto en el crecimiento que aumentar un 15% las nuevas ventas, reduciendo costos por descuentos innecesarios. La entrada La inteligencia…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-28",
-      "url": "https://100seguro.com.ar/la-inteligencia-artificial-redefine-el-crecimiento-de-las-aseguradoras-al-priorizar-la-retencion-de-clientes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SRT derogó más de 90 normas y avanza en la simplificación del marco regulatorio",
-      "resumen": "RESOLUCIÓN SRT 35/2026.- La Superintendencia de Riesgos del Trabajo (SRT) profundizó el proceso de revisión y simplificación de su marco normativo al derogar un amplio conjunto de resoluciones y artículos que habían…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://100seguro.com.ar/la-srt-derogo-mas-de-90-normas-y-avanza-en-la-simplificacion-del-marco-regulatorio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN le prohibió celebrar nuevos contratos a importante “caucionera” y mantuvo su inhibición de bienes",
-      "resumen": "RESOLUCIÓN SSN 322/2026.- La Superintendencia de Seguros de la Nación (SSN) dispuso una nueva medida precautoria sobre una de las históricas compañías especializadas en seguros de caución del mercado. Mediante la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://100seguro.com.ar/la-ssn-le-prohibio-celebrar-nuevos-contratos-a-importante-caucionera-y-mantuvo-su-inhibicion-de-bienes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN sancionó a dos aseguradoras por presentar fuera de término sus estados contables",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) aplicó sanciones a dos aseguradoras por haber presentado fuera de plazo los estados contables correspondientes al período cerrado al 31 de marzo de 2026, incumpliendo…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://100seguro.com.ar/la-ssn-sanciono-a-dos-aseguradoras-por-presentar-fuera-de-termino-sus-estados-contables/",
-      "imagen": ""
-    },
-    {
-      "titulo": "APAS Cuyo inauguró una delegación en San Rafael, fortaleciendo su presencia en el sur de Mendoza",
-      "resumen": "Con la participación de la presidente de FAPASA, Agustina Decarre, y de la vicegobernadora de Mendoza, Hebe Casado, la entidad abrió una nueva delegación en el sur de la provincia para acercar trámites, asesoramiento y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-28",
-      "url": "https://100seguro.com.ar/apas-cuyo-inauguro-una-delegacion-en-san-rafael-fortaleciendo-su-presencia-en-el-sur-de-mendoza/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/apas-cuyo03-1024x683-1.jpeg"
-    },
-    {
-      "titulo": "Seguro de precisión: cómo la tecnología está transformando las coberturas para el campo",
-      "resumen": "Este fue uno de los conceptos que dejó la jornada organizada por ADIRA en la 138ª Exposición Rural, donde se analizó el presente y el futuro de los seguros ganaderos, las coberturas paramétricas y la importancia de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-28",
-      "url": "https://100seguro.com.ar/seguro-de-precision-como-la-tecnologia-esta-transformando-las-coberturas-para-el-campo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Agro-coberturas-para-el-campo.jpeg"
-    },
-    {
-      "titulo": "El Gobierno derogó 122 normas de la SRT en un primer paso hacia la reforma de los riesgos del trabajo",
-      "resumen": "El Ministerio de Desregulación anunció la Resolución 35/2026 de la Superintendencia de Riesgos del Trabajo, que elimina normativa obsoleta y redundante, algunas vigentes desde la creación del organismo. El anuncio se…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://elseguroenaccion.com.ar/el-gobierno-derogo-122-normas-de-la-srt-en-un-primer-paso-hacia-la-reforma-de-los-riesgos-del-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN prohibió a Aseguradores de Cauciones emitir nuevos contratos por su nivel de concentración de riesgos",
-      "resumen": "La medida se dispuso mediante la Resolución RESOL-2026-322-APN-SSN#MEC y mantiene además la inhibición general de bienes vigente desde 2021. La compañía salió a aclarar que la decisión no está vinculada a…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-prohibio-a-aseguradores-de-cauciones-emitir-nuevos-contratos-por-su-nivel-de-concentracion-de-riesgos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Evolución digital: LAKAUT impulsa la digitalización del mercado de la banca y el seguro con la firma digital 100% online",
-      "resumen": "Con el lanzamiento de FID (Firma Instantánea Digital), Lakaut incorpora un Pack Cero sin costo para personas, que incluye un certificado digital en la nube y 5 firmas digitales gratuitas, y lanza una nueva solución para…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-07-28",
-      "url": "https://www.informeoperadores.com.ar/2026/07/28/evolucion-digital-lakaut-impulsa-la-digitalizacion-del-mercado-de-la-banca-y-el-seguro-con-la-firma-digital-100-online/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/Daniel-Raskin-600x600.jpg"
-    },
-    {
-      "titulo": "¿Cuánto sale por mes mantener una moto de 150 de cilindrada en Argentina?",
-      "resumen": "El segmento de motovehículos de 101-250 cc ha consolidado su posición como el más demandado en Argentina. Según los registros de CAFAM (Cámara de Fabricantes de Motovehículos), durante el primer semestre de 2026, se…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-28",
-      "url": "https://www.informeoperadores.com.ar/2026/07/28/cuanto-sale-por-mes-mantener-una-moto-de-150-de-cilindrada-en-argentina/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/150cc-600x400.jpg"
-    },
-    {
-      "titulo": "Pablo Pisciolari: “Reducir la litigiosidad injustificada es una condición indispensable para mejorar la competitividad de las provincias”",
-      "resumen": "Pablo Pisciolari, gerente de Prevención ART conversó con NBS sobre el papel de la litigiosidad en el actual sistema de riesgos del trabajo. La entrada Pablo Pisciolari: “Reducir la litigiosidad injustificada es una…",
-      "fuente": "NBS",
-      "categoria": "Regulación",
-      "fecha": "2026-07-28",
-      "url": "https://nbs.ar/pablo-pisciolari-reducir-la-litigiosidad-injustificada-es-una-condicion-indispensable-para-mejorar-la-competitividad-de-las-provincias/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros y la experiencia mundialista para su red comercial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com SANCOR SEGUROS, sponsor oficial de la Selección en la Copa Mundial FIFA 2026, llevó a los ganadores de Ganá Más Convocados a la fase de grupos en Estados Unidos y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-27",
-      "url": "https://mercadosyseguros.com/sancor-seguros-y-la-experiencia-mundialista-para-su-red-comercial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal ART y 30 años del Sistema de Riesgos del Trabajo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART celebró los 30 años de la Ley de Riesgos del Trabajo N° 24.557 y detalló su estrategia preventiva: Prevención 360, Programa de Bienestar…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-27",
-      "url": "https://mercadosyseguros.com/federacion-patronal-art-y-30-anos-del-sistema-de-riesgos-del-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN actualiza Seguros de Sepelio y permite coberturas más flexibles",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la Resolución N.º 309/2026 que moderniza los Seguros de Sepelio, permitiendo planes propios de cada aseguradora y elevando la suma básica hasta 15 SMVM.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-27",
-      "url": "https://mercadosyseguros.com/ssn-actualiza-seguros-de-sepelio-y-permite-coberturas-mas-flexibles/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA en profesionales TIC: 91% la usa y crece el temor por despidos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La tercera encuesta de InfoJobs indica que el 94% de los profesionales TIC conoce IA y el 91% la usa. Crece la preocupación por el empleo: 52% prevé despidos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-27",
-      "url": "https://mercadosyseguros.com/ia-en-profesionales-tic-91-la-usa-y-crece-el-temor-por-despidos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Se lanza por primera vez en Argentina la convocatoria a las Becas Leonardo",
-      "resumen": "La convocatoria de Becas Leonardo destinadas a investigadores y creadores que necesitan impulso económico se lanza en Argentina y otorgará hasta cinco becas de 50 mil dólares cada una para impulsar proyectos…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-27",
-      "url": "https://100seguro.com.ar/se-lanza-por-primera-vez-en-argentina-la-convocatoria-a-las-becas-leonardo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Camila-Staffora.jpg"
-    },
-    {
-      "titulo": "Suben los costos en logística: la seguridad de las flotas gana protagonismo",
-      "resumen": "En un escenario de costos en alza, la gestión inteligente de las flotas se consolida como una herramienta clave para optimizar recursos, minimizar riesgos y mejorar la rentabilidad de las operaciones. La entrada Suben…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-27",
-      "url": "https://100seguro.com.ar/suben-los-costos-en-logistica-la-seguridad-de-las-flotas-gana-protagonismo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SRT y la SIGEN repasaron los avances del último semestre en materia de control interno",
-      "resumen": "Autoridades de la Superintendencia de Riesgos del Trabajo (SRT) y de la Sindicatura General de la Nación (SIGEN) mantuvieron un encuentro en el marco del Comité de Control Interno. La entrada La SRT y la SIGEN repasaron…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-27",
-      "url": "https://100seguro.com.ar/la-srt-y-la-sigen-repasaron-los-avances-del-ultimo-semestre-en-materia-de-control-interno/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ADIRA impulsa el seguro como herramienta estratégica para el desarrollo de la ganadería argentina",
-      "resumen": "Organizada por ADIRA en la Exposición Rural de Palermo, la jornada reunió a autoridades nacionales y referentes del sector para analizar el aporte del seguro, la tecnología y el financiamiento al nuevo ciclo ganadero.…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-27",
-      "url": "https://100seguro.com.ar/adira-impulsa-el-seguro-como-herramienta-estrategica-para-el-desarrollo-de-la-ganaderia-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El futuro del productor: ¿trabajar solo o integrarse a una organización?",
-      "resumen": "El mercado asegurador se concentra cada vez más: crecen las organizaciones, las redes comerciales y los brokers de gran escala. ¿Qué lugar le queda al Productor Asesor de Seguros que trabaja solo? En esta entrevista,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-27",
-      "url": "https://elseguroenaccion.com.ar/el-futuro-del-productor-trabajar-solo-o-integrarse-a-una-organizacion/",
       "imagen": ""
     }
   ]
