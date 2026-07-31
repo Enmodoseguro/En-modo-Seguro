@@ -1,77 +1,140 @@
 {
-  "actualizado": "2026-07-30T08:00-03:00",
+  "actualizado": "2026-07-31T08:30-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "El oeste encabeza el ranking de robos de autos en la primer parte del año",
-      "resumen": "Los datos se desprenden del «Indicador ITURAN de Robo Vehicular (IRV)» recabados entre enero y junio de 2026 que registra, mes a mes, la variación de este delito en CABA y GBA. Ituran Argentina, presentó los resultados…",
-      "fuente": "El Seguro en Acción",
+      "titulo": "Milei en cadena nacional: “Enviaremos al Congreso un proyecto de ley de reforma estructural del mercado de seguros”",
+      "resumen": "El presidente Javier Milei habló en la noche de este jueves 30 de julio en cadena nacional para explicar los principales lineamientos del proyecto de reforma de la Carta Orgánica del Banco Central. El mensaje, que…",
+      "fuente": "100% Seguro",
       "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/el-oeste-encabeza-el-ranking-de-robos-de-autos-en-la-primer-parte-del-ano/",
+      "fecha": "2026-07-31",
+      "url": "https://100seguro.com.ar/milei-en-cadena-nacional-enviaremos-al-congreso-un-proyecto-de-ley-de-reforma-estructural-del-mercado-de-seguros/",
       "imagen": ""
     },
     {
-      "titulo": "Gerardo Virkel asume la Dirección General de Andina ART",
-      "resumen": "El Grupo Mercantil Andina comunica un importante cambio en su estructura directiva: desde el 20/07, Gerardo Virkel, quien se venía desempeñando como Gerente Comercial, asumió la Dirección General de Andina ART. Gerardo,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/gerardo-virkel-asume-la-direccion-general-de-andina-art/",
-      "imagen": ""
-    },
-    {
-      "titulo": "30 años en 30 datos",
-      "resumen": "● En tres décadas, la mortalidad en el ámbito laboral cayó un 79%. ● Sin embargo, la Unión de Aseguradoras de Riesgos del Trabajo (UART) advierte que la alta judicialidad jaquea al sistema. ● La litigiosidad es 23 veces…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/30-anos-en-30-datos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros Uruguay automatiza la verificación dedocumentos para la suscripción de autos",
-      "resumen": "El equipo de emisión de la aseguradora incorporó verificación automática de fotos y documentos para la suscripción de autos con Autoinspector, la plataforma que ya opera con aseguradoras de Argentina, Paraguay, Bolivia…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/sancor-seguros-uruguay-automatiza-la-verificacion-dedocumentos-para-la-suscripcion-de-autos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Un centro de inteligencia para analizar el mercado asegurador",
-      "resumen": "Todas las estadísticas interactivas de El Seguro en Acción, reunidas en un solo lugar para facilitar el análisis y la toma de decisiones. En un mercado cada vez más competitivo, disponer de información confiable y de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/un-centro-de-inteligencia-para-analizar-el-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN habilita metodologías alternativas para el cálculo de la reserva IBNR",
-      "resumen": "La Resolución Nº 325/2026 permite a las aseguradoras aplicar modelos propios para calcular la Reserva de Siniestros Ocurridos y No Reportados (IBNR), bajo requisitos técnicos y actuariales. La Superintendencia de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-habilita-metodologias-alternativas-para-el-calculo-de-la-reserva-ibnr/",
-      "imagen": ""
-    },
-    {
-      "titulo": "APAS Cuyo inauguró una delegación en San Rafael, fortaleciendo su presencia en el sur de Mendoza",
-      "resumen": "Con la participación de la presidente de FAPASA, Agustina Decarre, y de la vicegobernadora mendocina, Hebe Casado, la entidad abrió una nueva delegación en el sur de la provincia para acercar trámites, asesoramiento y…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/apas-cuyo-inauguro-una-delegacion-en-san-rafael-fortaleciendo-su-presencia-en-el-sur-de-mendoza/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Así se agiliza hoy la emisión, el cobro y la atención al cliente en seguros",
-      "resumen": "En esta entrevista, Gustavo Bresba, Director de DC Sistemas, nos revela cómo la tecnología está transformando la industria aseguradora desde adentro. MIRÁ EL PROGRAMA AQUÍ Hablamos sobre: Dale like si te resultó útil…",
-      "fuente": "El Seguro en Acción",
+      "titulo": "Índice de Maduración Digital: AACS y CESSI lanzan la quinta edición",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AACS y CESSI lanzaron la quinta edición del Índice de Maduración Digital. Inscripción del 27 de julio al 31 de agosto; resultados previstos para el último trimestre…",
+      "fuente": "Mercado y Seguros",
       "categoria": "Innovación",
       "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/asi-se-agiliza-hoy-la-emision-el-cobro-y-la-atencion-al-cliente-en-seguros/",
+      "url": "https://mercadosyseguros.com/indice-de-maduracion-digital-aacs-y-cessi-lanzan-la-quinta-edicion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SellingPointLA: FAPASA y AAPAS abren el seminario el 29 y 30 de julio",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre (FAPASA/COPAPROSE) y Nicolás Saurit Román (AAPAS) abrirán el IV Seminario SellingPointLA el 29 y 30 de julio con una charla sobre cinco coberturas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://mercadosyseguros.com/sellingpointla-fapasa-y-aapas-abren-el-seminario-el-29-y-30-de-julio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Firma digital 100% online: Lakaut lanza FID y un Pack Cero gratuito",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lakaut presentó FID, una plataforma 100% online que emite certificados digitales y firmas remotas; incluye un Pack Cero gratis con 5 firmas por dos años y packs…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://mercadosyseguros.com/firma-digital-100-online-lakaut-lanza-fid-y-un-pack-cero-gratuito/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Evolución del ecosistema insurtech en Latinoamérica en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe Latam Insurtech Journey (Digital Insurance LatAm y Mapfre) indica que las insurtech de Latinoamérica captaron 90 millones de dólares en el primer semestre…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://mercadosyseguros.com/evolucion-del-ecosistema-insurtech-en-latinoamerica-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El planeta entra en déficit ecológico: ya consumimos más recursos de los que la Tierra puede regenerar",
+      "resumen": "A partir de este 30 de julio, la humanidad habrá agotado el presupuesto ecológico disponible para todo 2026. Durante los próximos cinco meses vivirá utilizando recursos naturales que el planeta no puede reponer al mismo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/el-planeta-entra-en-deficit-ecologico-ya-consumimos-mas-recursos-de-los-que-la-tierra-puede-regenerar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Crece la adopción de IA: para el 22% de las organizaciones ya es parte de su trabajo diario",
+      "resumen": "Las organizaciones están entrando en una fase pragmática de la IA donde el éxito ya no se define por la experimentación, sino por la eficacia con la que los líderes transforman la inversión en valor empresarial real.…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/crece-la-adopcion-de-ia-para-el-22-de-las-organizaciones-ya-es-parte-de-su-trabajo-diario/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/01/KPMG.-Foto-Mauro-Avendano.jpg"
+    },
+    {
+      "titulo": "El uso de agentes de IA puede expandir la producción de seguros patrimoniales hasta un 3% en el corto plazo",
+      "resumen": "La inteligencia artificial generativa ya comenzó a transformar procesos como la suscripción de riesgos y la gestión de siniestros en el mercado asegurador. Sin embargo, un nuevo análisis de Boston Consulting Group (BCG)…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/el-uso-de-agentes-de-ia-puede-expandir-la-produccion-de-seguros-patrimoniales-hasta-un-3-en-el-corto-plazo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las aseguradoras ponen foco en la identidad digital, que se consolida como una prioridad en ciberseguridad",
+      "resumen": "En un contexto marcado por el crecimiento de las identidades digitales, el acceso remoto y la interconexión de servicios, la protección de la identidad digital se consolida como uno de los principales desafíos de la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/las-aseguradoras-ponen-foco-en-la-identidad-digital-que-se-consolida-como-una-prioridad-en-ciberseguridad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El verdadero obstáculo para la IA en seguros no es la tecnología, sino la fragmentación de los sistemas",
+      "resumen": "Un informe de Federato revela que las aseguradoras patrimoniales están perdiendo millones de dólares al año por procesos desconectados, mientras la mayoría aún no consigue integrar la inteligencia artificial en el…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/el-verdadero-obstaculo-para-la-ia-en-seguros-no-es-la-tecnologia-sino-la-fragmentacion-de-los-sistemas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Latinoamérica aporta 218 millones de euros al beneficio de Mapfre en el primer semestre de 2026",
+      "resumen": "La región se consolida como uno de los principales motores del Grupo, con un crecimiento de primas en la mayoría de sus mercados y una sólida rentabilidad técnica en Brasil, Perú y México. La entrada Latinoamérica…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/latinoamerica-aporta-218-millones-de-euros-al-beneficio-de-mapfre-en-el-primer-semestre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La próxima revolución de la IA en seguros no estará en automatizar procesos, sino en preservar el conocimiento de las personas",
+      "resumen": "Un informe elaborado por el Laboratorio de Innovación de ERGO junto a Google Cloud sostiene que el futuro de la inteligencia artificial en las aseguradoras pasa por capturar la experiencia de los profesionales y…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/la-proxima-revolucion-de-la-ia-en-seguros-no-estara-en-automatizar-procesos-sino-en-preservar-el-conocimiento-de-las-personas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Google Cloud destacó a Claims Services como caso de éxito por la utilización de la IA",
+      "resumen": "La compañía remarcó cómo un desarrollo realizado con el apoyo de Google Cloud permitió llevar la peritación a límites inimaginables mediante el uso de la inteligencia artificial. La entrada Google Cloud destacó a Claims…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-07-30",
+      "url": "https://100seguro.com.ar/google-cloud-destaco-a-claims-services-como-caso-de-exito-por-la-utilizacion-de-la-ia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2025/04/Leonardo-Valseche_3.jpg"
+    },
+    {
+      "titulo": "Una de cada tres personas vive con una enfermedad crónica: un informe de Zurich invita a reflexionar sobre el valor de la prevención y el cuidado a largo plazo",
+      "resumen": "Según el informe The Value of Chronic Care de Zurich Insurance Group, el crecimiento de las enfermedades crónicas plantea la importancia de seguir fortaleciendo estrategias de prevención, coordinación y acompañamiento a…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://www.informeoperadores.com.ar/2026/07/30/una-de-cada-tres-personas-vive-con-una-enfermedad-cronica-un-informe-de-zurich-invita-a-reflexionar-sobre-el-valor-de-la-prevencion-y-el-cuidado-a-largo-plazo/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/a-widening-gap-between-lifespans-and-health-spans-600x600.jpeg"
+    },
+    {
+      "titulo": "Pablo Dragun: La industria pyme busca una salida: integración productiva, crédito e inversión para recuperar competitividad",
+      "resumen": "Pablo Dragun, economista y director ejecutivo del Observatorio Pyme, advierte que las pequeñas y medianas industrias atraviesan uno de los momentos más complejos de los últimos años. La entrada Pablo Dragun: La…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-30",
+      "url": "https://nbs.ar/pablo-dragun-la-industria-pyme-busca-una-salida-integracion-productiva-credito-e-inversion-para-recuperar-competitividad/",
       "imagen": ""
     },
     {
@@ -118,69 +181,6 @@
       "fecha": "2026-07-29",
       "url": "https://100seguro.com.ar/impulsan-la-digitalizacion-del-seguro-con-la-firma-digital-100-online/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Daniel-Raskin-Lakaut.jpg"
-    },
-    {
-      "titulo": "Habilitan a las aseguradoras a utilizar modelos propios para calcular la reserva IBNR",
-      "resumen": "RESOLUCIÓN SSN 325/2026.- La Superintendencia de Seguros de la Nación (SSN) dio el visto bueno a las compañías de seguros a utilizar metodologías alternativas para el cálculo de la Reserva de Siniestros Ocurridos y No…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/habilitan-a-las-aseguradoras-a-utilizar-modelos-propios-para-calcular-la-reserva-ibnr/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Las catástrofes climáticas y el rol del seguro en Argentina",
-      "resumen": "El reconocido Ajustador Internacional e Ingeniero de Riesgos reflexiona sobre el creciente impacto de las catástrofes climáticas en Argentina y el papel que el mercado asegurador debe asumir frente a estos riesgos. A…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/las-catastrofes-climaticas-y-el-rol-del-seguro-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Leve suba mensual en el primaje de junio, con alza en Autos, RC y Vida",
-      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,175 billones de pesos en junio, lo que implica una suba del 0,3% mensual en términos reales con respecto al mes anterior (mayo de 2026), que tuvo una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/leve-suba-mensual-en-el-primaje-de-junio-con-alza-en-autos-rc-y-vida/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Estimacion-de-la-Produccion-de-Seguros-Junio-2026.png"
-    },
-    {
-      "titulo": "Federación Patronal ART cumple cuatro años impulsando la prevención desde la ergonomía",
-      "resumen": "La aseguradora consolida un servicio especializado que acompaña a las empresas a través de evaluaciones, asesoramiento técnico, capacitaciones y planes de mejora orientados a promover entornos laborales más seguros y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/federacion-patronal-art-cumple-cuatro-anos-impulsando-la-prevencion-desde-la-ergonomia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una de cada tres personas vive con una enfermedad crónica: un informe de Zurich invita a reflexionar sobre el valor de la prevención y el cuidado a largo plazo",
-      "resumen": "Según el informe The Value of Chronic Care de Zurich Insurance Group, el crecimiento de las enfermedades crónicas plantea la importancia de seguir fortaleciendo estrategias de prevención, coordinación y acompañamiento a…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/una-de-cada-tres-personas-vive-con-una-enfermedad-cronica-un-informe-de-zurich-invita-a-reflexionar-sobre-el-valor-de-la-prevencion-y-el-cuidado-a-largo-plazo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Redion, nuevo nombre global del Grupo Europ Assistance, nombra localmente nueva Directora Comercial",
-      "resumen": "En el marco de la consolidación de su sostenido crecimiento en Argentina y la región, la compañía refuerza su estructura comercial de cara a los próximos desafíos del negocio. La entrada Redion, nuevo nombre global del…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/redion-nuevo-nombre-global-del-grupo-europ-assistance-nombra-localmente-nueva-directora-comercial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros Uruguay automatiza la verificación de documentos para la suscripción de autos",
-      "resumen": "El equipo de emisión de la aseguradora incorporó verificación automática de fotos y documentos para la suscripción de autos con Autoinspector, la plataforma que ya opera con aseguradoras de Argentina, Paraguay, Bolivia…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/sancor-seguros-uruguay-automatiza-la-verificacion-de-documentos-para-la-suscripcion-de-autos/",
-      "imagen": ""
     },
     {
       "titulo": "Julia Balestrini: “El sistema exige combinar prevención, calidad de servicio e innovación”",
