@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-07-31T08:30-03:00",
+  "actualizado": "2026-08-01T07:28-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Prohíben a Aseguradores de Cauciones celebrar nuevos contratos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN, por Resolución N°322 del 28/07/2026, prohibió a Aseguradores de Cauciones celebrar nuevos contratos y mantuvo la inhibición de bienes por acumulación de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-07-31",
+      "url": "https://mercadosyseguros.com/prohiben-a-aseguradores-de-cauciones-celebrar-nuevos-contratos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Economía del cibercrimen en Latinoamérica supera a otras industrias",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Akamai y Cybersecurity Ventures alertan que el costo global del cibercrimen superará los 12 billones de dólares en 2026; en Latinoamérica las empresas enfrentan 2.803…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-31",
+      "url": "https://mercadosyseguros.com/economia-del-cibercrimen-en-latinoamerica-supera-a-otras-industrias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AAPAS acercó a productores al ecosistema insurtech",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Comisión de Innovación y Tecnología de AAPAS coordinó el Broker Lab en el Insurtech MeetDay 2026 en Rosario, donde 50 productores rotaron por cinco insurtechs en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-07-31",
+      "url": "https://mercadosyseguros.com/aapas-acerco-a-productores-al-ecosistema-insurtech/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ADIRA propone el seguro como herramienta estratégica para la ganadería",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADIRA organizó el 24 de julio de 2026 en Palermo la jornada sobre seguros para la ganadería con más de 100 asistentes y la presencia de Guillermo Plate y Diego…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-07-31",
+      "url": "https://mercadosyseguros.com/adira-propone-el-seguro-como-herramienta-estrategica-para-la-ganaderia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Economía y seguros: dos miradas expertas para entender el nuevo escenario",
+      "resumen": "En un nuevo programa de 100% SEGURO, analizamos la macroeconomía argentina y su impacto directo sobre el negocio asegurador, con una mirada sobre la actualidad y las perspectivas para los próximos meses. En primer…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-31",
+      "url": "https://100seguro.com.ar/economia-y-seguros-dos-miradas-expertas-para-entender-el-nuevo-escenario/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Llega el fenómeno de “El Niño” a la Argentina: alerta por el impacto económico y operativo",
+      "resumen": "El incremento de las precipitaciones en zonas productivas clave, como la Cuenca del Plata y la Mesopotamia, amenaza con generar inundaciones severas, afectando la continuidad operativa del sector agropecuario, la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-07-31",
+      "url": "https://100seguro.com.ar/llega-el-fenomeno-de-el-nino-a-la-argentina-alerta-por-el-impacto-economico-y-operativo/",
+      "imagen": ""
+    },
     {
       "titulo": "Milei en cadena nacional: “Enviaremos al Congreso un proyecto de ley de reforma estructural del mercado de seguros”",
       "resumen": "El presidente Javier Milei habló en la noche de este jueves 30 de julio en cadena nacional para explicar los principales lineamientos del proyecto de reforma de la Carta Orgánica del Banco Central. El mensaje, que…",
@@ -9,6 +63,24 @@
       "categoria": "Mercado",
       "fecha": "2026-07-31",
       "url": "https://100seguro.com.ar/milei-en-cadena-nacional-enviaremos-al-congreso-un-proyecto-de-ley-de-reforma-estructural-del-mercado-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sebastián Menescaldi: El riesgo de una economía que crece sin generar empleo de calidad",
+      "resumen": "Sebastián Menescaldi, director asociado de EcoGo, sostiene que la recuperación económica muestra una fuerte heterogeneidad. En diálogo con NBS, analiza el mercado laboral, las políticas necesarias para consolidar la…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-31",
+      "url": "https://nbs.ar/sebastian-menescaldi-el-riesgo-de-una-economia-que-crece-sin-generar-empleo-de-calidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Tetra Pak logra reducir 34% sus emisiones y avanza en economía circular en Argentina con nuevo reporte",
+      "resumen": "Tetra Pak ha logrado reducir sus emisiones a nivel global en un 34%, un avance significativo en su compromiso con la sostenibilidad y la descarbonización. Este dato fue presentado en el reciente Reporte de…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-07-31",
+      "url": "https://nbs.ar/tetra-pak-logra-reducir-34-sus-emisiones-y-avanza-en-economia-circular-en-argentina-con-nuevo-reporte/",
       "imagen": ""
     },
     {
@@ -36,15 +108,6 @@
       "categoria": "Innovación",
       "fecha": "2026-07-30",
       "url": "https://mercadosyseguros.com/firma-digital-100-online-lakaut-lanza-fid-y-un-pack-cero-gratuito/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Evolución del ecosistema insurtech en Latinoamérica en 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe Latam Insurtech Journey (Digital Insurance LatAm y Mapfre) indica que las insurtech de Latinoamérica captaron 90 millones de dólares en el primer semestre…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-30",
-      "url": "https://mercadosyseguros.com/evolucion-del-ecosistema-insurtech-en-latinoamerica-en-2026/",
       "imagen": ""
     },
     {
@@ -111,111 +174,48 @@
       "imagen": ""
     },
     {
-      "titulo": "Google Cloud destacó a Claims Services como caso de éxito por la utilización de la IA",
-      "resumen": "La compañía remarcó cómo un desarrollo realizado con el apoyo de Google Cloud permitió llevar la peritación a límites inimaginables mediante el uso de la inteligencia artificial. La entrada Google Cloud destacó a Claims…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
+      "titulo": "Vida propia: cómo se reparte el negocio entre Patrimoniales, RT y Personas",
+      "resumen": "El nuevo tablero interactivo de El Seguro en acción compara, para un grupo de aseguradoras seleccionadas, cómo se compone su cartera entre Patrimoniales, Riesgos del Trabajo, Personas y TPP a marzo de 2026. El resultado…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
       "fecha": "2026-07-30",
-      "url": "https://100seguro.com.ar/google-cloud-destaco-a-claims-services-como-caso-de-exito-por-la-utilizacion-de-la-ia/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2025/04/Leonardo-Valseche_3.jpg"
+      "url": "https://elseguroenaccion.com.ar/vida-propia-como-se-reparte-el-negocio-entre-patrimoniales-rt-y-personas/",
+      "imagen": ""
     },
     {
-      "titulo": "Una de cada tres personas vive con una enfermedad crónica: un informe de Zurich invita a reflexionar sobre el valor de la prevención y el cuidado a largo plazo",
-      "resumen": "Según el informe The Value of Chronic Care de Zurich Insurance Group, el crecimiento de las enfermedades crónicas plantea la importancia de seguir fortaleciendo estrategias de prevención, coordinación y acompañamiento a…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://www.informeoperadores.com.ar/2026/07/30/una-de-cada-tres-personas-vive-con-una-enfermedad-cronica-un-informe-de-zurich-invita-a-reflexionar-sobre-el-valor-de-la-prevencion-y-el-cuidado-a-largo-plazo/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/a-widening-gap-between-lifespans-and-health-spans-600x600.jpeg"
-    },
-    {
-      "titulo": "Pablo Dragun: La industria pyme busca una salida: integración productiva, crédito e inversión para recuperar competitividad",
-      "resumen": "Pablo Dragun, economista y director ejecutivo del Observatorio Pyme, advierte que las pequeñas y medianas industrias atraviesan uno de los momentos más complejos de los últimos años. La entrada Pablo Dragun: La…",
-      "fuente": "NBS",
+      "titulo": "Temeridades sin control que cuestan vidas",
+      "resumen": "Fuente: LUCHEMOS POR LA VIDA Sucedió el domingo último, en la madrugada. Un joven soldado, Rodrigo Adán Barrientos (26) murió tras ser atropellado, en la transitada Av. Costanera de Posadas, Misiones, por una…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-07-30",
-      "url": "https://nbs.ar/pablo-dragun-la-industria-pyme-busca-una-salida-integracion-productiva-credito-e-inversion-para-recuperar-competitividad/",
+      "url": "https://elseguroenaccion.com.ar/temeridades-sin-control-que-cuestan-vidas/",
       "imagen": ""
     },
     {
-      "titulo": "Juicios y mediaciones de aseguradoras: evolución marzo 2024–marzo 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Superintendencia de Seguros de la Nación informó 479.126 juicios y mediaciones en trámite a marzo de 2026, 4% menos que en marzo de 2025. Riesgos del trabajo y…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "IF-2026-72861356-APN-GE#SSN – REGIMEN DE INFORMACIÓN (RI)",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-07-29",
-      "url": "https://mercadosyseguros.com/juicios-y-mediaciones-de-aseguradoras-evolucion-marzo-2024-marzo-2026/",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/if-2026-72861356-apn-gessn-regimen-de-informacion-ri/",
       "imagen": ""
     },
     {
-      "titulo": "Internxt ofrece nube con cifrado postcuántico en Europa",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Internxt incorporó Kyber-512 y AES-256 en su servicio de nube para ofrecer cifrado postcuántico y proteger datos frente a futuros ordenadores cuánticos. La plataforma…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://mercadosyseguros.com/internxt-ofrece-nube-con-cifrado-postcuantico-en-europa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Premio REDMES LATAM 2026: apertura de postulaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Se abrió la convocatoria para la 3ª edición del Premio REDMES LATAM | Mujeres que Transforman: postulaciones hasta el 11 de agosto de 2026 en tres categorías (Líder…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-29",
-      "url": "https://mercadosyseguros.com/premio-redmes-latam-2026-apertura-de-postulaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros paramétricos: la SSN aprueba reglas claras y plazos de pago",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reglamentó los seguros paramétricos con la Resolución 315/2026: exige autorización previa, validación actuarial independiente, identificación de fuentes de…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "IF-2026-72833807-APN-GEYE#SSN – ESTIMACIÓN DE LA PRODUCCIÓN MENSUAL – JUNIO 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-07-29",
-      "url": "https://mercadosyseguros.com/seguros-parametricos-la-ssn-aprueba-reglas-claras-y-plazos-de-pago/",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/if-2026-72833807-apn-geyessn-estimacion-de-la-produccion-mensual-junio-2026/",
       "imagen": ""
     },
     {
-      "titulo": "Impulsan la digitalización del seguro con la firma digital 100% online",
-      "resumen": "Con el lanzamiento de FID (Firma Instantánea Digital), Lakaut incorpora un Pack Cero sin costo para personas, que incluye un certificado digital en la nube y 5 firmas digitales gratuitas, y lanza una nueva solución para…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-29",
-      "url": "https://100seguro.com.ar/impulsan-la-digitalizacion-del-seguro-con-la-firma-digital-100-online/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Daniel-Raskin-Lakaut.jpg"
-    },
-    {
-      "titulo": "Julia Balestrini: “El sistema exige combinar prevención, calidad de servicio e innovación”",
-      "resumen": "Julia Balestrini, directora de Tecnología y Prevención de Provincia ART, realiza un balance de los 30 años del sistema de riesgos del trabajo. La entrada Julia Balestrini: “El sistema exige combinar prevención, calidad…",
-      "fuente": "NBS",
+      "titulo": "IF-2026-71017175-APN-GE#SSN – ACLARACIONES RESPECTO A LA PRESENTACIÓN DE LOS ESTADOS CONTABLES AL 30/06/2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-07-29",
-      "url": "https://nbs.ar/julia-balestrini-el-sistema-exige-combinar-prevencion-calidad-de-servicio-e-innovacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Banco Santa Fe presenta su primer fondo de inversión sustentable: rentabilidad y impacto positivo juntos",
-      "resumen": "Banco Santa Fe ha presentado su primer fondo común de inversión sustentable, una innovadora propuesta que combina rentabilidad con un impacto positivo en la comunidad. Este lanzamiento responde a la creciente demanda de…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-07-29",
-      "url": "https://nbs.ar/banco-santa-fe-presenta-su-primer-fondo-de-inversion-sustentable-rentabilidad-y-impacto-positivo-juntos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Peso de Automotores en carteras de patrimoniales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A marzo de 2026, Automotores representa entre menos del 33% y cerca del 90% de la cartera en los diez principales grupos patrimoniales, según el tablero de El Seguro…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-28",
-      "url": "https://mercadosyseguros.com/peso-de-automotores-en-carteras-de-patrimoniales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos de motos: primera quincena de julio en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En la primera quincena de julio de 2026 se patentaron 36.412 motos en Argentina, una caída interanual de 4,6%. Motomel fue la marca líder con 8.120 unidades; las…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-28",
-      "url": "https://mercadosyseguros.com/patentamientos-de-motos-primera-quincena-de-julio-en-argentina/",
+      "fecha": "2026-07-30",
+      "url": "https://elseguroenaccion.com.ar/if-2026-71017175-apn-gessn-aclaraciones-respecto-a-la-presentacion-de-los-estados-contables-al-30-06-2026/",
       "imagen": ""
     }
   ]
