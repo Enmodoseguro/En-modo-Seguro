@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-08-01T07:28-03:00",
+  "actualizado": "2026-08-02T07:27-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "IA en seguros: qué funciona y qué no",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com The Hartford, Chubb y Frontline Insurance reportaron mejoras concretas con IA en 2026: The Hartford atribuyó parte de su ganancia de Q2 2026 a IA, Frontline procesa…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-01",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-que-funciona-y-que-no/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro agropecuario: 18 Mha, 98% granizo y el techo del mercado",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Especialistas del sector advirtieron el 28/05/2025 que el seguro agropecuario argentino cubre 18 millones de hectáreas con una prima cercana a 250 MUSD, con 98% de la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-01",
+      "url": "https://mercadosyseguros.com/seguro-agropecuario-18-mha-98-granizo-y-el-techo-del-mercado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Herencia yacente: Hacienda considera propietarios a los herederos desde el fallecimiento",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hacienda considera a los herederos propietarios desde el fallecimiento, aunque la herencia no esté repartida, y exige declarar impuestos y rentas proporcionalmente.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-01",
+      "url": "https://mercadosyseguros.com/herencia-yacente-hacienda-considera-propietarios-a-los-herederos-desde-el-fallecimiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Litigiosidad en Riesgos del Trabajo: 134.000 juicios y presión sobre las tarifas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com UART reportó 134.000 juicios en el último año pese a una caída del 54% en siniestros y 79% en muertes laborales. La litigiosidad presiona tarifas: la alícuota técnica…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-01",
+      "url": "https://mercadosyseguros.com/litigiosidad-en-riesgos-del-trabajo-134-000-juicios-y-presion-sobre-las-tarifas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Movilidad sustentable: el seguro corre detrás de una transformación que ya está en marcha",
+      "resumen": "La entrada Movilidad sustentable: el seguro corre detrás de una transformación que ya está en marcha se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-01",
+      "url": "https://www.informeoperadores.com.ar/2026/08/01/movilidad-sustentable-el-seguro-corre-detras-de-una-transformacion-que-ya-esta-en-marcha/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-apertura-scaled.jpg"
+    },
+    {
+      "titulo": "Claves para mantener un comercio protegido",
+      "resumen": "La entrada Claves para mantener un comercio protegido se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-01",
+      "url": "https://www.informeoperadores.com.ar/2026/08/01/claves-para-mantener-un-comercio-protegido/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-Gabriel-Vago-La-Caja-2.jpg"
+    },
+    {
+      "titulo": "815",
+      "resumen": "La entrada 815 se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-01",
+      "url": "https://www.informeoperadores.com.ar/2026/08/01/815/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Tapa-815-R90.jpg"
+    },
     {
       "titulo": "Prohíben a Aseguradores de Cauciones celebrar nuevos contratos",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN, por Resolución N°322 del 28/07/2026, prohibió a Aseguradores de Cauciones celebrar nuevos contratos y mantuvo la inhibición de bienes por acumulación de…",
@@ -102,15 +165,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Firma digital 100% online: Lakaut lanza FID y un Pack Cero gratuito",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Lakaut presentó FID, una plataforma 100% online que emite certificados digitales y firmas remotas; incluye un Pack Cero gratis con 5 firmas por dos años y packs…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-30",
-      "url": "https://mercadosyseguros.com/firma-digital-100-online-lakaut-lanza-fid-y-un-pack-cero-gratuito/",
-      "imagen": ""
-    },
-    {
       "titulo": "El planeta entra en déficit ecológico: ya consumimos más recursos de los que la Tierra puede regenerar",
       "resumen": "A partir de este 30 de julio, la humanidad habrá agotado el presupuesto ecológico disponible para todo 2026. Durante los próximos cinco meses vivirá utilizando recursos naturales que el planeta no puede reponer al mismo…",
       "fuente": "100% Seguro",
@@ -162,60 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-30",
       "url": "https://100seguro.com.ar/latinoamerica-aporta-218-millones-de-euros-al-beneficio-de-mapfre-en-el-primer-semestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La próxima revolución de la IA en seguros no estará en automatizar procesos, sino en preservar el conocimiento de las personas",
-      "resumen": "Un informe elaborado por el Laboratorio de Innovación de ERGO junto a Google Cloud sostiene que el futuro de la inteligencia artificial en las aseguradoras pasa por capturar la experiencia de los profesionales y…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-30",
-      "url": "https://100seguro.com.ar/la-proxima-revolucion-de-la-ia-en-seguros-no-estara-en-automatizar-procesos-sino-en-preservar-el-conocimiento-de-las-personas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vida propia: cómo se reparte el negocio entre Patrimoniales, RT y Personas",
-      "resumen": "El nuevo tablero interactivo de El Seguro en acción compara, para un grupo de aseguradoras seleccionadas, cómo se compone su cartera entre Patrimoniales, Riesgos del Trabajo, Personas y TPP a marzo de 2026. El resultado…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/vida-propia-como-se-reparte-el-negocio-entre-patrimoniales-rt-y-personas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Temeridades sin control que cuestan vidas",
-      "resumen": "Fuente: LUCHEMOS POR LA VIDA Sucedió el domingo último, en la madrugada. Un joven soldado, Rodrigo Adán Barrientos (26) murió tras ser atropellado, en la transitada Av. Costanera de Posadas, Misiones, por una…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/temeridades-sin-control-que-cuestan-vidas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-72861356-APN-GE#SSN – REGIMEN DE INFORMACIÓN (RI)",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/if-2026-72861356-apn-gessn-regimen-de-informacion-ri/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-72833807-APN-GEYE#SSN – ESTIMACIÓN DE LA PRODUCCIÓN MENSUAL – JUNIO 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/if-2026-72833807-apn-geyessn-estimacion-de-la-produccion-mensual-junio-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-71017175-APN-GE#SSN – ACLARACIONES RESPECTO A LA PRESENTACIÓN DE LOS ESTADOS CONTABLES AL 30/06/2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-07-30",
-      "url": "https://elseguroenaccion.com.ar/if-2026-71017175-apn-gessn-aclaraciones-respecto-a-la-presentacion-de-los-estados-contables-al-30-06-2026/",
       "imagen": ""
     }
   ]
