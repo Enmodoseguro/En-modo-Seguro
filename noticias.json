@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-08-02T07:27-03:00",
+  "actualizado": "2026-08-03T09:15-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "La revolución del seguro ya no admite espejitos de colores",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La reforma del seguro de Milei promete libertad para crear productos. La clave será distinguir la transformación digital real del maquillaje tecnológico. La entrada…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-08-03",
+      "url": "https://mercadosyseguros.com/la-revolucion-del-seguro-ya-no-admite-espejitos-de-colores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Metaverso y seguros: por qué las aseguradoras no deben descartarlo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ERGO Group mantiene su apuesta por el metaverso desde 2019, con la app ERGO Tinymap para Apple Vision Pro y más de 3.000 empleados capacitados en realidad virtual…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-02",
+      "url": "https://mercadosyseguros.com/metaverso-y-seguros-por-que-las-aseguradoras-no-deben-descartarlo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guardrails para IA en underwriting: por qué son necesarios",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Scale AI, por medio de Nirmitee Shah, pidió en 2024 establecer guardrails para la IA en distribución, underwriting y siniestros; propuso sandboxes regulatorios y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-02",
+      "url": "https://mercadosyseguros.com/guardrails-para-ia-en-underwriting-por-que-son-necesarios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA redefine el modelado del riesgo climático en seguros P&C",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com LexisNexis reporta que la severidad del riesgo climático subió ~26% desde 2024 y 93% desde 2019; pese a una baja de frecuencia en 2025, expertos advierten que no será…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-02",
+      "url": "https://mercadosyseguros.com/ia-redefine-el-modelado-del-riesgo-climatico-en-seguros-pc/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Brecha en seguros de vida: por qué hace falta datos conectados",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Estudios de LIMRA y Experian muestran que millones subestiman o desconocen el costo real de seguros de vida y que la capacidad financiera inmediata limita decisiones.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-02",
+      "url": "https://mercadosyseguros.com/brecha-en-seguros-de-vida-por-que-hace-falta-datos-conectados/",
+      "imagen": ""
+    },
     {
       "titulo": "IA en seguros: qué funciona y qué no",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com The Hartford, Chubb y Frontline Insurance reportaron mejoras concretas con IA en 2026: The Hartford atribuyó parte de su ganancia de Q2 2026 a IA, Frontline procesa…",
@@ -75,33 +120,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Economía del cibercrimen en Latinoamérica supera a otras industrias",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Akamai y Cybersecurity Ventures alertan que el costo global del cibercrimen superará los 12 billones de dólares en 2026; en Latinoamérica las empresas enfrentan 2.803…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://mercadosyseguros.com/economia-del-cibercrimen-en-latinoamerica-supera-a-otras-industrias/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AAPAS acercó a productores al ecosistema insurtech",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Comisión de Innovación y Tecnología de AAPAS coordinó el Broker Lab en el Insurtech MeetDay 2026 en Rosario, donde 50 productores rotaron por cinco insurtechs en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-31",
-      "url": "https://mercadosyseguros.com/aapas-acerco-a-productores-al-ecosistema-insurtech/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ADIRA propone el seguro como herramienta estratégica para la ganadería",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADIRA organizó el 24 de julio de 2026 en Palermo la jornada sobre seguros para la ganadería con más de 100 asistentes y la presencia de Guillermo Plate y Diego…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://mercadosyseguros.com/adira-propone-el-seguro-como-herramienta-estrategica-para-la-ganaderia/",
-      "imagen": ""
-    },
-    {
       "titulo": "Economía y seguros: dos miradas expertas para entender el nuevo escenario",
       "resumen": "En un nuevo programa de 100% SEGURO, analizamos la macroeconomía argentina y su impacto directo sobre el negocio asegurador, con una mirada sobre la actualidad y las perspectivas para los próximos meses. En primer…",
       "fuente": "100% Seguro",
@@ -144,24 +162,6 @@
       "categoria": "Mercado",
       "fecha": "2026-07-31",
       "url": "https://nbs.ar/tetra-pak-logra-reducir-34-sus-emisiones-y-avanza-en-economia-circular-en-argentina-con-nuevo-reporte/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Índice de Maduración Digital: AACS y CESSI lanzan la quinta edición",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AACS y CESSI lanzaron la quinta edición del Índice de Maduración Digital. Inscripción del 27 de julio al 31 de agosto; resultados previstos para el último trimestre…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-07-30",
-      "url": "https://mercadosyseguros.com/indice-de-maduracion-digital-aacs-y-cessi-lanzan-la-quinta-edicion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SellingPointLA: FAPASA y AAPAS abren el seminario el 29 y 30 de julio",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre (FAPASA/COPAPROSE) y Nicolás Saurit Román (AAPAS) abrirán el IV Seminario SellingPointLA el 29 y 30 de julio con una charla sobre cinco coberturas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://mercadosyseguros.com/sellingpointla-fapasa-y-aapas-abren-el-seminario-el-29-y-30-de-julio/",
       "imagen": ""
     },
     {
