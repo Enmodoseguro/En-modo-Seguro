@@ -1,7 +1,106 @@
 {
-  "actualizado": "2026-08-04T08:30-03:00",
+  "actualizado": "2026-08-05T08:13-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Federación Patronal ART: cuatro años de ergonomía preventiva",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART celebra cuatro años de su Sector de Ergonomía: asesoró a más de 150 empleadores, capacitó a 5.000 trabajadores y evaluó 1.000 puestos. El área…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://mercadosyseguros.com/federacion-patronal-art-cuatro-anos-de-ergonomia-preventiva/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Centro de datos para el mercado asegurador argentino",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Seguro en Acción presentó un centro que reúne decenas de informes basados en datos de la Superintendencia de Seguros de la Nación. La plataforma ofrece tableros…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-04",
+      "url": "https://mercadosyseguros.com/centro-de-datos-para-el-mercado-asegurador-argentino/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN habilita metodologías alternativas para calcular la reserva IBNR",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la Resolución Nº 325/2026, que permite a las aseguradoras usar modelos propios para calcular la reserva IBNR desde los estados cerrados al 30 de junio…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-04",
+      "url": "https://mercadosyseguros.com/ssn-habilita-metodologias-alternativas-para-calcular-la-reserva-ibnr/",
+      "imagen": ""
+    },
+    {
+      "titulo": "APAS Cuyo inauguró delegación en San Rafael",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com APAS Cuyo inauguró una delegación en San Rafael para atender a Productores Asesores de Seguros de General Alvear, Malargüe y San Rafael. Participaron Agustina Decarre…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://mercadosyseguros.com/apas-cuyo-inauguro-delegacion-en-san-rafael/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alza en motos y baja en autos: así fueron los patentamientos de julio",
+      "resumen": "Julio fue un mes con altas y bajas para el mercado automotor y de motovehículos en Argentina. En el caso de los autos, durante el séptimo mes de 2026 se patentaron 43.758 vehículos, lo que representa una baja del 7,7%…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://100seguro.com.ar/alza-en-motos-y-baja-en-autos-asi-fueron-los-patentamientos-de-julio/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Patentamientos-autos-julio-2026-Resumen-del-mercado.png"
+    },
+    {
+      "titulo": "AAPAS organiza capacitación “El productor aumentado: las 4 capacidades para no volverte obsoleto en silencio”",
+      "resumen": "La Comisión de Vida de AAPAS convoca a un seminario exclusivo sobre liderazgo aumentado y transformación del rol del Productor Asesor de Seguros en la era de la inteligencia artificial. La entrada AAPAS organiza…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-04",
+      "url": "https://100seguro.com.ar/aapas-organiza-capacitacion-el-productor-aumentado-las-4-capacidades-para-no-volverte-obsoleto-en-silencio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cristales originales: por qué el logo de la automotriz no es la única forma de identificarlos",
+      "resumen": "Cuando llega el momento de reemplazar el parabrisas de un vehículo, muchas personas creen que un cristal solo es original si lleva el logo de la automotriz. Sin embargo, esta es una de las dudas más frecuentes y también…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://100seguro.com.ar/cristales-originales-por-que-el-logo-de-la-automotriz-no-es-la-unica-forma-de-identificarlos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Cristales-Pilkington.png"
+    },
+    {
+      "titulo": "FAPASA llevó al NEA la entrega de diplomas a nuevos Productores Asesores de Seguros",
+      "resumen": "Misiones, Corrientes y Chaco fueron escenario de una gira institucional encabezada por autoridades de FAPASA y de las APAS locales, en la que se entregaron diplomas a nuevos Productores Asesores de Seguros y se reafirmó…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://100seguro.com.ar/fapasa-llevo-al-nea-la-entrega-de-diplomas-a-nuevos-productores-asesores-de-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/diplomas-1024x683-1.jpg"
+    },
+    {
+      "titulo": "La Asociación Insurtech Uruguaya potencia su oferta de comunicación al ecosistema asegurador sumando a Ultra PR como aliada estratégica",
+      "resumen": "Esta colaboración permitirá que los miembros de la asociación accedan a servicios especializados de asesoramiento comunicacional, prensa, contenidos y media training, entre otros. La entrada La Asociación Insurtech…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-04",
+      "url": "https://100seguro.com.ar/la-asociacion-insurtech-uruguaya-potencia-su-oferta-de-comunicacion-al-ecosistema-asegurador-sumando-a-ultra-pr-como-aliada-estrategica/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Paola-Bellisimo-y-Pablo-Tiscornia.jpeg"
+    },
+    {
+      "titulo": "BBVA Research: Argentina alcanza un récord histórico en la producción de petróleo impulsado por Vaca Muerta",
+      "resumen": "El país registró niveles récord de producción de crudo en 2025 y consolida su transformación en un actor energético relevante. El desafío ahora es acelerar la infraestructura para sostener el crecimiento y potenciar las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://100seguro.com.ar/bbva-research-argentina-alcanza-un-record-historico-en-la-produccion-de-petroleo-impulsado-por-vaca-muerta/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Leandro Mora Alfonsín: “La demanda global de servicios basados en el conocimiento es prácticamente infinita”",
+      "resumen": "El director ejecutivo de Argencon comparte su opinión sobre la actualidad de la economía del conocimiento en el país. La entrada Leandro Mora Alfonsín: “La demanda global de servicios basados en el conocimiento es…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-04",
+      "url": "https://nbs.ar/leandro-mora-alfonsin-la-demanda-global-de-servicios-basados-en-el-conocimiento-es-practicamente-infinita/",
+      "imagen": ""
+    },
     {
       "titulo": "Tecnología que agiliza emisión, cobro y atención en seguros",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Bresba, director de DC Sistemas, detalló en 2026 cómo la IA, Big Data e integraciones con plataformas de cobro aceleran la emisión, el cobro y la atención en…",
@@ -75,6 +174,15 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Panorama-Mapfre-Economics-Tabla-A1.png"
     },
     {
+      "titulo": "La producción de seguros cayó 1,8% en términos reales",
+      "resumen": "La Superintendencia de Seguros de la Nación difundió la estimación mensual del mercado asegurador. El total facturado llegó a $2.175.442 millones, con Retiro como el segmento más dinámico del mes y Daños Patrimoniales…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-03",
+      "url": "https://elseguroenaccion.com.ar/la-produccion-de-seguros-cayo-18-en-terminos-reales/",
+      "imagen": ""
+    },
+    {
       "titulo": "Mapfre Economics prevé un crecimiento global del 3% en 2026 y 3,1% en 2027 con inflación en descenso.",
       "resumen": "Mapfre Economics ha proyectado un crecimiento global del 3% para 2026 y del 3,1% para 2027. Esta previsión se inscribe en un contexto donde la economía mundial ha experimentado una trayectoria de crecimiento moderado,…",
       "fuente": "NBS",
@@ -93,130 +201,22 @@
       "imagen": ""
     },
     {
-      "titulo": "Herencia yacente: Hacienda considera propietarios a los herederos desde el fallecimiento",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hacienda considera a los herederos propietarios desde el fallecimiento, aunque la herencia no esté repartida, y exige declarar impuestos y rentas proporcionalmente.…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Movilidad sustentable: el seguro corre detrás de una transformación que ya está en marcha",
+      "resumen": "La entrada Movilidad sustentable: el seguro corre detrás de una transformación que ya está en marcha se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
       "categoria": "Mercado",
       "fecha": "2026-08-01",
-      "url": "https://mercadosyseguros.com/herencia-yacente-hacienda-considera-propietarios-a-los-herederos-desde-el-fallecimiento/",
-      "imagen": ""
+      "url": "https://www.informeoperadores.com.ar/2026/08/01/movilidad-sustentable-el-seguro-corre-detras-de-una-transformacion-que-ya-esta-en-marcha/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-apertura-scaled.jpg"
     },
     {
-      "titulo": "Litigiosidad en Riesgos del Trabajo: 134.000 juicios y presión sobre las tarifas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com UART reportó 134.000 juicios en el último año pese a una caída del 54% en siniestros y 79% en muertes laborales. La litigiosidad presiona tarifas: la alícuota técnica…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
+      "titulo": "Claves para mantener un comercio protegido",
+      "resumen": "La entrada Claves para mantener un comercio protegido se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
       "fecha": "2026-08-01",
-      "url": "https://mercadosyseguros.com/litigiosidad-en-riesgos-del-trabajo-134-000-juicios-y-presion-sobre-las-tarifas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prohíben a Aseguradores de Cauciones celebrar nuevos contratos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN, por Resolución N°322 del 28/07/2026, prohibió a Aseguradores de Cauciones celebrar nuevos contratos y mantuvo la inhibición de bienes por acumulación de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-07-31",
-      "url": "https://mercadosyseguros.com/prohiben-a-aseguradores-de-cauciones-celebrar-nuevos-contratos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Economía del cibercrimen en Latinoamérica supera a otras industrias",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Akamai y Cybersecurity Ventures alertan que el costo global del cibercrimen superará los 12 billones de dólares en 2026; en Latinoamérica las empresas enfrentan 2.803…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://mercadosyseguros.com/economia-del-cibercrimen-en-latinoamerica-supera-a-otras-industrias/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Economía y seguros: dos miradas expertas para entender el nuevo escenario",
-      "resumen": "En un nuevo programa de 100% SEGURO, analizamos la macroeconomía argentina y su impacto directo sobre el negocio asegurador, con una mirada sobre la actualidad y las perspectivas para los próximos meses. En primer…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://100seguro.com.ar/economia-y-seguros-dos-miradas-expertas-para-entender-el-nuevo-escenario/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Llega el fenómeno de “El Niño” a la Argentina: alerta por el impacto económico y operativo",
-      "resumen": "El incremento de las precipitaciones en zonas productivas clave, como la Cuenca del Plata y la Mesopotamia, amenaza con generar inundaciones severas, afectando la continuidad operativa del sector agropecuario, la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://100seguro.com.ar/llega-el-fenomeno-de-el-nino-a-la-argentina-alerta-por-el-impacto-economico-y-operativo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Milei en cadena nacional: “Enviaremos al Congreso un proyecto de ley de reforma estructural del mercado de seguros”",
-      "resumen": "El presidente Javier Milei habló en la noche de este jueves 30 de julio en cadena nacional para explicar los principales lineamientos del proyecto de reforma de la Carta Orgánica del Banco Central. El mensaje, que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://100seguro.com.ar/milei-en-cadena-nacional-enviaremos-al-congreso-un-proyecto-de-ley-de-reforma-estructural-del-mercado-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sebastián Menescaldi: El riesgo de una economía que crece sin generar empleo de calidad",
-      "resumen": "Sebastián Menescaldi, director asociado de EcoGo, sostiene que la recuperación económica muestra una fuerte heterogeneidad. En diálogo con NBS, analiza el mercado laboral, las políticas necesarias para consolidar la…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://nbs.ar/sebastian-menescaldi-el-riesgo-de-una-economia-que-crece-sin-generar-empleo-de-calidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Banco Santa Fe llevará su propuesta financiera al Congreso Aapresid 2026 para el agro.",
-      "resumen": "El Banco Santa Fe estará presente en el Congreso Aapresid 2026, un evento clave para el sector agropecuario argentino. Este congreso, que reúne a productores, empresarios y expertos del campo, se llevará a cabo en…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://nbs.ar/banco-santa-fe-llevara-su-propuesta-financiera-al-congreso-aapresid-2026-para-el-agro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Tetra Pak logra reducir 34% sus emisiones y avanza en economía circular en Argentina con nuevo reporte",
-      "resumen": "Tetra Pak ha logrado reducir sus emisiones a nivel global en un 34%, un avance significativo en su compromiso con la sostenibilidad y la descarbonización. Este dato fue presentado en el reciente Reporte de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-07-31",
-      "url": "https://nbs.ar/tetra-pak-logra-reducir-34-sus-emisiones-y-avanza-en-economia-circular-en-argentina-con-nuevo-reporte/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El planeta entra en déficit ecológico: ya consumimos más recursos de los que la Tierra puede regenerar",
-      "resumen": "A partir de este 30 de julio, la humanidad habrá agotado el presupuesto ecológico disponible para todo 2026. Durante los próximos cinco meses vivirá utilizando recursos naturales que el planeta no puede reponer al mismo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://100seguro.com.ar/el-planeta-entra-en-deficit-ecologico-ya-consumimos-mas-recursos-de-los-que-la-tierra-puede-regenerar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Crece la adopción de IA: para el 22% de las organizaciones ya es parte de su trabajo diario",
-      "resumen": "Las organizaciones están entrando en una fase pragmática de la IA donde el éxito ya no se define por la experimentación, sino por la eficacia con la que los líderes transforman la inversión en valor empresarial real.…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-07-30",
-      "url": "https://100seguro.com.ar/crece-la-adopcion-de-ia-para-el-22-de-las-organizaciones-ya-es-parte-de-su-trabajo-diario/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/01/KPMG.-Foto-Mauro-Avendano.jpg"
-    },
-    {
-      "titulo": "El uso de agentes de IA puede expandir la producción de seguros patrimoniales hasta un 3% en el corto plazo",
-      "resumen": "La inteligencia artificial generativa ya comenzó a transformar procesos como la suscripción de riesgos y la gestión de siniestros en el mercado asegurador. Sin embargo, un nuevo análisis de Boston Consulting Group (BCG)…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-30",
-      "url": "https://100seguro.com.ar/el-uso-de-agentes-de-ia-puede-expandir-la-produccion-de-seguros-patrimoniales-hasta-un-3-en-el-corto-plazo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Las aseguradoras ponen foco en la identidad digital, que se consolida como una prioridad en ciberseguridad",
-      "resumen": "En un contexto marcado por el crecimiento de las identidades digitales, el acceso remoto y la interconexión de servicios, la protección de la identidad digital se consolida como uno de los principales desafíos de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-07-30",
-      "url": "https://100seguro.com.ar/las-aseguradoras-ponen-foco-en-la-identidad-digital-que-se-consolida-como-una-prioridad-en-ciberseguridad/",
-      "imagen": ""
+      "url": "https://www.informeoperadores.com.ar/2026/08/01/claves-para-mantener-un-comercio-protegido/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-Gabriel-Vago-La-Caja-2.jpg"
     }
   ]
 }
