@@ -1,7 +1,124 @@
 {
-  "actualizado": "2026-08-05T08:13-03:00",
+  "actualizado": "2026-08-06T08:13-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Galicia lanza concurso nacional para promover la educación financiera en escuelas secundarias",
+      "resumen": "Banco Galicia ha presentado un desafío nacional dirigido a escuelas secundarias con el objetivo de promover la educación financiera entre los jóvenes. La competencia invita a las instituciones educativas a desarrollar…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://nbs.ar/galicia-lanza-concurso-nacional-para-promover-la-educacion-financiera-en-escuelas-secundarias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Enfermedades crónicas: 1 de cada 3 tiene una condición de larga duración",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe The Value of Chronic Care de Zurich Insurance Group, basado en datos de la OCDE, afirma que 1 de cada 3 personas vive con una enfermedad crónica y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://mercadosyseguros.com/enfermedades-cronicas-1-de-cada-3-tiene-una-condicion-de-larga-duracion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de autos: oeste del GBA lidera en el primer semestre",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ituran Argentina informó que entre enero y junio de 2026 el oeste del Gran Buenos Aires concentró el 47,25% de los robos de vehículos; autos particulares…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://mercadosyseguros.com/robo-de-autos-oeste-del-gba-lidera-en-el-primer-semestre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gerardo Virkel asume la dirección general de Andina ART",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 20/07 Gerardo Virkel pasó de Gerente Comercial a Director General de Andina ART. Virkel integra la compañía desde 2021 y su nombramiento busca consolidar el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://mercadosyseguros.com/gerardo-virkel-asume-la-direccion-general-de-andina-art/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sistema de Riesgos del Trabajo: 30 años en cifras clave",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La UART presentó un balance por los 30 años del Sistema de Riesgos del Trabajo: mortalidad laboral -79%, 10,2 millones de trabajadores cubiertos, 1,6 millones de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-05",
+      "url": "https://mercadosyseguros.com/sistema-de-riesgos-del-trabajo-30-anos-en-cifras-clave/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Multan a una aseguradora por $143 millones por demoras en el pago de indemnizaciones",
+      "resumen": "RESOLUCIÓN SSN 328/2026.- La Superintendencia de Seguros de la Nación (SSN) le aplicó una multa de $143.227.406 a un operador del mercado por haber abonado fuera de los plazos establecidos por la normativa vigente las…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-08-05",
+      "url": "https://100seguro.com.ar/multan-a-una-aseguradora-por-143-millones-por-demoras-en-el-pago-de-indemnizaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "The Human Safety Net se lanza en Argentina y anuncia alianza con GCBA y RIL",
+      "resumen": "La fundación impulsada por La Caja presentó formalmente su trabajo en el país y anunció nuevas alianzas para ampliar el alcance de sus programas de acompañamiento a familias con niños y niñas en la primera infancia. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://100seguro.com.ar/the-human-safety-net-se-lanza-en-argentina-y-anuncia-alianza-con-gcba-y-ril/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Evento-Lanzamiento-THSN-12-El-panel-en-accion.jpg"
+    },
+    {
+      "titulo": "El Fondo de Asistencia Laboral obligatorio entra en escena: qué cambia y qué debe mirar el mercado asegurador",
+      "resumen": "A partir de noviembre, las empresas privadas deberán contar con un esquema de fondeo destinado a afrontar eventuales indemnizaciones por despido. En diálogo con 100% SEGURO, Enrique Basabe Picasso, Director de Legales &…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://100seguro.com.ar/el-fondo-de-asistencia-laboral-obligatorio-entra-en-escena-que-cambia-y-que-debe-mirar-el-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Comercio internacional: ¿Está realmente asegurado el valor de su mercancía?",
+      "resumen": "Cómo la inflación y los aranceles están redefiniendo la valoración del riesgo en el comercio internacional. La entrada Comercio internacional: ¿Está realmente asegurado el valor de su mercancía? se publicó primero en…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://100seguro.com.ar/comercio-internacional-esta-realmente-asegurado-el-valor-de-su-mercancia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Arnaldo-Rotella-150x150.jpeg"
+    },
+    {
+      "titulo": "ADIRA celebra 45 años promoviendo el diálogo y el desarrollo del mercado asegurador argentino",
+      "resumen": "El 5 de agosto, ADIRA (Asociación de Aseguradores del Interior de la República Argentina) celebra 45 años de trayectoria, consolidada como una de las instituciones más representativas del mercado asegurador y como un…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://100seguro.com.ar/adira-celebra-45-anos-promoviendo-el-dialogo-y-el-desarrollo-del-mercado-asegurador-argentino/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevención Salud impulsa nuevas jornadas de donación de sangre para promover una cultura de donación voluntaria y habitual",
+      "resumen": "Tras realizar nuevas campañas en Posadas y Mendoza, la prepaga de Sancor Seguros reafirma su compromiso con la promoción de la donación voluntaria de sangre e invita a concientizar sobre la importancia de sostener los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://100seguro.com.ar/prevencion-salud-impulsa-nuevas-jornadas-de-donacion-de-sangre-para-promover-una-cultura-de-donacion-voluntaria-y-habitual/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Mas-de-120-donaciones-de-sangre.jpeg"
+    },
+    {
+      "titulo": "Cocina de estación, coctelería de autor y propuesta all day en Palermo, Rosedal y Pilar",
+      "resumen": "La entrada Cocina de estación, coctelería de autor y propuesta all day en Palermo, Rosedal y Pilar se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-05",
+      "url": "https://www.informeoperadores.com.ar/2026/08/05/cocina-de-estacion-cocteleria-de-autor-y-propuesta-all-day-en-palermo-rosedal-y-pilar/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Ficha.png"
+    },
+    {
+      "titulo": "Lakaut revoluciona la banca y seguros con su nueva firma digital 100% online FID",
+      "resumen": "La digitalización es un proceso ineludible en el sector bancario y de seguros, y Lakaut se posiciona como protagonista con el lanzamiento de su nueva herramienta, FID (Firma Instantánea Digital). Esta solución permite a…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-08-05",
+      "url": "https://nbs.ar/lakaut-revoluciona-la-banca-y-seguros-con-su-nueva-firma-digital-100-online-fid/",
+      "imagen": ""
+    },
     {
       "titulo": "Federación Patronal ART: cuatro años de ergonomía preventiva",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART celebra cuatro años de su Sector de Ergonomía: asesoró a más de 150 empleadores, capacitó a 5.000 trabajadores y evaluó 1.000 puestos. El área…",
@@ -75,24 +192,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/diplomas-1024x683-1.jpg"
     },
     {
-      "titulo": "La Asociación Insurtech Uruguaya potencia su oferta de comunicación al ecosistema asegurador sumando a Ultra PR como aliada estratégica",
-      "resumen": "Esta colaboración permitirá que los miembros de la asociación accedan a servicios especializados de asesoramiento comunicacional, prensa, contenidos y media training, entre otros. La entrada La Asociación Insurtech…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-04",
-      "url": "https://100seguro.com.ar/la-asociacion-insurtech-uruguaya-potencia-su-oferta-de-comunicacion-al-ecosistema-asegurador-sumando-a-ultra-pr-como-aliada-estrategica/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Paola-Bellisimo-y-Pablo-Tiscornia.jpeg"
-    },
-    {
-      "titulo": "BBVA Research: Argentina alcanza un récord histórico en la producción de petróleo impulsado por Vaca Muerta",
-      "resumen": "El país registró niveles récord de producción de crudo en 2025 y consolida su transformación en un actor energético relevante. El desafío ahora es acelerar la infraestructura para sostener el crecimiento y potenciar las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://100seguro.com.ar/bbva-research-argentina-alcanza-un-record-historico-en-la-produccion-de-petroleo-impulsado-por-vaca-muerta/",
-      "imagen": ""
-    },
-    {
       "titulo": "Leandro Mora Alfonsín: “La demanda global de servicios basados en el conocimiento es prácticamente infinita”",
       "resumen": "El director ejecutivo de Argencon comparte su opinión sobre la actualidad de la economía del conocimiento en el país. La entrada Leandro Mora Alfonsín: “La demanda global de servicios basados en el conocimiento es…",
       "fuente": "NBS",
@@ -118,105 +217,6 @@
       "fecha": "2026-08-03",
       "url": "https://mercadosyseguros.com/futuro-del-seguro-cibernetico-demanda-solida-y-mayor-competencia/",
       "imagen": ""
-    },
-    {
-      "titulo": "Seguro ganadero en La Rural: debate y avances",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En la 138° Exposición Rural, ADIRA y entidades como AACS, CIDeS y MGA Group debatieron el 14/07/2024 sobre el desarrollo del seguro ganadero, la resolución para…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-08-03",
-      "url": "https://mercadosyseguros.com/seguro-ganadero-en-la-rural-debate-y-avances/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Análisis técnico impulsa crecimiento del mercado de caución",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tomás Isla Casares, gerente de Suscripción de Fianzas y Crédito, dijo que el análisis técnico en cada operación es clave para impulsar el mercado de caución. Destacó…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-03",
-      "url": "https://mercadosyseguros.com/analisis-tecnico-impulsa-crecimiento-del-mercado-de-caucion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La revolución del seguro ya no admite espejitos de colores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La reforma del seguro de Milei promete libertad para crear productos. La clave será distinguir la transformación digital real del maquillaje tecnológico. La entrada…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-03",
-      "url": "https://mercadosyseguros.com/la-revolucion-del-seguro-ya-no-admite-espejitos-de-colores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros suma una nueva plataforma digital que mejora la experiencia de los PAS",
-      "resumen": "La herramienta busca facilitar la gestión de certificados de seguros de transportes de carga de forma ágil, digital y automática. La entrada Galicia Seguros suma una nueva plataforma digital que mejora la experiencia de…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-03",
-      "url": "https://100seguro.com.ar/galicia-seguros-suma-una-nueva-plataforma-digital-que-mejora-la-experiencia-de-los-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Provincia ART: cronograma de cursos gratuitos para el mes de agosto",
-      "resumen": "Provincia ART, la aseguradora de riesgos de Grupo Provincia, confirmó su cronograma de cursos gratuitos para el octavo mes del año. La entrada Provincia ART: cronograma de cursos gratuitos para el mes de agosto se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-03",
-      "url": "https://100seguro.com.ar/provincia-art-cronograma-de-cursos-gratuitos-para-el-mes-de-agosto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Para Mapfre Economics, Latinoamérica crecerá 1,9% en 2026 y Argentina será el país de mayor alza: 3%",
-      "resumen": "La economía global ha mantenido una trayectoria de crecimiento moderado con una desaceleración gradual de la inflación durante el primer semestre. El sector asegurador encara el horizonte 2026-2027 desde una posición…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-03",
-      "url": "https://100seguro.com.ar/para-mapfre-economics-latinoamerica-crecera-19-en-2026-y-argentina-sera-el-pais-de-mayor-alza-3/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Panorama-Mapfre-Economics-Tabla-A1.png"
-    },
-    {
-      "titulo": "La producción de seguros cayó 1,8% en términos reales",
-      "resumen": "La Superintendencia de Seguros de la Nación difundió la estimación mensual del mercado asegurador. El total facturado llegó a $2.175.442 millones, con Retiro como el segmento más dinámico del mes y Daños Patrimoniales…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-03",
-      "url": "https://elseguroenaccion.com.ar/la-produccion-de-seguros-cayo-18-en-terminos-reales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre Economics prevé un crecimiento global del 3% en 2026 y 3,1% en 2027 con inflación en descenso.",
-      "resumen": "Mapfre Economics ha proyectado un crecimiento global del 3% para 2026 y del 3,1% para 2027. Esta previsión se inscribe en un contexto donde la economía mundial ha experimentado una trayectoria de crecimiento moderado,…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-03",
-      "url": "https://nbs.ar/mapfre-economics-preve-un-crecimiento-global-del-3-en-2026-y-31-en-2027-con-inflacion-en-descenso/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro agropecuario: 18 Mha, 98% granizo y el techo del mercado",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Especialistas del sector advirtieron el 28/05/2025 que el seguro agropecuario argentino cubre 18 millones de hectáreas con una prima cercana a 250 MUSD, con 98% de la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-01",
-      "url": "https://mercadosyseguros.com/seguro-agropecuario-18-mha-98-granizo-y-el-techo-del-mercado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Movilidad sustentable: el seguro corre detrás de una transformación que ya está en marcha",
-      "resumen": "La entrada Movilidad sustentable: el seguro corre detrás de una transformación que ya está en marcha se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-01",
-      "url": "https://www.informeoperadores.com.ar/2026/08/01/movilidad-sustentable-el-seguro-corre-detras-de-una-transformacion-que-ya-esta-en-marcha/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-apertura-scaled.jpg"
-    },
-    {
-      "titulo": "Claves para mantener un comercio protegido",
-      "resumen": "La entrada Claves para mantener un comercio protegido se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-01",
-      "url": "https://www.informeoperadores.com.ar/2026/08/01/claves-para-mantener-un-comercio-protegido/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-Gabriel-Vago-La-Caja-2.jpg"
     }
   ]
 }
