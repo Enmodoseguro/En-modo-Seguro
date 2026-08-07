@@ -1,7 +1,187 @@
 {
-  "actualizado": "2026-08-06T08:13-03:00",
+  "actualizado": "2026-08-07T06:53-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "75,3 millones de AVAD perdidos por siniestros viales en 2023",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un estudio del IHME y la Universidad Nacional de Singapur calcula 1.340.000 muertes y 75,3 millones de AVAD por siniestros viales en 2023. El informe detecta grandes…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://mercadosyseguros.com/753-millones-de-avad-perdidos-por-siniestros-viales-en-2023/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mapfre: Latinoamérica aportó €218 M al beneficio en el 1S 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre informó que Latinoamérica aportó 218 millones de euros al beneficio del Grupo en el primer semestre de 2026; el beneficio neto atribuible fue de 624 millones…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://mercadosyseguros.com/mapfre-latinoamerica-aporto-e218-m-al-beneficio-en-el-1s-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reparto del negocio: Patrimoniales, RT y Personas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El tablero de El Seguro en acción compara la composición de cartera de aseguradoras a marzo de 2026, mostrando qué porción corresponde a Patrimoniales, Riesgos del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://mercadosyseguros.com/reparto-del-negocio-patrimoniales-rt-y-personas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Conducción temeraria en Posadas dejó un muerto",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un joven soldado, Rodrigo Adán Barrientos (26), murió atropellado el domingo en la Avenida Costanera de Posadas por una moto que hacía una acrobacia en una rueda; el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://mercadosyseguros.com/conduccion-temeraria-en-posadas-dejo-un-muerto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CESVI Argentina realizó el primer ensayo de impacto delantero de un vehículo 100% eléctrico",
+      "resumen": "El BYD Dolphin Mini fue el protagonista de una prueba única en el país, que permitió evaluar su reparabilidad y validar los procedimientos de seguridad para intervenir vehículos de alta tensión. Las primeras…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://100seguro.com.ar/cesvi-argentina-realizo-el-primer-ensayo-de-impacto-delantero-de-un-vehiculo-100-electrico/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/BYD-Dolphin-Mini-EV-GS-CESVI.jpg"
+    },
+    {
+      "titulo": "Encuesta de Marsh: el apetito de las aseguradoras por el crédito privado sigue creciendo, pero la disciplina sigue siendo primordial",
+      "resumen": "Marsh, líder global en riesgo, reaseguro, capital, personas, inversiones, y consultoría de gestión, presentó hoy los resultados de su Encuesta Global de Inversiones de Seguros 2026, la cual muestra que la demanda de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://100seguro.com.ar/encuesta-de-marsh-el-apetito-de-las-aseguradoras-por-el-credito-privado-sigue-creciendo-pero-la-disciplina-sigue-siendo-primordial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ASPRO GAMA desembarca en Argentina y organiza encuentro virtual para unirse a su comunidad",
+      "resumen": "ASPRO GAMA International, asociación profesional sin fines de lucro enfocada en el desarrollo, capacitación y liderazgo de promotores, directores y agentes de alto rendimiento dentro de la industria del sector…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://100seguro.com.ar/aspro-gama-desembarca-en-argentina-y-organiza-encuentro-virtual-para-unirse-a-su-comunidad/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/ASPRO-GAMA-copia.jpeg"
+    },
+    {
+      "titulo": "BIND Seguros y Mecubro lanzan un seguro por día para eventos con emisión inmediata",
+      "resumen": "La solución, inédita en el mercado, permite contratar la cobertura desde el celular y obtener en minutos la póliza necesaria para operar en ferias, exposiciones y eventos. La entrada BIND Seguros y Mecubro lanzan un…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://100seguro.com.ar/bind-seguros-y-mecubro-lanzan-un-seguro-por-dia-para-eventos-con-emision-inmediata/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Soledad-Taranto-CEO-de-BIND-Seguros.jpeg"
+    },
+    {
+      "titulo": "AVIRA anuncia el 19° Seminario Internacional de Seguros de Vida y Retiro",
+      "resumen": "La Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina, AVIRA, realizará el próximo 3 de septiembre, de 8:30 a 12:30 horas, la 19ª edición del Seminario Internacional de Seguros de Vida y Retiro,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://100seguro.com.ar/avira-anuncia-el-19-seminario-internacional-de-seguros-de-vida-y-retiro/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/19°-Seminario-AVIRA-Expositores.jpg"
+    },
+    {
+      "titulo": "FEMS en Expoestrategas 2026",
+      "resumen": "El Foro Ejecutivo de Mujeres en Seguros (FEMS) estará presente en Expoestrategas 2026 con dos propuestas que combinan reflexión, participación e intercambio con los distintos actores del ecosistema asegurador. Por un…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/fems-en-expoestrategas-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reaseguro: Renovaciones, Riesgos Catastróficos y la desregulación de Milei",
+      "resumen": "En este episodio entrevistamos a Leonardo Navarro y Gonzalo García, de Americal Reinsurance Solutions, para analizar en profundidad la situación actual del mercado de reaseguro en Argentina. MIRÁ EL PROGRAMA AQUÍ:…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/reaseguro-renovaciones-riesgos-catastroficos-y-la-desregulacion-de-milei/",
+      "imagen": ""
+    },
+    {
+      "titulo": "«El productor aumentado: Las 4 capacidades para no volverte obsoleto en silencio»",
+      "resumen": "La Comisión de Vida de AAPAS convoca a seminario exclusivo sobre Liderazgo Aumentado y transformación del rol del productor asesor en la era de la inteligencia artificial. La inteligencia artificial está cambiando las…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/el-productor-aumentado-las-4-capacidades-para-no-volverte-obsoleto-en-silencio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA llevó al NEA la entrega de diplomas a nuevos Productores Asesores",
+      "resumen": "Misiones, Corrientes y Chaco fueron escenario de una gira institucional encabezada por autoridades de FAPASA y de las APAS locales, en la que se entregaron diplomas a nuevos Productores Asesores de Seguros y se reafirmó…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/fapasa-llevo-al-nea-la-entrega-de-diplomas-a-nuevos-productores-asesores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Es seguro Claude AI? Qué hay que saber antes de usar la herramienta",
+      "resumen": "Anthropic, la empresa responsable de Claude, reportó en febrero de 2026 un nivel de ingresos proyectados anualizados superior a los 14.000 millones de dólares. Cada vez que alguien escribe una pregunta o interactúa con…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/es-seguro-claude-ai-que-hay-que-saber-antes-de-usar-la-herramienta/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las 9 de la noche se consolida como el momento del día con más robos a mano armada",
+      "resumen": "Según datos del Informe de Movilidad de Strix, las 21 horas se consolida como el momento del día con mayor cantidad de robos a mano armada. Expertos advierten sobre una «ventana de vulnerabilidad diaria» que se sostiene…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/las-9-de-la-noche-se-consolida-como-el-momento-del-dia-con-mas-robos-a-mano-armada/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevención Salud impulsa nuevas jornadas de donación de sangre para promover una cultura de donación voluntaria y habitual",
+      "resumen": "Tras realizar nuevas campañas en Posadas y Mendoza, la prepaga de SANCOR SEGUROS reafirma su compromiso con la promoción de la donación voluntaria de sangre e invita a concientizar sobre la importancia de sostener los…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/prevencion-salud-impulsa-nuevas-jornadas-de-donacion-de-sangre-para-promover-una-cultura-de-donacion-voluntaria-y-habitual/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Doble engaño: Falsos servicios de recupero de dinero tras haber sufrido una estafa",
+      "resumen": "ESET advierte que si se fue víctima de fraude, probablemente ya se esté en una lista especial de los ciberdelincuentes y si no se tiene cuidado, la situación podría empeorar. ESET, compañía líder en detección proactiva…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/doble-engano-falsos-servicios-de-recupero-de-dinero-tras-haber-sufrido-una-estafa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Latinoamérica aporta 218 millones de euros al beneficio de Mapfre en el primer semestre de 2026",
+      "resumen": "La región se consolida como uno de los principales motores del Grupo, con un crecimiento de primas en la mayoría de sus mercados y una sólida rentabilidad técnica en Brasil, Perú y México. El negocio de Mapfre en…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/latinoamerica-aporta-218-millones-de-euros-al-beneficio-de-mapfre-en-el-primer-semestre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Julio dejó dos mercados opuestos: los autos caen 30% y las motos vuelan 30%",
+      "resumen": "Con el comienzo del octavo mes del año, acercamos un nuevo informe que analiza el comportamiento del mercado automotor (autos y motos) durante julio. Por Aníbal Cejas Mientras el patentamiento de autos se desplomó 30,3%…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://elseguroenaccion.com.ar/julio-dejo-dos-mercados-opuestos-los-autos-caen-30-y-las-motos-vuelan-30/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Carol da Costa: Iguazú Argentina, “Operar dentro de un parque nacional implica que cada decisión debe evaluarse considerando su impacto”",
+      "resumen": "Carol da Costa, gerenta de la concesionaria a cargo de los servicios turísticos del Parque Nacional Iguazú, habló sobre los estándares de gestión sustentable y las medidas que se implementan. La entrada Carol da Costa:…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-06",
+      "url": "https://nbs.ar/carol-da-costa-iguazu-argentina-operar-dentro-de-un-parque-nacional-implica-que-cada-decision-debe-evaluarse-considerando-su-impacto/",
+      "imagen": ""
+    },
     {
       "titulo": "Galicia lanza concurso nacional para promover la educación financiera en escuelas secundarias",
       "resumen": "Banco Galicia ha presentado un desafío nacional dirigido a escuelas secundarias con el objetivo de promover la educación financiera entre los jóvenes. La competencia invita a las instituciones educativas a desarrollar…",
@@ -36,186 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-08-05",
       "url": "https://mercadosyseguros.com/gerardo-virkel-asume-la-direccion-general-de-andina-art/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sistema de Riesgos del Trabajo: 30 años en cifras clave",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La UART presentó un balance por los 30 años del Sistema de Riesgos del Trabajo: mortalidad laboral -79%, 10,2 millones de trabajadores cubiertos, 1,6 millones de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-08-05",
-      "url": "https://mercadosyseguros.com/sistema-de-riesgos-del-trabajo-30-anos-en-cifras-clave/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Multan a una aseguradora por $143 millones por demoras en el pago de indemnizaciones",
-      "resumen": "RESOLUCIÓN SSN 328/2026.- La Superintendencia de Seguros de la Nación (SSN) le aplicó una multa de $143.227.406 a un operador del mercado por haber abonado fuera de los plazos establecidos por la normativa vigente las…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-05",
-      "url": "https://100seguro.com.ar/multan-a-una-aseguradora-por-143-millones-por-demoras-en-el-pago-de-indemnizaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "The Human Safety Net se lanza en Argentina y anuncia alianza con GCBA y RIL",
-      "resumen": "La fundación impulsada por La Caja presentó formalmente su trabajo en el país y anunció nuevas alianzas para ampliar el alcance de sus programas de acompañamiento a familias con niños y niñas en la primera infancia. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-05",
-      "url": "https://100seguro.com.ar/the-human-safety-net-se-lanza-en-argentina-y-anuncia-alianza-con-gcba-y-ril/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Evento-Lanzamiento-THSN-12-El-panel-en-accion.jpg"
-    },
-    {
-      "titulo": "El Fondo de Asistencia Laboral obligatorio entra en escena: qué cambia y qué debe mirar el mercado asegurador",
-      "resumen": "A partir de noviembre, las empresas privadas deberán contar con un esquema de fondeo destinado a afrontar eventuales indemnizaciones por despido. En diálogo con 100% SEGURO, Enrique Basabe Picasso, Director de Legales &…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-05",
-      "url": "https://100seguro.com.ar/el-fondo-de-asistencia-laboral-obligatorio-entra-en-escena-que-cambia-y-que-debe-mirar-el-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Comercio internacional: ¿Está realmente asegurado el valor de su mercancía?",
-      "resumen": "Cómo la inflación y los aranceles están redefiniendo la valoración del riesgo en el comercio internacional. La entrada Comercio internacional: ¿Está realmente asegurado el valor de su mercancía? se publicó primero en…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-05",
-      "url": "https://100seguro.com.ar/comercio-internacional-esta-realmente-asegurado-el-valor-de-su-mercancia/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Arnaldo-Rotella-150x150.jpeg"
-    },
-    {
-      "titulo": "ADIRA celebra 45 años promoviendo el diálogo y el desarrollo del mercado asegurador argentino",
-      "resumen": "El 5 de agosto, ADIRA (Asociación de Aseguradores del Interior de la República Argentina) celebra 45 años de trayectoria, consolidada como una de las instituciones más representativas del mercado asegurador y como un…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-05",
-      "url": "https://100seguro.com.ar/adira-celebra-45-anos-promoviendo-el-dialogo-y-el-desarrollo-del-mercado-asegurador-argentino/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención Salud impulsa nuevas jornadas de donación de sangre para promover una cultura de donación voluntaria y habitual",
-      "resumen": "Tras realizar nuevas campañas en Posadas y Mendoza, la prepaga de Sancor Seguros reafirma su compromiso con la promoción de la donación voluntaria de sangre e invita a concientizar sobre la importancia de sostener los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-05",
-      "url": "https://100seguro.com.ar/prevencion-salud-impulsa-nuevas-jornadas-de-donacion-de-sangre-para-promover-una-cultura-de-donacion-voluntaria-y-habitual/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Mas-de-120-donaciones-de-sangre.jpeg"
-    },
-    {
-      "titulo": "Cocina de estación, coctelería de autor y propuesta all day en Palermo, Rosedal y Pilar",
-      "resumen": "La entrada Cocina de estación, coctelería de autor y propuesta all day en Palermo, Rosedal y Pilar se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-05",
-      "url": "https://www.informeoperadores.com.ar/2026/08/05/cocina-de-estacion-cocteleria-de-autor-y-propuesta-all-day-en-palermo-rosedal-y-pilar/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Ficha.png"
-    },
-    {
-      "titulo": "Lakaut revoluciona la banca y seguros con su nueva firma digital 100% online FID",
-      "resumen": "La digitalización es un proceso ineludible en el sector bancario y de seguros, y Lakaut se posiciona como protagonista con el lanzamiento de su nueva herramienta, FID (Firma Instantánea Digital). Esta solución permite a…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-08-05",
-      "url": "https://nbs.ar/lakaut-revoluciona-la-banca-y-seguros-con-su-nueva-firma-digital-100-online-fid/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal ART: cuatro años de ergonomía preventiva",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART celebra cuatro años de su Sector de Ergonomía: asesoró a más de 150 empleadores, capacitó a 5.000 trabajadores y evaluó 1.000 puestos. El área…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://mercadosyseguros.com/federacion-patronal-art-cuatro-anos-de-ergonomia-preventiva/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Centro de datos para el mercado asegurador argentino",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Seguro en Acción presentó un centro que reúne decenas de informes basados en datos de la Superintendencia de Seguros de la Nación. La plataforma ofrece tableros…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-08-04",
-      "url": "https://mercadosyseguros.com/centro-de-datos-para-el-mercado-asegurador-argentino/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN habilita metodologías alternativas para calcular la reserva IBNR",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la Resolución Nº 325/2026, que permite a las aseguradoras usar modelos propios para calcular la reserva IBNR desde los estados cerrados al 30 de junio…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-08-04",
-      "url": "https://mercadosyseguros.com/ssn-habilita-metodologias-alternativas-para-calcular-la-reserva-ibnr/",
-      "imagen": ""
-    },
-    {
-      "titulo": "APAS Cuyo inauguró delegación en San Rafael",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com APAS Cuyo inauguró una delegación en San Rafael para atender a Productores Asesores de Seguros de General Alvear, Malargüe y San Rafael. Participaron Agustina Decarre…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://mercadosyseguros.com/apas-cuyo-inauguro-delegacion-en-san-rafael/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alza en motos y baja en autos: así fueron los patentamientos de julio",
-      "resumen": "Julio fue un mes con altas y bajas para el mercado automotor y de motovehículos en Argentina. En el caso de los autos, durante el séptimo mes de 2026 se patentaron 43.758 vehículos, lo que representa una baja del 7,7%…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://100seguro.com.ar/alza-en-motos-y-baja-en-autos-asi-fueron-los-patentamientos-de-julio/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Patentamientos-autos-julio-2026-Resumen-del-mercado.png"
-    },
-    {
-      "titulo": "AAPAS organiza capacitación “El productor aumentado: las 4 capacidades para no volverte obsoleto en silencio”",
-      "resumen": "La Comisión de Vida de AAPAS convoca a un seminario exclusivo sobre liderazgo aumentado y transformación del rol del Productor Asesor de Seguros en la era de la inteligencia artificial. La entrada AAPAS organiza…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-04",
-      "url": "https://100seguro.com.ar/aapas-organiza-capacitacion-el-productor-aumentado-las-4-capacidades-para-no-volverte-obsoleto-en-silencio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cristales originales: por qué el logo de la automotriz no es la única forma de identificarlos",
-      "resumen": "Cuando llega el momento de reemplazar el parabrisas de un vehículo, muchas personas creen que un cristal solo es original si lleva el logo de la automotriz. Sin embargo, esta es una de las dudas más frecuentes y también…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://100seguro.com.ar/cristales-originales-por-que-el-logo-de-la-automotriz-no-es-la-unica-forma-de-identificarlos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Cristales-Pilkington.png"
-    },
-    {
-      "titulo": "FAPASA llevó al NEA la entrega de diplomas a nuevos Productores Asesores de Seguros",
-      "resumen": "Misiones, Corrientes y Chaco fueron escenario de una gira institucional encabezada por autoridades de FAPASA y de las APAS locales, en la que se entregaron diplomas a nuevos Productores Asesores de Seguros y se reafirmó…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://100seguro.com.ar/fapasa-llevo-al-nea-la-entrega-de-diplomas-a-nuevos-productores-asesores-de-seguros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/diplomas-1024x683-1.jpg"
-    },
-    {
-      "titulo": "Leandro Mora Alfonsín: “La demanda global de servicios basados en el conocimiento es prácticamente infinita”",
-      "resumen": "El director ejecutivo de Argencon comparte su opinión sobre la actualidad de la economía del conocimiento en el país. La entrada Leandro Mora Alfonsín: “La demanda global de servicios basados en el conocimiento es…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-04",
-      "url": "https://nbs.ar/leandro-mora-alfonsin-la-demanda-global-de-servicios-basados-en-el-conocimiento-es-practicamente-infinita/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Tecnología que agiliza emisión, cobro y atención en seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Bresba, director de DC Sistemas, detalló en 2026 cómo la IA, Big Data e integraciones con plataformas de cobro aceleran la emisión, el cobro y la atención en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-03",
-      "url": "https://mercadosyseguros.com/tecnologia-que-agiliza-emision-cobro-y-atencion-en-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Futuro del seguro cibernético: demanda sólida y mayor competencia",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AM Best mantuvo el 20 de julio de 2026 una perspectiva estable sobre el mercado global de ciberseguros, por demanda sólida y rentabilidad favorable a mediano plazo;…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-03",
-      "url": "https://mercadosyseguros.com/futuro-del-seguro-cibernetico-demanda-solida-y-mayor-competencia/",
       "imagen": ""
     }
   ]
