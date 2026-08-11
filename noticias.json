@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-08-10T07:10-03:00",
+  "actualizado": "2026-08-11T06:53-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Prevención Salud organizó jornadas de donación y logró más de 120 donaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención Salud (Sancor Seguros) realizó jornadas de donación de sangre en Posadas y Mendoza entre junio y agosto: 145 participantes y más de 120 donaciones. La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-10",
+      "url": "https://mercadosyseguros.com/prevencion-salud-organizo-jornadas-de-donacion-y-logro-mas-de-120-donaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Estafas de recupero: alerta por segundo fraude tras una estafa",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET advierte sobre recovery scams: delincuentes contactan a víctimas de estafas para cobrar una tarifa adelantada prometiendo recuperar fondos. Identifican patrones…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-10",
+      "url": "https://mercadosyseguros.com/estafas-de-recupero-alerta-por-segundo-fraude-tras-una-estafa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Latinoamérica aporta €218 M al beneficio de Mapfre en 1S-2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre informó que Latinoamérica aportó 218 millones de euros al beneficio en el primer semestre de 2026 sobre un resultado consolidado de 624 millones. Brasil lideró…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-10",
+      "url": "https://mercadosyseguros.com/latinoamerica-aporta-e218-m-al-beneficio-de-mapfre-en-1s-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Patentamientos julio: autos -30% y motos +30%",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En julio de 2026 los patentamientos de autos cayeron 30,3% interanual a 43.758 unidades, mientras las motos subieron 30,4% a 71.217, según SIOMAA. El 67% de los autos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-10",
+      "url": "https://mercadosyseguros.com/patentamientos-julio-autos-30-y-motos-30/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA agéntica, personalización y arquitecturas inteligentes: las claves que dejó el Salesforce Insurance Day Buenos Aires",
+      "resumen": "COBERTURA 100% SEGURO.- Salesforce y bdt global llevaron a cabo durante la mañana del pasado jueves 6 de agosto la segunda edición de Salesforce Insurance Day Buenos Aires. Se trató de un encuentro exclusivo en las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-10",
+      "url": "https://100seguro.com.ar/ia-agentica-personalizacion-y-arquitecturas-inteligentes-las-claves-que-dejo-el-salesforce-insurance-day-buenos-aires/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2°-Salesforce-Insurance-Day-Trias-1.jpeg"
+    },
+    {
+      "titulo": "Hipotecario Seguros impulsa la innovación en siniestros con un agente de IA desarrollado junto a Salesforce",
+      "resumen": "La compañía implementó una solución desarrollada sobre Agentforce de Salesforce que permite recibir denuncias de siniestros por WhatsApp las 24 horas, los 365 días del año, automatizando el alta de casos y mejorando la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-10",
+      "url": "https://100seguro.com.ar/hipotecario-seguros-impulsa-la-innovacion-en-siniestros-con-un-agente-de-ia-desarrollado-junto-a-salesforce/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros y salud: la SSN presentó los alcances de la Resolución 258/2026 en la Fundación Sanatorio Güemes",
+      "resumen": "La nueva normativa promueve el desarrollo de seguros que complementan el sistema de salud, amplía la oferta de productos y fortalece la protección de las personas. La entrada Seguros y salud: la SSN presentó los…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-08-10",
+      "url": "https://100seguro.com.ar/seguros-y-salud-la-ssn-presento-los-alcances-de-la-resolucion-258-2026-en-la-fundacion-sanatorio-guemes/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/segurosysalud-2.jpeg"
+    },
+    {
+      "titulo": "Patricia Molina: Huella de carbono en turismo, «Hacerse responsable no es solo pedir perdón, sino además arreglarlo»",
+      "resumen": "La sustentabilidad dejó de ser un atributo diferencial para convertirse en una variable estratégica dentro del turismo. La entrada Patricia Molina: Huella de carbono en turismo, «Hacerse responsable no es solo pedir…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-10",
+      "url": "https://nbs.ar/patricia-molina-huella-de-carbono-en-turismo-hacerse-responsable-no-es-solo-pedir-perdon-sino-ademas-arreglarlo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Carlos Russell: Ternium y la ciberseguridad en los agentes de IA, “Nuestra estrategia consiste en avanzar de manera gradual”",
+      "resumen": "La acelerada adopción de agentes de inteligencia artificial (IA) y herramientas automatizadas en el ecosistema corporativo está reconfigurando drásticamente las prioridades de la ciberseguridad. La entrada Carlos…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-08-10",
+      "url": "https://nbs.ar/carlos-russell-ternium-y-la-ciberseguridad-en-los-agentes-de-ia-nuestra-estrategia-consiste-en-avanzar-de-manera-gradual/",
+      "imagen": ""
+    },
     {
       "titulo": "Hiperconectividad laboral en España: 81,6% atiende fuera del horario",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Dos estudios de 2026 muestran que la hiperconectividad persiste en España: Edenred registra 81,6% de trabajadores que atienden fuera de horario y 19,7% conectados…",
@@ -57,6 +138,15 @@
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/06/AON_DESTACADA-600x400.png"
     },
     {
+      "titulo": "BIND Seguros y Mecubro lanzan un seguro por día para eventos con emisión inmediata",
+      "resumen": "La solución, inédita en el mercado, permite contratar la cobertura desde el celular y obtener en minutos la póliza necesaria para operar en ferias, exposiciones y eventos. BIND Seguros, compañía del Grupo BIND…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-09",
+      "url": "https://www.informeoperadores.com.ar/2026/08/09/bind-seguros-y-mecubro-lanzan-un-seguro-por-dia-para-eventos-con-emision-inmediata/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Soledad-Taranto-CEO-de-BIND-Seguros-600x400.jpeg"
+    },
+    {
       "titulo": "FEMS en Expoestrategas 2026",
       "resumen": "El Foro Ejecutivo de Mujeres en Seguros (FEMS) estará presente en Expoestrategas 2026con dos propuestas que combinan reflexión, participación e intercambio con los distintos actores del ecosistema asegurador. Por un…",
       "fuente": "Informe Operadores",
@@ -73,6 +163,15 @@
       "fecha": "2026-08-09",
       "url": "https://www.informeoperadores.com.ar/2026/08/09/the-human-safety-net-se-lanza-oficialmente-en-argentina-y-anuncia-una-alianza-con-gcba-y-ril-para-ampliar-su-impacto-en-la-primera-infancia/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Evento-Lanzamiento-THSN-1-Carla-Ponce-junto-a-panelistas-y-Daniel-Cerezo-600x400.jpg"
+    },
+    {
+      "titulo": "Se realizó el 2° Salesforce Insurance Day Bs As",
+      "resumen": "Salesforce y bdt global impulsan el camino hacia la IA Agéntica en seguros Más de 50 ejecutivos de las principales compañías de seguros participaron de la segunda edición del Salesforce Insurance Day para compartir…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-08",
+      "url": "https://elseguroenaccion.com.ar/2-salesforce-insurance-day-bs-as/",
+      "imagen": ""
     },
     {
       "titulo": "ADIRA celebra 45 años promoviendo el diálogo y el desarrollo del mercado asegurador argentino",
@@ -111,111 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Asegurados digitales en Argentina: 87% cotiza desde el celular",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CompreSeguros informó que en el primer semestre de 2026 el 87% de las cotizaciones de auto y moto se realizó desde celulares (73% Android, 14% iOS); 14% se consulta…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-07",
-      "url": "https://mercadosyseguros.com/asegurados-digitales-en-argentina-87-cotiza-desde-el-celular/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ventiladores de cuello: comparativa y opciones 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Comparativa 2026 de ventiladores de cuello: TORRAS Coolify 2S Pro (desde 265,85 €) destaca por placas semiconductoras y hasta 28 horas en modo ventilador;…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://mercadosyseguros.com/ventiladores-de-cuello-comparativa-y-opciones-2026/",
-      "imagen": ""
-    },
-    {
       "titulo": "La nueva cara de AVIRA y el momento de la verdad del seguro",
       "resumen": "En un nuevo programa de 100% SEGURO, nos metimos de lleno en el desarrollo de los seguros de vida y retiro, y en el rol del liquidador en el momento más importante de toda cobertura: el siniestro. Por primera vez,…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-08-07",
       "url": "https://100seguro.com.ar/la-nueva-cara-de-avira-y-el-momento-de-la-verdad-del-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros reafirmó el valor de sus tradiciones en un nuevo encuentro",
-      "resumen": "La celebración organizada por la compañía aseguradora reunió en Sunchales a autoridades, empresarios y referentes de distintos sectores para compartir dos jornadas de intercambio y camaradería. La entrada Sancor Seguros…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://100seguro.com.ar/sancor-seguros-reafirmo-el-valor-de-sus-tradiciones-en-un-nuevo-encuentro/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Sancor-Seguros-reafirmo-el-valor-de-sus-tradiciones-en-un-nuevo-encuentro-3.jpeg"
-    },
-    {
-      "titulo": "CNP Seguros celebró en Saint Martin su Convención Comercial 2026",
-      "resumen": "CNP Seguros llevó adelante su Convención Comercial 2026 en Saint Martin, donde reunió a los productores y productoras que alcanzaron los objetivos comerciales establecidos. Durante varios días, los participantes…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://100seguro.com.ar/cnp-seguros-celebro-en-saint-martin-su-convencion-comercial-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Está preparado el auto para volver a la rutina?",
-      "resumen": "Tras los viajes de las vacaciones de invierno, una revisión preventiva del vehículo puede ayudar a detectar desgastes, evitar inconvenientes y mejorar la seguridad al retomar la rutina diaria. La entrada ¿Está preparado…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://100seguro.com.ar/esta-preparado-el-auto-para-volver-a-la-rutina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SRT presentó la red REVA ante cámaras empresariales para agilizar trámites y gestiones del sector empleador",
-      "resumen": "La Superintendencia de Riesgos del Trabajo (SRT) encabezó una jornada de capacitación e intercambio institucional con federaciones y cámaras del sector productivo. La entrada La SRT presentó la red REVA ante cámaras…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-07",
-      "url": "https://100seguro.com.ar/la-srt-presento-la-red-reva-ante-camaras-empresariales-para-agilizar-tramites-y-gestiones-del-sector-empleador/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2026-08-05srtcamarasempresariales_02.jpg"
-    },
-    {
-      "titulo": "IF-2026-75563887-APN-GEYE#SSN – RENTABILIDAD BRUTA MENSUAL – JUNIO DE 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-07",
-      "url": "https://elseguroenaccion.com.ar/if-2026-75563887-apn-geyessn-rentabilidad-bruta-mensual-junio-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-75531417-APN-GE#SSN – IMPLEMENTACIÓN DEL NUEVO RÉGIMEN DE INFORMACIÓN – NOTAS ESTANDARIZADAS VERSIÓN 1.1.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-07",
-      "url": "https://elseguroenaccion.com.ar/if-2026-75531417-apn-gessn-implementacion-del-nuevo-regimen-de-informacion-notas-estandarizadas-version-1-1/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-338-APN-SSN#MEC – ARIADNA MARIEL SARRALDE – INSCRIPCIÓN RAE",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-07",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-338-apn-ssnmec-ariadna-mariel-sarralde-inscripcion-rae/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-337-APN-SSN#MEC – OM BROKER SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-07",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-337-apn-ssnmec-om-broker-sociedad-de-productores-asesores-de-seguros-s-a-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-336-APN-SSN#MEC – SIMAS BRO. SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-07",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-336-apn-ssnmec-simas-bro-sociedad-de-productores-asesores-de-seguros-s-a-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     }
   ]
