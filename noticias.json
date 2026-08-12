@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-08-11T06:53-03:00",
+  "actualizado": "2026-08-12T06:54-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Telemática, seguros por uso e inteligencia artificial, tres ejes que prometen transformar la movilidad",
+      "resumen": "ENTREVISTA 100% SEGURO.- La evolución tecnológica está modificando de manera acelerada la industria automotriz y, con ella, también la forma en que se conciben los seguros y los servicios asociados a la movilidad. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-12",
+      "url": "https://100seguro.com.ar/telematica-seguros-por-uso-e-inteligencia-artificial-tres-ejes-que-prometen-transformar-la-movilidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de ruedas: la Justicia rechazó demanda contra aseguradora y puso el foco en la prueba del siniestro",
+      "resumen": "Un fallo del Juzgado Civil y Comercial N° 6 de Mar del Plata rechazó el reclamo de una asegurada que pretendía cobrar la cobertura por el supuesto robo de tres ruedas de su vehículo. La sentencia consideró que no se…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://100seguro.com.ar/robo-de-ruedas-la-justicia-rechazo-demanda-contra-aseguradora-y-puso-el-foco-en-la-prueba-del-siniestro/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/ChatGPT-Image-Renault-Sandero-II-Privilege-3.png"
+    },
+    {
+      "titulo": "¿Es prudente anunciar públicamente reformas a las leyes del seguro sin conocer los textos y sin debate sobre su oportunidad y conveniencia?",
+      "resumen": "El abogado especialista en derecho de seguros reflexiona sobre la conveniencia de impulsar una reforma integral del marco normativo del seguro argentino sin que los proyectos hayan sido dados a conocer ni sometidos al…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://100seguro.com.ar/es-prudente-anunciar-publicamente-reformas-a-las-leyes-del-seguro-sin-conocer-los-textos-y-sin-debate-sobre-su-oportunidad-y-conveniencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Productor aumentado: 4 capacidades para no quedar obsoleto",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Comisión de Vida de AAPAS y MLA organizan el seminario \"Liderazgo Aumentado\" el 26 de agosto a las 9:30 h, gratuito y en modalidad híbrida. Ismael Briasco…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://mercadosyseguros.com/productor-aumentado-4-capacidades-para-no-quedar-obsoleto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA entregó diplomas a nuevos Productores Asesores en el NEA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA, el Ente Cooperador Ley 22.400 y las APAS de Misiones, Corrientes y Chaco realizaron entre el 29 y 30 de julio una gira en el NEA para entregar diplomas a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://mercadosyseguros.com/fapasa-entrego-diplomas-a-nuevos-productores-asesores-en-el-nea/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguridad de Claude AI: qué saber antes de usarlo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Anthropic informó en febrero de 2026 ingresos proyectados anualizados por más de 14.000 millones de dólares. ESET advierte que el crecimiento no garantiza seguridad:…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://mercadosyseguros.com/seguridad-de-claude-ai-que-saber-antes-de-usarlo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robos a mano armada: las 21 horas, el horario de mayor riesgo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Informe de Movilidad de Strix confirma que las 21:00 es el horario con más robos a mano armada por séptimo cuatrimestre consecutivo y que los robos fuera de la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://mercadosyseguros.com/robos-a-mano-armada-las-21-horas-el-horario-de-mayor-riesgo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Del carnet a los 18 al “no lo necesito”: cómo la Generación Z redefine su relación con el auto",
+      "resumen": "A los 18 años, durante décadas, sacar la licencia fue casi un ritual: el primer carnet en la billetera sintetizaba autonomía, movimiento y una forma de independencia. Hoy, para buena parte de los jóvenes, esa lógica…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://100seguro.com.ar/del-carnet-a-los-18-al-no-lo-necesito-como-la-generacion-z-redefine-su-relacion-con-el-auto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz alcanzó un beneficio operativo récord de 9.400 millones de euros en el primer semestre de 2026",
+      "resumen": "La aseguradora registró un crecimiento del 8,6% en su beneficio operativo y del 15,5% en el beneficio neto atribuible a los accionistas. El volumen total de negocio alcanzó los 98.600 millones de euros y el ratio de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://100seguro.com.ar/allianz-alcanzo-un-beneficio-operativo-record-de-9-400-millones-de-euros-en-el-primer-semestre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "BIND Seguros y Mecubro lanzan un seguro por día para eventos con emisión inmediata",
+      "resumen": "La solución, inédita en el mercado, permite contratar la cobertura desde el celular y obtener en minutos la póliza necesaria para operar en ferias, exposiciones y eventos. BIND Seguros, compañía del Grupo BIND…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://elseguroenaccion.com.ar/bind-seguros-y-mecubro-lanzan-un-seguro-por-dia-para-eventos-con-emision-inmediata/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gabriela Bruzzese: ‘La IA no reemplaza al Productor Asesor de Seguros’",
+      "resumen": "En este episodio entrevistamos a Gabriela Bruzzese, actual vicepresidente de AAPAS (Asociación Argentina de Productores Asesores de Seguros) y candidata a la presidencia de la entidad en las próximas elecciones. MIRÁ EL…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://elseguroenaccion.com.ar/gabriela-bruzzese-la-ia-no-reemplaza-al-productor-asesor-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz alcanzó un beneficio operativo récord de 9.400M de euros en el primer semestre de 2026",
+      "resumen": "La aseguradora registró un crecimiento del 8,6% en su beneficio operativo y del 15,5% en el beneficio neto atribuible a los accionistas. El volumen total de negocio alcanzó los 98.600 millones de euros y el ratio de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-11",
+      "url": "https://elseguroenaccion.com.ar/allianz-alcanzo-un-beneficio-operativo-record-de-9-400m-de-euros-en-el-primer-semestre-de-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Prevención Salud organizó jornadas de donación y logró más de 120 donaciones",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención Salud (Sancor Seguros) realizó jornadas de donación de sangre en Posadas y Mendoza entre junio y agosto: 145 participantes y más de 120 donaciones. La…",
@@ -66,6 +174,15 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/segurosysalud-2.jpeg"
     },
     {
+      "titulo": "Nuevos seguros de salud y sepelio: el desafío que viene para los productores asesores",
+      "resumen": "La SSN habilitó la cobertura prestacional en seguros de salud y modernizó el régimen de sepelio. En esta entrevista, el Lic. Carlos Salinas analiza los alcances reales de la norma, las diferencias con el PMO, los…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-10",
+      "url": "https://elseguroenaccion.com.ar/nuevos-seguros-de-salud-y-sepelio-el-desafio-que-viene-para-los-productores-asesores/",
+      "imagen": ""
+    },
+    {
       "titulo": "Patricia Molina: Huella de carbono en turismo, «Hacerse responsable no es solo pedir perdón, sino además arreglarlo»",
       "resumen": "La sustentabilidad dejó de ser un atributo diferencial para convertirse en una variable estratégica dentro del turismo. La entrada Patricia Molina: Huella de carbono en turismo, «Hacerse responsable no es solo pedir…",
       "fuente": "NBS",
@@ -99,123 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-08-09",
       "url": "https://mercadosyseguros.com/disfrutar-en-el-liderazgo-5-claves-para-lideres-efectivos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ergonomía: cuatro años de prevención en Federación Patronal ART",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART creó su Sector de Ergonomía hace cuatro años; asesoró a 150 empleadores, capacitó a 5.000 trabajadores y evaluó 1.000 puestos. El equipo de 20…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://mercadosyseguros.com/ergonomia-cuatro-anos-de-prevencion-en-federacion-patronal-art/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA en seguros: cómo reduce costos y potencia ventas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com BCG sostiene que las aseguradoras que adopten un modelo \"AI-first\" pueden reducir ~20% sus costos operativos y crecer entre 3% y 5% en primas. El informe señala…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://mercadosyseguros.com/ia-en-seguros-como-reduce-costos-y-potencia-ventas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ranking de empleadores: dónde trabaja lafuerza laboral tecnológica de la región",
-      "resumen": "La industria de la educación tecnológica en América Latina continúa demostrando su capacidad para transformar el mercado laboral y proveer talento a las principales corporaciones de la región. Los datos más recientes de…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://www.informeoperadores.com.ar/2026/08/09/ranking-de-empleadores-donde-trabaja-lafuerza-laboral-tecnologica-de-la-region/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Christian-Patino-Co-Fundador-y-CEO-de-Coderhouse-600x400.png"
-    },
-    {
-      "titulo": "América Latina enfrenta desastres climáticos más costosos en el primer semestre de 2026, según Aon",
-      "resumen": "Los terremotos de Venezuela y las inundaciones de Colombia superaron las pérdidas aseguradas históricas y reflejan la creciente vulnerabilidad de la región a eventos extremos Aon plc (NYSE: AON), (NYSE: AON), firma…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://www.informeoperadores.com.ar/2026/08/09/america-latina-enfrenta-desastres-climaticos-mas-costosos-en-el-primer-semestre-de-2026-segun-aon/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/06/AON_DESTACADA-600x400.png"
-    },
-    {
-      "titulo": "BIND Seguros y Mecubro lanzan un seguro por día para eventos con emisión inmediata",
-      "resumen": "La solución, inédita en el mercado, permite contratar la cobertura desde el celular y obtener en minutos la póliza necesaria para operar en ferias, exposiciones y eventos. BIND Seguros, compañía del Grupo BIND…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://www.informeoperadores.com.ar/2026/08/09/bind-seguros-y-mecubro-lanzan-un-seguro-por-dia-para-eventos-con-emision-inmediata/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Soledad-Taranto-CEO-de-BIND-Seguros-600x400.jpeg"
-    },
-    {
-      "titulo": "FEMS en Expoestrategas 2026",
-      "resumen": "El Foro Ejecutivo de Mujeres en Seguros (FEMS) estará presente en Expoestrategas 2026con dos propuestas que combinan reflexión, participación e intercambio con los distintos actores del ecosistema asegurador. Por un…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://www.informeoperadores.com.ar/2026/08/09/fems-en-expoestrategas-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Invitacion-segmento-sostenibilidad-480x600.jpg"
-    },
-    {
-      "titulo": "The Human Safety Net se lanza oficialmente en Argentina y anuncia una alianza con GCBA y RIL para ampliar su impacto en la primera infancia",
-      "resumen": "La fundación impulsada por La Caja presentó formalmente su trabajo en el país y anunció nuevas alianzas para ampliar el alcance de sus programas de acompañamiento a familias con niños y niñas en la primera infancia.…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://www.informeoperadores.com.ar/2026/08/09/the-human-safety-net-se-lanza-oficialmente-en-argentina-y-anuncia-una-alianza-con-gcba-y-ril-para-ampliar-su-impacto-en-la-primera-infancia/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Evento-Lanzamiento-THSN-1-Carla-Ponce-junto-a-panelistas-y-Daniel-Cerezo-600x400.jpg"
-    },
-    {
-      "titulo": "Se realizó el 2° Salesforce Insurance Day Bs As",
-      "resumen": "Salesforce y bdt global impulsan el camino hacia la IA Agéntica en seguros Más de 50 ejecutivos de las principales compañías de seguros participaron de la segunda edición del Salesforce Insurance Day para compartir…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-08",
-      "url": "https://elseguroenaccion.com.ar/2-salesforce-insurance-day-bs-as/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ADIRA celebra 45 años promoviendo el diálogo y el desarrollo del mercado asegurador argentino",
-      "resumen": "Asociación de Aseguradores del Interior de la República Argentina— celebra 45 años de trayectoria, consolidada como una de las instituciones más representativas del mercado asegurador y como un actor clave en la…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-08",
-      "url": "https://www.informeoperadores.com.ar/2026/08/08/adira-celebra-45-anos-promoviendo-el-dialogo-y-el-desarrollo-del-mercado-asegurador-argentino/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ADIRA-logo-600x400.png"
-    },
-    {
-      "titulo": "La Asociación Insurtech Uruguaya potencia su oferta de comunicación al ecosistema asegurador sumando a ULTRA PR como aliada estratégica",
-      "resumen": "Esta colaboración permitirá que los miembros de la asociación accedan a servicios especializados de asesoramiento comunicacional, prensa, contenidos y media training, entre otros La Asociación Insurtech Uruguaya junto a…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-08-08",
-      "url": "https://www.informeoperadores.com.ar/2026/08/08/la-asociacion-insurtech-uruguaya-potencia-su-oferta-de-comunicacion-al-ecosistema-asegurador-sumando-a-ultra-pr-como-aliada-estrategica/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Paola-Bellisimo-Pablo-Tiscornia--600x400.jpeg"
-    },
-    {
-      "titulo": "Mapfre Economics: crecimiento global 3% en 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre Economics proyecta un crecimiento global de 3% en 2026 y 3,1% en 2027, con inflación del 3,8% y 3,1% respectivamente. Prevén para Estados Unidos un crecimiento…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://mercadosyseguros.com/mapfre-economics-crecimiento-global-3-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Provincia ART: cursos gratuitos en agosto",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Provincia ART, del Grupo Provincia, ofrecerá en agosto un calendario de cursos gratuitos con fechas y horarios concretos, entre ellos RCP pediátrica (10/8),…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://mercadosyseguros.com/provincia-art-cursos-gratuitos-en-agosto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La nueva cara de AVIRA y el momento de la verdad del seguro",
-      "resumen": "En un nuevo programa de 100% SEGURO, nos metimos de lleno en el desarrollo de los seguros de vida y retiro, y en el rol del liquidador en el momento más importante de toda cobertura: el siniestro. Por primera vez,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-07",
-      "url": "https://100seguro.com.ar/la-nueva-cara-de-avira-y-el-momento-de-la-verdad-del-seguro/",
       "imagen": ""
     }
   ]
