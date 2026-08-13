@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-08-12T06:54-03:00",
+  "actualizado": "2026-08-13T06:55-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Así se Mejora la Experiencia del Cliente en el Seguro",
+      "resumen": "En esta entrevista exclusiva, Virginia Alarcia (Presidente de AALPS) y Cristina Miglio (Presidente de DEC y Directora del Programa CX de la Universidad Di Tella) se encuentran para hablar sobre cómo poner al asegurado…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/asi-se-mejora-la-experiencia-del-cliente-en-el-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hanseatica y World Insurance Services lanzan programa de seguros para WCAworld",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com World Insurance Services y Hanseatica acordaron en 2026 un programa de seguros multimodal para miembros de WCAworld en las Américas, que combina coberturas \"todo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://mercadosyseguros.com/hanseatica-y-world-insurance-services-lanzan-programa-de-seguros-para-wcaworld/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Juicio en Neuquén: rechazan demanda contra aseguradora",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El juez Javier Alarcón rechazó la demanda de una empresa de lubricantes y combustibles contra una aseguradora y contra el banco tras un incendio en el Parque…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://mercadosyseguros.com/juicio-en-neuquen-rechazan-demanda-contra-aseguradora/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FEMS participa en Expoestrategas 2026 sobre sostenibilidad",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FEMS estará en Expoestrategas 2026 con un panel sobre sostenibilidad a cargo de María Laura Leguizamón y Luis Guastini, y un espacio de networking con dinámicas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://mercadosyseguros.com/fems-participa-en-expoestrategas-2026-sobre-sostenibilidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reaseguro en Argentina: renovaciones, catástrofes y desregulación",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Americal Reinsurance Solutions reportó cambios en las renovaciones de reaseguro iniciadas en 2026, con ajustes de primas por línea y nueva capacidad para riesgos del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://mercadosyseguros.com/reaseguro-en-argentina-renovaciones-catastrofes-y-desregulacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA, analítica de datos y sensores en tiempo real reducen fallas y cortes en servicios básicos en Argentina",
+      "resumen": "El uso de analítica de datos, sensores en tiempo real e inteligencia artificial está permitiendo anticipar interrupciones en servicios como agua, energía y telecomunicaciones, marcando el paso de modelos reactivos a…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-12",
+      "url": "https://100seguro.com.ar/ia-analitica-de-datos-y-sensores-en-tiempo-real-reducen-fallas-y-cortes-en-servicios-basicos-en-argentina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/IA-analitica-de-datos-y-sensores-en-tiempo-real-reducen-fallas-y-cortes-en-servicios-basicos-grafico.png"
+    },
+    {
+      "titulo": "¿Es prudente anunciar públicamente reformas a las leyes del seguro sin conocer los textos y sin debate sobre su oportunidad y conveniencia?",
+      "resumen": "El abogado especialista en derecho de seguros reflexiona sobre la conveniencia de impulsar una reforma integral del marco normativo del seguro argentino sin que los proyectos hayan sido dados a conocer ni sometidos al…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://100seguro.com.ar/es-prudente-anunciar-publicamente-reformas-a-las-leyes-del-seguro-sin-conocer-los-textos-y-sin-debate-sobre-su-oportunidad-y-conveniencia/",
+      "imagen": ""
+    },
     {
       "titulo": "Telemática, seguros por uso e inteligencia artificial, tres ejes que prometen transformar la movilidad",
       "resumen": "ENTREVISTA 100% SEGURO.- La evolución tecnológica está modificando de manera acelerada la industria automotriz y, con ella, también la forma en que se conciben los seguros y los servicios asociados a la movilidad. La…",
@@ -21,12 +84,30 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/ChatGPT-Image-Renault-Sandero-II-Privilege-3.png"
     },
     {
-      "titulo": "¿Es prudente anunciar públicamente reformas a las leyes del seguro sin conocer los textos y sin debate sobre su oportunidad y conveniencia?",
-      "resumen": "El abogado especialista en derecho de seguros reflexiona sobre la conveniencia de impulsar una reforma integral del marco normativo del seguro argentino sin que los proyectos hayan sido dados a conocer ni sometidos al…",
-      "fuente": "100% Seguro",
+      "titulo": "Ariel Soria: Iguazú Jungle, «El viajero quiere saber que su viaje contribuye a preservar aquello que fue a disfrutar”",
+      "resumen": "En el corazón de uno de los ecosistemas más biodiversos de Argentina, la sostenibilidad dejó de ser un simple complemento publicitario para transformarse en la base sobre la cual se construyen las decisiones…",
+      "fuente": "NBS",
       "categoria": "Mercado",
       "fecha": "2026-08-12",
-      "url": "https://100seguro.com.ar/es-prudente-anunciar-publicamente-reformas-a-las-leyes-del-seguro-sin-conocer-los-textos-y-sin-debate-sobre-su-oportunidad-y-conveniencia/",
+      "url": "https://nbs.ar/ariel-soria-iguazu-jungle-el-viajero-quiere-saber-que-su-viaje-contribuye-a-preservar-aquello-que-fue-a-disfrutar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Luján Araujo: KPMG, “El agente de IA puede convertirse en un acelerador de riesgo”",
+      "resumen": "La adopción acelerada de la inteligencia artificial (IA) en el ámbito corporativo dejó atrás la era de los simples chatbots para dar paso a agentes autónomos, un avance que transforma radicalmente la superficie de…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-08-12",
+      "url": "https://nbs.ar/lujan-araujo-kpmg-el-agente-de-ia-puede-convertirse-en-un-acelerador-de-riesgo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz reporta un beneficio operativo récord de 9.400 millones en el primer semestre de 2026",
+      "resumen": "Allianz, una de las principales aseguradoras del mundo, reportó un beneficio operativo récord de 9.400 millones de euros en el primer semestre de 2026. Este notable desempeño representa un crecimiento del 8,6% en…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-12",
+      "url": "https://nbs.ar/allianz-reporta-un-beneficio-operativo-record-de-9-400-millones-en-el-primer-semestre-de-2026/",
       "imagen": ""
     },
     {
@@ -129,24 +210,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Latinoamérica aporta €218 M al beneficio de Mapfre en 1S-2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre informó que Latinoamérica aportó 218 millones de euros al beneficio en el primer semestre de 2026 sobre un resultado consolidado de 624 millones. Brasil lideró…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-10",
-      "url": "https://mercadosyseguros.com/latinoamerica-aporta-e218-m-al-beneficio-de-mapfre-en-1s-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos julio: autos -30% y motos +30%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En julio de 2026 los patentamientos de autos cayeron 30,3% interanual a 43.758 unidades, mientras las motos subieron 30,4% a 71.217, según SIOMAA. El 67% de los autos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-10",
-      "url": "https://mercadosyseguros.com/patentamientos-julio-autos-30-y-motos-30/",
-      "imagen": ""
-    },
-    {
       "titulo": "IA agéntica, personalización y arquitecturas inteligentes: las claves que dejó el Salesforce Insurance Day Buenos Aires",
       "resumen": "COBERTURA 100% SEGURO.- Salesforce y bdt global llevaron a cabo durante la mañana del pasado jueves 6 de agosto la segunda edición de Salesforce Insurance Day Buenos Aires. Se trató de un encuentro exclusivo en las…",
       "fuente": "100% Seguro",
@@ -154,69 +217,6 @@
       "fecha": "2026-08-10",
       "url": "https://100seguro.com.ar/ia-agentica-personalizacion-y-arquitecturas-inteligentes-las-claves-que-dejo-el-salesforce-insurance-day-buenos-aires/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2°-Salesforce-Insurance-Day-Trias-1.jpeg"
-    },
-    {
-      "titulo": "Hipotecario Seguros impulsa la innovación en siniestros con un agente de IA desarrollado junto a Salesforce",
-      "resumen": "La compañía implementó una solución desarrollada sobre Agentforce de Salesforce que permite recibir denuncias de siniestros por WhatsApp las 24 horas, los 365 días del año, automatizando el alta de casos y mejorando la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-10",
-      "url": "https://100seguro.com.ar/hipotecario-seguros-impulsa-la-innovacion-en-siniestros-con-un-agente-de-ia-desarrollado-junto-a-salesforce/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros y salud: la SSN presentó los alcances de la Resolución 258/2026 en la Fundación Sanatorio Güemes",
-      "resumen": "La nueva normativa promueve el desarrollo de seguros que complementan el sistema de salud, amplía la oferta de productos y fortalece la protección de las personas. La entrada Seguros y salud: la SSN presentó los…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-10",
-      "url": "https://100seguro.com.ar/seguros-y-salud-la-ssn-presento-los-alcances-de-la-resolucion-258-2026-en-la-fundacion-sanatorio-guemes/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/segurosysalud-2.jpeg"
-    },
-    {
-      "titulo": "Nuevos seguros de salud y sepelio: el desafío que viene para los productores asesores",
-      "resumen": "La SSN habilitó la cobertura prestacional en seguros de salud y modernizó el régimen de sepelio. En esta entrevista, el Lic. Carlos Salinas analiza los alcances reales de la norma, las diferencias con el PMO, los…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-10",
-      "url": "https://elseguroenaccion.com.ar/nuevos-seguros-de-salud-y-sepelio-el-desafio-que-viene-para-los-productores-asesores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patricia Molina: Huella de carbono en turismo, «Hacerse responsable no es solo pedir perdón, sino además arreglarlo»",
-      "resumen": "La sustentabilidad dejó de ser un atributo diferencial para convertirse en una variable estratégica dentro del turismo. La entrada Patricia Molina: Huella de carbono en turismo, «Hacerse responsable no es solo pedir…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-10",
-      "url": "https://nbs.ar/patricia-molina-huella-de-carbono-en-turismo-hacerse-responsable-no-es-solo-pedir-perdon-sino-ademas-arreglarlo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Carlos Russell: Ternium y la ciberseguridad en los agentes de IA, “Nuestra estrategia consiste en avanzar de manera gradual”",
-      "resumen": "La acelerada adopción de agentes de inteligencia artificial (IA) y herramientas automatizadas en el ecosistema corporativo está reconfigurando drásticamente las prioridades de la ciberseguridad. La entrada Carlos…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-08-10",
-      "url": "https://nbs.ar/carlos-russell-ternium-y-la-ciberseguridad-en-los-agentes-de-ia-nuestra-estrategia-consiste-en-avanzar-de-manera-gradual/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hiperconectividad laboral en España: 81,6% atiende fuera del horario",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Dos estudios de 2026 muestran que la hiperconectividad persiste en España: Edenred registra 81,6% de trabajadores que atienden fuera de horario y 19,7% conectados…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://mercadosyseguros.com/hiperconectividad-laboral-en-espana-816-atiende-fuera-del-horario/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Disfrutar en el liderazgo: 5 claves para líderes efectivos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Marcelo Vázquez Ávila presenta cinco pautas para integrar el disfrute en la vida y el liderazgo: elección consciente, efecto de la dopamina, valoración del presente,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-09",
-      "url": "https://mercadosyseguros.com/disfrutar-en-el-liderazgo-5-claves-para-lideres-efectivos/",
-      "imagen": ""
     }
   ]
 }
