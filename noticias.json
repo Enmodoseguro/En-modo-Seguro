@@ -1,14 +1,158 @@
 {
-  "actualizado": "2026-08-13T06:55-03:00",
+  "actualizado": "2026-08-14T06:52-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Así se Mejora la Experiencia del Cliente en el Seguro",
-      "resumen": "En esta entrevista exclusiva, Virginia Alarcia (Presidente de AALPS) y Cristina Miglio (Presidente de DEC y Directora del Programa CX de la Universidad Di Tella) se encuentran para hablar sobre cómo poner al asegurado…",
-      "fuente": "El Seguro en Acción",
+      "titulo": "CNP Seguros: Convención Comercial 2026 en Saint Martin",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CNP Seguros realizó su Convención Comercial 2026 en Saint Martin para reconocer a los productores que cumplieron metas, reforzar vínculos y presentar herramientas…",
+      "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/asi-se-mejora-la-experiencia-del-cliente-en-el-seguro/",
+      "url": "https://mercadosyseguros.com/cnp-seguros-convencion-comercial-2026-en-saint-martin/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cámara confirma rechazo de reclamo por robo en cochera",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Cámara de Apelación de Lomas de Zamora confirmó el rechazo de una demanda por la supuesta sustracción de una moto de agua y su tráiler denunciada el 8 de enero de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-13",
+      "url": "https://mercadosyseguros.com/camara-confirma-rechazo-de-reclamo-por-robo-en-cochera/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Tecnología redefine el negocio asegurador, dice Gustavo Trías",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, afirmó en el Salesforce Insurance Day Buenos Aires que la tecnología —en especial la inteligencia artificial— está redefiniendo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-08-13",
+      "url": "https://mercadosyseguros.com/tecnologia-redefine-el-negocio-asegurador-dice-gustavo-trias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es controlar mejor”",
+      "resumen": "La SSN estuvo presente en uno de los principales encuentros del sector asegurador argentino, que este año celebró sus 25 ediciones. La entrada Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://100seguro.com.ar/plate-en-expoestrategas-2026-desregular-no-es-dejar-de-controlar-es-controlar-mejor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Galicia Seguros lanza su póliza forestal, una solución innovadora para proteger plantaciones forestales ante incendios",
+      "resumen": "En el marco de su Campaña Agro 26/27, Galicia Seguros presenta su nueva póliza forestal, una solución innovadora diseñada para proteger plantaciones forestales comerciales frente al riesgo de incendios. Con este…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-13",
+      "url": "https://100seguro.com.ar/galicia-seguros-lanza-su-poliza-forestal-una-solucion-innovadora-para-proteger-plantaciones-forestales-ante-incendios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día de las Infancias: cómo transformar el hogar en un entorno seguro para explorar, crear y crecer sin riesgos",
+      "resumen": "Hacer de la casa un espacio protegido no solo evita los accidentes domésticos más frecuentes, sino que brinda a los más chicos la libertad necesaria para desplegar su imaginación con tranquilidad. La entrada Día de las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-13",
+      "url": "https://100seguro.com.ar/dia-de-las-infancias-como-transformar-el-hogar-en-un-entorno-seguro-para-explorar-crear-y-crecer-sin-riesgos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Es la delegación de tareas uno de los grandes problemas de crecimiento de las pymes en Argentina?",
+      "resumen": "Por Angie Mastrángelo, capacitadora y mentora en liderazgo, cultura del servicio y experiencia al cliente; cofundadora de Mastrángelo Molina y líder de Proyectos en BK Capacitación.- Tu empresa no puede crecer si todo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-13",
+      "url": "https://100seguro.com.ar/es-la-delegacion-de-tareas-uno-de-los-grandes-problemas-de-crecimiento-de-las-pymes-en-argentina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Angie-Mastrangelo-150x150.jpeg"
+    },
+    {
+      "titulo": "RESOL-2026-341-APN-SSN#MEC – IMPEDIMENTO PUNTO 9 RGAA – MARCELO RENE LOHRMANN",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-341-apn-ssnmec-impedimento-punto-9-rgaa-marcelo-rene-lohrmann/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-353-APN-SSN#MEC – N.S.A. SEGUROS GENERALES S.A. – AUTORIZACIÓN RAMA ACCIDENTES PERSONALES – SEGURO DE ACCIDENTES PERSONALES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-353-apn-ssnmec-n-s-a-seguros-generales-s-a-autorizacion-rama-accidentes-personales-seguro-de-accidentes-personales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-354-APN-SSN#MEC – LOGRAR COMPAÑÍA DE SEGUROS DE PERSONAS S.A. AUTORIZACIÓN RAMA RESPONSABILIDAD CIVIL – SEGURO DE RESPONSABILIDAD CIVIL",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-354-apn-ssnmec-lograr-compania-de-seguros-de-personas-s-a-autorizacion-rama-responsabilidad-civil-seguro-de-responsabilidad-civil/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-355-APN-SSN#MEC – INSTITUTO AUTÁRQUICO PROVINCIAL DEL SEGURO – AUTORIZACIÓN RAMA SALUD – SEGURO DE SALUD",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-355-apn-ssnmec-instituto-autarquico-provincial-del-seguro-autorizacion-rama-salud-seguro-de-salud/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-348-APN-SSN#MEC – COMPAÑÍA DE SEGUROS LA MERCANTIL ANDINA SOCIEDAD ANÓNIMA – AUTORIZACIÓN RAMA SALUD – SEGURO MODULAR DE SALUD",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-348-apn-ssnmec-compania-de-seguros-la-mercantil-andina-sociedad-anonima-autorizacion-rama-salud-seguro-modular-de-salud/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-347-APN-SSN#MEC – LIFE SEGUROS DE PERSONAS Y PATRIMONIALES S.A. – AUTORIZACIÓN RAMA TRANSPORTE DE MERCADERÍAS – SEGURO DE TRANSPORTE MARÍTIMO, TERRESTRE Y/O AÉREO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-347-apn-ssnmec-life-seguros-de-personas-y-patrimoniales-s-a-autorizacion-rama-transporte-de-mercaderias-seguro-de-transporte-maritimo-terrestre-y-o-aereo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-346-APN-SSN#MEC – LA PALABRA COMPAÑÍA DE SEGUROS DE PERSONAS S.A. – AUTORIZACIÓN RAMA INCENDIO – SEGURO DE INCENDIO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-346-apn-ssnmec-la-palabra-compania-de-seguros-de-personas-s-a-autorizacion-rama-incendio-seguro-de-incendio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-345-APN-SSN#MEC – BENEFICIO S.A. COMPAÑÍA DE SEGUROS – AUTORIZACIÓN RAMA RESPONSABILIDAD CIVIL – SEGURO DE RESPONSABILIDAD CIVIL",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-345-apn-ssnmec-beneficio-s-a-compania-de-seguros-autorizacion-rama-responsabilidad-civil-seguro-de-responsabilidad-civil/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-344-APN-SSN#MEC – IMPEDIMENTOS PUNTOS 7 Y 9 DEL RGAA – MARIA CRISTINA SOSA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-344-apn-ssnmec-impedimentos-puntos-7-y-9-del-rgaa-maria-cristina-sosa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-343-APN-SSN#MEC – IMPEDIMENTOS PUNTOS 7 Y 9 DEL RGAA – JUAN CARLOS GORDICZ",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-13",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-343-apn-ssnmec-impedimentos-puntos-7-y-9-del-rgaa-juan-carlos-gordicz/",
       "imagen": ""
     },
     {
@@ -73,150 +217,6 @@
       "fecha": "2026-08-12",
       "url": "https://100seguro.com.ar/telematica-seguros-por-uso-e-inteligencia-artificial-tres-ejes-que-prometen-transformar-la-movilidad/",
       "imagen": ""
-    },
-    {
-      "titulo": "Robo de ruedas: la Justicia rechazó demanda contra aseguradora y puso el foco en la prueba del siniestro",
-      "resumen": "Un fallo del Juzgado Civil y Comercial N° 6 de Mar del Plata rechazó el reclamo de una asegurada que pretendía cobrar la cobertura por el supuesto robo de tres ruedas de su vehículo. La sentencia consideró que no se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://100seguro.com.ar/robo-de-ruedas-la-justicia-rechazo-demanda-contra-aseguradora-y-puso-el-foco-en-la-prueba-del-siniestro/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/ChatGPT-Image-Renault-Sandero-II-Privilege-3.png"
-    },
-    {
-      "titulo": "Ariel Soria: Iguazú Jungle, «El viajero quiere saber que su viaje contribuye a preservar aquello que fue a disfrutar”",
-      "resumen": "En el corazón de uno de los ecosistemas más biodiversos de Argentina, la sostenibilidad dejó de ser un simple complemento publicitario para transformarse en la base sobre la cual se construyen las decisiones…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://nbs.ar/ariel-soria-iguazu-jungle-el-viajero-quiere-saber-que-su-viaje-contribuye-a-preservar-aquello-que-fue-a-disfrutar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Luján Araujo: KPMG, “El agente de IA puede convertirse en un acelerador de riesgo”",
-      "resumen": "La adopción acelerada de la inteligencia artificial (IA) en el ámbito corporativo dejó atrás la era de los simples chatbots para dar paso a agentes autónomos, un avance que transforma radicalmente la superficie de…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-08-12",
-      "url": "https://nbs.ar/lujan-araujo-kpmg-el-agente-de-ia-puede-convertirse-en-un-acelerador-de-riesgo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz reporta un beneficio operativo récord de 9.400 millones en el primer semestre de 2026",
-      "resumen": "Allianz, una de las principales aseguradoras del mundo, reportó un beneficio operativo récord de 9.400 millones de euros en el primer semestre de 2026. Este notable desempeño representa un crecimiento del 8,6% en…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://nbs.ar/allianz-reporta-un-beneficio-operativo-record-de-9-400-millones-en-el-primer-semestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Productor aumentado: 4 capacidades para no quedar obsoleto",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Comisión de Vida de AAPAS y MLA organizan el seminario \"Liderazgo Aumentado\" el 26 de agosto a las 9:30 h, gratuito y en modalidad híbrida. Ismael Briasco…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://mercadosyseguros.com/productor-aumentado-4-capacidades-para-no-quedar-obsoleto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA entregó diplomas a nuevos Productores Asesores en el NEA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA, el Ente Cooperador Ley 22.400 y las APAS de Misiones, Corrientes y Chaco realizaron entre el 29 y 30 de julio una gira en el NEA para entregar diplomas a…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://mercadosyseguros.com/fapasa-entrego-diplomas-a-nuevos-productores-asesores-en-el-nea/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguridad de Claude AI: qué saber antes de usarlo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Anthropic informó en febrero de 2026 ingresos proyectados anualizados por más de 14.000 millones de dólares. ESET advierte que el crecimiento no garantiza seguridad:…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://mercadosyseguros.com/seguridad-de-claude-ai-que-saber-antes-de-usarlo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Robos a mano armada: las 21 horas, el horario de mayor riesgo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Informe de Movilidad de Strix confirma que las 21:00 es el horario con más robos a mano armada por séptimo cuatrimestre consecutivo y que los robos fuera de la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://mercadosyseguros.com/robos-a-mano-armada-las-21-horas-el-horario-de-mayor-riesgo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del carnet a los 18 al “no lo necesito”: cómo la Generación Z redefine su relación con el auto",
-      "resumen": "A los 18 años, durante décadas, sacar la licencia fue casi un ritual: el primer carnet en la billetera sintetizaba autonomía, movimiento y una forma de independencia. Hoy, para buena parte de los jóvenes, esa lógica…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://100seguro.com.ar/del-carnet-a-los-18-al-no-lo-necesito-como-la-generacion-z-redefine-su-relacion-con-el-auto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz alcanzó un beneficio operativo récord de 9.400 millones de euros en el primer semestre de 2026",
-      "resumen": "La aseguradora registró un crecimiento del 8,6% en su beneficio operativo y del 15,5% en el beneficio neto atribuible a los accionistas. El volumen total de negocio alcanzó los 98.600 millones de euros y el ratio de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://100seguro.com.ar/allianz-alcanzo-un-beneficio-operativo-record-de-9-400-millones-de-euros-en-el-primer-semestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "BIND Seguros y Mecubro lanzan un seguro por día para eventos con emisión inmediata",
-      "resumen": "La solución, inédita en el mercado, permite contratar la cobertura desde el celular y obtener en minutos la póliza necesaria para operar en ferias, exposiciones y eventos. BIND Seguros, compañía del Grupo BIND…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://elseguroenaccion.com.ar/bind-seguros-y-mecubro-lanzan-un-seguro-por-dia-para-eventos-con-emision-inmediata/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gabriela Bruzzese: ‘La IA no reemplaza al Productor Asesor de Seguros’",
-      "resumen": "En este episodio entrevistamos a Gabriela Bruzzese, actual vicepresidente de AAPAS (Asociación Argentina de Productores Asesores de Seguros) y candidata a la presidencia de la entidad en las próximas elecciones. MIRÁ EL…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://elseguroenaccion.com.ar/gabriela-bruzzese-la-ia-no-reemplaza-al-productor-asesor-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz alcanzó un beneficio operativo récord de 9.400M de euros en el primer semestre de 2026",
-      "resumen": "La aseguradora registró un crecimiento del 8,6% en su beneficio operativo y del 15,5% en el beneficio neto atribuible a los accionistas. El volumen total de negocio alcanzó los 98.600 millones de euros y el ratio de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-11",
-      "url": "https://elseguroenaccion.com.ar/allianz-alcanzo-un-beneficio-operativo-record-de-9-400m-de-euros-en-el-primer-semestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención Salud organizó jornadas de donación y logró más de 120 donaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención Salud (Sancor Seguros) realizó jornadas de donación de sangre en Posadas y Mendoza entre junio y agosto: 145 participantes y más de 120 donaciones. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-10",
-      "url": "https://mercadosyseguros.com/prevencion-salud-organizo-jornadas-de-donacion-y-logro-mas-de-120-donaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Estafas de recupero: alerta por segundo fraude tras una estafa",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET advierte sobre recovery scams: delincuentes contactan a víctimas de estafas para cobrar una tarifa adelantada prometiendo recuperar fondos. Identifican patrones…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-10",
-      "url": "https://mercadosyseguros.com/estafas-de-recupero-alerta-por-segundo-fraude-tras-una-estafa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA agéntica, personalización y arquitecturas inteligentes: las claves que dejó el Salesforce Insurance Day Buenos Aires",
-      "resumen": "COBERTURA 100% SEGURO.- Salesforce y bdt global llevaron a cabo durante la mañana del pasado jueves 6 de agosto la segunda edición de Salesforce Insurance Day Buenos Aires. Se trató de un encuentro exclusivo en las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-10",
-      "url": "https://100seguro.com.ar/ia-agentica-personalizacion-y-arquitecturas-inteligentes-las-claves-que-dejo-el-salesforce-insurance-day-buenos-aires/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2°-Salesforce-Insurance-Day-Trias-1.jpeg"
     }
   ]
 }
