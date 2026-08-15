@@ -1,7 +1,142 @@
 {
-  "actualizado": "2026-08-14T06:52-03:00",
+  "actualizado": "2026-08-15T06:18-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "AAPAS convoca a seminario sobre IA con el speaker Ismael Briasco",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS y MLA organizan el seminario \"El productor aumentado\" con Ismael Briasco el 26 de agosto a las 9:30 en Bolívar 332, CABA. La charla, gratuita, abordará cómo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://mercadosyseguros.com/aapas-convoca-a-seminario-sobre-ia-con-el-speaker-ismael-briasco/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Lograr Seguros autorizada para responsabilidad civil",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN autorizó a Lograr Compañía de Seguros de Personas a operar en responsabilidad civil mediante la resolución 354/2026 publicada el 14 de agosto de 2026. La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-14",
+      "url": "https://mercadosyseguros.com/lograr-seguros-autorizada-para-responsabilidad-civil/",
+      "imagen": ""
+    },
+    {
+      "titulo": "NSA Seguros Generales autorizada para accidentes personales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN habilitó a NSA Seguros Generales S.A. el 21/04/2026, vía resolución 353/2026, para operar en todo el país en el ramo accidentes personales. La autorización…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-14",
+      "url": "https://mercadosyseguros.com/nsa-seguros-generales-autorizada-para-accidentes-personales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Resolución 258/2026: impacto de los seguros prestacionales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Resolución 258/2026 de la SSN habilita seguros de salud con cobertura prestacional y actualiza el régimen de sepelio; permite prestaciones opcionales pero no…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-08-14",
+      "url": "https://mercadosyseguros.com/resolucion-258-2026-impacto-de-los-seguros-prestacionales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "De cadete en seguros a Country Head de Aon Argentina: la palabra autorizada de Maximiliano Bona",
+      "resumen": "En un nuevo programa de 100% SEGURO, contamos con una de las voces más relevantes del mercado corporativo de seguros: Maximiliano Bona, Country Head de Aon Argentina. Abogado de formación, con más de 30 años de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/de-cadete-en-seguros-a-country-head-de-aon-argentina-la-palabra-autorizada-de-maximiliano-bona/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RUS: más de 20 años construyendo una gestión sustentable",
+      "resumen": "Desde su nacimiento en 1958, Río Uruguay Seguros (RUS) construyó su identidad sobre los valores del cooperativismo, la ayuda mutua, la equidad, la responsabilidad y la participación democrática. Esta identidad se…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/rus-mas-de-20-anos-construyendo-una-gestion-sustentable/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Strix suma tres nuevas soluciones para el control y la prevención en la gestión de flotas empresariales",
+      "resumen": "Se trata de una nueva generación de servicios vinculados al monitoreo inteligente con cámaras, conductas de manejo y GPS autoinstalable para flotas. Estas soluciones responden a la creciente necesidad de control y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/strix-suma-tres-nuevas-soluciones-para-el-control-y-la-prevencion-en-la-gestion-de-flotas-empresariales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "EILA 2026: “El fin de la brecha de protección lo podemos construir entre todos”",
+      "resumen": "COBERTURA 100% SEGURO.- Evolución Insurtech Latam 2026 (EILA 26) se desarrolló el 12 y 13 de agosto en Santiago de Chile, organizado por InsurteChile, como un punto de encuentro regional para analizar las…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/eila-2026-el-fin-de-la-brecha-de-proteccion-lo-podemos-construir-entre-todos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/EILA-2026-Rodrigo-Labbe-FOME.jpeg"
+    },
+    {
+      "titulo": "AVIRA cerró la convocatoria de la 12ª edición del Concurso de Creatividad “Generando Conciencia Aseguradora” con una participación récord",
+      "resumen": "Se recibieron 679 trabajos provenientes de estudiantes y jóvenes creativos de todo el país. Por primera vez, el certamen incorporó la categoría Advergaming, ampliando el desafío de comunicar el valor de los Seguros de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/avira-cerro-la-convocatoria-de-la-12a-edicion-del-concurso-de-creatividad-generando-conciencia-aseguradora-con-una-participacion-record/",
+      "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a8.png"
+    },
+    {
+      "titulo": "El BCRA habilitó el acceso al mercado cambiario para aseguradoras de proyectos del RIGI",
+      "resumen": "COMUNICACIÓN BCRA “A” 8464.- El Banco Central de la República Argentina (BCRA) habilitó a las aseguradoras locales que brindan cobertura a proyectos incluidos en el Régimen de Incentivo a las Grandes Inversiones (RIGI)…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/el-bcra-habilito-el-acceso-al-mercado-cambiario-para-aseguradoras-de-proyectos-del-rigi/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CNP Seguros celebró los 25 años de Expoestrategas con foco en el crecimiento del canal PAS",
+      "resumen": "CNP Seguros participó de una nueva edición de Expoestrategas, el principal encuentro de la industria aseguradora, acompañando la celebración por los 25 años del evento y reafirmando su compromiso con el desarrollo de la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/cnp-seguros-celebro-los-25-anos-de-expoestrategas-con-foco-en-el-crecimiento-del-canal-pas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Te vas el fin de semana? Qué tener en cuenta si el auto queda varios días estacionado",
+      "resumen": "El auto no siempre es la opción elegida para viajar. En trayectos cortos, muchas familias prefieren el micro para llegar a destino y después recorrer a pie, ya sea para no manejar durante sus vacaciones o simplemente…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://100seguro.com.ar/te-vas-el-fin-de-semana-que-tener-en-cuenta-si-el-auto-queda-varios-dias-estacionado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es controlar mejor”",
+      "resumen": "La SSN estuvo presente en uno de los principales encuentros del sector asegurador argentino, que este año celebró sus 25 ediciones. El 13 de agosto se llevó a cabo Expoestrategas 2026 en la Ciudad de Buenos Aires. La…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-14",
+      "url": "https://elseguroenaccion.com.ar/guillermo-plate-en-expoestrategas-2026-desregular-no-es-dejar-de-controlar-es-controlar-mejor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Galicia y UBA lanzan nuevas Becas +Futuro para apoyar a 1.500 estudiantes del CBC",
+      "resumen": "La colaboración entre Banco Galicia y la Universidad de Buenos Aires (UBA) se reafirma con el lanzamiento de una nueva edición de las Becas +Futuro, una iniciativa que tiene como objetivo apoyar a estudiantes del Ciclo…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://nbs.ar/galicia-y-uba-lanzan-nuevas-becas-futuro-para-apoyar-a-1-500-estudiantes-del-cbc/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los bancos lanzan propuestas para bajar la morosidad",
+      "resumen": "Con una morosidad de los hogares que alcanzó el 13%, las entidades financieras comenzaron a desplegar programas para extender plazos, reducir tasas y consolidar deudas, en un intento por contener el deterioro de la…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-14",
+      "url": "https://nbs.ar/los-bancos-lanzan-propuestas-para-bajar-la-morosidad/",
+      "imagen": ""
+    },
     {
       "titulo": "CNP Seguros: Convención Comercial 2026 en Saint Martin",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com CNP Seguros realizó su Convención Comercial 2026 en Saint Martin para reconocer a los productores que cumplieron metas, reforzar vínculos y presentar herramientas…",
@@ -48,24 +183,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Día de las Infancias: cómo transformar el hogar en un entorno seguro para explorar, crear y crecer sin riesgos",
-      "resumen": "Hacer de la casa un espacio protegido no solo evita los accidentes domésticos más frecuentes, sino que brinda a los más chicos la libertad necesaria para desplegar su imaginación con tranquilidad. La entrada Día de las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-13",
-      "url": "https://100seguro.com.ar/dia-de-las-infancias-como-transformar-el-hogar-en-un-entorno-seguro-para-explorar-crear-y-crecer-sin-riesgos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Es la delegación de tareas uno de los grandes problemas de crecimiento de las pymes en Argentina?",
-      "resumen": "Por Angie Mastrángelo, capacitadora y mentora en liderazgo, cultura del servicio y experiencia al cliente; cofundadora de Mastrángelo Molina y líder de Proyectos en BK Capacitación.- Tu empresa no puede crecer si todo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-13",
-      "url": "https://100seguro.com.ar/es-la-delegacion-de-tareas-uno-de-los-grandes-problemas-de-crecimiento-de-las-pymes-en-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Angie-Mastrangelo-150x150.jpeg"
-    },
-    {
       "titulo": "RESOL-2026-341-APN-SSN#MEC – IMPEDIMENTO PUNTO 9 RGAA – MARCELO RENE LOHRMANN",
       "resumen": "",
       "fuente": "El Seguro en Acción",
@@ -99,123 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-08-13",
       "url": "https://elseguroenaccion.com.ar/resol-2026-355-apn-ssnmec-instituto-autarquico-provincial-del-seguro-autorizacion-rama-salud-seguro-de-salud/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-348-APN-SSN#MEC – COMPAÑÍA DE SEGUROS LA MERCANTIL ANDINA SOCIEDAD ANÓNIMA – AUTORIZACIÓN RAMA SALUD – SEGURO MODULAR DE SALUD",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-348-apn-ssnmec-compania-de-seguros-la-mercantil-andina-sociedad-anonima-autorizacion-rama-salud-seguro-modular-de-salud/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-347-APN-SSN#MEC – LIFE SEGUROS DE PERSONAS Y PATRIMONIALES S.A. – AUTORIZACIÓN RAMA TRANSPORTE DE MERCADERÍAS – SEGURO DE TRANSPORTE MARÍTIMO, TERRESTRE Y/O AÉREO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-347-apn-ssnmec-life-seguros-de-personas-y-patrimoniales-s-a-autorizacion-rama-transporte-de-mercaderias-seguro-de-transporte-maritimo-terrestre-y-o-aereo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-346-APN-SSN#MEC – LA PALABRA COMPAÑÍA DE SEGUROS DE PERSONAS S.A. – AUTORIZACIÓN RAMA INCENDIO – SEGURO DE INCENDIO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-346-apn-ssnmec-la-palabra-compania-de-seguros-de-personas-s-a-autorizacion-rama-incendio-seguro-de-incendio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-345-APN-SSN#MEC – BENEFICIO S.A. COMPAÑÍA DE SEGUROS – AUTORIZACIÓN RAMA RESPONSABILIDAD CIVIL – SEGURO DE RESPONSABILIDAD CIVIL",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-345-apn-ssnmec-beneficio-s-a-compania-de-seguros-autorizacion-rama-responsabilidad-civil-seguro-de-responsabilidad-civil/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-344-APN-SSN#MEC – IMPEDIMENTOS PUNTOS 7 Y 9 DEL RGAA – MARIA CRISTINA SOSA",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-344-apn-ssnmec-impedimentos-puntos-7-y-9-del-rgaa-maria-cristina-sosa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-343-APN-SSN#MEC – IMPEDIMENTOS PUNTOS 7 Y 9 DEL RGAA – JUAN CARLOS GORDICZ",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-343-apn-ssnmec-impedimentos-puntos-7-y-9-del-rgaa-juan-carlos-gordicz/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hanseatica y World Insurance Services lanzan programa de seguros para WCAworld",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com World Insurance Services y Hanseatica acordaron en 2026 un programa de seguros multimodal para miembros de WCAworld en las Américas, que combina coberturas \"todo…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://mercadosyseguros.com/hanseatica-y-world-insurance-services-lanzan-programa-de-seguros-para-wcaworld/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Juicio en Neuquén: rechazan demanda contra aseguradora",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El juez Javier Alarcón rechazó la demanda de una empresa de lubricantes y combustibles contra una aseguradora y contra el banco tras un incendio en el Parque…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://mercadosyseguros.com/juicio-en-neuquen-rechazan-demanda-contra-aseguradora/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FEMS participa en Expoestrategas 2026 sobre sostenibilidad",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FEMS estará en Expoestrategas 2026 con un panel sobre sostenibilidad a cargo de María Laura Leguizamón y Luis Guastini, y un espacio de networking con dinámicas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://mercadosyseguros.com/fems-participa-en-expoestrategas-2026-sobre-sostenibilidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reaseguro en Argentina: renovaciones, catástrofes y desregulación",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Americal Reinsurance Solutions reportó cambios en las renovaciones de reaseguro iniciadas en 2026, con ajustes de primas por línea y nueva capacidad para riesgos del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://mercadosyseguros.com/reaseguro-en-argentina-renovaciones-catastrofes-y-desregulacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA, analítica de datos y sensores en tiempo real reducen fallas y cortes en servicios básicos en Argentina",
-      "resumen": "El uso de analítica de datos, sensores en tiempo real e inteligencia artificial está permitiendo anticipar interrupciones en servicios como agua, energía y telecomunicaciones, marcando el paso de modelos reactivos a…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-12",
-      "url": "https://100seguro.com.ar/ia-analitica-de-datos-y-sensores-en-tiempo-real-reducen-fallas-y-cortes-en-servicios-basicos-en-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/IA-analitica-de-datos-y-sensores-en-tiempo-real-reducen-fallas-y-cortes-en-servicios-basicos-grafico.png"
-    },
-    {
-      "titulo": "¿Es prudente anunciar públicamente reformas a las leyes del seguro sin conocer los textos y sin debate sobre su oportunidad y conveniencia?",
-      "resumen": "El abogado especialista en derecho de seguros reflexiona sobre la conveniencia de impulsar una reforma integral del marco normativo del seguro argentino sin que los proyectos hayan sido dados a conocer ni sometidos al…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-12",
-      "url": "https://100seguro.com.ar/es-prudente-anunciar-publicamente-reformas-a-las-leyes-del-seguro-sin-conocer-los-textos-y-sin-debate-sobre-su-oportunidad-y-conveniencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Telemática, seguros por uso e inteligencia artificial, tres ejes que prometen transformar la movilidad",
-      "resumen": "ENTREVISTA 100% SEGURO.- La evolución tecnológica está modificando de manera acelerada la industria automotriz y, con ella, también la forma en que se conciben los seguros y los servicios asociados a la movilidad. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-12",
-      "url": "https://100seguro.com.ar/telematica-seguros-por-uso-e-inteligencia-artificial-tres-ejes-que-prometen-transformar-la-movilidad/",
       "imagen": ""
     }
   ]
