@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-08-15T06:18-03:00",
+  "actualizado": "2026-08-16T06:19-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "IA y productor de seguros: Bruzzese defiende el rol profesional",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gabriela Bruzzese, vicepresidenta de AAPAS y candidata a la presidencia, afirmó en Conexión Abierta que la inteligencia artificial complementa pero no reemplaza al…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-08-15",
+      "url": "https://mercadosyseguros.com/ia-y-productor-de-seguros-bruzzese-defiende-el-rol-profesional/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz: beneficio operativo récord de 9.400 M€ en 1S-2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz informó un beneficio operativo récord de 9.400 M€ en el 1S-2026, con volumen de negocio de 98.600 M€ y beneficio neto de 6.400 M€. El ratio de solvencia II…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-15",
+      "url": "https://mercadosyseguros.com/allianz-beneficio-operativo-record-de-9-400-me-en-1s-2026-2/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz: beneficio operativo récord de 9.400 M€ en 1S 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz obtuvo un beneficio operativo récord de 9.400 millones de euros en el primer semestre de 2026; el volumen de negocio fue de 98.600 millones y el beneficio…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-15",
+      "url": "https://mercadosyseguros.com/allianz-beneficio-operativo-record-de-9-400-me-en-1s-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Justicia desestima reclamo por robo de ruedas y absuelve a la aseguradora",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Juzgado Civil y Comercial N°6 de Mar del Plata rechazó un reclamo de 6.081.250 pesos por el supuesto robo de tres ruedas a un Renault Sandero II (2017) en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-15",
+      "url": "https://mercadosyseguros.com/justicia-desestima-reclamo-por-robo-de-ruedas-y-absuelve-a-la-aseguradora/",
+      "imagen": ""
+    },
     {
       "titulo": "AAPAS convoca a seminario sobre IA con el speaker Ismael Briasco",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS y MLA organizan el seminario \"El productor aumentado\" con Ismael Briasco el 26 de agosto a las 9:30 en Bolívar 332, CABA. La charla, gratuita, abordará cómo…",
@@ -156,15 +192,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Tecnología redefine el negocio asegurador, dice Gustavo Trías",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, afirmó en el Salesforce Insurance Day Buenos Aires que la tecnología —en especial la inteligencia artificial— está redefiniendo…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-13",
-      "url": "https://mercadosyseguros.com/tecnologia-redefine-el-negocio-asegurador-dice-gustavo-trias/",
-      "imagen": ""
-    },
-    {
       "titulo": "Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es controlar mejor”",
       "resumen": "La SSN estuvo presente en uno de los principales encuentros del sector asegurador argentino, que este año celebró sus 25 ediciones. La entrada Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es…",
       "fuente": "100% Seguro",
@@ -189,33 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-08-13",
       "url": "https://elseguroenaccion.com.ar/resol-2026-341-apn-ssnmec-impedimento-punto-9-rgaa-marcelo-rene-lohrmann/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-353-APN-SSN#MEC – N.S.A. SEGUROS GENERALES S.A. – AUTORIZACIÓN RAMA ACCIDENTES PERSONALES – SEGURO DE ACCIDENTES PERSONALES",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-353-apn-ssnmec-n-s-a-seguros-generales-s-a-autorizacion-rama-accidentes-personales-seguro-de-accidentes-personales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-354-APN-SSN#MEC – LOGRAR COMPAÑÍA DE SEGUROS DE PERSONAS S.A. AUTORIZACIÓN RAMA RESPONSABILIDAD CIVIL – SEGURO DE RESPONSABILIDAD CIVIL",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-354-apn-ssnmec-lograr-compania-de-seguros-de-personas-s-a-autorizacion-rama-responsabilidad-civil-seguro-de-responsabilidad-civil/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-355-APN-SSN#MEC – INSTITUTO AUTÁRQUICO PROVINCIAL DEL SEGURO – AUTORIZACIÓN RAMA SALUD – SEGURO DE SALUD",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-355-apn-ssnmec-instituto-autarquico-provincial-del-seguro-autorizacion-rama-salud-seguro-de-salud/",
       "imagen": ""
     }
   ]
