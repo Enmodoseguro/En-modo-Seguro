@@ -1,7 +1,97 @@
 {
-  "actualizado": "2026-08-17T06:33-03:00",
+  "actualizado": "2026-08-18T06:24-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Pagos en tiempo real: cómo la tecnología busca transformar la respuesta ante un siniestro",
+      "resumen": "COBERTURA 100% SEGURO.- La tecnología hoy tiene múltiples usos y, en el caso del mercado asegurador, algunas de ellas apuntan a dar respuesta a los puntos de dolor más sensibles de la operatoria de las aseguradoras. Sin…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-18",
+      "url": "https://100seguro.com.ar/pagos-en-tiempo-real-como-la-tecnologia-busca-transformar-la-respuesta-ante-un-siniestro/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2d0b2e41-4735-4ecb-a46d-bd6282f6a154-e1786642134926.jpeg"
+    },
+    {
+      "titulo": "La litigiosidad en Automotores sigue siendo uno de los mayores desafíos para el mercado asegurador",
+      "resumen": "La entrada La litigiosidad en Automotores sigue siendo uno de los mayores desafíos para el mercado asegurador se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://www.informeoperadores.com.ar/2026/08/17/la-litigiosidad-en-automotores-sigue-siendo-uno-de-los-mayores-desafios-para-el-mercado-asegurador/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Litigiosidad-1-scaled.jpg"
+    },
+    {
+      "titulo": "Boom de centros de datos IA presiona a aseguradoras P&C",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Eric Andersen, CEO de AIG, dijo el 14/4/2026 que el auge de centros de datos de IA exige coberturas de construcción, ciber, patrimonial y responsabilidad, y está…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://mercadosyseguros.com/boom-de-centros-de-datos-ia-presiona-a-aseguradoras-pc/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cómo aseguradoras convierten la IA en ganancias reales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Liberty Mutual atribuyó un alza del 42,8% en su resultado trimestral a la IA integrada; Manulife proyecta US$717 millones para 2027 tras eliminar 400.000 tareas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://mercadosyseguros.com/como-aseguradoras-convierten-la-ia-en-ganancias-reales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Riesgo climático en centros de datos: 80% ubicados en zonas vulnerables",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz advierte que 80% de los nuevos centros de datos se emplazan en zonas con mayor riesgo de catástrofes naturales. El informe destaca que incendios concentran el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://mercadosyseguros.com/riesgo-climatico-en-centros-de-datos-80-ubicados-en-zonas-vulnerables/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Póliza forestal de Galicia Seguros para proteger plantaciones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros presentó en la Campaña Agro 26/27 una póliza forestal para plantaciones comerciales que cubre incendios y usa imágenes satelitales y machine learning…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://mercadosyseguros.com/poliza-forestal-de-galicia-seguros-para-proteger-plantaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "17 de agosto: Día Mundial del Peatón, reglas a tener en cuenta para evaluar su conducta y eventual responsabilidad",
+      "resumen": "Cada 17 de agosto se conmemora el Día Mundial del Peatón, fecha establecida por la Organización Mundial de la Salud en memoria del primer atropellamiento mortal registrado en la historia, ocurrido en Londres en el año…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://elseguroenaccion.com.ar/17-de-agosto-dia-mundial-del-peaton/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“Hoy los clientes exigen contratos más inteligentes”",
+      "resumen": "La entrada “Hoy los clientes exigen contratos más inteligentes” se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://www.informeoperadores.com.ar/2026/08/17/hoy-los-clientes-exigen-contratos-mas-inteligentes/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-Apertura-1.jpg"
+    },
+    {
+      "titulo": "816",
+      "resumen": "La entrada 816 se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-17",
+      "url": "https://www.informeoperadores.com.ar/2026/08/17/816/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Tapa-816-R90.jpg"
+    },
+    {
+      "titulo": "Juan Gil Libarona: «La digitalización permite contratar seguros de forma simple y transparente»",
+      "resumen": "Las transformación digital y la experiencia del cliente marcan la tarea que Juan Gil Libarona viene desarrollando desde que está a cargo de la gerencia general de BBVA Seguros. La entrada Juan Gil Libarona: «La…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-08-17",
+      "url": "https://nbs.ar/juan-gil-libarona-la-digitalizacion-permite-contratar-seguros-de-forma-simple-y-transparente/",
+      "imagen": ""
+    },
     {
       "titulo": "Reto marrón: cientos de piscinas cerradas por deposiciones",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El \"reto marrón\" provocó el cierre de más de 300 piscinas municipales en 2025 y nuevos episodios en 2026 en localidades como Valencia, Lleida y Lugo; los protocolos…",
@@ -54,42 +144,6 @@
       "categoria": "Mercado",
       "fecha": "2026-08-15",
       "url": "https://mercadosyseguros.com/allianz-beneficio-operativo-record-de-9-400-me-en-1s-2026-2/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz: beneficio operativo récord de 9.400 M€ en 1S 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz obtuvo un beneficio operativo récord de 9.400 millones de euros en el primer semestre de 2026; el volumen de negocio fue de 98.600 millones y el beneficio…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-15",
-      "url": "https://mercadosyseguros.com/allianz-beneficio-operativo-record-de-9-400-me-en-1s-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Justicia desestima reclamo por robo de ruedas y absuelve a la aseguradora",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Juzgado Civil y Comercial N°6 de Mar del Plata rechazó un reclamo de 6.081.250 pesos por el supuesto robo de tres ruedas a un Renault Sandero II (2017) en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-15",
-      "url": "https://mercadosyseguros.com/justicia-desestima-reclamo-por-robo-de-ruedas-y-absuelve-a-la-aseguradora/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AAPAS convoca a seminario sobre IA con el speaker Ismael Briasco",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS y MLA organizan el seminario \"El productor aumentado\" con Ismael Briasco el 26 de agosto a las 9:30 en Bolívar 332, CABA. La charla, gratuita, abordará cómo…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://mercadosyseguros.com/aapas-convoca-a-seminario-sobre-ia-con-el-speaker-ismael-briasco/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lograr Seguros autorizada para responsabilidad civil",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN autorizó a Lograr Compañía de Seguros de Personas a operar en responsabilidad civil mediante la resolución 354/2026 publicada el 14 de agosto de 2026. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-08-14",
-      "url": "https://mercadosyseguros.com/lograr-seguros-autorizada-para-responsabilidad-civil/",
       "imagen": ""
     },
     {
@@ -162,60 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-08-14",
       "url": "https://100seguro.com.ar/te-vas-el-fin-de-semana-que-tener-en-cuenta-si-el-auto-queda-varios-dias-estacionado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Guillermo Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es controlar mejor”",
-      "resumen": "La SSN estuvo presente en uno de los principales encuentros del sector asegurador argentino, que este año celebró sus 25 ediciones. El 13 de agosto se llevó a cabo Expoestrategas 2026 en la Ciudad de Buenos Aires. La…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-14",
-      "url": "https://elseguroenaccion.com.ar/guillermo-plate-en-expoestrategas-2026-desregular-no-es-dejar-de-controlar-es-controlar-mejor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia y UBA lanzan nuevas Becas +Futuro para apoyar a 1.500 estudiantes del CBC",
-      "resumen": "La colaboración entre Banco Galicia y la Universidad de Buenos Aires (UBA) se reafirma con el lanzamiento de una nueva edición de las Becas +Futuro, una iniciativa que tiene como objetivo apoyar a estudiantes del Ciclo…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://nbs.ar/galicia-y-uba-lanzan-nuevas-becas-futuro-para-apoyar-a-1-500-estudiantes-del-cbc/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los bancos lanzan propuestas para bajar la morosidad",
-      "resumen": "Con una morosidad de los hogares que alcanzó el 13%, las entidades financieras comenzaron a desplegar programas para extender plazos, reducir tasas y consolidar deudas, en un intento por contener el deterioro de la…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://nbs.ar/los-bancos-lanzan-propuestas-para-bajar-la-morosidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es controlar mejor”",
-      "resumen": "La SSN estuvo presente en uno de los principales encuentros del sector asegurador argentino, que este año celebró sus 25 ediciones. La entrada Plate en Expoestrategas 2026: “Desregular no es dejar de controlar, es…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://100seguro.com.ar/plate-en-expoestrategas-2026-desregular-no-es-dejar-de-controlar-es-controlar-mejor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros lanza su póliza forestal, una solución innovadora para proteger plantaciones forestales ante incendios",
-      "resumen": "En el marco de su Campaña Agro 26/27, Galicia Seguros presenta su nueva póliza forestal, una solución innovadora diseñada para proteger plantaciones forestales comerciales frente al riesgo de incendios. Con este…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-13",
-      "url": "https://100seguro.com.ar/galicia-seguros-lanza-su-poliza-forestal-una-solucion-innovadora-para-proteger-plantaciones-forestales-ante-incendios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-341-APN-SSN#MEC – IMPEDIMENTO PUNTO 9 RGAA – MARCELO RENE LOHRMANN",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-13",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-341-apn-ssnmec-impedimento-punto-9-rgaa-marcelo-rene-lohrmann/",
       "imagen": ""
     }
   ]
