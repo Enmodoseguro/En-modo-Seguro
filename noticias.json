@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-08-18T06:24-03:00",
+  "actualizado": "2026-08-19T06:25-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "“Las aseguradoras están armando arquitecturas de agentes de IA para prestar servicios al resto de la organización”",
+      "resumen": "COBERTURA 100% SEGURO.- En el marco de Evolución Insurtech Latam (EILA 26), organizado por InsurteChile en Santiago de Chile, dialogamos con dos ejecutivos de bdt global, empresa tecnológica especializada en soluciones…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/las-aseguradoras-estan-armando-arquitecturas-de-agentes-de-ia-para-prestar-servicios-al-resto-de-la-organizacion/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/El-equipo-de-bdt-global-en-EILA-2026-Nicolas-Rennis-Pablo-Amabile-Jefe-de-Desarrollo-y-Federico-Sardi.jpeg"
+    },
+    {
+      "titulo": "La Segunda acelera su transformación tecnológica: “Estamos modernizando el core y robusteciendo la arquitectura para potenciar la IA”",
+      "resumen": "COBERTURA 100% SEGURO.- El pasado 13 de agosto, en el marco de la segunda y última jornada de Evolución Insurtech Latam 2026 (EILA 26), evento organizado por InsurteChile en la capital chilena, Martín Moser, Gerente…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/la-segunda-acelera-su-transformacion-tecnologica-estamos-modernizando-el-core-y-robusteciendo-la-arquitectura-para-potenciar-la-ia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/El-equipo-de-La-Segunda-Seguros-en-EILA-2026.jpeg"
+    },
+    {
+      "titulo": "Vehículos autónomos: un proyecto de ley busca crear un nuevo marco para los seguros, la responsabilidad y el reaseguro",
+      "resumen": "La iniciativa fue presentada por diputados del PRO y propone adecuar la legislación argentina al avance de la conducción automatizada. El proyecto plantea modificar la Ley de Seguros 17.418 para diferenciar los riesgos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/vehiculos-autonomos-un-proyecto-de-ley-busca-crear-un-nuevo-marco-para-los-seguros-la-responsabilidad-y-el-reaseguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gemelos de mercado: la nueva capa de inteligencia en seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Finsago propuso el 30/07/2026 los \"gemelos de mercado\": modelos que replican la lógica de precios y comportamiento competitivo en seguros. Permiten simular cambios…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://mercadosyseguros.com/gemelos-de-mercado-la-nueva-capa-de-inteligencia-en-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Demanda de crédito privado crece y se vuelve más selectiva",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Marsh informó que el 57% de las aseguradoras planea aumentar su exposición al crédito privado en 12-24 meses, con preferencia por segmentos de grado de inversión; la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://mercadosyseguros.com/demanda-de-credito-privado-crece-y-se-vuelve-mas-selectiva/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Galicia Seguros lanza plataforma para gestionar certificados de transporte",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros presentó una plataforma digital, desarrollada con Vais Tech, para gestionar certificados de transporte en pólizas anuales con declaración mensual y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-08-18",
+      "url": "https://mercadosyseguros.com/galicia-seguros-lanza-plataforma-para-gestionar-certificados-de-transporte/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mapfre acompaña la emoción de los octavos de final de la CONMEBOL Libertadores",
+      "resumen": "La competición más importante de clubes de Latinoamérica, de la que Mapfre es patrocinador oficial, vive días de máxima intensidad con los octavos de final en pleno desarrollo. Los 16 equipos que consiguieron avanzar…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://100seguro.com.ar/mapfre-acompana-la-emocion-de-los-octavos-de-final-de-la-conmebol-libertadores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo San Cristóbal participó de la mayor cumbre regional de comercio exterior",
+      "resumen": "La compañía fue Main Sponsor de la segunda edición de COMEX Norpatagónica donde compartió su visión sobre la gestión de riesgos en el comercio exterior ante los desafíos que atraviesan las empresas en un contexto de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://100seguro.com.ar/grupo-san-cristobal-participo-de-la-mayor-cumbre-regional-de-comercio-exterior/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Federico-Talin-y-Juan-Jose-Campos-GSC.jpg"
+    },
     {
       "titulo": "Pagos en tiempo real: cómo la tecnología busca transformar la respuesta ante un siniestro",
       "resumen": "COBERTURA 100% SEGURO.- La tecnología hoy tiene múltiples usos y, en el caso del mercado asegurador, algunas de ellas apuntan a dar respuesta a los puntos de dolor más sensibles de la operatoria de las aseguradoras. Sin…",
@@ -10,6 +82,60 @@
       "fecha": "2026-08-18",
       "url": "https://100seguro.com.ar/pagos-en-tiempo-real-como-la-tecnologia-busca-transformar-la-respuesta-ante-un-siniestro/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2d0b2e41-4735-4ecb-a46d-bd6282f6a154-e1786642134926.jpeg"
+    },
+    {
+      "titulo": "Los motores del crecimiento y el futuro del seguro",
+      "resumen": "Entrevista exclusiva con Guillermo Pastore, Chairman de Special División Reinsurance Brokers, sobre el presente y futuro del seguro y el reaseguro en Argentina. MIRÁ EL PROGRAMA AQUÍ: https://youtu.be/1ymm6eAFrpM En…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://elseguroenaccion.com.ar/los-motores-del-crecimiento-y-el-futuro-del-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La fiesta escolar terminó en condena",
+      "resumen": "Se confirmó la responsabilidad de un colegio por las lesiones sufridas por un niño de cinco años que cayó de un inflable durante una peña organizada por la institución. El hecho ocurrió un sábado, pero la Cámara Civil…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://elseguroenaccion.com.ar/la-fiesta-escolar-termino-en-condena/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hicieron balance del primer semestre y trazaron agenda para la segunda mitad del año",
+      "resumen": "Las comisiones de AAPAS Con una nueva metodología de trabajo, implementada a partir de julio, las trece comisiones de AAPAS compartieron avances, proyectos y próximos objetivos. Los encuentros permitieron poner en común…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://elseguroenaccion.com.ar/hicieron-balance-del-primer-semestre-y-trazaron-agenda-para-la-segunda-mitad-del-ano/",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Te vas el fin de semana? Qué tener en cuenta si el auto queda varios días estacionado",
+      "resumen": "El auto no siempre es la opción elegida para viajar. En trayectos cortos, muchas familias prefieren el micro para llegar a destino y después recorrer a pie, ya sea para no manejar durante sus vacaciones o simplemente…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://www.informeoperadores.com.ar/2026/08/18/te-vas-el-fin-de-semana-que-tener-en-cuenta-si-el-auto-queda-varios-dias-estacionado/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Alerta-Fin-de-Semana-Largo-Ituran-600x400.jpg"
+    },
+    {
+      "titulo": "Día de las Infancias: cómo transformar el hogar en un entorno seguro para explorar, crear y crecer sin riesgos",
+      "resumen": "Hacer de la casa un espacio protegido no solo evita los accidentes domésticos más frecuentes, sino que brinda a los más chicos la libertad necesaria para desplegar su imaginación con tranquilidad. El hogar es el…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://www.informeoperadores.com.ar/2026/08/18/dia-de-las-infancias-como-transformar-el-hogar-en-un-entorno-seguro-para-explorar-crear-y-crecer-sin-riesgos/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/entorno-seguro-600x400.jpg"
+    },
+    {
+      "titulo": "Antes de llevar a tus hijos al colegio: siete hábitos clave para que la rutina no se convierta en un riesgo al volante",
+      "resumen": "Especialistas advierten que el mayor enemigo de quienes trasladan a los chicos no siempre es la velocidad o el desconocimiento de las normas, sino un fenómeno mucho más silencioso: la confianza que genera hacer el mismo…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-18",
+      "url": "https://www.informeoperadores.com.ar/2026/08/18/antes-de-llevar-a-tus-hijos-al-colegio-siete-habitos-clave-para-que-la-rutina-no-se-convierta-en-un-riesgo-al-volante/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2024/11/ATM-Seguros-logo-0-bis-600x400.png"
     },
     {
       "titulo": "La litigiosidad en Automotores sigue siendo uno de los mayores desafíos para el mercado asegurador",
@@ -21,30 +147,21 @@
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Litigiosidad-1-scaled.jpg"
     },
     {
-      "titulo": "Boom de centros de datos IA presiona a aseguradoras P&C",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Eric Andersen, CEO de AIG, dijo el 14/4/2026 que el auge de centros de datos de IA exige coberturas de construcción, ciber, patrimonial y responsabilidad, y está…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Impacto del Mecanismo de Ajuste en Frontera por Carbono en Exportadores y el Medio Ambiente",
+      "resumen": "El Mecanismo de Ajuste en Frontera por Carbono (CBAM) de la Unión Europea es una iniciativa clave que busca equilibrar la competitividad de la industria europea con la necesidad de reducir las emisiones de gases de…",
+      "fuente": "NBS",
       "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://mercadosyseguros.com/boom-de-centros-de-datos-ia-presiona-a-aseguradoras-pc/",
+      "fecha": "2026-08-18",
+      "url": "https://nbs.ar/impacto-del-mecanismo-de-ajuste-en-frontera-por-carbono-en-exportadores-y-el-medio-ambiente/",
       "imagen": ""
     },
     {
-      "titulo": "Cómo aseguradoras convierten la IA en ganancias reales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Liberty Mutual atribuyó un alza del 42,8% en su resultado trimestral a la IA integrada; Manulife proyecta US$717 millones para 2027 tras eliminar 400.000 tareas…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Mapfre vive la emoción de los octavos de final de la CONMEBOL Libertadores junto a los aficionados",
+      "resumen": "La CONMEBOL Libertadores, el torneo más prestigioso de clubes en América del Sur, se encuentra en su fase de octavos de final, generando una intensa expectación entre los aficionados. Mapfre, como patrocinador oficial…",
+      "fuente": "NBS",
       "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://mercadosyseguros.com/como-aseguradoras-convierten-la-ia-en-ganancias-reales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Riesgo climático en centros de datos: 80% ubicados en zonas vulnerables",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz advierte que 80% de los nuevos centros de datos se emplazan en zonas con mayor riesgo de catástrofes naturales. El informe destaca que incendios concentran el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://mercadosyseguros.com/riesgo-climatico-en-centros-de-datos-80-ubicados-en-zonas-vulnerables/",
+      "fecha": "2026-08-18",
+      "url": "https://nbs.ar/mapfre-vive-la-emocion-de-los-octavos-de-final-de-la-conmebol-libertadores-junto-a-los-aficionados/",
       "imagen": ""
     },
     {
@@ -99,123 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-08-16",
       "url": "https://mercadosyseguros.com/reto-marron-cientos-de-piscinas-cerradas-por-deposiciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Experiencia del cliente en seguros: poner al asegurado en el centro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Virginia Alarcia (AALPS) y Cristina Miglio (DEC; Programa CX, Universidad Di Tella) explican cómo centrar al asegurado en la valuación de riesgos y la liquidación de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-16",
-      "url": "https://mercadosyseguros.com/experiencia-del-cliente-en-seguros-poner-al-asegurado-en-el-centro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SanCor Salud donó $20.000.000 a UNICEF en la octava edición de #ayuDAR",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com SanCor Salud y sus asociados donaron $20.000.000 a UNICEF Argentina en la octava edición de la campaña #ayuDAR, presentada en “Un Sol para los Chicos”. El aporte…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-16",
-      "url": "https://mercadosyseguros.com/sancor-salud-dono-20-000-000-a-unicef-en-la-octava-edicion-de-ayudar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro por día para eventos: BIND Seguros y Mecubro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com BIND Seguros y la insurtech Mecubro lanzaron un seguro de Responsabilidad Civil para stands y organizadores que se contrata 100% online, se emite en minutos y puede…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-16",
-      "url": "https://mercadosyseguros.com/seguro-por-dia-para-eventos-bind-seguros-y-mecubro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y productor de seguros: Bruzzese defiende el rol profesional",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gabriela Bruzzese, vicepresidenta de AAPAS y candidata a la presidencia, afirmó en Conexión Abierta que la inteligencia artificial complementa pero no reemplaza al…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-15",
-      "url": "https://mercadosyseguros.com/ia-y-productor-de-seguros-bruzzese-defiende-el-rol-profesional/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz: beneficio operativo récord de 9.400 M€ en 1S-2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz informó un beneficio operativo récord de 9.400 M€ en el 1S-2026, con volumen de negocio de 98.600 M€ y beneficio neto de 6.400 M€. El ratio de solvencia II…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-15",
-      "url": "https://mercadosyseguros.com/allianz-beneficio-operativo-record-de-9-400-me-en-1s-2026-2/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De cadete en seguros a Country Head de Aon Argentina: la palabra autorizada de Maximiliano Bona",
-      "resumen": "En un nuevo programa de 100% SEGURO, contamos con una de las voces más relevantes del mercado corporativo de seguros: Maximiliano Bona, Country Head de Aon Argentina. Abogado de formación, con más de 30 años de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/de-cadete-en-seguros-a-country-head-de-aon-argentina-la-palabra-autorizada-de-maximiliano-bona/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS: más de 20 años construyendo una gestión sustentable",
-      "resumen": "Desde su nacimiento en 1958, Río Uruguay Seguros (RUS) construyó su identidad sobre los valores del cooperativismo, la ayuda mutua, la equidad, la responsabilidad y la participación democrática. Esta identidad se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/rus-mas-de-20-anos-construyendo-una-gestion-sustentable/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Strix suma tres nuevas soluciones para el control y la prevención en la gestión de flotas empresariales",
-      "resumen": "Se trata de una nueva generación de servicios vinculados al monitoreo inteligente con cámaras, conductas de manejo y GPS autoinstalable para flotas. Estas soluciones responden a la creciente necesidad de control y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/strix-suma-tres-nuevas-soluciones-para-el-control-y-la-prevencion-en-la-gestion-de-flotas-empresariales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "EILA 2026: “El fin de la brecha de protección lo podemos construir entre todos”",
-      "resumen": "COBERTURA 100% SEGURO.- Evolución Insurtech Latam 2026 (EILA 26) se desarrolló el 12 y 13 de agosto en Santiago de Chile, organizado por InsurteChile, como un punto de encuentro regional para analizar las…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/eila-2026-el-fin-de-la-brecha-de-proteccion-lo-podemos-construir-entre-todos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/EILA-2026-Rodrigo-Labbe-FOME.jpeg"
-    },
-    {
-      "titulo": "AVIRA cerró la convocatoria de la 12ª edición del Concurso de Creatividad “Generando Conciencia Aseguradora” con una participación récord",
-      "resumen": "Se recibieron 679 trabajos provenientes de estudiantes y jóvenes creativos de todo el país. Por primera vez, el certamen incorporó la categoría Advergaming, ampliando el desafío de comunicar el valor de los Seguros de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/avira-cerro-la-convocatoria-de-la-12a-edicion-del-concurso-de-creatividad-generando-conciencia-aseguradora-con-una-participacion-record/",
-      "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a8.png"
-    },
-    {
-      "titulo": "El BCRA habilitó el acceso al mercado cambiario para aseguradoras de proyectos del RIGI",
-      "resumen": "COMUNICACIÓN BCRA “A” 8464.- El Banco Central de la República Argentina (BCRA) habilitó a las aseguradoras locales que brindan cobertura a proyectos incluidos en el Régimen de Incentivo a las Grandes Inversiones (RIGI)…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/el-bcra-habilito-el-acceso-al-mercado-cambiario-para-aseguradoras-de-proyectos-del-rigi/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros celebró los 25 años de Expoestrategas con foco en el crecimiento del canal PAS",
-      "resumen": "CNP Seguros participó de una nueva edición de Expoestrategas, el principal encuentro de la industria aseguradora, acompañando la celebración por los 25 años del evento y reafirmando su compromiso con el desarrollo de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/cnp-seguros-celebro-los-25-anos-de-expoestrategas-con-foco-en-el-crecimiento-del-canal-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Te vas el fin de semana? Qué tener en cuenta si el auto queda varios días estacionado",
-      "resumen": "El auto no siempre es la opción elegida para viajar. En trayectos cortos, muchas familias prefieren el micro para llegar a destino y después recorrer a pie, ya sea para no manejar durante sus vacaciones o simplemente…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-14",
-      "url": "https://100seguro.com.ar/te-vas-el-fin-de-semana-que-tener-en-cuenta-si-el-auto-queda-varios-dias-estacionado/",
       "imagen": ""
     }
   ]
