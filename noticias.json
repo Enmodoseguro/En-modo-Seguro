@@ -1,7 +1,97 @@
 {
-  "actualizado": "2026-08-19T06:25-03:00",
+  "actualizado": "2026-08-20T06:25-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "DeepSeek Harness: runtime de agentes todo plugin",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com DeepSeek lanzó el 13/08/2026 DeepSeek Harness, un runtime de agentes en Node.js bajo MIT donde cada componente es un plugin intercambiable. Sumó más de 33.000…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://mercadosyseguros.com/deepseek-harness-runtime-de-agentes-todo-plugin/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Computer History en ChatGPT para Mac: qué registra y cómo activarla",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com OpenAI presentó Computer History el 13/08/2026: una función opt-in en la app de ChatGPT para Mac que registra clicks, tecleo, atajos y cambios entre apps, guarda…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://mercadosyseguros.com/computer-history-en-chatgpt-para-mac-que-registra-y-como-activarla/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ChatGPT Desktop para Linux: qué incluye y qué falta",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com OpenAI publicó el 11/08/2026 la preview de ChatGPT Desktop para Linux, disponible en .deb/.rpm para Ubuntu 24.04/26.04, Debian 13 y Fedora 43/44; incluye ChatGPT,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://mercadosyseguros.com/chatgpt-desktop-para-linux-que-incluye-y-que-falta/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de trazas de razonamiento en LLM: 315.320 bloques descifrados",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Investigadores publicaron el 11/08/2026 un método que permitió descifrar 315.320 bloques de trazas de razonamiento de Anthropic, OpenAI y Google; se extrajeron 367…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://mercadosyseguros.com/robo-de-trazas-de-razonamiento-en-llm-315-320-bloques-descifrados/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate en el Forbes Insurance Summit: “El seguro en Argentina tiene un enorme potencial de crecimiento”",
+      "resumen": "El Superintendente analizó la transformación del mercado, las medidas impulsadas por la SSN y los desafíos de la industria. La entrada Plate en el Forbes Insurance Summit: “El seguro en Argentina tiene un enorme…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/plate-en-el-forbes-insurance-summit-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FARO XXI reunió en Chile a los líderes del seguro en Latinoamérica para trazar la hoja de ruta de la industria",
+      "resumen": "En un encuentro privado y a puertas cerradas, CEOs y decisores de aseguradoras, reaseguradoras, insurtechs, asociaciones, compañías de asistencias, intermediarios y asociaciones convergieron para convertir los desafíos…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/faro-xxi-reunio-en-chile-a-los-lideres-del-seguro-en-latinoamerica-para-trazar-la-hoja-de-ruta-de-la-industria/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/FARO-XXI-17870735839.jpeg"
+    },
+    {
+      "titulo": "El fraude de seguros se bifurca: alto volumen y alta sofisticación avanzan en paralelo, revela nuevo informe global de FRISS",
+      "resumen": "Sólo el 9% de las aseguradoras tiene sistemas de IA completamente implementados, mientras el 78% espera que la IA agentica impacte el fraude dentro de los próximos dos años. La entrada El fraude de seguros se bifurca:…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/el-fraude-de-seguros-se-bifurca-alto-volumen-y-alta-sofisticacion-avanzan-en-paralelo-revela-nuevo-informe-global-de-friss/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Ivan-Ballon-FRISS.jpg"
+    },
+    {
+      "titulo": "La IA desafía al mercado asegurador",
+      "resumen": "Llevar la inteligencia artificial a producción, transformar procesos, preparar arquitecturas tecnológicas más flexibles y gestionar nuevos riesgos aparecen entre los principales desafíos para la industria aseguradora,…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/la-ia-desafia-al-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguridad psicológica: por qué las empresas empiezan a entender que la confianza también impacta en el negocio",
+      "resumen": "Cada vez más compañías entienden que la posibilidad de expresar ideas, cuestionar decisiones, pedir ayuda o reconocer errores sin temor a represalias no solo mejora la experiencia de las personas, sino que también…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/seguridad-psicologica-por-que-las-empresas-empiezan-a-entender-que-la-confianza-tambien-impacta-en-el-negocio/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Flux-IT-seguridad-psico.jpg"
+    },
+    {
+      "titulo": "Seguros paramétricos: ¿el futuro del mercado asegurador o una herramienta complementaria?",
+      "resumen": "Los peritos liquidadores de siniestros de IBA Latinoamérica analizan el avance de los seguros paramétricos y su potencial para transformar la industria, especialmente frente a riesgos climáticos y otros eventos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://100seguro.com.ar/seguros-parametricos-el-futuro-del-mercado-asegurador-o-una-herramienta-complementaria/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Seguros-parametricos-el-futuro-o-complemento.png"
+    },
     {
       "titulo": "“Las aseguradoras están armando arquitecturas de agentes de IA para prestar servicios al resto de la organización”",
       "resumen": "COBERTURA 100% SEGURO.- En el marco de Evolución Insurtech Latam (EILA 26), organizado por InsurteChile en Santiago de Chile, dialogamos con dos ejecutivos de bdt global, empresa tecnológica especializada en soluciones…",
@@ -27,6 +117,42 @@
       "categoria": "Mercado",
       "fecha": "2026-08-19",
       "url": "https://100seguro.com.ar/vehiculos-autonomos-un-proyecto-de-ley-busca-crear-un-nuevo-marco-para-los-seguros-la-responsabilidad-y-el-reaseguro/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Diputados-PRO.jpg"
+    },
+    {
+      "titulo": "«La revolución del seguro tiene que hacerse con los PAS sentados en la mesa de discusión»",
+      "resumen": "El vicepresidente de FAPASA, Juan Ignacio Luco, participó del panel «Asesores de Seguros» en Expoestrategas, donde reclamó un lugar protagónico para los Productores Asesores en la transformación del mercado. En su…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://elseguroenaccion.com.ar/la-revolucion-del-seguro-tiene-que-hacerse-con-los-pas-sentados-en-la-mesa-de-discusion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Abre su nueva sede en Tortugas, un restaurante cubierto emplazado sobre una hectárea de campo donde redoblan la propuesta de “vacaciones todo el año”",
+      "resumen": "La entrada Abre su nueva sede en Tortugas, un restaurante cubierto emplazado sobre una hectárea de campo donde redoblan la propuesta de “vacaciones todo el año” se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://www.informeoperadores.com.ar/2026/08/19/abre-su-nueva-sede-en-tortugas-un-restaurante-cubierto-emplazado-sobre-una-hectarea-de-campo-donde-redoblan-la-propuesta-de-vacaciones-todo-el-ano/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ficha-816.jpg"
+    },
+    {
+      "titulo": "Cynthia Ronchi: “Somos una compañía internacional con gestión local”",
+      "resumen": "Cynthia Ronchi lidera desde hace casi dos años una estrategia orientada a fortalecer el posicionamiento de Meridional Seguros y consolidar nuevos canales de comercialización. La entrada Cynthia Ronchi: “Somos una…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-19",
+      "url": "https://nbs.ar/cynthia-ronchi-somos-una-compania-internacional-con-gestion-local/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La industria financiera impulsa la colaboración entre humanos y la IA agéntica para un futuro innovador",
+      "resumen": "En un contexto donde las tecnologías emergentes transforman la forma en que las organizaciones operan, la industria financiera está liderando el camino en la implementación de inteligencia artificial (IA) agéntica. Este…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-08-19",
+      "url": "https://nbs.ar/la-industria-financiera-impulsa-la-colaboracion-entre-humanos-y-la-ia-agentica-para-un-futuro-innovador/",
       "imagen": ""
     },
     {
@@ -66,24 +192,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Grupo San Cristóbal participó de la mayor cumbre regional de comercio exterior",
-      "resumen": "La compañía fue Main Sponsor de la segunda edición de COMEX Norpatagónica donde compartió su visión sobre la gestión de riesgos en el comercio exterior ante los desafíos que atraviesan las empresas en un contexto de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://100seguro.com.ar/grupo-san-cristobal-participo-de-la-mayor-cumbre-regional-de-comercio-exterior/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Federico-Talin-y-Juan-Jose-Campos-GSC.jpg"
-    },
-    {
-      "titulo": "Pagos en tiempo real: cómo la tecnología busca transformar la respuesta ante un siniestro",
-      "resumen": "COBERTURA 100% SEGURO.- La tecnología hoy tiene múltiples usos y, en el caso del mercado asegurador, algunas de ellas apuntan a dar respuesta a los puntos de dolor más sensibles de la operatoria de las aseguradoras. Sin…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-18",
-      "url": "https://100seguro.com.ar/pagos-en-tiempo-real-como-la-tecnologia-busca-transformar-la-respuesta-ante-un-siniestro/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/2d0b2e41-4735-4ecb-a46d-bd6282f6a154-e1786642134926.jpeg"
-    },
-    {
       "titulo": "Los motores del crecimiento y el futuro del seguro",
       "resumen": "Entrevista exclusiva con Guillermo Pastore, Chairman de Special División Reinsurance Brokers, sobre el presente y futuro del seguro y el reaseguro en Argentina. MIRÁ EL PROGRAMA AQUÍ: https://youtu.be/1ymm6eAFrpM En…",
       "fuente": "El Seguro en Acción",
@@ -108,114 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-08-18",
       "url": "https://elseguroenaccion.com.ar/hicieron-balance-del-primer-semestre-y-trazaron-agenda-para-la-segunda-mitad-del-ano/",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Te vas el fin de semana? Qué tener en cuenta si el auto queda varios días estacionado",
-      "resumen": "El auto no siempre es la opción elegida para viajar. En trayectos cortos, muchas familias prefieren el micro para llegar a destino y después recorrer a pie, ya sea para no manejar durante sus vacaciones o simplemente…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://www.informeoperadores.com.ar/2026/08/18/te-vas-el-fin-de-semana-que-tener-en-cuenta-si-el-auto-queda-varios-dias-estacionado/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Alerta-Fin-de-Semana-Largo-Ituran-600x400.jpg"
-    },
-    {
-      "titulo": "Día de las Infancias: cómo transformar el hogar en un entorno seguro para explorar, crear y crecer sin riesgos",
-      "resumen": "Hacer de la casa un espacio protegido no solo evita los accidentes domésticos más frecuentes, sino que brinda a los más chicos la libertad necesaria para desplegar su imaginación con tranquilidad. El hogar es el…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://www.informeoperadores.com.ar/2026/08/18/dia-de-las-infancias-como-transformar-el-hogar-en-un-entorno-seguro-para-explorar-crear-y-crecer-sin-riesgos/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/entorno-seguro-600x400.jpg"
-    },
-    {
-      "titulo": "Antes de llevar a tus hijos al colegio: siete hábitos clave para que la rutina no se convierta en un riesgo al volante",
-      "resumen": "Especialistas advierten que el mayor enemigo de quienes trasladan a los chicos no siempre es la velocidad o el desconocimiento de las normas, sino un fenómeno mucho más silencioso: la confianza que genera hacer el mismo…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://www.informeoperadores.com.ar/2026/08/18/antes-de-llevar-a-tus-hijos-al-colegio-siete-habitos-clave-para-que-la-rutina-no-se-convierta-en-un-riesgo-al-volante/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2024/11/ATM-Seguros-logo-0-bis-600x400.png"
-    },
-    {
-      "titulo": "La litigiosidad en Automotores sigue siendo uno de los mayores desafíos para el mercado asegurador",
-      "resumen": "La entrada La litigiosidad en Automotores sigue siendo uno de los mayores desafíos para el mercado asegurador se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://www.informeoperadores.com.ar/2026/08/17/la-litigiosidad-en-automotores-sigue-siendo-uno-de-los-mayores-desafios-para-el-mercado-asegurador/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Litigiosidad-1-scaled.jpg"
-    },
-    {
-      "titulo": "Impacto del Mecanismo de Ajuste en Frontera por Carbono en Exportadores y el Medio Ambiente",
-      "resumen": "El Mecanismo de Ajuste en Frontera por Carbono (CBAM) de la Unión Europea es una iniciativa clave que busca equilibrar la competitividad de la industria europea con la necesidad de reducir las emisiones de gases de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://nbs.ar/impacto-del-mecanismo-de-ajuste-en-frontera-por-carbono-en-exportadores-y-el-medio-ambiente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre vive la emoción de los octavos de final de la CONMEBOL Libertadores junto a los aficionados",
-      "resumen": "La CONMEBOL Libertadores, el torneo más prestigioso de clubes en América del Sur, se encuentra en su fase de octavos de final, generando una intensa expectación entre los aficionados. Mapfre, como patrocinador oficial…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://nbs.ar/mapfre-vive-la-emocion-de-los-octavos-de-final-de-la-conmebol-libertadores-junto-a-los-aficionados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Póliza forestal de Galicia Seguros para proteger plantaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros presentó en la Campaña Agro 26/27 una póliza forestal para plantaciones comerciales que cubre incendios y usa imágenes satelitales y machine learning…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://mercadosyseguros.com/poliza-forestal-de-galicia-seguros-para-proteger-plantaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "17 de agosto: Día Mundial del Peatón, reglas a tener en cuenta para evaluar su conducta y eventual responsabilidad",
-      "resumen": "Cada 17 de agosto se conmemora el Día Mundial del Peatón, fecha establecida por la Organización Mundial de la Salud en memoria del primer atropellamiento mortal registrado en la historia, ocurrido en Londres en el año…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://elseguroenaccion.com.ar/17-de-agosto-dia-mundial-del-peaton/",
-      "imagen": ""
-    },
-    {
-      "titulo": "“Hoy los clientes exigen contratos más inteligentes”",
-      "resumen": "La entrada “Hoy los clientes exigen contratos más inteligentes” se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://www.informeoperadores.com.ar/2026/08/17/hoy-los-clientes-exigen-contratos-mas-inteligentes/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/01-Apertura-1.jpg"
-    },
-    {
-      "titulo": "816",
-      "resumen": "La entrada 816 se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-17",
-      "url": "https://www.informeoperadores.com.ar/2026/08/17/816/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Tapa-816-R90.jpg"
-    },
-    {
-      "titulo": "Juan Gil Libarona: «La digitalización permite contratar seguros de forma simple y transparente»",
-      "resumen": "Las transformación digital y la experiencia del cliente marcan la tarea que Juan Gil Libarona viene desarrollando desde que está a cargo de la gerencia general de BBVA Seguros. La entrada Juan Gil Libarona: «La…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-08-17",
-      "url": "https://nbs.ar/juan-gil-libarona-la-digitalizacion-permite-contratar-seguros-de-forma-simple-y-transparente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reto marrón: cientos de piscinas cerradas por deposiciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El \"reto marrón\" provocó el cierre de más de 300 piscinas municipales en 2025 y nuevos episodios en 2026 en localidades como Valencia, Lleida y Lugo; los protocolos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-16",
-      "url": "https://mercadosyseguros.com/reto-marron-cientos-de-piscinas-cerradas-por-deposiciones/",
       "imagen": ""
     }
   ]
