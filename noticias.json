@@ -1,7 +1,178 @@
 {
-  "actualizado": "2026-08-20T06:25-03:00",
+  "actualizado": "2026-08-21T06:28-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "CIDeS, dos años después: ¿qué cambió realmente en el mercado asegurador argentino?",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A más de dos años de su creación, CIDeS renovó autoridades. Qué prometió el think tank del seguro argentino y qué resultados concretos puede mostrar. La entrada…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://mercadosyseguros.com/cides-dos-anos-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "GLM avanza en la evolución de su sistema GLMSUIT: nuevos casos de uso con IA para seguros",
+      "resumen": "Grupo Linari Micheletti (GLM) está avanzando en una nueva etapa de evolución del sistema GLMSUIT, incorporando capacidades de Inteligencia Artificial (IA) orientadas a automatizar procesos, facilitar el acceso a la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-20",
+      "url": "https://100seguro.com.ar/glm-avanza-en-la-evolucion-de-su-sistema-glmsuit-nuevos-casos-de-uso-con-ia-para-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“Hoy la tecnología está al alcance de todos y hace que el fraude se vuelva cada vez más sofisticado”",
+      "resumen": "COBERTURA 100% SEGURO.- En el marco de Evolución Insurtech Latam 2026 (EILA 26), organizado por InsurteChile los días 12 y 13 de agosto en Santiago de Chile, entrevistamos al argentino Esteban Izarra, CEO de LISA…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-20",
+      "url": "https://100seguro.com.ar/hoy-la-tecnologia-esta-al-alcance-de-todos-y-hace-que-el-fraude-se-vuelva-cada-vez-mas-sofisticado/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Esteban-Izarra-CEO-de-LISA-Insurtech-junto-a-Loreto-Hernandez-COO.jpeg"
+    },
+    {
+      "titulo": "La Segunda Seguros desembarcó en Expoestrategas 2026 con una experiencia interactiva",
+      "resumen": "La aseguradora participó en uno de los eventos más relevantes del sector con un stand innovador para los asistentes, acompañando los principales debates sobre el presente y el futuro de la industria. La entrada La…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-20",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-desembarco-en-expoestrategas-2026-con-una-experiencia-interactiva/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/L2-Expoestrategas-2026-1.jpeg"
+    },
+    {
+      "titulo": "El 75% de los clientes rechaza la atención por IA",
+      "resumen": "Un análisis de Olivia, consultora en transformación organizacional, respaldado por datos de la OIT y PwC, revela que delegar la empatía, el riesgo corporativo y la voz del liderazgo en algoritmos destruye la confianza…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://100seguro.com.ar/el-75-de-los-clientes-rechaza-la-atencion-por-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN participó en ACTUAR.IA",
+      "resumen": "El encuentro abordó el impacto de la Inteligencia Artificial (IA) en la industria aseguradora, los nuevos modelos de negocio, el fraude, los riesgos financieros y los desafíos regulatorios. La entrada La SSN participó…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://100seguro.com.ar/la-ssn-participo-en-actuar-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-80291862-APN-GEYE#SSN – TASA TESTIGO RENTAS VITALICIAS PREVISIONALES – AGOSTO DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-80291862-apn-geyessn-tasa-testigo-rentas-vitalicias-previsionales-agosto-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-79930608-APN-GEYE#SSN – TASA TESTIGO SEGURO DE RETIRO VOLUNTARIO – AGOSTO DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-79930608-apn-geyessn-tasa-testigo-seguro-de-retiro-voluntario-agosto-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-78735202-APN-GPYCL#SSN – COMUNICACIÓN DE LA “GUÍA PARA LA GESTIÓN DE RIESGOS DE LA/FT/FP EN RELACIÓN CON CLIENTES QUE REVISTEN LA CALIDAD DE SUJETOS OBLIGADOS Y OTROS CLIENTES QUE OPERAN CON FONDOS DE TERCEROS” DE LA UNIDAD DE INFORMACIÓN FINANCIERA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/if-2026-78735202-apn-gpyclssn-comunicacion-de-la-guia-para-la-gestion-de-riesgos-de-la-ft-fp-en-relacion-con-clientes-que-revisten-la-calidad-de-sujetos-obligados-y-otros-clientes-que/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-362-APN-SSN#MEC – SOUTHBRIDGE COMPAÑÍA DE SEGUROS GENERALES S.A. – INSCRIPCIÓN REASEGURADORA ADMITIDA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-362-apn-ssnmec-southbridge-compania-de-seguros-generales-s-a-inscripcion-reaseguradora-admitida/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-361-APN-SSN#MEC – ALTAS EN EL REGISTRO DE PAS",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-361-apn-ssnmec-altas-en-el-registro-de-pas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate: «El seguro en Argentina tiene un enorme potencial de crecimiento «",
+      "resumen": "El Superintendente analizó la transformación del mercado, las medidas impulsadas por la SSN y los desafíos de la industria. El martes 18 de agosto, Guillermo Plate, Superintendente de Seguros de la Nación, fue…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/guillermo-plate-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Galicia Seguros lanza su póliza forestal, una solución innovadora para proteger plantaciones forestales ante incendios",
+      "resumen": "En el marco de su Campaña Agro 26/27, Galicia Seguros presenta su nueva póliza forestal, una solución innovadora diseñada para proteger plantaciones forestales comerciales frente al riesgo de incendios. Con este…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/galicia-seguros-lanza-su-poliza-forestal-una-solucion-innovadora-para-proteger-plantaciones-forestales-ante-incendios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN participó de ACTUAR.IA",
+      "resumen": "El encuentro abordó el impacto de la Inteligencia Artificial (IA) en la industria aseguradora, los nuevos modelos de negocio, el fraude, los riesgos financieros y los desafíos regulatorios. La Superintendencia de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-participo-de-actuar-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Siniestralidad bajo la lupa: grupo por grupo, cuanto pagaron y como quedó la ecuación",
+      "resumen": "La evolución del indicador de siniestralidad (J%) por grupo asegurador entre 2020 y marzo de 2026 expone realidades muy distintas dentro del mercado. Mientras la mayoría de los jugadores se mueve en una banda de riesgo…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/siniestralidad-bajo-la-lupa-hay-un-grupo-que-llego-a-pagar-diez-veces-lo-que-cobro-en-primas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Multas para peatones que cruzan usando el celular",
+      "resumen": "El uso del teléfono celular se ha incrementado notablemente a partir de la multiplicidad de prestaciones que ofrece, además de la comunicacional. Esto ha disparado su uso en todo tiempo y lugar, lo cual también…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://elseguroenaccion.com.ar/multas-para-peatones-que-cruzan-usando-el-celular/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mapfre acompaña la emoción de los octavos de final de la CONMEBOL Libertadores",
+      "resumen": "La competición más importante de clubes de Latinoamérica, de la que Mapfre es patrocinador oficial, vive días de máxima intensidad con los octavos de final en pleno desarrollo. Los 16 equipos que consiguieron avanzar…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://www.informeoperadores.com.ar/2026/08/20/mapfre-acompana-la-emocion-de-los-octavos-de-final-de-la-conmebol-libertadores/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Logo-Mapfre-600x400.jpg"
+    },
+    {
+      "titulo": "Strix suma tres nuevas soluciones para el control y la prevención en la gestión de flotas empresariales",
+      "resumen": "Se trata de una nueva generación de servicios vinculados al Monitoreo Inteligente con Cámaras, Conductas de Manejo y GPS Autoinstalable para flotas. Estas soluciones responden a la creciente necesidad de control y…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://www.informeoperadores.com.ar/2026/08/20/strix-suma-tres-nuevas-soluciones-para-el-control-y-la-prevencion-en-la-gestion-de-flotas-empresariales/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/strix-logo-600x400.jpg"
+    },
+    {
+      "titulo": "Grupo San Cristóbal participó de la mayor cumbre regional de comercio exterior",
+      "resumen": "La compañía fue Main Sponsor de la segunda edición de COMEX Norpatagónica donde compartió su visión sobre la gestión de riesgos en el comercio exterior ante los desafíos que atraviesan las empresas en un contexto de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-20",
+      "url": "https://www.informeoperadores.com.ar/2026/08/20/grupo-san-cristobal-participo-de-la-mayor-cumbre-regional-de-comercio-exterior/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Grupo-San-Cristobal_-comercio-exterior_1-600x401.jpg"
+    },
     {
       "titulo": "DeepSeek Harness: runtime de agentes todo plugin",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com DeepSeek lanzó el 13/08/2026 DeepSeek Harness, un runtime de agentes en Node.js bajo MIT donde cada componente es un plugin intercambiable. Sumó más de 33.000…",
@@ -45,177 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-08-19",
       "url": "https://100seguro.com.ar/plate-en-el-forbes-insurance-summit-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FARO XXI reunió en Chile a los líderes del seguro en Latinoamérica para trazar la hoja de ruta de la industria",
-      "resumen": "En un encuentro privado y a puertas cerradas, CEOs y decisores de aseguradoras, reaseguradoras, insurtechs, asociaciones, compañías de asistencias, intermediarios y asociaciones convergieron para convertir los desafíos…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/faro-xxi-reunio-en-chile-a-los-lideres-del-seguro-en-latinoamerica-para-trazar-la-hoja-de-ruta-de-la-industria/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/FARO-XXI-17870735839.jpeg"
-    },
-    {
-      "titulo": "El fraude de seguros se bifurca: alto volumen y alta sofisticación avanzan en paralelo, revela nuevo informe global de FRISS",
-      "resumen": "Sólo el 9% de las aseguradoras tiene sistemas de IA completamente implementados, mientras el 78% espera que la IA agentica impacte el fraude dentro de los próximos dos años. La entrada El fraude de seguros se bifurca:…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/el-fraude-de-seguros-se-bifurca-alto-volumen-y-alta-sofisticacion-avanzan-en-paralelo-revela-nuevo-informe-global-de-friss/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Ivan-Ballon-FRISS.jpg"
-    },
-    {
-      "titulo": "La IA desafía al mercado asegurador",
-      "resumen": "Llevar la inteligencia artificial a producción, transformar procesos, preparar arquitecturas tecnológicas más flexibles y gestionar nuevos riesgos aparecen entre los principales desafíos para la industria aseguradora,…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/la-ia-desafia-al-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguridad psicológica: por qué las empresas empiezan a entender que la confianza también impacta en el negocio",
-      "resumen": "Cada vez más compañías entienden que la posibilidad de expresar ideas, cuestionar decisiones, pedir ayuda o reconocer errores sin temor a represalias no solo mejora la experiencia de las personas, sino que también…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/seguridad-psicologica-por-que-las-empresas-empiezan-a-entender-que-la-confianza-tambien-impacta-en-el-negocio/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Flux-IT-seguridad-psico.jpg"
-    },
-    {
-      "titulo": "Seguros paramétricos: ¿el futuro del mercado asegurador o una herramienta complementaria?",
-      "resumen": "Los peritos liquidadores de siniestros de IBA Latinoamérica analizan el avance de los seguros paramétricos y su potencial para transformar la industria, especialmente frente a riesgos climáticos y otros eventos…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/seguros-parametricos-el-futuro-del-mercado-asegurador-o-una-herramienta-complementaria/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Seguros-parametricos-el-futuro-o-complemento.png"
-    },
-    {
-      "titulo": "“Las aseguradoras están armando arquitecturas de agentes de IA para prestar servicios al resto de la organización”",
-      "resumen": "COBERTURA 100% SEGURO.- En el marco de Evolución Insurtech Latam (EILA 26), organizado por InsurteChile en Santiago de Chile, dialogamos con dos ejecutivos de bdt global, empresa tecnológica especializada en soluciones…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/las-aseguradoras-estan-armando-arquitecturas-de-agentes-de-ia-para-prestar-servicios-al-resto-de-la-organizacion/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/El-equipo-de-bdt-global-en-EILA-2026-Nicolas-Rennis-Pablo-Amabile-Jefe-de-Desarrollo-y-Federico-Sardi.jpeg"
-    },
-    {
-      "titulo": "La Segunda acelera su transformación tecnológica: “Estamos modernizando el core y robusteciendo la arquitectura para potenciar la IA”",
-      "resumen": "COBERTURA 100% SEGURO.- El pasado 13 de agosto, en el marco de la segunda y última jornada de Evolución Insurtech Latam 2026 (EILA 26), evento organizado por InsurteChile en la capital chilena, Martín Moser, Gerente…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/la-segunda-acelera-su-transformacion-tecnologica-estamos-modernizando-el-core-y-robusteciendo-la-arquitectura-para-potenciar-la-ia/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/El-equipo-de-La-Segunda-Seguros-en-EILA-2026.jpeg"
-    },
-    {
-      "titulo": "Vehículos autónomos: un proyecto de ley busca crear un nuevo marco para los seguros, la responsabilidad y el reaseguro",
-      "resumen": "La iniciativa fue presentada por diputados del PRO y propone adecuar la legislación argentina al avance de la conducción automatizada. El proyecto plantea modificar la Ley de Seguros 17.418 para diferenciar los riesgos…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/vehiculos-autonomos-un-proyecto-de-ley-busca-crear-un-nuevo-marco-para-los-seguros-la-responsabilidad-y-el-reaseguro/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Diputados-PRO.jpg"
-    },
-    {
-      "titulo": "«La revolución del seguro tiene que hacerse con los PAS sentados en la mesa de discusión»",
-      "resumen": "El vicepresidente de FAPASA, Juan Ignacio Luco, participó del panel «Asesores de Seguros» en Expoestrategas, donde reclamó un lugar protagónico para los Productores Asesores en la transformación del mercado. En su…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://elseguroenaccion.com.ar/la-revolucion-del-seguro-tiene-que-hacerse-con-los-pas-sentados-en-la-mesa-de-discusion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Abre su nueva sede en Tortugas, un restaurante cubierto emplazado sobre una hectárea de campo donde redoblan la propuesta de “vacaciones todo el año”",
-      "resumen": "La entrada Abre su nueva sede en Tortugas, un restaurante cubierto emplazado sobre una hectárea de campo donde redoblan la propuesta de “vacaciones todo el año” se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://www.informeoperadores.com.ar/2026/08/19/abre-su-nueva-sede-en-tortugas-un-restaurante-cubierto-emplazado-sobre-una-hectarea-de-campo-donde-redoblan-la-propuesta-de-vacaciones-todo-el-ano/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ficha-816.jpg"
-    },
-    {
-      "titulo": "Cynthia Ronchi: “Somos una compañía internacional con gestión local”",
-      "resumen": "Cynthia Ronchi lidera desde hace casi dos años una estrategia orientada a fortalecer el posicionamiento de Meridional Seguros y consolidar nuevos canales de comercialización. La entrada Cynthia Ronchi: “Somos una…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://nbs.ar/cynthia-ronchi-somos-una-compania-internacional-con-gestion-local/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La industria financiera impulsa la colaboración entre humanos y la IA agéntica para un futuro innovador",
-      "resumen": "En un contexto donde las tecnologías emergentes transforman la forma en que las organizaciones operan, la industria financiera está liderando el camino en la implementación de inteligencia artificial (IA) agéntica. Este…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-08-19",
-      "url": "https://nbs.ar/la-industria-financiera-impulsa-la-colaboracion-entre-humanos-y-la-ia-agentica-para-un-futuro-innovador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gemelos de mercado: la nueva capa de inteligencia en seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Finsago propuso el 30/07/2026 los \"gemelos de mercado\": modelos que replican la lógica de precios y comportamiento competitivo en seguros. Permiten simular cambios…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://mercadosyseguros.com/gemelos-de-mercado-la-nueva-capa-de-inteligencia-en-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Demanda de crédito privado crece y se vuelve más selectiva",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Marsh informó que el 57% de las aseguradoras planea aumentar su exposición al crédito privado en 12-24 meses, con preferencia por segmentos de grado de inversión; la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://mercadosyseguros.com/demanda-de-credito-privado-crece-y-se-vuelve-mas-selectiva/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros lanza plataforma para gestionar certificados de transporte",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros presentó una plataforma digital, desarrollada con Vais Tech, para gestionar certificados de transporte en pólizas anuales con declaración mensual y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-08-18",
-      "url": "https://mercadosyseguros.com/galicia-seguros-lanza-plataforma-para-gestionar-certificados-de-transporte/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre acompaña la emoción de los octavos de final de la CONMEBOL Libertadores",
-      "resumen": "La competición más importante de clubes de Latinoamérica, de la que Mapfre es patrocinador oficial, vive días de máxima intensidad con los octavos de final en pleno desarrollo. Los 16 equipos que consiguieron avanzar…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://100seguro.com.ar/mapfre-acompana-la-emocion-de-los-octavos-de-final-de-la-conmebol-libertadores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los motores del crecimiento y el futuro del seguro",
-      "resumen": "Entrevista exclusiva con Guillermo Pastore, Chairman de Special División Reinsurance Brokers, sobre el presente y futuro del seguro y el reaseguro en Argentina. MIRÁ EL PROGRAMA AQUÍ: https://youtu.be/1ymm6eAFrpM En…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://elseguroenaccion.com.ar/los-motores-del-crecimiento-y-el-futuro-del-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La fiesta escolar terminó en condena",
-      "resumen": "Se confirmó la responsabilidad de un colegio por las lesiones sufridas por un niño de cinco años que cayó de un inflable durante una peña organizada por la institución. El hecho ocurrió un sábado, pero la Cámara Civil…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://elseguroenaccion.com.ar/la-fiesta-escolar-termino-en-condena/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hicieron balance del primer semestre y trazaron agenda para la segunda mitad del año",
-      "resumen": "Las comisiones de AAPAS Con una nueva metodología de trabajo, implementada a partir de julio, las trece comisiones de AAPAS compartieron avances, proyectos y próximos objetivos. Los encuentros permitieron poner en común…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-18",
-      "url": "https://elseguroenaccion.com.ar/hicieron-balance-del-primer-semestre-y-trazaron-agenda-para-la-segunda-mitad-del-ano/",
       "imagen": ""
     }
   ]
