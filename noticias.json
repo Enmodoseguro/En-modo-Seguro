@@ -1,7 +1,142 @@
 {
-  "actualizado": "2026-08-21T06:28-03:00",
+  "actualizado": "2026-08-22T06:19-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Día Mundial del Peatón: reglas y responsabilidad al cruzar",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17 de agosto, Día Mundial del Peatón, recuerda la protección legal y las reglas que rigen la conducta de peatones en Argentina. El artículo del Dr. Martín D.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://mercadosyseguros.com/dia-mundial-del-peaton-reglas-y-responsabilidad-al-cruzar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AVIRA recibió 679 trabajos en el 12° concurso Generando Conciencia",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AVIRA cerró la 12ª edición del concurso Generando Conciencia con 679 trabajos recibidos: 487 gráficas, 133 audiovisuales y 59 en la nueva categoría Advergaming.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://mercadosyseguros.com/avira-recibio-679-trabajos-en-el-12-concurso-generando-conciencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Viaje al colegio: 7 hábitos para reducir riesgos viales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros advierte que la habituación aumenta el riesgo en los viajes diarios al colegio. Con datos de la Agencia Nacional de Seguridad Vial (3.255 siniestros…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://mercadosyseguros.com/viaje-al-colegio-7-habitos-para-reducir-riesgos-viales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de trazas de razonamiento en GPT-5 y Claude",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un paper de agosto de 2026 mostró cómo recuperar trazas de razonamiento encriptadas de GPT-5.6 y Claude Opus reutilizando bloques en modelos hermanos débiles; OpenAI,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://mercadosyseguros.com/robo-de-trazas-de-razonamiento-en-gpt-5-y-claude/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La IA entra en la agenda actuarial: voces locales e internacionales en programa especial desde la UBA",
+      "resumen": "En un nuevo programa de 100% SEGURO, nos metimos de lleno en Actuar.IA 2026, el evento organizado esta semana por la Sociedad Argentina de Actuarios (SAAC) en la Facultad de Ciencias Económicas de la Universidad de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/la-ia-entra-en-la-agenda-actuarial-voces-locales-e-internacionales-en-programa-especial-desde-la-uba/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Wayla presentó su modelo IA Nativo para transformar la industria de las asistencias",
+      "resumen": "La compañía desarrolla tecnología para transformar la forma en que se gestionan las asistencias, hoy con foco en la asistencia vehicular. Su modelo IA Nativo conecta a usuarios, prestadores y compañías dentro de una…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/wayla-presento-su-modelo-ia-nativo-para-transformar-la-industria-de-las-asistencias/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Diego-Ghione-CTO-de-Wayla.png"
+    },
+    {
+      "titulo": "Casi el 96% de los hurtos de vehículos ocurre en la vía pública",
+      "resumen": "Según el último Indicador Ituran de Robo Vehicular (IRV), en julio la incidencia de los hurtos en la vía pública registró una suba de 21,74 puntos porcentuales respecto del mes anterior. La entrada Casi el 96% de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/casi-el-96-de-los-hurtos-de-vehiculos-ocurre-en-la-via-publica/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/IRV-julio-2026-Tipo-de-vehiculo-mas-robado.png"
+    },
+    {
+      "titulo": "El nuevo sistema de mediaciones “SIGIM” y el mercado asegurador: desafíos de la nueva mediación prejudicial",
+      "resumen": "Por Hernán Capolupo, socio del Estudio Jurídico R&D Abogados.- En el marco de una reunión en el Ministerio de Justicia, se efectuó un encuentro con autoridades del Ministerio y de “SIGIM” junto a varias compañías del…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/el-nuevo-sistema-de-mediaciones-sigim-y-el-mercado-asegurador-desafios-de-la-nueva-mediacion-prejudicial/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Dr.-Hernan-Capolupo-150x150.png"
+    },
+    {
+      "titulo": "El verdadero desafío de la IA en seguros no es predecir el futuro, sino construir aseguradoras capaces de adaptarse",
+      "resumen": "La consultora McKinsey, en su nuevo informe sobre inteligencia artificial, sostiene que el liderazgo del mercado no dependerá de acertar un único plan estratégico, sino de desarrollar organizaciones capaces de aprender,…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/el-verdadero-desafio-de-la-ia-en-seguros-no-es-predecir-el-futuro-sino-construir-aseguradoras-capaces-de-adaptarse/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Más del 40% de los trabajadores argentinos se siente ansioso y nervioso, según Aon y TELUS Health",
+      "resumen": "Nueve de cada 10 trabajadores en Argentina presenta algún grado de tensión en su salud mental. La entrada Más del 40% de los trabajadores argentinos se siente ansioso y nervioso, según Aon y TELUS Health se publicó…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/mas-del-40-de-los-trabajadores-argentinos-se-siente-ansioso-y-nervioso-segun-aon-y-telus-health/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nació nativa digital en Chile, creció 100% con corredores y ahora busca exportar su modelo a Brasil",
+      "resumen": "La aseguradora FID Seguros construyó una propuesta que utiliza la tecnología para potenciar, y no reemplazar, a los corredores. En apenas seis años alcanzó el 4,2% del mercado de seguros generales, conformó una red de…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/nacio-nativa-digital-en-chile-crecio-100-con-corredores-y-ahora-busca-exportar-su-modelo-a-brasil/",
+      "imagen": ""
+    },
+    {
+      "titulo": "En julio se duplicaron los robos de vehículos en el interior del país",
+      "resumen": "El dato surge de la comparación con el mismo mes de 2025. En lo que va de 2026, los operativos por robo fuera de Buenos Aires equivalen al 80% del total de casos registrados en todo el año pasado. La entrada En julio se…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://100seguro.com.ar/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El 75% de los clientes rechaza la atención por IA",
+      "resumen": "Un análisis de Olivia, consultora en transformación organizacional, respaldado por datos de la OIT y PwC, revela que delegar la empatía, el riesgo corporativo y la voz del liderazgo en algoritmos destruye la confianza…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://www.informeoperadores.com.ar/2026/08/21/el-75-de-los-clientes-rechaza-la-atencion-por-ia/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/future-artificial-intelligence-robot-cyborg-600x387.jpg"
+    },
+    {
+      "titulo": "El fraude de seguros se bifurca: alto volumen y alta sofisticación avanzan en paralelo, revela nuevo informe global de FRISS",
+      "resumen": "Sólo el 9% de las aseguradoras tiene sistemas de IA completamente implementados, mientras el 78% espera que la IA agentica impacte el fraude dentro de los próximos dos años. FRISS, proveedor global de software de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-21",
+      "url": "https://www.informeoperadores.com.ar/2026/08/21/el-fraude-de-seguros-se-bifurca-alto-volumen-y-alta-sofisticacion-avanzan-en-paralelo-revela-nuevo-informe-global-de-friss/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ivan-ballon-friss-copia-600x435.jpg"
+    },
+    {
+      "titulo": "El 75% de los clientes prefiere atención humana: ¿un riesgo al delegar la empatía a la IA?",
+      "resumen": "Un reciente análisis realizado por Olivia, una consultora en transformación organizacional, señala que el 75% de los clientes rechazan la atención al cliente proporcionada por inteligencia artificial (IA). Este rechazo…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-08-21",
+      "url": "https://nbs.ar/el-75-de-los-clientes-prefiere-atencion-humana-un-riesgo-al-delegar-la-empatia-a-la-ia/",
+      "imagen": ""
+    },
     {
       "titulo": "CIDeS, dos años después: ¿qué cambió realmente en el mercado asegurador argentino?",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com A más de dos años de su creación, CIDeS renovó autoridades. Qué prometió el think tank del seguro argentino y qué resultados concretos puede mostrar. La entrada…",
@@ -28,33 +163,6 @@
       "fecha": "2026-08-20",
       "url": "https://100seguro.com.ar/hoy-la-tecnologia-esta-al-alcance-de-todos-y-hace-que-el-fraude-se-vuelva-cada-vez-mas-sofisticado/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Esteban-Izarra-CEO-de-LISA-Insurtech-junto-a-Loreto-Hernandez-COO.jpeg"
-    },
-    {
-      "titulo": "La Segunda Seguros desembarcó en Expoestrategas 2026 con una experiencia interactiva",
-      "resumen": "La aseguradora participó en uno de los eventos más relevantes del sector con un stand innovador para los asistentes, acompañando los principales debates sobre el presente y el futuro de la industria. La entrada La…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-20",
-      "url": "https://100seguro.com.ar/la-segunda-seguros-desembarco-en-expoestrategas-2026-con-una-experiencia-interactiva/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/L2-Expoestrategas-2026-1.jpeg"
-    },
-    {
-      "titulo": "El 75% de los clientes rechaza la atención por IA",
-      "resumen": "Un análisis de Olivia, consultora en transformación organizacional, respaldado por datos de la OIT y PwC, revela que delegar la empatía, el riesgo corporativo y la voz del liderazgo en algoritmos destruye la confianza…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://100seguro.com.ar/el-75-de-los-clientes-rechaza-la-atencion-por-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN participó en ACTUAR.IA",
-      "resumen": "El encuentro abordó el impacto de la Inteligencia Artificial (IA) en la industria aseguradora, los nuevos modelos de negocio, el fraude, los riesgos financieros y los desafíos regulatorios. La entrada La SSN participó…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-20",
-      "url": "https://100seguro.com.ar/la-ssn-participo-en-actuar-ia/",
-      "imagen": ""
     },
     {
       "titulo": "IF-2026-80291862-APN-GEYE#SSN – TASA TESTIGO RENTAS VITALICIAS PREVISIONALES – AGOSTO DE 2026",
@@ -108,114 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-08-20",
       "url": "https://elseguroenaccion.com.ar/guillermo-plate-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros lanza su póliza forestal, una solución innovadora para proteger plantaciones forestales ante incendios",
-      "resumen": "En el marco de su Campaña Agro 26/27, Galicia Seguros presenta su nueva póliza forestal, una solución innovadora diseñada para proteger plantaciones forestales comerciales frente al riesgo de incendios. Con este…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/galicia-seguros-lanza-su-poliza-forestal-una-solucion-innovadora-para-proteger-plantaciones-forestales-ante-incendios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN participó de ACTUAR.IA",
-      "resumen": "El encuentro abordó el impacto de la Inteligencia Artificial (IA) en la industria aseguradora, los nuevos modelos de negocio, el fraude, los riesgos financieros y los desafíos regulatorios. La Superintendencia de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-participo-de-actuar-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Siniestralidad bajo la lupa: grupo por grupo, cuanto pagaron y como quedó la ecuación",
-      "resumen": "La evolución del indicador de siniestralidad (J%) por grupo asegurador entre 2020 y marzo de 2026 expone realidades muy distintas dentro del mercado. Mientras la mayoría de los jugadores se mueve en una banda de riesgo…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/siniestralidad-bajo-la-lupa-hay-un-grupo-que-llego-a-pagar-diez-veces-lo-que-cobro-en-primas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Multas para peatones que cruzan usando el celular",
-      "resumen": "El uso del teléfono celular se ha incrementado notablemente a partir de la multiplicidad de prestaciones que ofrece, además de la comunicacional. Esto ha disparado su uso en todo tiempo y lugar, lo cual también…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/multas-para-peatones-que-cruzan-usando-el-celular/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre acompaña la emoción de los octavos de final de la CONMEBOL Libertadores",
-      "resumen": "La competición más importante de clubes de Latinoamérica, de la que Mapfre es patrocinador oficial, vive días de máxima intensidad con los octavos de final en pleno desarrollo. Los 16 equipos que consiguieron avanzar…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://www.informeoperadores.com.ar/2026/08/20/mapfre-acompana-la-emocion-de-los-octavos-de-final-de-la-conmebol-libertadores/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Logo-Mapfre-600x400.jpg"
-    },
-    {
-      "titulo": "Strix suma tres nuevas soluciones para el control y la prevención en la gestión de flotas empresariales",
-      "resumen": "Se trata de una nueva generación de servicios vinculados al Monitoreo Inteligente con Cámaras, Conductas de Manejo y GPS Autoinstalable para flotas. Estas soluciones responden a la creciente necesidad de control y…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://www.informeoperadores.com.ar/2026/08/20/strix-suma-tres-nuevas-soluciones-para-el-control-y-la-prevencion-en-la-gestion-de-flotas-empresariales/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/strix-logo-600x400.jpg"
-    },
-    {
-      "titulo": "Grupo San Cristóbal participó de la mayor cumbre regional de comercio exterior",
-      "resumen": "La compañía fue Main Sponsor de la segunda edición de COMEX Norpatagónica donde compartió su visión sobre la gestión de riesgos en el comercio exterior ante los desafíos que atraviesan las empresas en un contexto de…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://www.informeoperadores.com.ar/2026/08/20/grupo-san-cristobal-participo-de-la-mayor-cumbre-regional-de-comercio-exterior/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Grupo-San-Cristobal_-comercio-exterior_1-600x401.jpg"
-    },
-    {
-      "titulo": "DeepSeek Harness: runtime de agentes todo plugin",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com DeepSeek lanzó el 13/08/2026 DeepSeek Harness, un runtime de agentes en Node.js bajo MIT donde cada componente es un plugin intercambiable. Sumó más de 33.000…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://mercadosyseguros.com/deepseek-harness-runtime-de-agentes-todo-plugin/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Computer History en ChatGPT para Mac: qué registra y cómo activarla",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com OpenAI presentó Computer History el 13/08/2026: una función opt-in en la app de ChatGPT para Mac que registra clicks, tecleo, atajos y cambios entre apps, guarda…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://mercadosyseguros.com/computer-history-en-chatgpt-para-mac-que-registra-y-como-activarla/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ChatGPT Desktop para Linux: qué incluye y qué falta",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com OpenAI publicó el 11/08/2026 la preview de ChatGPT Desktop para Linux, disponible en .deb/.rpm para Ubuntu 24.04/26.04, Debian 13 y Fedora 43/44; incluye ChatGPT,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://mercadosyseguros.com/chatgpt-desktop-para-linux-que-incluye-y-que-falta/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Robo de trazas de razonamiento en LLM: 315.320 bloques descifrados",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Investigadores publicaron el 11/08/2026 un método que permitió descifrar 315.320 bloques de trazas de razonamiento de Anthropic, OpenAI y Google; se extrajeron 367…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-19",
-      "url": "https://mercadosyseguros.com/robo-de-trazas-de-razonamiento-en-llm-315-320-bloques-descifrados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Plate en el Forbes Insurance Summit: “El seguro en Argentina tiene un enorme potencial de crecimiento”",
-      "resumen": "El Superintendente analizó la transformación del mercado, las medidas impulsadas por la SSN y los desafíos de la industria. La entrada Plate en el Forbes Insurance Summit: “El seguro en Argentina tiene un enorme…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-19",
-      "url": "https://100seguro.com.ar/plate-en-el-forbes-insurance-summit-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
       "imagen": ""
     }
   ]
