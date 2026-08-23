@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-08-22T06:19-03:00",
+  "actualizado": "2026-08-23T06:20-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "SSI y la inversión de Nvidia que sacude la carrera por la superinteligencia",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com NVIDIA invirtió 5.000 millones de dólares en Safe Superintelligence Inc. (SSI), fundada en 2024 por Ilya Sutskever, Daniel Levy y Daniel Gross. SSI había recaudado…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-22",
+      "url": "https://mercadosyseguros.com/ssi-y-la-inversion-de-nvidia-que-sacude-la-carrera-por-la-superinteligencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CEO de Anthropic defiende regulación frente a concentración de poder",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un cruce público entre Dario Amodei (Anthropic), Gavin Baker y otros expertos reavivó el debate sobre si la regulación de la IA concentra o distribuye poder. Amodei…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-22",
+      "url": "https://mercadosyseguros.com/ceo-de-anthropic-defiende-regulacion-frente-a-concentracion-de-poder/",
+      "imagen": ""
+    },
+    {
+      "titulo": "HappyRobot: la startup que alcanzó el estatus de unicornio en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com HappyRobot cerró en 2026 una Serie C de 150 millones de dólares y fue valuada en 1.200 millones. La startup, fundada en 2023, ofrece \"AI workers\" que automatizan…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-22",
+      "url": "https://mercadosyseguros.com/happyrobot-la-startup-que-alcanzo-el-estatus-de-unicornio-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Contenedores perdidos: cuando la costa devolvió impresoras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En febrero de 2006 un temporal en la Costa da Morte dejó al menos 40 impresoras y un contenedor embarrancado en Leira, Carballo. El fenómeno ilustra cómo pérdidas de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-08-22",
+      "url": "https://mercadosyseguros.com/contenedores-perdidos-cuando-la-costa-devolvio-impresoras/",
+      "imagen": ""
+    },
     {
       "titulo": "Día Mundial del Peatón: reglas y responsabilidad al cruzar",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17 de agosto, Día Mundial del Peatón, recuerda la protección legal y las reglas que rigen la conducta de peatones en Argentina. El artículo del Dr. Martín D.…",
@@ -180,42 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-08-20",
       "url": "https://elseguroenaccion.com.ar/if-2026-79930608-apn-geyessn-tasa-testigo-seguro-de-retiro-voluntario-agosto-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-78735202-APN-GPYCL#SSN – COMUNICACIÓN DE LA “GUÍA PARA LA GESTIÓN DE RIESGOS DE LA/FT/FP EN RELACIÓN CON CLIENTES QUE REVISTEN LA CALIDAD DE SUJETOS OBLIGADOS Y OTROS CLIENTES QUE OPERAN CON FONDOS DE TERCEROS” DE LA UNIDAD DE INFORMACIÓN FINANCIERA",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/if-2026-78735202-apn-gpyclssn-comunicacion-de-la-guia-para-la-gestion-de-riesgos-de-la-ft-fp-en-relacion-con-clientes-que-revisten-la-calidad-de-sujetos-obligados-y-otros-clientes-que/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-362-APN-SSN#MEC – SOUTHBRIDGE COMPAÑÍA DE SEGUROS GENERALES S.A. – INSCRIPCIÓN REASEGURADORA ADMITIDA",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-362-apn-ssnmec-southbridge-compania-de-seguros-generales-s-a-inscripcion-reaseguradora-admitida/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-361-APN-SSN#MEC – ALTAS EN EL REGISTRO DE PAS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-361-apn-ssnmec-altas-en-el-registro-de-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Guillermo Plate: «El seguro en Argentina tiene un enorme potencial de crecimiento «",
-      "resumen": "El Superintendente analizó la transformación del mercado, las medidas impulsadas por la SSN y los desafíos de la industria. El martes 18 de agosto, Guillermo Plate, Superintendente de Seguros de la Nación, fue…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-20",
-      "url": "https://elseguroenaccion.com.ar/guillermo-plate-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
       "imagen": ""
     }
   ]
