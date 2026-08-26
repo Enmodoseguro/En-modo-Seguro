@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-08-25T06:27-03:00",
+  "actualizado": "2026-08-26T06:33-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Innova Awards 2026: La Segunda Seguros fue reconocida por su estrategia de Corporate Venturing",
+      "resumen": "La aseguradora fue premiada en la categoría “Consolidado” por el recorrido de InnLab, su programa de innovación abierta y Venture Clienting. Compartió la categoría con Coca-Cola Andina, Copec y Transelec y también fue…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-25",
+      "url": "https://100seguro.com.ar/innova-awards-2026-la-segunda-seguros-fue-reconocida-por-su-estrategia-de-corporate-venturing/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Innova-Awards-2026-L2.jpeg"
+    },
+    {
+      "titulo": "Cuatro aseguradoras sancionadas: dos no pueden emitir nuevas pólizas, una fue inhibida y otra ya no puede operar",
+      "resumen": "El organismo de control dispuso distintas medidas precautorias y sancionatorias sobre cuatro aseguradoras. Las decisiones se fundamentaron en inconsistencias contables, incumplimientos en la presentación de información,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-25",
+      "url": "https://100seguro.com.ar/cuatro-aseguradoras-sancionadas-dos-no-pueden-emitir-nuevas-polizas-una-fue-inhibida-y-otra-ya-no-puede-operar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo San Cristóbal analizó el impacto de la IA en el futuro del mercado asegurador",
+      "resumen": "La compañía formó parte del Seminario Internacional Actuar.IA, un espacio que reunió a referentes del sector asegurador, actuarial, académico y tecnológico para debatir sobre los desafíos y oportunidades que plantea la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-25",
+      "url": "https://100seguro.com.ar/grupo-san-cristobal-analizo-el-impacto-de-la-ia-en-el-futuro-del-mercado-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Grupo-San-Cristobal-en-Actuar.IA-2026-panel-1.jpg"
+    },
+    {
+      "titulo": "Sancor Seguros presenta a Cori y evoluciona su experiencia de atención digital con IA",
+      "resumen": "La compañía incorpora inteligencia artificial en la atención por voz y transforma sus canales digitales con una experiencia más ágil, cercana y disponible a cualquier hora. La entrada Sancor Seguros presenta a Cori y…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-25",
+      "url": "https://100seguro.com.ar/sancor-seguros-presenta-a-cori-y-evoluciona-su-experiencia-de-atencion-digital-con-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguridad y logística: el 83% de los robos al transporte de mercadería golpea a los vehículos utilitarios",
+      "resumen": "La IA y la videovigilancia móvil ganan protagonismo en un escenario donde ya no alcanza con saber dónde está un vehículo, sino que es necesario controlar qué ocurre durante el recorrido. La entrada Seguridad y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-25",
+      "url": "https://100seguro.com.ar/seguridad-y-logistica-el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA dio el puntapié inicial a la Escuela Argentina de Seguros",
+      "resumen": "La Federación Argentina de Productores Asesores de Seguros oficializó la transformación del Centro Federal de Capacitación en la EAS. Con una plataforma digital centralizada, reconocimiento automático para socios y una…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-08-25",
+      "url": "https://elseguroenaccion.com.ar/fapasa-dio-el-puntapie-inicial-a-la-escuela-argentina-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cuatro aseguradoras sancionadas en un solo día",
+      "resumen": "En apenas 24 horas, el organismo de control dictó medidas cautelares contra tres compañías por incumplimientos contables y patrimoniales, y revocó la autorización para operar de una cuarta que ya no podrá vender pólizas…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-25",
+      "url": "https://elseguroenaccion.com.ar/cuatro-aseguradoras-sancionadas-en-un-solo-dia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Casi el 96% de los hurtos de vehículos ocurre en la vía pública",
+      "resumen": "Según el último “Indicador Ituran de Robo Vehicular (IRV)”, en julio la incidencia de los hurtos en la vía pública registró una suba de 21,74 puntos porcentuales respecto del mes anterior. Ituran Argentina, empresa…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-25",
+      "url": "https://www.informeoperadores.com.ar/2026/08/25/casi-el-96-de-los-hurtos-de-vehiculos-ocurre-en-la-via-publica/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/IRV-600x400.jpg"
+    },
     {
       "titulo": "Motores del crecimiento en el seguro argentino",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Pastore, chairman de Special División Reinsurance Brokers, analizó cómo minería, energía y agro impulsan la demanda aseguradora, la situación del reaseguro…",
@@ -64,15 +136,6 @@
       "fecha": "2026-08-24",
       "url": "https://100seguro.com.ar/oportunidad-para-capacitarse-en-responsabilidad-civil-aplicada-gratis-online-y-con-certificacion-universitaria/",
       "imagen": ""
-    },
-    {
-      "titulo": "Hugues Bertin: “Las insurtech y los seguros tradicionales son mundos totalmente complementarios y colaborativos”",
-      "resumen": "COBERTURA 100% SEGURO.- Es uno de los oradores destacados que serán parte de La Confe de 100% SEGURO el próximo 28 de octubre en Buenos Aires. Y antes de esa gran cita, conversamos con él en Santiago de Chile, en el…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-24",
-      "url": "https://100seguro.com.ar/hugues-bertin-las-insurtech-y-los-seguros-tradicionales-son-mundos-totalmente-complementarios-y-colaborativos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Hugues-Bertin-disertando-en-EILA-2026.jpeg"
     },
     {
       "titulo": "En Julio se duplicaron los robos de vehículos en el interior del país",
@@ -147,42 +210,6 @@
       "imagen": ""
     },
     {
-      "titulo": "La IA entra en la agenda actuarial: voces locales e internacionales en programa especial desde la UBA",
-      "resumen": "En un nuevo programa de 100% SEGURO, nos metimos de lleno en Actuar.IA 2026, el evento organizado esta semana por la Sociedad Argentina de Actuarios (SAAC) en la Facultad de Ciencias Económicas de la Universidad de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://100seguro.com.ar/la-ia-entra-en-la-agenda-actuarial-voces-locales-e-internacionales-en-programa-especial-desde-la-uba/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Wayla presentó su modelo IA Nativo para transformar la industria de las asistencias",
-      "resumen": "La compañía desarrolla tecnología para transformar la forma en que se gestionan las asistencias, hoy con foco en la asistencia vehicular. Su modelo IA Nativo conecta a usuarios, prestadores y compañías dentro de una…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-21",
-      "url": "https://100seguro.com.ar/wayla-presento-su-modelo-ia-nativo-para-transformar-la-industria-de-las-asistencias/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Diego-Ghione-CTO-de-Wayla.png"
-    },
-    {
-      "titulo": "Casi el 96% de los hurtos de vehículos ocurre en la vía pública",
-      "resumen": "Según el último Indicador Ituran de Robo Vehicular (IRV), en julio la incidencia de los hurtos en la vía pública registró una suba de 21,74 puntos porcentuales respecto del mes anterior. La entrada Casi el 96% de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://100seguro.com.ar/casi-el-96-de-los-hurtos-de-vehiculos-ocurre-en-la-via-publica/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/IRV-julio-2026-Tipo-de-vehiculo-mas-robado.png"
-    },
-    {
-      "titulo": "El nuevo sistema de mediaciones “SIGIM” y el mercado asegurador: desafíos de la nueva mediación prejudicial",
-      "resumen": "Por Hernán Capolupo, socio del Estudio Jurídico R&D Abogados.- En el marco de una reunión en el Ministerio de Justicia, se efectuó un encuentro con autoridades del Ministerio y de “SIGIM” junto a varias compañías del…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://100seguro.com.ar/el-nuevo-sistema-de-mediaciones-sigim-y-el-mercado-asegurador-desafios-de-la-nueva-mediacion-prejudicial/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Dr.-Hernan-Capolupo-150x150.png"
-    },
-    {
       "titulo": "El 75% de los clientes rechaza la atención por IA",
       "resumen": "Un análisis de Olivia, consultora en transformación organizacional, respaldado por datos de la OIT y PwC, revela que delegar la empatía, el riesgo corporativo y la voz del liderazgo en algoritmos destruye la confianza…",
       "fuente": "Informe Operadores",
@@ -190,33 +217,6 @@
       "fecha": "2026-08-21",
       "url": "https://www.informeoperadores.com.ar/2026/08/21/el-75-de-los-clientes-rechaza-la-atencion-por-ia/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/future-artificial-intelligence-robot-cyborg-600x387.jpg"
-    },
-    {
-      "titulo": "El fraude de seguros se bifurca: alto volumen y alta sofisticación avanzan en paralelo, revela nuevo informe global de FRISS",
-      "resumen": "Sólo el 9% de las aseguradoras tiene sistemas de IA completamente implementados, mientras el 78% espera que la IA agentica impacte el fraude dentro de los próximos dos años. FRISS, proveedor global de software de…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://www.informeoperadores.com.ar/2026/08/21/el-fraude-de-seguros-se-bifurca-alto-volumen-y-alta-sofisticacion-avanzan-en-paralelo-revela-nuevo-informe-global-de-friss/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ivan-ballon-friss-copia-600x435.jpg"
-    },
-    {
-      "titulo": "El 75% de los clientes prefiere atención humana: ¿un riesgo al delegar la empatía a la IA?",
-      "resumen": "Un reciente análisis realizado por Olivia, una consultora en transformación organizacional, señala que el 75% de los clientes rechazan la atención al cliente proporcionada por inteligencia artificial (IA). Este rechazo…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-08-21",
-      "url": "https://nbs.ar/el-75-de-los-clientes-prefiere-atencion-humana-un-riesgo-al-delegar-la-empatia-a-la-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CIDeS, dos años después: ¿qué cambió realmente en el mercado asegurador argentino?",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A más de dos años de su creación, CIDeS renovó autoridades. Qué prometió el think tank del seguro argentino y qué resultados concretos puede mostrar. La entrada…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-20",
-      "url": "https://mercadosyseguros.com/cides-dos-anos-mercado-asegurador/",
-      "imagen": ""
     }
   ]
 }
