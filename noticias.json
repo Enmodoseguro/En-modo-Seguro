@@ -1,222 +1,222 @@
 {
-  "actualizado": "2026-08-26T06:33-03:00",
+  "actualizado": "2026-08-27T16:21-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Innova Awards 2026: La Segunda Seguros fue reconocida por su estrategia de Corporate Venturing",
-      "resumen": "La aseguradora fue premiada en la categoría “Consolidado” por el recorrido de InnLab, su programa de innovación abierta y Venture Clienting. Compartió la categoría con Coca-Cola Andina, Copec y Transelec y también fue…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-25",
-      "url": "https://100seguro.com.ar/innova-awards-2026-la-segunda-seguros-fue-reconocida-por-su-estrategia-de-corporate-venturing/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Innova-Awards-2026-L2.jpeg"
-    },
-    {
-      "titulo": "Cuatro aseguradoras sancionadas: dos no pueden emitir nuevas pólizas, una fue inhibida y otra ya no puede operar",
-      "resumen": "El organismo de control dispuso distintas medidas precautorias y sancionatorias sobre cuatro aseguradoras. Las decisiones se fundamentaron en inconsistencias contables, incumplimientos en la presentación de información,…",
+      "titulo": "Un nuevo beneficio para cuidar a toda la familia: ahora los socios de OSDE cuentan con un plan especial de Vetify para sus mascotas",
+      "resumen": "La prepaga de salud y Vetify firmaron un acuerdo para integrar la atención de las mascotas al programa de beneficios MÁS OSDE. La entrada Un nuevo beneficio para cuidar a toda la familia: ahora los socios de OSDE…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
-      "fecha": "2026-08-25",
-      "url": "https://100seguro.com.ar/cuatro-aseguradoras-sancionadas-dos-no-pueden-emitir-nuevas-polizas-una-fue-inhibida-y-otra-ya-no-puede-operar/",
+      "fecha": "2026-08-27",
+      "url": "https://100seguro.com.ar/un-nuevo-beneficio-para-cuidar-a-toda-la-familia-ahora-los-socios-de-osde-cuentan-con-un-plan-especial-de-vetify-para-sus-mascotas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fraude en seguros: la IA acelera la sofisticación de los estafadores mientras las aseguradoras permanecen rezagadas",
+      "resumen": "El informe “El estado del fraude de seguros 2026”, elaborado por FRISS, advierte que el fraude ya no solo crece en volumen: se está bifurcando entre esquemas oportunistas de alta frecuencia y operaciones organizadas…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-27",
+      "url": "https://100seguro.com.ar/fraude-en-seguros-la-ia-acelera-la-sofisticacion-de-los-estafadores-mientras-las-aseguradoras-permanecen-rezagadas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Según Moody’s, se espera que la IA genere beneficios graduales y nuevos riesgos para el sector asegurador",
+      "resumen": "De acuerdo con un reciente informe de Moody's, la inteligencia artificial reconfigurará la actividad aseguradora a largo plazo, pero sus efectos actuales sobre la rentabilidad y la economía del sector siguen siendo…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-27",
+      "url": "https://100seguro.com.ar/segun-moodys-se-espera-que-la-ia-genere-beneficios-graduales-y-nuevos-riesgos-para-el-sector-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La IA puede cumplir la promesa de productividad que el seguro persigue desde hace dos décadas",
+      "resumen": "La inteligencia artificial tiene el potencial de revertir un fenómeno inédito: pese a años de digitalización, la industria aseguradora hoy es más costosa que hace veinte años. Desde McKinsey advierten que el verdadero…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-27",
+      "url": "https://100seguro.com.ar/la-ia-puede-cumplir-la-promesa-de-productividad-que-el-seguro-persigue-desde-hace-dos-decadas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/McKinsey-productividad.png"
+    },
+    {
+      "titulo": "RESOL-2026-378-APN-SSN#MEC – BONIFICACIÓN DESEMPEÑO DESTACADO 2025",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-378-apn-ssnmec-bonificacion-desempeno-destacado-2025/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-375-APN-SSN#MEC – IMPEDIMENTOS PUNTOS 7 Y 9 DEL RGAA – Sr. Sebastián Martín BETTES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-375-apn-ssnmec-impedimentos-puntos-7-y-9-del-rgaa-sr-sebastian-martin-bettes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-374-APN-SSN#MEC – REHABILITACIÓN DE PAS",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-374-apn-ssnmec-rehabilitacion-de-pas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-373-APN-SSN#MEC – OMINT S.A. COMPAÑÍA DE SEGUROS – AUTORIZACIÓN RAMA SEPELIO – SEGURO COLECTIVO DE SEPELIO Y SEGURO INDIVIDUAL DE SEPELIO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-373-apn-ssnmec-omint-s-a-compania-de-seguros-autorizacion-rama-sepelio-seguro-colectivo-de-sepelio-y-seguro-individual-de-sepelio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-372-APN-SSN#MEC – LOGRAR COMPAÑÍA DE SEGUROS DE PERSONAS S.A. – PLAN DE REGULARIZACIÓN Y SANEAMIENTO DEFICIT EECC AL 30.6.2026 – MEDIDAS CAUTELARES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-372-apn-ssnmec-lograr-compania-de-seguros-de-personas-s-a-plan-de-regularizacion-y-saneamiento-deficit-eecc-al-30-6-2026-medidas-cautelares/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-371-APN-SSN#MEC – IMPEDIMENTO PUNTO 9 RGAA – Sr. Gabriel Eduardo HAMUI",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-371-apn-ssnmec-impedimento-punto-9-rgaa-sr-gabriel-eduardo-hamui/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-370-APN-SSN#MEC – CRÉDITO REGIONAL COMPAÑÍA FINANCIERA S.A.U. – INSCRIPCIÓN RAI",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-370-apn-ssnmec-credito-regional-compania-financiera-s-a-u-inscripcion-rai/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-369-APN-SSN#MEC – SOCIAL SAN JUAN SEGUROS DE PERSONAS S.A. – REVOCACIÓN DE LA AUTORIZACIÓN PARA OPERAR",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-369-apn-ssnmec-social-san-juan-seguros-de-personas-s-a-revocacion-de-la-autorizacion-para-operar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-368-APN-SSN#MEC – ASEGURADORA DEL FINISTERRE COMPAÑÍA ARGENTINA DE SEGUROS S.A. – MEDIDAS CAUTELARES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-368-apn-ssnmec-aseguradora-del-finisterre-compania-argentina-de-seguros-s-a-medidas-cautelares/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-367-APN-SSN#MEC – COMARSEG COMPAÑÍA ARGENTINA DE SEGUROS S.A. – MEDIDAS CAUTELARES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-27",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-367-apn-ssnmec-comarseg-compania-argentina-de-seguros-s-a-medidas-cautelares/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La inteligencia artificial no viene por tu trabajo, sino por tus tareas repetitivas",
+      "resumen": "Por Gerónimo Maspero, CTO y cofundador de Humand.- Cada vez que una tecnología disruptiva aparece, el primer reflejo de la sociedad es el miedo a ser reemplazados. Lo vimos con las distintas revoluciones a lo largo de…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-26",
+      "url": "https://100seguro.com.ar/la-inteligencia-artificial-no-viene-por-tu-trabajo-sino-por-tus-tareas-repetitivas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Geronimo-Maspero-150x150.jpg"
+    },
+    {
+      "titulo": "Braven: la insurtech de ADN colombiano que está revolucionando el reaseguro con IA agéntica desde Silicon Valley",
+      "resumen": "Carlos Chávez vendió su startup anterior por USD 51 millones en ventas, volvió a las raíces familiares del reaseguro y junto a Daniel Palacios construyó Braven desde San Francisco. En pocos meses ya procesan USD 850…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-26",
+      "url": "https://100seguro.com.ar/braven-la-insurtech-de-adn-colombiano-que-esta-revolucionando-el-reaseguro-con-ia-agentica-desde-silicon-valley/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/HUGUES-BERTIN-150x150.png"
+    },
+    {
+      "titulo": "IA agéntica: la nueva evolución de la inteligencia artificial en seguros",
+      "resumen": "Referentes de aseguradoras, tecnología y canales analizaron en Tecnoestrategas 2026 el avance de la IA agéntica y su impacto en el negocio asegurador, en un panel moderado por bdt global. La entrada IA agéntica: la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-26",
+      "url": "https://100seguro.com.ar/ia-agentica-la-nueva-evolucion-de-la-inteligencia-artificial-en-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Visto bueno de la SSN al plan de saneamiento presentado por aseguradora",
+      "resumen": "RESOLUCIÓN SSN 372/2026.- La Superintendencia de Seguros de la Nación (SSN) aprobó el Plan de Regularización y Saneamiento presentado por Lograr Compañía de Seguros de Personas S.A., luego de que sus Estados Contables…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-08-26",
+      "url": "https://100seguro.com.ar/visto-bueno-de-la-ssn-al-plan-de-saneamiento-presentado-por-aseguradora/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“Chile tiene un mercado asegurador dinámico y competitivo, pero esconde brechas de protección importantes”",
+      "resumen": "El director ejecutivo de la Asociación de Aseguradores de Chile, Marcelo Mosso, analizó la evolución del mercado, las principales brechas de protección y los desafíos que plantean el envejecimiento poblacional, la salud…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-26",
+      "url": "https://100seguro.com.ar/chile-tiene-un-mercado-asegurador-dinamico-y-competitivo-pero-esconde-brechas-de-proteccion-importantes/",
       "imagen": ""
     },
     {
       "titulo": "Grupo San Cristóbal analizó el impacto de la IA en el futuro del mercado asegurador",
       "resumen": "La compañía formó parte del Seminario Internacional Actuar.IA, un espacio que reunió a referentes del sector asegurador, actuarial, académico y tecnológico para debatir sobre los desafíos y oportunidades que plantea la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-25",
-      "url": "https://100seguro.com.ar/grupo-san-cristobal-analizo-el-impacto-de-la-ia-en-el-futuro-del-mercado-asegurador/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Grupo-San-Cristobal-en-Actuar.IA-2026-panel-1.jpg"
-    },
-    {
-      "titulo": "Sancor Seguros presenta a Cori y evoluciona su experiencia de atención digital con IA",
-      "resumen": "La compañía incorpora inteligencia artificial en la atención por voz y transforma sus canales digitales con una experiencia más ágil, cercana y disponible a cualquier hora. La entrada Sancor Seguros presenta a Cori y…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-25",
-      "url": "https://100seguro.com.ar/sancor-seguros-presenta-a-cori-y-evoluciona-su-experiencia-de-atencion-digital-con-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguridad y logística: el 83% de los robos al transporte de mercadería golpea a los vehículos utilitarios",
-      "resumen": "La IA y la videovigilancia móvil ganan protagonismo en un escenario donde ya no alcanza con saber dónde está un vehículo, sino que es necesario controlar qué ocurre durante el recorrido. La entrada Seguridad y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-25",
-      "url": "https://100seguro.com.ar/seguridad-y-logistica-el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA dio el puntapié inicial a la Escuela Argentina de Seguros",
-      "resumen": "La Federación Argentina de Productores Asesores de Seguros oficializó la transformación del Centro Federal de Capacitación en la EAS. Con una plataforma digital centralizada, reconocimiento automático para socios y una…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-08-25",
-      "url": "https://elseguroenaccion.com.ar/fapasa-dio-el-puntapie-inicial-a-la-escuela-argentina-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cuatro aseguradoras sancionadas en un solo día",
-      "resumen": "En apenas 24 horas, el organismo de control dictó medidas cautelares contra tres compañías por incumplimientos contables y patrimoniales, y revocó la autorización para operar de una cuarta que ya no podrá vender pólizas…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-25",
-      "url": "https://elseguroenaccion.com.ar/cuatro-aseguradoras-sancionadas-en-un-solo-dia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Casi el 96% de los hurtos de vehículos ocurre en la vía pública",
-      "resumen": "Según el último “Indicador Ituran de Robo Vehicular (IRV)”, en julio la incidencia de los hurtos en la vía pública registró una suba de 21,74 puntos porcentuales respecto del mes anterior. Ituran Argentina, empresa…",
       "fuente": "Informe Operadores",
       "categoria": "Mercado",
-      "fecha": "2026-08-25",
-      "url": "https://www.informeoperadores.com.ar/2026/08/25/casi-el-96-de-los-hurtos-de-vehiculos-ocurre-en-la-via-publica/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/IRV-600x400.jpg"
+      "fecha": "2026-08-26",
+      "url": "https://www.informeoperadores.com.ar/2026/08/26/grupo-san-cristobal-analizo-el-impacto-de-la-ia-en-el-futuro-del-mercado-asegurador/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/unnamed7-600x401.jpg"
     },
     {
-      "titulo": "Motores del crecimiento en el seguro argentino",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Pastore, chairman de Special División Reinsurance Brokers, analizó cómo minería, energía y agro impulsan la demanda aseguradora, la situación del reaseguro…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-24",
-      "url": "https://mercadosyseguros.com/motores-del-crecimiento-en-el-seguro-argentino/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Colegio condenado por caída de niño en inflable",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Cámara Civil confirmó la condena a un colegio por las lesiones sufridas por un niño de cinco años que cayó de un inflable de tres metros el 13 de julio de 2019. El…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-24",
-      "url": "https://mercadosyseguros.com/colegio-condenado-por-caida-de-nino-en-inflable/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Omint realizó un taller de cocina para sus PAS",
-      "resumen": "Omint llevó adelante una experiencia gastronómica exclusiva como parte de sus acciones destinadas a fortalecer el vínculo y generar nuevos espacios de encuentro con sus PAS. La actividad se llevó a cabo en Cocina…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-24",
-      "url": "https://100seguro.com.ar/omint-realizo-un-taller-de-cocina-para-sus-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cooperación Seguros renueva Asegurados Online y fortalece su experiencia digital",
-      "resumen": "La compañía presenta una nueva imagen de Asegurados Online (AOL), su plataforma digital para asegurados, con el objetivo de ofrecer una experiencia más actual y continuar fortaleciendo el vínculo con sus clientes a…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-24",
-      "url": "https://100seguro.com.ar/cooperacion-seguros-renueva-asegurados-online-y-fortalece-su-experiencia-digital/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del scroll a la compra: los desafíos tecnológicos detrás de una experiencia en tiempo real",
-      "resumen": "Las redes sociales, apps de mensajería y los nuevos hábitos digitales están redefiniendo la forma en que las personas descubren productos y toman decisiones de compra. Para las empresas, el desafío ya no es solamente…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-24",
-      "url": "https://100seguro.com.ar/del-scroll-a-la-compra-los-desafios-tecnologicos-detras-de-una-experiencia-en-tiempo-real/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Llegó Claimy, el asistente IA de Claims Services",
-      "resumen": "Claimy es el nuevo asistente IA que ya está disponible en las plataformas 24Siete y Hogar. Permite resolver de forma rápida consultas frecuentes sobre el funcionamiento de las soluciones. La entrada Llegó Claimy, el…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-24",
-      "url": "https://100seguro.com.ar/llego-claimy-el-asistente-ia-de-claims-services/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2023/11/Leonardo-Valseche_3.jpg"
-    },
-    {
-      "titulo": "Oportunidad para capacitarse en Responsabilidad Civil Aplicada: gratis, online y con certificación universitaria",
-      "resumen": "El abordaje de casos reales y jurisprudencia aporta herramientas para evaluar riesgos, interpretar correctamente las pólizas y tomar decisiones con mayor fundamento. La entrada Oportunidad para capacitarse en…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-24",
-      "url": "https://100seguro.com.ar/oportunidad-para-capacitarse-en-responsabilidad-civil-aplicada-gratis-online-y-con-certificacion-universitaria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "En Julio se duplicaron los robos de vehículos en el interior del país",
-      "resumen": "El dato surge de la comparación con el mismo mes del 2025. En lo que va de 2026, los operativos por robo fuera de Buenos Aires equivalen al 80% del total de casos registrados en todo el año pasado. El robo de vehículos…",
+      "titulo": "SANCOR SEGUROS presenta a Cori y evoluciona su experiencia de atención digital con IA",
+      "resumen": "La compañía incorpora inteligencia artificial en la atención por voz y transforma sus canales digitales con una experiencia más ágil, cercana y disponible a cualquier hora. SANCOR SEGUROS presenta a Cori, su asistente…",
       "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-24",
-      "url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/strix-logo-600x400.jpg"
+      "categoria": "Innovación",
+      "fecha": "2026-08-26",
+      "url": "https://www.informeoperadores.com.ar/2026/08/26/sancor-seguros-presenta-a-cori-y-evoluciona-su-experiencia-de-atencion-digital-con-ia/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/Sancor-seguros-logo-600x400.jpg"
     },
     {
-      "titulo": "Diego Coatz: «Antes que un super-RIGI, hace falta un super-RIGI para proveedores”",
-      "resumen": "Gran parte de los industriales locales considera que los regímenes de incentivo a las inversiones los marginan del acceso, y que en su lugar necesitan medidas para sostener las unidades productivas y los puestos de…",
+      "titulo": "Guido Zack: «El super-RIGI lleva al extremo las deficiencias que ya estaban en el régimen previo”",
+      "resumen": "Guido Zack, director de Economía de Fundación Fundar, expone las inconsistencias de los regímenes de incentivo a las grandes inversiones implementados por el Gobierno y ofrece alternativas para equilibrar la balanza…",
       "fuente": "NBS",
       "categoria": "Mercado",
-      "fecha": "2026-08-24",
-      "url": "https://nbs.ar/diego-coatz-antes-que-un-super-rigi-hace-falta-un-super-rigi-para-proveedores/",
+      "fecha": "2026-08-26",
+      "url": "https://nbs.ar/guido-zack-el-super-rigi-lleva-al-extremo-las-deficiencias-que-ya-estaban-en-el-regimen-previo/",
       "imagen": ""
     },
     {
-      "titulo": "AAPAS: balance del primer semestre y agenda para el segundo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS cerró a fines de julio el balance del primer semestre de 2026: trece comisiones presentaron avances y definieron la agenda para la segunda mitad del año, con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-23",
-      "url": "https://mercadosyseguros.com/aapas-balance-del-primer-semestre-y-agenda-para-el-segundo/",
+      "titulo": "Osvaldo Giordano: “Buena parte de los objetivos del super-RIGI se podrían lograr sin una nueva normativa de excepción”",
+      "resumen": "El economista Osvaldo Giordano, presidente del IERAL de la Fundación Mediterránea, evalúa los riesgos y los beneficios del programa RIGI para incentivar las inversiones. La entrada Osvaldo Giordano: “Buena parte de los…",
+      "fuente": "NBS",
+      "categoria": "Regulación",
+      "fecha": "2026-08-26",
+      "url": "https://nbs.ar/osvaldo-giordano-buena-parte-de-los-objetivos-del-super-rigi-se-podrian-lograr-sin-una-nueva-normativa-de-excepcion/",
       "imagen": ""
     },
     {
-      "titulo": "Mapfre patrocina los octavos de la CONMEBOL Libertadores 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre confirmó su patrocinio de la CONMEBOL Libertadores y acompaña los octavos de final de agosto de 2026. La final está programada para el 28 de noviembre de 2026…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Rivadavia Seguros celebra el Día de la Niñez con una acción solidaria a nivel nacional",
+      "resumen": "En el contexto de las celebraciones por el Día de la Niñez, Rivadavia Seguros, a través de su Fundación, realizó una acción solidaria en todo el país. Esta iniciativa tiene como objetivo principal llevar alegría a los…",
+      "fuente": "NBS",
       "categoria": "Mercado",
-      "fecha": "2026-08-23",
-      "url": "https://mercadosyseguros.com/mapfre-patrocina-los-octavos-de-la-conmebol-libertadores-2026/",
+      "fecha": "2026-08-26",
+      "url": "https://nbs.ar/rivadavia-seguros-celebra-el-dia-de-la-ninez-con-una-accion-solidaria-a-nivel-nacional/",
       "imagen": ""
-    },
-    {
-      "titulo": "Grupo San Cristóbal en la Jornada COMEX Norpatagónica",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo San Cristóbal participó el 13 de agosto en la Jornada COMEX Norpatagónica en Neuquén. Federico Talín y Juan José Campos expusieron sobre riesgos en la cadena…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-23",
-      "url": "https://mercadosyseguros.com/grupo-san-cristobal-en-la-jornada-comex-norpatagonica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día Mundial del Peatón: reglas y responsabilidad al cruzar",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17 de agosto, Día Mundial del Peatón, recuerda la protección legal y las reglas que rigen la conducta de peatones en Argentina. El artículo del Dr. Martín D.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://mercadosyseguros.com/dia-mundial-del-peaton-reglas-y-responsabilidad-al-cruzar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AVIRA recibió 679 trabajos en el 12° concurso Generando Conciencia",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AVIRA cerró la 12ª edición del concurso Generando Conciencia con 679 trabajos recibidos: 487 gráficas, 133 audiovisuales y 59 en la nueva categoría Advergaming.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://mercadosyseguros.com/avira-recibio-679-trabajos-en-el-12-concurso-generando-conciencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Viaje al colegio: 7 hábitos para reducir riesgos viales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros advierte que la habituación aumenta el riesgo en los viajes diarios al colegio. Con datos de la Agencia Nacional de Seguridad Vial (3.255 siniestros…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://mercadosyseguros.com/viaje-al-colegio-7-habitos-para-reducir-riesgos-viales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El 75% de los clientes rechaza la atención por IA",
-      "resumen": "Un análisis de Olivia, consultora en transformación organizacional, respaldado por datos de la OIT y PwC, revela que delegar la empatía, el riesgo corporativo y la voz del liderazgo en algoritmos destruye la confianza…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-21",
-      "url": "https://www.informeoperadores.com.ar/2026/08/21/el-75-de-los-clientes-rechaza-la-atencion-por-ia/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/future-artificial-intelligence-robot-cyborg-600x387.jpg"
     }
   ]
 }
