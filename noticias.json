@@ -1,42 +1,60 @@
 {
-  "actualizado": "2026-08-29T11:06-03:00",
+  "actualizado": "2026-08-30T11:17-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Inszone compra Aviza: expansión en Michigan",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Inszone Insurance Services adquirió Aviza Insurance Agency, Inc. el 28 de agosto de 2026, integrando a su red una agencia fundada en 1966 con fuerte presencia en…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Un nuevo beneficio para cuidar a toda la familia: ahora los socios de OSDE cuentan con un plan especial de Vetify para sus mascotas",
+      "resumen": "La prepaga de salud y Vetify firmaron un acuerdo para integrar la atención de las mascotas al programa de beneficios MÁS OSDE. En Argentina, 8 de cada 10 hogares conviven con un perro o un gato. Las mascotas se…",
+      "fuente": "Informe Operadores",
       "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://mercadosyseguros.com/inszone-compra-aviza-expansion-en-michigan/",
-      "imagen": ""
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/un-nuevo-beneficio-para-cuidar-a-toda-la-familia-ahora-los-socios-de-osde-cuentan-con-un-plan-especial-de-vetify-para-sus-mascotas/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/OSDE-VETIFY-600x400.jpg"
     },
     {
-      "titulo": "Federación Patronal ART en la XI Jornada Nacional de Ergonomía",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART participó el 30 de julio en la XI Jornada Nacional de Ergonomía en CABA; Marina Lanfranqui actuó como moderadora. La compañía destacó la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://mercadosyseguros.com/federacion-patronal-art-en-la-xi-jornada-nacional-de-ergonomia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "OSDE y Vetify: descuento y membresía veterinaria para afiliados",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com OSDE y Vetify lanzaron un acuerdo que da a afiliados un 30% de descuento los primeros tres meses y 10% desde el cuarto, con membresía anual sin cargo para Flux…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://mercadosyseguros.com/osde-y-vetify-descuento-y-membresia-veterinaria-para-afiliados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros lanzó seguro de retiro 100% digital",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros lanzó en 2026 un Seguro de Retiro con contratación 100% digital, simulador en tiempo real y aportes deducibles del Impuesto a las Ganancias. El…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "De la intuición al dato: el seguro agrícola ante un escenario de “Súper Niño”*",
+      "resumen": "*Por Juana Capdepont | Gerente de Agro en DDN Brokers La forma de gestionar el riesgo climático en el campo está cambiando de la mano de la innovación. Hace no tantos años para saber qué depararía el clima y cómo iba a…",
+      "fuente": "Informe Operadores",
       "categoria": "Innovación",
-      "fecha": "2026-08-28",
-      "url": "https://mercadosyseguros.com/galicia-seguros-lanzo-seguro-de-retiro-100-digital/",
-      "imagen": ""
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/de-la-intuicion-al-dato-el-seguro-agricola-ante-un-escenario-de-super-nino/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Fernando-Yu-Juana-Capdepont-y-Leonardo-de-Benedictis-AAPRESID-2026-600x400.jpg"
+    },
+    {
+      "titulo": "La IA desafía al mercado asegurador",
+      "resumen": "Llevar la inteligencia artificial a producción,transformar procesos, preparar arquitecturas tecnológicas más flexibles y gestionar nuevos riesgos aparecen entre los principales desafíos para la industria aseguradora,…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/la-ia-desafia-al-mercado-asegurador/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ai-document-management-systems-automatically-categorize-organize-documents-making-retrieval-quick-efficient-600x400.jpg"
+    },
+    {
+      "titulo": "RUS, la Municipalidad y la Policía promovieron la educación vial entre jóvenes",
+      "resumen": "Con el objetivo de promover la concientización y la formación en prevención y responsabilidad vial, se realizó este miércoles 26 de agosto una capacitación destinada a estudiantes de 5° y 6° año de escuelas secundarias…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/rus-la-municipalidad-y-la-policia-promovieron-la-educacion-vial-entre-jovenes/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/6-600x450.jpeg"
+    },
+    {
+      "titulo": "El 83% de los robos al transporte de mercadería golpea a los vehículos utilitarios",
+      "resumen": "La IA y la videovigilancia móvil ganan protagonismo en un escenario donde ya no alcanza con saber dónde está un vehículo, sino que es necesario controlar qué ocurre durante el recorrido. Cada compra online pone en…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Casel-25-anos-600x400.jpg"
+    },
+    {
+      "titulo": "Rivadavia Seguros festejó el Día de la Niñez conuna nueva acción solidaria en todo el país",
+      "resumen": "En el marco de las celebraciones por el Día de la Niñez, la Fundación Rivadavia desplegó una iniciativa solidaria de alcance nacional orientada a fortalecer el desarrollo social y lacontención de niños y niñas en todo…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/rivadavia-seguros-festejo-el-dia-de-la-ninez-conuna-nueva-accion-solidaria-en-todo-el-pais/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Rivadavia-Seguros-festejo-el-Dia-de-la-Ninez-con-una-nueva-accion-solidaria-en-todo-el-pais-3-600x480.jpeg"
     },
     {
       "titulo": "La SRT y San Luis avanzan en la implementación de un cuerpo de peritos especializado en riesgos del trabajo",
@@ -120,15 +138,6 @@
       "imagen": ""
     },
     {
-      "titulo": "La SSN bajo la lupa: cuando controlar exige también dar el ejemplo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tras la liquidación de Galeno ART, la SSN cambió la administración del Fondo de Reserva de las ART. Las preguntas de transparencia sobre el proceso y los honorarios.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://mercadosyseguros.com/ssn-fondo-reserva-art-transparencia/",
-      "imagen": ""
-    },
-    {
       "titulo": "Planificar el futuro, más simple que nunca: Galicia Seguros presenta su seguro de retiro con contratación 100% digital",
       "resumen": "La mayor expectativa de vida y la necesidad de reforzar los ingresos durante la jubilación están impulsando el interés por alternativas de ahorro para planificar el retiro, según un estudio realizado por la compañía. El…",
       "fuente": "100% Seguro",
@@ -207,15 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-08-27",
       "url": "https://elseguroenaccion.com.ar/resol-2026-370-apn-ssnmec-credito-regional-compania-financiera-s-a-u-inscripcion-rai/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-369-APN-SSN#MEC – SOCIAL SAN JUAN SEGUROS DE PERSONAS S.A. – REVOCACIÓN DE LA AUTORIZACIÓN PARA OPERAR",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-369-apn-ssnmec-social-san-juan-seguros-de-personas-s-a-revocacion-de-la-autorizacion-para-operar/",
       "imagen": ""
     }
   ]
