@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-08-30T11:17-03:00",
+  "actualizado": "2026-08-31T13:39-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Agents Intelligence desembarca en Brasil de la mano del 24° Congreso Brasileño de Corredores de Seguros",
+      "resumen": "Agents Intelligence, la plataforma de agentes de IA para corredores de seguros, fue seleccionada entre distintas empresas de innovación para presentar su propuesta en el 24° Congreso Brasileño de Corredores de Seguros,…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-31",
+      "url": "https://100seguro.com.ar/agents-intelligence-desembarca-en-brasil-de-la-mano-del-24-congreso-brasileno-de-corredores-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "APAS Córdoba reunió a 800 productores asesores de seguros para pensar el nuevo rol del vendedor",
+      "resumen": "Jonatan Loidi brindó la conferencia “Vender con inteligencia aumentada y estrategias de diferenciación”, donde planteó las claves para transformar la actividad comercial y construir relaciones de largo plazo con los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-08-31",
+      "url": "https://100seguro.com.ar/apas-cordoba-reunio-a-800-productores-asesores-de-seguros-para-pensar-el-nuevo-rol-del-vendedor/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Loidi-1.jpeg"
+    },
+    {
+      "titulo": "Así está cambiando la inteligencia artificial cada etapa del negocio asegurador",
+      "resumen": "Lejos de limitarse a automatizar tareas puntuales, la inteligencia artificial comienza a generar impacto a lo largo de toda la cadena de valor del seguro. Un informe de McKinsey analiza cómo estas tecnologías están…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-08-31",
+      "url": "https://100seguro.com.ar/asi-esta-cambiando-la-inteligencia-artificial-cada-etapa-del-negocio-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/mckinsey-exhibit-2-e1787341319226.png"
+    },
+    {
+      "titulo": "Urdiroz y Visceglie: Supervisión, Control de Solvencia y Protección del Asegurado",
+      "resumen": "En este programa hablamos con José Urdiroz, CEO de Triunfo Seguros, y Patricio Visceglie, presidente de la consultora SeguSabent Seguros, sobre su reciente visita a legisladores para orientar el proyecto de ley que…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-08-31",
+      "url": "https://elseguroenaccion.com.ar/urdiroz-y-visceglie-supervision-control-de-solvencia-y-proteccion-del-asegurado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CAMBIO EN LA FACTURACIÓN DE LAS ASEGURADORAS",
+      "resumen": "La Resolución General 5893/2026 de ARCA, PUBLICADA EN EL BOLETIN OFICIAL EL DIA 31-08-26, introduce una modificación relevante para el mercado asegurador al exceptuar de la obligación de emitir comprobantes a las…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-08-31",
+      "url": "https://elseguroenaccion.com.ar/cambio-en-la-facturacion-de-las-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuevo régimen para los seguros paramétricos: la SSN y Agricultura avanzan en la modernización del seguro agropecuario",
+      "resumen": "La iniciativa fortalece la cooperación institucional y amplía las alternativas de cobertura para los productores. La Superintendencia de Seguros de la Nación (SSN) y la Secretaría de Agricultura, Ganadería y Pesca de la…",
+      "fuente": "Informe Operadores",
+      "categoria": "Regulación",
+      "fecha": "2026-08-31",
+      "url": "https://www.informeoperadores.com.ar/2026/08/31/nuevo-regimen-para-los-seguros-parametricos-la-ssn-y-agricultura-avanzan-en-la-modernizacion-del-seguro-agropecuario/",
+      "imagen": "https://www.argentina.gob.ar/sites/default/files/ssn_todos_en_mesa.png"
+    },
+    {
+      "titulo": "Seguros y Salud: la SSN presentó los alcances de la Resolución 258/2026 en la Fundación Sanatorio Güemes",
+      "resumen": "La nueva normativa promueve el desarrollo de seguros que complementan el sistema de salud, amplía la oferta de productos y fortalece la protección de las personas. El 6 de agosto, el Superintendente de Seguros de la…",
+      "fuente": "Informe Operadores",
+      "categoria": "Regulación",
+      "fecha": "2026-08-31",
+      "url": "https://www.informeoperadores.com.ar/2026/08/31/seguros-y-salud-la-ssn-presento-los-alcances-de-la-resolucion-258-2026-en-la-fundacion-sanatorio-guemes/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-2-600x337.png"
+    },
+    {
+      "titulo": "La SSN participó de ACTUAR.IA",
+      "resumen": "El encuentro abordó el impacto de la Inteligencia Artificial (IA) en la industria aseguradora, los nuevos modelos de negocio, el fraude, los riesgos financieros y los desafíos regulatorios. La Superintendencia de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Regulación",
+      "fecha": "2026-08-31",
+      "url": "https://www.informeoperadores.com.ar/2026/08/31/la-ssn-participo-de-actuar-ia/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-1-600x358.png"
+    },
+    {
+      "titulo": "Plate en el Forbes Insurance Summit: “El seguro en Argentina tiene un enorme potencial de crecimiento”",
+      "resumen": "El Superintendente analizó la transformación del mercado, las medidas impulsadas por la SSN y los desafíos de la industria. El martes 18 de agosto, Guillermo Plate, Superintendente de Seguros de la Nación, fue…",
+      "fuente": "Informe Operadores",
+      "categoria": "Regulación",
+      "fecha": "2026-08-31",
+      "url": "https://www.informeoperadores.com.ar/2026/08/31/plate-en-el-forbes-insurance-summit-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-600x347.png"
+    },
     {
       "titulo": "Un nuevo beneficio para cuidar a toda la familia: ahora los socios de OSDE cuentan con un plan especial de Vetify para sus mascotas",
       "resumen": "La prepaga de salud y Vetify firmaron un acuerdo para integrar la atención de las mascotas al programa de beneficios MÁS OSDE. En Argentina, 8 de cada 10 hogares conviven con un perro o un gato. Las mascotas se…",
@@ -10,6 +91,15 @@
       "fecha": "2026-08-30",
       "url": "https://www.informeoperadores.com.ar/2026/08/29/un-nuevo-beneficio-para-cuidar-a-toda-la-familia-ahora-los-socios-de-osde-cuentan-con-un-plan-especial-de-vetify-para-sus-mascotas/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/OSDE-VETIFY-600x400.jpg"
+    },
+    {
+      "titulo": "Planificar el futuro, más simple que nunca: Galicia Seguros presenta su Seguro de Retiro con contratación 100% digital",
+      "resumen": "La mayor expectativa de vida y la necesidad de reforzar los ingresos durante la jubilación están impulsando el interés por alternativas de ahorro para planificar el retiro, según un estudio realizado por la compañía.El…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-08-30",
+      "url": "https://www.informeoperadores.com.ar/2026/08/29/planificar-el-futuro-mas-simple-que-nunca-galicia-seguros-presenta-su-seguro-de-retiro-con-contratacion-100-digital/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Retiro-100_-digital-600x400.jpg"
     },
     {
       "titulo": "De la intuición al dato: el seguro agrícola ante un escenario de “Súper Niño”*",
@@ -46,15 +136,6 @@
       "fecha": "2026-08-30",
       "url": "https://www.informeoperadores.com.ar/2026/08/29/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Casel-25-anos-600x400.jpg"
-    },
-    {
-      "titulo": "Rivadavia Seguros festejó el Día de la Niñez conuna nueva acción solidaria en todo el país",
-      "resumen": "En el marco de las celebraciones por el Día de la Niñez, la Fundación Rivadavia desplegó una iniciativa solidaria de alcance nacional orientada a fortalecer el desarrollo social y lacontención de niños y niñas en todo…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/rivadavia-seguros-festejo-el-dia-de-la-ninez-conuna-nueva-accion-solidaria-en-todo-el-pais/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Rivadavia-Seguros-festejo-el-Dia-de-la-Ninez-con-una-nueva-accion-solidaria-en-todo-el-pais-3-600x480.jpeg"
     },
     {
       "titulo": "La SRT y San Luis avanzan en la implementación de un cuerpo de peritos especializado en riesgos del trabajo",
@@ -120,15 +201,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/mckinsey-exhibit-1a-e1787341040507-1024x787-1.png"
     },
     {
-      "titulo": "Balances de las aseguradoras: accedé de manera interactiva a los rankings completos al 30 de junio de 2026",
-      "resumen": "La entrada Balances de las aseguradoras: accedé de manera interactiva a los rankings completos al 30 de junio de 2026 se publicó primero en 100% SEGURO .",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/informe-de-mercado-de-seguros-al-30-de-junio-de-2026/",
-      "imagen": ""
-    },
-    {
       "titulo": "AVIRA premió las ideas que buscan transformar la conciencia aseguradora Ganadores del Concurso de Creatividad",
       "resumen": "La Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina, AVIRA, anuncia a los ganadores de la 12° edición del Concurso de Creatividad «Generando Conciencia Aseguradora», una iniciativa que busca…",
       "fuente": "El Seguro en Acción",
@@ -138,84 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Planificar el futuro, más simple que nunca: Galicia Seguros presenta su seguro de retiro con contratación 100% digital",
-      "resumen": "La mayor expectativa de vida y la necesidad de reforzar los ingresos durante la jubilación están impulsando el interés por alternativas de ahorro para planificar el retiro, según un estudio realizado por la compañía. El…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-27",
-      "url": "https://100seguro.com.ar/planificar-el-futuro-mas-simple-que-nunca-galicia-seguros-presenta-su-seguro-de-retiro-con-contratacion-100-digital/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una oportunidad para ampliar el acceso a la salud en Argentina",
-      "resumen": "La Resolución 258/2026 de la Superintendencia de Seguros de la Nación permite la creación de nuevos productos dentro de las pólizas de salud y asegura el ingreso de miles de argentinos al sistema médico. La entrada Una…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://100seguro.com.ar/una-oportunidad-para-ampliar-el-acceso-a-la-salud-en-argentina-2/",
-      "imagen": ""
-    },
-    {
       "titulo": "RESOL-2026-378-APN-SSN#MEC – BONIFICACIÓN DESEMPEÑO DESTACADO 2025",
       "resumen": "",
       "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
       "fecha": "2026-08-27",
       "url": "https://elseguroenaccion.com.ar/resol-2026-378-apn-ssnmec-bonificacion-desempeno-destacado-2025/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-375-APN-SSN#MEC – IMPEDIMENTOS PUNTOS 7 Y 9 DEL RGAA – Sr. Sebastián Martín BETTES",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-375-apn-ssnmec-impedimentos-puntos-7-y-9-del-rgaa-sr-sebastian-martin-bettes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-374-APN-SSN#MEC – REHABILITACIÓN DE PAS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-374-apn-ssnmec-rehabilitacion-de-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-373-APN-SSN#MEC – OMINT S.A. COMPAÑÍA DE SEGUROS – AUTORIZACIÓN RAMA SEPELIO – SEGURO COLECTIVO DE SEPELIO Y SEGURO INDIVIDUAL DE SEPELIO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-373-apn-ssnmec-omint-s-a-compania-de-seguros-autorizacion-rama-sepelio-seguro-colectivo-de-sepelio-y-seguro-individual-de-sepelio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-372-APN-SSN#MEC – LOGRAR COMPAÑÍA DE SEGUROS DE PERSONAS S.A. – PLAN DE REGULARIZACIÓN Y SANEAMIENTO DEFICIT EECC AL 30.6.2026 – MEDIDAS CAUTELARES",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-372-apn-ssnmec-lograr-compania-de-seguros-de-personas-s-a-plan-de-regularizacion-y-saneamiento-deficit-eecc-al-30-6-2026-medidas-cautelares/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-371-APN-SSN#MEC – IMPEDIMENTO PUNTO 9 RGAA – Sr. Gabriel Eduardo HAMUI",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-371-apn-ssnmec-impedimento-punto-9-rgaa-sr-gabriel-eduardo-hamui/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-370-APN-SSN#MEC – CRÉDITO REGIONAL COMPAÑÍA FINANCIERA S.A.U. – INSCRIPCIÓN RAI",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-370-apn-ssnmec-credito-regional-compania-financiera-s-a-u-inscripcion-rai/",
       "imagen": ""
     }
   ]
