@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-08-31T13:39-03:00",
+  "actualizado": "2026-09-01T10:54-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "La IA redefine el futuro de la intermediación de seguros con tres ejes centrales que nadie puede desconocer",
+      "resumen": "Un reciente informe de McKinsey advierte que la inteligencia artificial podría alterar por primera vez en décadas la economía de la distribución de seguros. El interrogante ya no es si desaparecerán los intermediarios,…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/la-ia-redefine-el-futuro-de-la-intermediacion-de-seguros-con-tres-ejes-centrales-que-nadie-puede-desconocer/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Los-intermediarios-han-capturado-valor-de-manera-consistente.png"
+    },
     {
       "titulo": "Agents Intelligence desembarca en Brasil de la mano del 24° Congreso Brasileño de Corredores de Seguros",
       "resumen": "Agents Intelligence, la plataforma de agentes de IA para corredores de seguros, fue seleccionada entre distintas empresas de innovación para presentar su propuesta en el 24° Congreso Brasileño de Corredores de Seguros,…",
@@ -82,6 +91,24 @@
       "fecha": "2026-08-31",
       "url": "https://www.informeoperadores.com.ar/2026/08/31/plate-en-el-forbes-insurance-summit-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-600x347.png"
+    },
+    {
+      "titulo": "Leonardo Oliveto: «Las aseguradoras debemos estar a la altura de esa transformación”",
+      "resumen": "Leonardo Oliveto, coordinador de Canal Concesionarios de ATM Seguros, una de las compañías que más trabaja con este segmento, analiza para NBS los nuevos desafíos y las oportunidades que presenta el creciente incremento…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-31",
+      "url": "https://nbs.ar/leonardo-oliveto-las-aseguradoras-debemos-estar-a-la-altura-de-esa-transformacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mariano Mancurti: Personalización y segmentación, las estrategias de fidelización del BBVA",
+      "resumen": "BBVA presentó una nueva propuesta que diferencia perfiles orientados al ahorro cotidiano, los viajes o una combinación de ambos. La entrada Mariano Mancurti: Personalización y segmentación, las estrategias de…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-08-31",
+      "url": "https://nbs.ar/mariano-mancurti-personalizacion-y-segmentacion-las-estrategias-de-fidelizacion-del-bbva/",
+      "imagen": ""
     },
     {
       "titulo": "Un nuevo beneficio para cuidar a toda la familia: ahora los socios de OSDE cuentan con un plan especial de Vetify para sus mascotas",
@@ -190,33 +217,6 @@
       "fecha": "2026-08-28",
       "url": "https://100seguro.com.ar/de-la-intuicion-al-dato-el-seguro-agricola-ante-un-escenario-de-super-nino/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2024/03/Juana-Capdepont-150x150.jpg"
-    },
-    {
-      "titulo": "Ya no alcanza con sumar IA: el desafío ahora es transformar a toda la aseguradora",
-      "resumen": "La inteligencia artificial está redefiniendo el negocio asegurador y las compañías que continúen implementándola mediante proyectos aislados corren el riesgo de quedar rezagadas. La consultora McKinsey plantea que el…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/ya-no-alcanza-con-sumar-ia-el-desafio-ahora-es-transformar-a-toda-la-aseguradora/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/mckinsey-exhibit-1a-e1787341040507-1024x787-1.png"
-    },
-    {
-      "titulo": "AVIRA premió las ideas que buscan transformar la conciencia aseguradora Ganadores del Concurso de Creatividad",
-      "resumen": "La Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina, AVIRA, anuncia a los ganadores de la 12° edición del Concurso de Creatividad «Generando Conciencia Aseguradora», una iniciativa que busca…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://elseguroenaccion.com.ar/avira-premio-las-ideas-que-buscan-transformar-la-conciencia-aseguradora-ganadores-del-concurso-de-creatividad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-378-APN-SSN#MEC – BONIFICACIÓN DESEMPEÑO DESTACADO 2025",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-27",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-378-apn-ssnmec-bonificacion-desempeno-destacado-2025/",
-      "imagen": ""
     }
   ]
 }
