@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-09-01T10:54-03:00",
+  "actualizado": "2026-09-02T10:11-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "817",
+      "resumen": "La entrada 817 se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://www.informeoperadores.com.ar/2026/09/02/817/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Tapa-817-R90.jpg"
+    },
+    {
+      "titulo": "La era de la inteligencia en seguros: de la promesa a la ventaja competitiva",
+      "resumen": "El Director de Seguros de Capgemini Brasil analiza cómo la inteligencia artificial está dejando atrás la etapa de experimentación en el sector asegurador para convertirse en un factor estratégico de competitividad. En…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/la-era-de-la-inteligencia-en-seguros-de-la-promesa-a-la-ventaja-competitiva/",
+      "imagen": ""
+    },
+    {
+      "titulo": "En agosto no cambió la tendencia de los patentamientos: motos al alza y autos a la baja",
+      "resumen": "Al igual que los meses anteriores, agosto tuvo altas y bajas para el mercado automotor y de motovehículos en Argentina. En el caso de los autos, durante el octavo mes de 2026 se patentaron 44.415 vehículos, lo que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/en-agosto-no-cambio-la-tendencia-de-los-patentamientos-motos-al-alza-y-autos-a-la-baja/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Patentamiento-de-autos-Agosto-2026-Resumen-del-mercado.png"
+    },
+    {
+      "titulo": "Mapfre acompañó la jornada “Productor Asesor de Alto Impacto” para impulsar la innovación comercial en Córdoba",
+      "resumen": "El encuentro contó con el sponsoreo de Mapfre y reunió a productores asesores de seguros para capacitarse en innovación comercial y nuevas tecnologías aplicadas al sector. La entrada Mapfre acompañó la jornada…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/mapfre-acompano-la-jornada-productor-asesor-de-alto-impacto-para-impulsar-la-innovacion-comercial-en-cordoba/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Chubb detecta que las pymes argentinas financian su operación con capital propio mientras los costos de producción se disparan",
+      "resumen": "Chubb, compañía global líder en seguros, presenta nuevos hallazgos de su Barómetro de Pymes en Argentina. El estudio expone la dependencia financiera de las pequeñas y medianas empresas y detalla los riesgos operativos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/chubb-detecta-que-las-pymes-argentinas-financian-su-operacion-con-capital-propio-mientras-los-costos-de-produccion-se-disparan/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El dato que define la rentabilidad: cómo un error en el alta termina en rechazos, multas y pérdida de margen",
+      "resumen": "Por Santiago del Peral, CEO de Debi.- En la mayoría de las aseguradoras, cuando el equipo de cobranzas se sienta a revisar el cierre del mes, la conversación arranca por el mismo lugar: los rechazos. Cuántos fueron,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/el-dato-que-define-la-rentabilidad-como-un-error-en-el-alta-termina-en-rechazos-multas-y-perdida-de-margen/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Santiago-del-Peral-DEBI-150x150.png"
+    },
+    {
+      "titulo": "Mercer, líder en personas e inversiones, adopta la marca Marsh a partir de septiembre",
+      "resumen": "Marsh, firma global líder en servicios profesionales, anunció que su negocio de personas e inversiones, Mercer, adoptará la marca Marsh a partir del 1 de septiembre de 2026. Mercer ha sido un negocio de Marsh desde…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://100seguro.com.ar/mercer-lider-en-personas-e-inversiones-adopta-la-marca-marsh-a-partir-de-septiembre/",
+      "imagen": ""
+    },
     {
       "titulo": "La IA redefine el futuro de la intermediación de seguros con tres ejes centrales que nadie puede desconocer",
       "resumen": "Un reciente informe de McKinsey advierte que la inteligencia artificial podría alterar por primera vez en décadas la economía de la distribución de seguros. El interrogante ya no es si desaparecerán los intermediarios,…",
@@ -10,6 +73,105 @@
       "fecha": "2026-09-01",
       "url": "https://100seguro.com.ar/la-ia-redefine-el-futuro-de-la-intermediacion-de-seguros-con-tres-ejes-centrales-que-nadie-puede-desconocer/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Los-intermediarios-han-capturado-valor-de-manera-consistente.png"
+    },
+    {
+      "titulo": "RUS, la Municipalidad y la Policía promovieron la educación vial entre jóvenes",
+      "resumen": "Con el objetivo de promover la concientización y la formación en prevención y responsabilidad vial, se realizó este miércoles 26 de agosto una capacitación destinada a estudiantes de 5° y 6° año de escuelas secundarias…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/rus-la-municipalidad-y-la-policia-promovieron-la-educacion-vial-entre-jovenes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La producción de seguros cayó 5,7% en julio 2026, pero repuntó con fuerza contra junio",
+      "resumen": "El mercado asegurador facturó $2.557.478 millones durante julio, un salto frente al mes anterior aunque todavía por debajo del nivel de un año atrás. Dos ramos fueron los únicos que crecieron en la comparación…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/la-produccion-de-seguros-cayo-57-en-julio-2026-pero-repunto-con-fuerza-contra-junio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA estuvo presente en la celebración por el Día del Liquidador de Seguros",
+      "resumen": "Juan Ignacio Luco, vicepresidente de FAPASA, y Jorge L. Zottos, secretario de la entidad, participaron del festejo organizado por la AALPS y felicitaron a los liquidadores en su día, en una nueva muestra de la…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/fapasa-estuvo-presente-en-la-celebracion-por-el-dia-del-liquidador-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Más de 1.200 aspirantes y PAS rindieron examen en las últimas semanas",
+      "resumen": "Entre el 18 y el 26 de agosto, 652 aspirantes a la matrícula y 563 Productores Asesores de Seguros se presentaron a rendir examen en la sede de FAPASA, en la Ciudad de Buenos Aires. En Córdoba, se entregaron 315…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/mas-de-1-200-aspirantes-y-pas-rindieron-examen-en-las-ultimas-semanas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA abre las puertas de la Escuela Argentina de Seguros, nueva plataforma para la formación del PAS",
+      "resumen": "El histórico Centro Federal de Capacitación evoluciona hacia la EAS, una plataforma digital que integra oferta académica, inscripciones y trayectoria formativa en un mismo lugar. Ya hay cinco Programas de Capacitación…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/fapasa-abre-las-puertas-de-la-escuela-argentina-de-seguros-nueva-plataforma-para-la-formacion-del-pas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-385-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. AUTORIZACIÓN DE RAMA VIDA – SEGURO DE VIDA COLECTIVO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-385-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-de-rama-vida-seguro-de-vida-colectivo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-384-APN-SSN#MEC – SAN MARINO COMPAÑÍA DE SEGUROS SOCIEDAD ANÓNIMA – AUTORIZACIÓN RAMA VIDA – SEGURO DE VIDA COLECTIVO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-384-apn-ssnmec-san-marino-compania-de-seguros-sociedad-anonima-autorizacion-rama-vida-seguro-de-vida-colectivo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-383-APN-SSN#MEC – RÉGIMEN SACIONATORIO – PAS ELÍAS EDUARDO ROMERO, CAMILA VICTORIA RUIS IZASA, JULIO ARIEL TORO LEANIZ Y HERMES EDUARDO RODRÍGUEZ – FIRMA “HERMES ASESORES DE SEGUROS” Y/O “HERMES SEGUROS”",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-383-apn-ssnmec-regimen-sacionatorio-pas-elias-eduardo-romero-camila-victoria-ruis-izasa-julio-ariel-toro-leaniz-y-hermes-eduardo-rodriguez-firma-hermes-asesores-de-se/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-382-APN-SSN#MEC – PING AN PROPERTY & CASUALTY INSURANCE COMPANY OF CHINA LTD. – INSCRIPCIÓN COMO REASEGURADORA ADMITIDA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-382-apn-ssnmec-ping-an-property-casualty-insurance-company-of-china-ltd-inscripcion-como-reaseguradora-admitida/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-381-APN-SSN#MEC – IES SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A.S. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-01",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-381-apn-ssnmec-ies-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mercer adoptará la marca Marsh en septiembre, consolidando su liderazgo en servicios profesionales",
+      "resumen": "Esta decisión se enmarca dentro de una estrategia de unificación de marcas que busca fortalecer su presencia en el mercado y ofrecer una propuesta de valor más cohesiva a sus clientes. La fusión de identidades permitirá…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-01",
+      "url": "https://nbs.ar/mercer-adoptara-la-marca-marsh-en-septiembre-consolidando-su-liderazgo-en-servicios-profesionales/",
+      "imagen": ""
     },
     {
       "titulo": "Agents Intelligence desembarca en Brasil de la mano del 24° Congreso Brasileño de Corredores de Seguros",
@@ -39,24 +201,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/mckinsey-exhibit-2-e1787341319226.png"
     },
     {
-      "titulo": "Urdiroz y Visceglie: Supervisión, Control de Solvencia y Protección del Asegurado",
-      "resumen": "En este programa hablamos con José Urdiroz, CEO de Triunfo Seguros, y Patricio Visceglie, presidente de la consultora SeguSabent Seguros, sobre su reciente visita a legisladores para orientar el proyecto de ley que…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-08-31",
-      "url": "https://elseguroenaccion.com.ar/urdiroz-y-visceglie-supervision-control-de-solvencia-y-proteccion-del-asegurado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CAMBIO EN LA FACTURACIÓN DE LAS ASEGURADORAS",
-      "resumen": "La Resolución General 5893/2026 de ARCA, PUBLICADA EN EL BOLETIN OFICIAL EL DIA 31-08-26, introduce una modificación relevante para el mercado asegurador al exceptuar de la obligación de emitir comprobantes a las…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-08-31",
-      "url": "https://elseguroenaccion.com.ar/cambio-en-la-facturacion-de-las-aseguradoras/",
-      "imagen": ""
-    },
-    {
       "titulo": "Nuevo régimen para los seguros paramétricos: la SSN y Agricultura avanzan en la modernización del seguro agropecuario",
       "resumen": "La iniciativa fortalece la cooperación institucional y amplía las alternativas de cobertura para los productores. La Superintendencia de Seguros de la Nación (SSN) y la Secretaría de Agricultura, Ganadería y Pesca de la…",
       "fuente": "Informe Operadores",
@@ -73,150 +217,6 @@
       "fecha": "2026-08-31",
       "url": "https://www.informeoperadores.com.ar/2026/08/31/seguros-y-salud-la-ssn-presento-los-alcances-de-la-resolucion-258-2026-en-la-fundacion-sanatorio-guemes/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-2-600x337.png"
-    },
-    {
-      "titulo": "La SSN participó de ACTUAR.IA",
-      "resumen": "El encuentro abordó el impacto de la Inteligencia Artificial (IA) en la industria aseguradora, los nuevos modelos de negocio, el fraude, los riesgos financieros y los desafíos regulatorios. La Superintendencia de…",
-      "fuente": "Informe Operadores",
-      "categoria": "Regulación",
-      "fecha": "2026-08-31",
-      "url": "https://www.informeoperadores.com.ar/2026/08/31/la-ssn-participo-de-actuar-ia/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-1-600x358.png"
-    },
-    {
-      "titulo": "Plate en el Forbes Insurance Summit: “El seguro en Argentina tiene un enorme potencial de crecimiento”",
-      "resumen": "El Superintendente analizó la transformación del mercado, las medidas impulsadas por la SSN y los desafíos de la industria. El martes 18 de agosto, Guillermo Plate, Superintendente de Seguros de la Nación, fue…",
-      "fuente": "Informe Operadores",
-      "categoria": "Regulación",
-      "fecha": "2026-08-31",
-      "url": "https://www.informeoperadores.com.ar/2026/08/31/plate-en-el-forbes-insurance-summit-el-seguro-en-argentina-tiene-un-enorme-potencial-de-crecimiento/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-600x347.png"
-    },
-    {
-      "titulo": "Leonardo Oliveto: «Las aseguradoras debemos estar a la altura de esa transformación”",
-      "resumen": "Leonardo Oliveto, coordinador de Canal Concesionarios de ATM Seguros, una de las compañías que más trabaja con este segmento, analiza para NBS los nuevos desafíos y las oportunidades que presenta el creciente incremento…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-31",
-      "url": "https://nbs.ar/leonardo-oliveto-las-aseguradoras-debemos-estar-a-la-altura-de-esa-transformacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mariano Mancurti: Personalización y segmentación, las estrategias de fidelización del BBVA",
-      "resumen": "BBVA presentó una nueva propuesta que diferencia perfiles orientados al ahorro cotidiano, los viajes o una combinación de ambos. La entrada Mariano Mancurti: Personalización y segmentación, las estrategias de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-08-31",
-      "url": "https://nbs.ar/mariano-mancurti-personalizacion-y-segmentacion-las-estrategias-de-fidelizacion-del-bbva/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Un nuevo beneficio para cuidar a toda la familia: ahora los socios de OSDE cuentan con un plan especial de Vetify para sus mascotas",
-      "resumen": "La prepaga de salud y Vetify firmaron un acuerdo para integrar la atención de las mascotas al programa de beneficios MÁS OSDE. En Argentina, 8 de cada 10 hogares conviven con un perro o un gato. Las mascotas se…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/un-nuevo-beneficio-para-cuidar-a-toda-la-familia-ahora-los-socios-de-osde-cuentan-con-un-plan-especial-de-vetify-para-sus-mascotas/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/OSDE-VETIFY-600x400.jpg"
-    },
-    {
-      "titulo": "Planificar el futuro, más simple que nunca: Galicia Seguros presenta su Seguro de Retiro con contratación 100% digital",
-      "resumen": "La mayor expectativa de vida y la necesidad de reforzar los ingresos durante la jubilación están impulsando el interés por alternativas de ahorro para planificar el retiro, según un estudio realizado por la compañía.El…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/planificar-el-futuro-mas-simple-que-nunca-galicia-seguros-presenta-su-seguro-de-retiro-con-contratacion-100-digital/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Retiro-100_-digital-600x400.jpg"
-    },
-    {
-      "titulo": "De la intuición al dato: el seguro agrícola ante un escenario de “Súper Niño”*",
-      "resumen": "*Por Juana Capdepont | Gerente de Agro en DDN Brokers La forma de gestionar el riesgo climático en el campo está cambiando de la mano de la innovación. Hace no tantos años para saber qué depararía el clima y cómo iba a…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/de-la-intuicion-al-dato-el-seguro-agricola-ante-un-escenario-de-super-nino/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Fernando-Yu-Juana-Capdepont-y-Leonardo-de-Benedictis-AAPRESID-2026-600x400.jpg"
-    },
-    {
-      "titulo": "La IA desafía al mercado asegurador",
-      "resumen": "Llevar la inteligencia artificial a producción,transformar procesos, preparar arquitecturas tecnológicas más flexibles y gestionar nuevos riesgos aparecen entre los principales desafíos para la industria aseguradora,…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/la-ia-desafia-al-mercado-asegurador/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/ai-document-management-systems-automatically-categorize-organize-documents-making-retrieval-quick-efficient-600x400.jpg"
-    },
-    {
-      "titulo": "RUS, la Municipalidad y la Policía promovieron la educación vial entre jóvenes",
-      "resumen": "Con el objetivo de promover la concientización y la formación en prevención y responsabilidad vial, se realizó este miércoles 26 de agosto una capacitación destinada a estudiantes de 5° y 6° año de escuelas secundarias…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/rus-la-municipalidad-y-la-policia-promovieron-la-educacion-vial-entre-jovenes/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/6-600x450.jpeg"
-    },
-    {
-      "titulo": "El 83% de los robos al transporte de mercadería golpea a los vehículos utilitarios",
-      "resumen": "La IA y la videovigilancia móvil ganan protagonismo en un escenario donde ya no alcanza con saber dónde está un vehículo, sino que es necesario controlar qué ocurre durante el recorrido. Cada compra online pone en…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-08-30",
-      "url": "https://www.informeoperadores.com.ar/2026/08/29/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/Casel-25-anos-600x400.jpg"
-    },
-    {
-      "titulo": "La SRT y San Luis avanzan en la implementación de un cuerpo de peritos especializado en riesgos del trabajo",
-      "resumen": "La Superintendencia de Riesgos del Trabajo (SRT), el Gobierno de la provincia de San Luis y el Superior Tribunal de Justicia (STJ) suscribieron un convenio específico de cooperación para implementar un área pericial…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/la-srt-y-san-luis-avanzan-en-la-implementacion-de-un-cuerpo-de-peritos-especializado-en-riesgos-del-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De la calle al ciberriesgo: el mercado asegurador frente a una nueva demanda",
-      "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos temas centrales para entender hacia dónde se mueve el mercado asegurador: la realidad comercial que se percibe en la calle y el avance del ciberriesgo como una de las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/de-la-calle-al-ciberriesgo-el-mercado-asegurador-frente-a-una-nueva-demanda/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AVIRA premió las ideas que buscan transformar la conciencia aseguradora",
-      "resumen": "Estos son los ganadores de la 12ª edición del Concurso de Creatividad “Generando Conciencia Aseguradora”. La entrada AVIRA premió las ideas que buscan transformar la conciencia aseguradora se publicó primero en 100%…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/avira-premio-las-ideas-que-buscan-transformar-la-conciencia-aseguradora/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Categoria-Grafica-1er-Premio.jpg"
-    },
-    {
-      "titulo": "En julio, la producción de seguros creció un 15% mensual, con los principales ramos en alza",
-      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,557 billones de pesos en julio, lo que representa un incremento del 15,1% en términos reales con respecto al mes anterior (junio de 2026), que tuvo una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/en-julio-la-produccion-de-seguros-crecio-un-15-mensual-con-los-principales-ramos-en-alza/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Estimacion-de-la-Produccion-de-Seguros-Julio-2026.png"
-    },
-    {
-      "titulo": "Federación Patronal ART participó de la Semana Argentina de la Ergonomía",
-      "resumen": "La compañía estuvo presente en la XI Jornada Nacional de Ergonomía, uno de los espacios de intercambio y actualización profesional de la disciplina, con la participación de Marina Lanfranqui, ergónoma del Sector de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/federacion-patronal-art-participo-de-la-semana-argentina-de-la-ergonomia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De la intuición al dato: el seguro agrícola ante un escenario de “Súper Niño”",
-      "resumen": "Por Juana Capdepont, Gerente de Agro en DDN Brokers.- La forma de gestionar el riesgo climático en el campo está cambiando de la mano de la innovación. Hace no tantos años para saber qué depararía el clima y cómo iba a…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-28",
-      "url": "https://100seguro.com.ar/de-la-intuicion-al-dato-el-seguro-agricola-ante-un-escenario-de-super-nino/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2024/03/Juana-Capdepont-150x150.jpg"
     }
   ]
 }
