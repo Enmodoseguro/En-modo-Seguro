@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-09-02T10:11-03:00",
+  "actualizado": "2026-09-03T10:10-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Estudio: subregistro de uso de celulares antes de choques",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un estudio del IIHS con datos de Cambridge Mobile Telematics reveló que el uso de celulares antes de choques está subregistrado en los informes policiales por al…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-03",
+      "url": "https://mercadosyseguros.com/estudio-subregistro-de-uso-de-celulares-antes-de-choques/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guerra en Irán impulsa demanda global de energías renovables",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Desde el 28 de febrero de 2026 la guerra en Irán generó sobrecostos por US$330.000 millones para importadores de combustibles fósiles, según CREA. El conflicto elevó…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-03",
+      "url": "https://mercadosyseguros.com/guerra-en-iran-impulsa-demanda-global-de-energias-renovables/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hundimiento de carguero en el Mar Negro: Rumania inicia investigación",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un buque mercante se incendió y se hundió el jueves en el Mar Negro dentro de la zona económica exclusiva de Rumania; las autoridades dicen que fue probablemente…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-03",
+      "url": "https://mercadosyseguros.com/hundimiento-de-carguero-en-el-mar-negro-rumania-inicia-investigacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acuerdo de Meta por hasta US$18.000 M impulsa controles sobre redes",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Meta acordó pagar hasta US$18.000 millones y aplicar límites de uso para menores en EE. UU.; la medida generó reacciones de reguladores en Australia, la UE, Brasil y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-03",
+      "url": "https://mercadosyseguros.com/acuerdo-de-meta-por-hasta-us18-000-m-impulsa-controles-sobre-redes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Producción y balances al cierre: junio 2026",
+      "resumen": "Los resultados a Junio 2026 publicados recientemente por SSN permiten observar una reducción significativa de las pérdidas y una tendencia a la estabilización. El cierre de los balances consolidados al 30 de junio de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-03",
+      "url": "https://elseguroenaccion.com.ar/produccion-y-balances-al-cierre-junio-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ProNaPre: apertura de nuevas mesas cuatripartitas en Mendoza",
+      "resumen": "La Superintendencia de Riesgos del Trabajo (SRT) y el Gobierno de Mendoza impulsan nuevos espacios de diálogo entre representantes de los trabajadores, los empleadores, las aseguradoras de riesgos del trabajo (ART) y el…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-02",
+      "url": "https://100seguro.com.ar/pronapre-apertura-de-nuevas-mesas-cuatripartitas-en-mendoza/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/SRT-ProNaPre-Mendoza-cuerpo.jpg"
+    },
+    {
+      "titulo": "El campo inicia la campaña gruesa con el seguro como una herramienta clave frente a riesgos climáticos",
+      "resumen": "Detrás de cada hectárea sembrada hay capital, tecnología e insumos que el productor necesita proteger y existen múltiples coberturas para administrar los riesgos que pueden afectar el resultado económico de una campaña.…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-02",
+      "url": "https://100seguro.com.ar/el-campo-inicia-la-campana-gruesa-con-el-seguro-como-una-herramienta-clave-frente-a-riesgos-climaticos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2025/09/Fabian-Perez-gerente-Comercial-de-Interior-de-Experta-Seguros.jpg"
+    },
+    {
+      "titulo": "Dos aseguradoras quedaron impedidas de emitir nuevas pólizas y a otra se le concedió un recurso de apelación",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN) volvió a adoptar medidas de distinto alcance sobre tres entidades aseguradoras. A través de las Resoluciones 394/2026, 393/2026 y 392/2026, el organismo dispuso la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-02",
+      "url": "https://100seguro.com.ar/dos-aseguradoras-quedaron-impedidas-de-emitir-nuevas-polizas-y-a-otra-se-le-concedio-un-recurso-de-apelacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Federación Patronal ART participó de la Semana Argentina de la Ergonomía",
+      "resumen": "La compañía estuvo presente en la XI Jornada Nacional de Ergonomía, uno de los espacios de intercambio y actualización profesional de la disciplina, con la participación de Marina Lanfranqui, ergónoma del Sector de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://elseguroenaccion.com.ar/federacion-patronal-art-participo-de-la-semana-argentina-de-la-ergonomia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Patentamientos de motos: agosto creció34,70% y el mercado acumula más de 590.000 unidades en 2026",
+      "resumen": "El mercado de motovehículos mantiene una tendencia de crecimiento durante 2026. Según los datos de patentamientos de la Cámara de Fabricantes de Motovehículos (CAFAM), en agosto se registraron 74.155 unidades, frente a…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://elseguroenaccion.com.ar/patentamientos-de-motos-agosto-crecio3470-y-el-mercado-acumula-mas-de-590-000-unidades-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de Cargas y Nueva Tecnología para la prevención",
+      "resumen": "El «delincuente logístico» de hoy no se parece en nada al de hace 15 años. En esta entrevista exclusiva, Samuel Markov, Director de ARM Services, nos cuenta cómo cambió radicalmente el mapa de riesgos en el transporte…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-09-02",
+      "url": "https://elseguroenaccion.com.ar/robo-de-cargas-y-nueva-tecnologia-para-la-prevencion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN prohíbe emitir nuevas pólizas a dos aseguradoras",
+      "resumen": "El organismo de control aplicó la sanción de prohibición de suscribir nuevos contratos de seguro a dos entidades del mercado. Balances no presentados y un informe con abstención de opinión de auditoría son las causas de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-02",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-prohibe-emitir-nuevas-polizas-a-dos-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Comunicado de Libra Seguros ante la suspensión de emisión dictada por SSN",
+      "resumen": "Libra Compañía Argentina de Seguros S.A. informa que la Superintendencia de Seguros de la Nación dispuso una medida cautelar que suspende temporalmente la emisión de nuevas pólizas. La medida se origina en una situación…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-02",
+      "url": "https://elseguroenaccion.com.ar/comunicado-de-libra-seguros-ante-la-suspension-de-emision-dictada-por-ssn/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ESG en seguros: de la promesa al balance, así miden hoy las aseguradoras su impacto real",
+      "resumen": "La entrada ESG en seguros: de la promesa al balance, así miden hoy las aseguradoras su impacto real se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://www.informeoperadores.com.ar/2026/09/02/esg-en-seguros-de-la-promesa-al-balance-asi-miden-hoy-las-aseguradoras-su-impacto-real/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/01-apertura.jpg"
+    },
+    {
+      "titulo": "“El productor tiene que grabarse en la cabeza que todos los días debe hacer una venta nueva”",
+      "resumen": "La entrada “El productor tiene que grabarse en la cabeza que todos los días debe hacer una venta nueva” se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://www.informeoperadores.com.ar/2026/09/02/el-productor-tiene-que-grabarse-en-la-cabeza-que-todos-los-dias-debe-hacer-una-venta-nueva/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/1.jpg"
+    },
+    {
+      "titulo": "Libra Compañía Argentina de Seguros S.A. informa que la Superintendencia deSeguros de la Nación dispuso una medida cautelar que suspende temporalmente la emisión de nuevas pólizas.",
+      "resumen": "La medida se origina en una situación extraordinaria vinculada a la presentación fuera de término de los Estados Contables, como consecuencia de no haber contado oportunamente con la firma del auditor externo.Ante esta…",
+      "fuente": "Informe Operadores",
+      "categoria": "Regulación",
+      "fecha": "2026-09-02",
+      "url": "https://www.informeoperadores.com.ar/2026/09/02/libra-compania-argentina-de-seguros-s-a-informa-que-la-superintendencia-deseguros-de-la-nacion-dispuso-una-medida-cautelar-que-suspende-temporalmente-la-emision-de-nuevas-polizas/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/02/libra-seguros-logo-600x400.jpg"
+    },
     {
       "titulo": "817",
       "resumen": "La entrada 817 se publicó primero en Informe Operadores de Mercado .",
@@ -10,6 +154,33 @@
       "fecha": "2026-09-02",
       "url": "https://www.informeoperadores.com.ar/2026/09/02/817/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Tapa-817-R90.jpg"
+    },
+    {
+      "titulo": "Veintiún instituciones financieras se unen para crear nueva stablecoin",
+      "resumen": "Veintiún instituciones financieras internacionales líderes han anunciado su compromiso de fundar una nueva compañía en la segunda mitad de 2026. Este movimiento busca fortalecer la colaboración y mejorar la innovación…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-09-02",
+      "url": "https://nbs.ar/veintiun-instituciones-financieras-se-unen-para-crear-nueva-stablecoin/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El banco Santander busca fidelizar a través de los viajes, la movilidad y el financiamiento",
+      "resumen": "Santander profundizó su estrategia de alianzas mediante acuerdos con Visa Destinations e IVECO CAPITAL. La entrada El banco Santander busca fidelizar a través de los viajes, la movilidad y el financiamiento se publicó…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://nbs.ar/el-banco-santander-busca-fidelizar-a-traves-de-los-viajes-la-movilidad-y-el-financiamiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "David Gentile: Banco Galicia se alía a Rappi para dar más servicios",
+      "resumen": "Galicia anunció una alianza con Rappi para incorporar soluciones de pago, entre otros servicios. La entrada David Gentile: Banco Galicia se alía a Rappi para dar más servicios se publicó primero en NBS | Revista de…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-02",
+      "url": "https://nbs.ar/david-gentile-banco-galicia-se-alia-a-rappi-para-dar-mas-servicios/",
+      "imagen": ""
     },
     {
       "titulo": "La era de la inteligencia en seguros: de la promesa a la ventaja competitiva",
@@ -46,177 +217,6 @@
       "fecha": "2026-09-01",
       "url": "https://100seguro.com.ar/chubb-detecta-que-las-pymes-argentinas-financian-su-operacion-con-capital-propio-mientras-los-costos-de-produccion-se-disparan/",
       "imagen": ""
-    },
-    {
-      "titulo": "El dato que define la rentabilidad: cómo un error en el alta termina en rechazos, multas y pérdida de margen",
-      "resumen": "Por Santiago del Peral, CEO de Debi.- En la mayoría de las aseguradoras, cuando el equipo de cobranzas se sienta a revisar el cierre del mes, la conversación arranca por el mismo lugar: los rechazos. Cuántos fueron,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://100seguro.com.ar/el-dato-que-define-la-rentabilidad-como-un-error-en-el-alta-termina-en-rechazos-multas-y-perdida-de-margen/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Santiago-del-Peral-DEBI-150x150.png"
-    },
-    {
-      "titulo": "Mercer, líder en personas e inversiones, adopta la marca Marsh a partir de septiembre",
-      "resumen": "Marsh, firma global líder en servicios profesionales, anunció que su negocio de personas e inversiones, Mercer, adoptará la marca Marsh a partir del 1 de septiembre de 2026. Mercer ha sido un negocio de Marsh desde…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://100seguro.com.ar/mercer-lider-en-personas-e-inversiones-adopta-la-marca-marsh-a-partir-de-septiembre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La IA redefine el futuro de la intermediación de seguros con tres ejes centrales que nadie puede desconocer",
-      "resumen": "Un reciente informe de McKinsey advierte que la inteligencia artificial podría alterar por primera vez en décadas la economía de la distribución de seguros. El interrogante ya no es si desaparecerán los intermediarios,…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-01",
-      "url": "https://100seguro.com.ar/la-ia-redefine-el-futuro-de-la-intermediacion-de-seguros-con-tres-ejes-centrales-que-nadie-puede-desconocer/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/07/Los-intermediarios-han-capturado-valor-de-manera-consistente.png"
-    },
-    {
-      "titulo": "RUS, la Municipalidad y la Policía promovieron la educación vial entre jóvenes",
-      "resumen": "Con el objetivo de promover la concientización y la formación en prevención y responsabilidad vial, se realizó este miércoles 26 de agosto una capacitación destinada a estudiantes de 5° y 6° año de escuelas secundarias…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/rus-la-municipalidad-y-la-policia-promovieron-la-educacion-vial-entre-jovenes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La producción de seguros cayó 5,7% en julio 2026, pero repuntó con fuerza contra junio",
-      "resumen": "El mercado asegurador facturó $2.557.478 millones durante julio, un salto frente al mes anterior aunque todavía por debajo del nivel de un año atrás. Dos ramos fueron los únicos que crecieron en la comparación…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/la-produccion-de-seguros-cayo-57-en-julio-2026-pero-repunto-con-fuerza-contra-junio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA estuvo presente en la celebración por el Día del Liquidador de Seguros",
-      "resumen": "Juan Ignacio Luco, vicepresidente de FAPASA, y Jorge L. Zottos, secretario de la entidad, participaron del festejo organizado por la AALPS y felicitaron a los liquidadores en su día, en una nueva muestra de la…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/fapasa-estuvo-presente-en-la-celebracion-por-el-dia-del-liquidador-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Más de 1.200 aspirantes y PAS rindieron examen en las últimas semanas",
-      "resumen": "Entre el 18 y el 26 de agosto, 652 aspirantes a la matrícula y 563 Productores Asesores de Seguros se presentaron a rendir examen en la sede de FAPASA, en la Ciudad de Buenos Aires. En Córdoba, se entregaron 315…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/mas-de-1-200-aspirantes-y-pas-rindieron-examen-en-las-ultimas-semanas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA abre las puertas de la Escuela Argentina de Seguros, nueva plataforma para la formación del PAS",
-      "resumen": "El histórico Centro Federal de Capacitación evoluciona hacia la EAS, una plataforma digital que integra oferta académica, inscripciones y trayectoria formativa en un mismo lugar. Ya hay cinco Programas de Capacitación…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/fapasa-abre-las-puertas-de-la-escuela-argentina-de-seguros-nueva-plataforma-para-la-formacion-del-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-385-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. AUTORIZACIÓN DE RAMA VIDA – SEGURO DE VIDA COLECTIVO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-385-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-de-rama-vida-seguro-de-vida-colectivo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-384-APN-SSN#MEC – SAN MARINO COMPAÑÍA DE SEGUROS SOCIEDAD ANÓNIMA – AUTORIZACIÓN RAMA VIDA – SEGURO DE VIDA COLECTIVO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-384-apn-ssnmec-san-marino-compania-de-seguros-sociedad-anonima-autorizacion-rama-vida-seguro-de-vida-colectivo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-383-APN-SSN#MEC – RÉGIMEN SACIONATORIO – PAS ELÍAS EDUARDO ROMERO, CAMILA VICTORIA RUIS IZASA, JULIO ARIEL TORO LEANIZ Y HERMES EDUARDO RODRÍGUEZ – FIRMA “HERMES ASESORES DE SEGUROS” Y/O “HERMES SEGUROS”",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-383-apn-ssnmec-regimen-sacionatorio-pas-elias-eduardo-romero-camila-victoria-ruis-izasa-julio-ariel-toro-leaniz-y-hermes-eduardo-rodriguez-firma-hermes-asesores-de-se/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-382-APN-SSN#MEC – PING AN PROPERTY & CASUALTY INSURANCE COMPANY OF CHINA LTD. – INSCRIPCIÓN COMO REASEGURADORA ADMITIDA",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-382-apn-ssnmec-ping-an-property-casualty-insurance-company-of-china-ltd-inscripcion-como-reaseguradora-admitida/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-381-APN-SSN#MEC – IES SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A.S. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-381-apn-ssnmec-ies-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mercer adoptará la marca Marsh en septiembre, consolidando su liderazgo en servicios profesionales",
-      "resumen": "Esta decisión se enmarca dentro de una estrategia de unificación de marcas que busca fortalecer su presencia en el mercado y ofrecer una propuesta de valor más cohesiva a sus clientes. La fusión de identidades permitirá…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-01",
-      "url": "https://nbs.ar/mercer-adoptara-la-marca-marsh-en-septiembre-consolidando-su-liderazgo-en-servicios-profesionales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Agents Intelligence desembarca en Brasil de la mano del 24° Congreso Brasileño de Corredores de Seguros",
-      "resumen": "Agents Intelligence, la plataforma de agentes de IA para corredores de seguros, fue seleccionada entre distintas empresas de innovación para presentar su propuesta en el 24° Congreso Brasileño de Corredores de Seguros,…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-31",
-      "url": "https://100seguro.com.ar/agents-intelligence-desembarca-en-brasil-de-la-mano-del-24-congreso-brasileno-de-corredores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "APAS Córdoba reunió a 800 productores asesores de seguros para pensar el nuevo rol del vendedor",
-      "resumen": "Jonatan Loidi brindó la conferencia “Vender con inteligencia aumentada y estrategias de diferenciación”, donde planteó las claves para transformar la actividad comercial y construir relaciones de largo plazo con los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-08-31",
-      "url": "https://100seguro.com.ar/apas-cordoba-reunio-a-800-productores-asesores-de-seguros-para-pensar-el-nuevo-rol-del-vendedor/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/Loidi-1.jpeg"
-    },
-    {
-      "titulo": "Así está cambiando la inteligencia artificial cada etapa del negocio asegurador",
-      "resumen": "Lejos de limitarse a automatizar tareas puntuales, la inteligencia artificial comienza a generar impacto a lo largo de toda la cadena de valor del seguro. Un informe de McKinsey analiza cómo estas tecnologías están…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-08-31",
-      "url": "https://100seguro.com.ar/asi-esta-cambiando-la-inteligencia-artificial-cada-etapa-del-negocio-asegurador/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/mckinsey-exhibit-2-e1787341319226.png"
-    },
-    {
-      "titulo": "Nuevo régimen para los seguros paramétricos: la SSN y Agricultura avanzan en la modernización del seguro agropecuario",
-      "resumen": "La iniciativa fortalece la cooperación institucional y amplía las alternativas de cobertura para los productores. La Superintendencia de Seguros de la Nación (SSN) y la Secretaría de Agricultura, Ganadería y Pesca de la…",
-      "fuente": "Informe Operadores",
-      "categoria": "Regulación",
-      "fecha": "2026-08-31",
-      "url": "https://www.informeoperadores.com.ar/2026/08/31/nuevo-regimen-para-los-seguros-parametricos-la-ssn-y-agricultura-avanzan-en-la-modernizacion-del-seguro-agropecuario/",
-      "imagen": "https://www.argentina.gob.ar/sites/default/files/ssn_todos_en_mesa.png"
-    },
-    {
-      "titulo": "Seguros y Salud: la SSN presentó los alcances de la Resolución 258/2026 en la Fundación Sanatorio Güemes",
-      "resumen": "La nueva normativa promueve el desarrollo de seguros que complementan el sistema de salud, amplía la oferta de productos y fortalece la protección de las personas. El 6 de agosto, el Superintendente de Seguros de la…",
-      "fuente": "Informe Operadores",
-      "categoria": "Regulación",
-      "fecha": "2026-08-31",
-      "url": "https://www.informeoperadores.com.ar/2026/08/31/seguros-y-salud-la-ssn-presento-los-alcances-de-la-resolucion-258-2026-en-la-fundacion-sanatorio-guemes/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/08/image-2-600x337.png"
     }
   ]
 }
