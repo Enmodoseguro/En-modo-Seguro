@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-09-04T10:03-03:00",
+  "actualizado": "2026-09-05T09:15-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Patrimonio neto del mercado asegurador a marzo 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A marzo de 2026 el mercado asegurador totaliza un patrimonio neto cercano a $11,3 billones; Sancor Seguros concentra $1,26 billones (11,1%) y Federación Patronal…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-05",
+      "url": "https://mercadosyseguros.com/patrimonio-neto-del-mercado-asegurador-a-marzo-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Producción de seguros: cayó 5,7% interanual en julio 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La producción de seguros fue de $2.557.478 millones en julio de 2026 (SSN): subió 15,1% mensual en valores constantes pero cayó 5,7% interanual. Daños Patrimoniales…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-05",
+      "url": "https://mercadosyseguros.com/produccion-de-seguros-cayo-57-interanual-en-julio-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA participó del acto por el Día del Liquidador de Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 26 de agosto de 2024, Juan I. Luco (vicepresidente) y Jorge L. Zottos (secretario) de FAPASA participaron del acto de la AALPS en el Centro Naval de Buenos Aires.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-05",
+      "url": "https://mercadosyseguros.com/fapasa-participo-del-acto-por-el-dia-del-liquidador-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Interacción entre productores y brokers de reaseguro en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 27 de mayo, en el 12º Seminario Latinoamericano, productores y brokers de reaseguro debatieron la cooperación previa a la colocación de riesgos. Coincidieron en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-05",
+      "url": "https://mercadosyseguros.com/interaccion-entre-productores-y-brokers-de-reaseguro-en-argentina/",
+      "imagen": ""
+    },
     {
       "titulo": "Mapfre apoyó jornada para productores asesores en Córdoba",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre patrocinó el 28 de agosto en el Hotel Quinto Centenario de Córdoba la jornada \"Productor asesor de alto impacto\", organizada por APAS Córdoba y FAPASA, con la…",
@@ -39,6 +75,42 @@
       "imagen": ""
     },
     {
+      "titulo": "Sebastián Dabini en 100% SEGURO: la nueva etapa de Zurich Argentina",
+      "resumen": "En un programa especial de 100% SEGURO desde la casa central de Zurich Argentina, la primera entrevista televisiva de Sebastián Dabini desde que asumió como CEO de la compañía en el país. Un mano a mano para conocer su…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-04",
+      "url": "https://100seguro.com.ar/sebastian-dabini-en-100-seguro-la-nueva-etapa-de-zurich-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Norte Seguros participó de una jornada sobre innovación y nuevas herramientas comerciales",
+      "resumen": "El Norte Seguros participó de la jornada “Productor Asesor de Alto Impacto”, organizada por APAS Córdoba para más de 800 productores asesores de seguros, con foco en innovación, inteligencia aumentada y los desafíos que…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-04",
+      "url": "https://100seguro.com.ar/el-norte-seguros-participo-de-una-jornada-sobre-innovacion-y-nuevas-herramientas-comerciales/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/El-Norte-Seguros-participo-de-una-jornada-sobre-innovacion-y-nuevas-herramientas-comerciales-2.jpeg"
+    },
+    {
+      "titulo": "Dos aseguradoras recuperan la posibilidad de emitir pólizas, pero mantienen la inhibición de bienes",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN) dispuso el levantamiento de las prohibiciones de emisión que pesaban sobre dos aseguradoras del mercado, aunque mantuvo vigentes las inhibiciones generales de bienes que…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-04",
+      "url": "https://100seguro.com.ar/dos-aseguradoras-recuperan-la-posibilidad-de-emitir-polizas-pero-mantienen-la-inhibicion-de-bienes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate: “El seguro es la infraestructura invisible del crecimiento”",
+      "resumen": "El Superintendente de Seguros de la Nación, Guillermo Plate, destacó el potencial de los sectores estratégicos de la economía argentina y definió al seguro como una \"infraestructura invisible del crecimiento\". La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-04",
+      "url": "https://100seguro.com.ar/plate-el-seguro-es-la-infraestructura-invisible-del-crecimiento/",
+      "imagen": ""
+    },
+    {
       "titulo": "RUS inició el segundo ciclo de formación en Inteligencia Artificial para sus productores",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com RUS lanza en septiembre el segundo ciclo de su formación gratuita en IA para productores: asistentes 24/7, gestión de cartera con IA y agentes de asesoramiento. La…",
       "fuente": "Mercado y Seguros",
@@ -57,40 +129,13 @@
       "imagen": ""
     },
     {
-      "titulo": "Guerra en Irán impulsa demanda global de energías renovables",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Desde el 28 de febrero de 2026 la guerra en Irán generó sobrecostos por US$330.000 millones para importadores de combustibles fósiles, según CREA. El conflicto elevó…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-03",
-      "url": "https://mercadosyseguros.com/guerra-en-iran-impulsa-demanda-global-de-energias-renovables/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hundimiento de carguero en el Mar Negro: Rumania inicia investigación",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un buque mercante se incendió y se hundió el jueves en el Mar Negro dentro de la zona económica exclusiva de Rumania; las autoridades dicen que fue probablemente…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-03",
-      "url": "https://mercadosyseguros.com/hundimiento-de-carguero-en-el-mar-negro-rumania-inicia-investigacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Acuerdo de Meta por hasta US$18.000 M impulsa controles sobre redes",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Meta acordó pagar hasta US$18.000 millones y aplicar límites de uso para menores en EE. UU.; la medida generó reacciones de reguladores en Australia, la UE, Brasil y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-03",
-      "url": "https://mercadosyseguros.com/acuerdo-de-meta-por-hasta-us18-000-m-impulsa-controles-sobre-redes/",
-      "imagen": ""
-    },
-    {
       "titulo": "“El seguro de personas protege a las familias y ayuda a construir a nuestro país con los fondos de largo plazo que administra”",
       "resumen": "Esa fue la definición de Irene Capusselli, Presidenta de la Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina (AVIRA), en la apertura del 19° Seminario Internacional de Seguros de Vida y de…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-09-03",
       "url": "https://100seguro.com.ar/el-seguro-de-personas-protege-a-las-familias-y-ayuda-a-construir-a-nuestro-pais-con-los-fondos-de-largo-plazo-que-administra/",
-      "imagen": ""
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Irene-Capusselli-Presidenta-de-AVIRA-en-el-19°-Seminario-Internacional-de-Seguros-de-Vida-y-Retiro.jpeg"
     },
     {
       "titulo": "Ciberataques: la IA acelera las amenazas y abre nuevos frentes de riesgo para el seguro",
@@ -156,15 +201,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2025/09/Fabian-Perez-gerente-Comercial-de-Interior-de-Experta-Seguros.jpg"
     },
     {
-      "titulo": "Dos aseguradoras quedaron impedidas de emitir nuevas pólizas y a otra se le concedió un recurso de apelación",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) volvió a adoptar medidas de distinto alcance sobre tres entidades aseguradoras. A través de las Resoluciones 394/2026, 393/2026 y 392/2026, el organismo dispuso la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-02",
-      "url": "https://100seguro.com.ar/dos-aseguradoras-quedaron-impedidas-de-emitir-nuevas-polizas-y-a-otra-se-le-concedio-un-recurso-de-apelacion/",
-      "imagen": ""
-    },
-    {
       "titulo": "Federación Patronal ART participó de la Semana Argentina de la Ergonomía",
       "resumen": "La compañía estuvo presente en la XI Jornada Nacional de Ergonomía, uno de los espacios de intercambio y actualización profesional de la disciplina, con la participación de Marina Lanfranqui, ergónoma del Sector de…",
       "fuente": "El Seguro en Acción",
@@ -181,42 +217,6 @@
       "fecha": "2026-09-02",
       "url": "https://elseguroenaccion.com.ar/patentamientos-de-motos-agosto-crecio3470-y-el-mercado-acumula-mas-de-590-000-unidades-en-2026/",
       "imagen": ""
-    },
-    {
-      "titulo": "Robo de Cargas y Nueva Tecnología para la prevención",
-      "resumen": "El «delincuente logístico» de hoy no se parece en nada al de hace 15 años. En esta entrevista exclusiva, Samuel Markov, Director de ARM Services, nos cuenta cómo cambió radicalmente el mapa de riesgos en el transporte…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-02",
-      "url": "https://elseguroenaccion.com.ar/robo-de-cargas-y-nueva-tecnologia-para-la-prevencion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN prohíbe emitir nuevas pólizas a dos aseguradoras",
-      "resumen": "El organismo de control aplicó la sanción de prohibición de suscribir nuevos contratos de seguro a dos entidades del mercado. Balances no presentados y un informe con abstención de opinión de auditoría son las causas de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-02",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-prohibe-emitir-nuevas-polizas-a-dos-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Comunicado de Libra Seguros ante la suspensión de emisión dictada por SSN",
-      "resumen": "Libra Compañía Argentina de Seguros S.A. informa que la Superintendencia de Seguros de la Nación dispuso una medida cautelar que suspende temporalmente la emisión de nuevas pólizas. La medida se origina en una situación…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-02",
-      "url": "https://elseguroenaccion.com.ar/comunicado-de-libra-seguros-ante-la-suspension-de-emision-dictada-por-ssn/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ESG en seguros: de la promesa al balance, así miden hoy las aseguradoras su impacto real",
-      "resumen": "La entrada ESG en seguros: de la promesa al balance, así miden hoy las aseguradoras su impacto real se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-02",
-      "url": "https://www.informeoperadores.com.ar/2026/09/02/esg-en-seguros-de-la-promesa-al-balance-asi-miden-hoy-las-aseguradoras-su-impacto-real/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/01-apertura.jpg"
     }
   ]
 }
