@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-09-05T09:15-03:00",
+  "actualizado": "2026-09-06T09:30-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "UART: récord de nuevas demandas laborales y Santa Fe en alza",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La UART reportó 72.525 nuevas demandas por riesgos del trabajo entre enero y julio de 2026; julio tuvo 7.814 ingresos y la proyección anual es de 137.800 juicios.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-06",
+      "url": "https://mercadosyseguros.com/uart-record-de-nuevas-demandas-laborales-y-santa-fe-en-alza/",
+      "imagen": ""
+    },
     {
       "titulo": "Patrimonio neto del mercado asegurador a marzo 2026",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com A marzo de 2026 el mercado asegurador totaliza un patrimonio neto cercano a $11,3 billones; Sancor Seguros concentra $1,26 billones (11,1%) y Federación Patronal…",
@@ -66,15 +75,6 @@
       "imagen": ""
     },
     {
-      "titulo": "OpenAI y Anthropic piden reforzar la ciberdefensa ante ataques con IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com OpenAI y Anthropic, junto a más de 100 compañías —incluyendo Google y Microsoft— publicaron una carta abierta el jueves pidiendo que gobiernos y empresas refuercen la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-04",
-      "url": "https://mercadosyseguros.com/openai-y-anthropic-piden-reforzar-la-ciberdefensa-ante-ataques-con-ia/",
-      "imagen": ""
-    },
-    {
       "titulo": "Sebastián Dabini en 100% SEGURO: la nueva etapa de Zurich Argentina",
       "resumen": "En un programa especial de 100% SEGURO desde la casa central de Zurich Argentina, la primera entrevista televisiva de Sebastián Dabini desde que asumió como CEO de la compañía en el país. Un mano a mano para conocer su…",
       "fuente": "100% Seguro",
@@ -117,15 +117,6 @@
       "categoria": "Innovación",
       "fecha": "2026-09-03",
       "url": "https://mercadosyseguros.com/rus-segundo-ciclo-formacion-ia-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Estudio: subregistro de uso de celulares antes de choques",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un estudio del IIHS con datos de Cambridge Mobile Telematics reveló que el uso de celulares antes de choques está subregistrado en los informes policiales por al…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-03",
-      "url": "https://mercadosyseguros.com/estudio-subregistro-de-uso-de-celulares-antes-de-choques/",
       "imagen": ""
     },
     {
@@ -216,6 +207,15 @@
       "categoria": "Mercado",
       "fecha": "2026-09-02",
       "url": "https://elseguroenaccion.com.ar/patentamientos-de-motos-agosto-crecio3470-y-el-mercado-acumula-mas-de-590-000-unidades-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de Cargas y Nueva Tecnología para la prevención",
+      "resumen": "El «delincuente logístico» de hoy no se parece en nada al de hace 15 años. En esta entrevista exclusiva, Samuel Markov, Director de ARM Services, nos cuenta cómo cambió radicalmente el mapa de riesgos en el transporte…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-09-02",
+      "url": "https://elseguroenaccion.com.ar/robo-de-cargas-y-nueva-tecnologia-para-la-prevencion/",
       "imagen": ""
     }
   ]
