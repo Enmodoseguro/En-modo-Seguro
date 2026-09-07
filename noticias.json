@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-09-06T09:30-03:00",
+  "actualizado": "2026-09-07T11:38-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Libra Seguros: suspensión temporal de emisión por la SSN",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN suspendió temporalmente la emisión de nuevas pólizas de Libra Compañía Argentina de Seguros S.A. por la presentación fuera de término de sus Estados Contables,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-07",
+      "url": "https://mercadosyseguros.com/libra-seguros-suspension-temporal-de-emision-por-la-ssn/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mapfre impulsó formación para productores asesores en Córdoba",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre sponsoreó el encuentro \"Productor Asesor de Alto Impacto\" el 28 de agosto en Córdoba, con la charla de Jonatan Loidi sobre inteligencia aumentada para mejorar…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://mercadosyseguros.com/mapfre-impulso-formacion-para-productores-asesores-en-cordoba/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Pilar Lozano, líder influyente en asistencia al viajero 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Pilar Lozano, CEO y presidenta del Grupo Coris Latam, fue reconocida en 2026 por The Enterprise World como una de las líderes empresariales más influyentes. Lideró la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://mercadosyseguros.com/pilar-lozano-lider-influyente-en-asistencia-al-viajero-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Escuela Argentina de Seguros: FAPASA lanza plataforma de formación",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA lanzó en 2026 la Escuela Argentina de Seguros (EAS), una plataforma que centraliza cursos, inscripciones y el seguimiento académico de productores asesores de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://mercadosyseguros.com/escuela-argentina-de-seguros-fapasa-lanza-plataforma-de-formacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El nuevo desafío de la IA: generar más eficiencia energética de la que consume",
+      "resumen": "El crecimiento de la inteligencia artificial está disparando la demanda energética de los centros de datos, pero la misma tecnología puede utilizarse para optimizar redes, industrias y ciudades. El desafío es que los…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-07",
+      "url": "https://100seguro.com.ar/el-nuevo-desafio-de-la-ia-generar-mas-eficiencia-energetica-de-la-que-consume/",
+      "imagen": ""
+    },
     {
       "titulo": "UART: récord de nuevas demandas laborales y Santa Fe en alza",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La UART reportó 72.525 nuevas demandas por riesgos del trabajo entre enero y julio de 2026; julio tuvo 7.814 ingresos y la proyección anual es de 137.800 juicios.…",
@@ -57,24 +102,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Patentamientos agosto 2026: autos -17,9% y motos +35,9%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto de 2026 los patentamientos de automotores sumaron 45.230 unidades (-17,9% interanual) y los de motovehículos 75.236 (+35,9%). Los mayores descensos de autos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-04",
-      "url": "https://mercadosyseguros.com/patentamientos-agosto-2026-autos-179-y-motos-359/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AVIRA premió ideas por la conciencia aseguradora",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AVIRA entregó los premios de la 12° edición del Concurso de Creatividad \"Generando Conciencia Aseguradora\", que recibió 679 trabajos. Se otorgaron $2.100.000 al…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-04",
-      "url": "https://mercadosyseguros.com/avira-premio-ideas-por-la-conciencia-aseguradora/",
-      "imagen": ""
-    },
-    {
       "titulo": "Sebastián Dabini en 100% SEGURO: la nueva etapa de Zurich Argentina",
       "resumen": "En un programa especial de 100% SEGURO desde la casa central de Zurich Argentina, la primera entrevista televisiva de Sebastián Dabini desde que asumió como CEO de la compañía en el país. Un mano a mano para conocer su…",
       "fuente": "100% Seguro",
@@ -108,15 +135,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-04",
       "url": "https://100seguro.com.ar/plate-el-seguro-es-la-infraestructura-invisible-del-crecimiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS inició el segundo ciclo de formación en Inteligencia Artificial para sus productores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com RUS lanza en septiembre el segundo ciclo de su formación gratuita en IA para productores: asistentes 24/7, gestión de cartera con IA y agentes de asesoramiento. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-03",
-      "url": "https://mercadosyseguros.com/rus-segundo-ciclo-formacion-ia-pas/",
       "imagen": ""
     },
     {
@@ -183,15 +201,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/SRT-ProNaPre-Mendoza-cuerpo.jpg"
     },
     {
-      "titulo": "El campo inicia la campaña gruesa con el seguro como una herramienta clave frente a riesgos climáticos",
-      "resumen": "Detrás de cada hectárea sembrada hay capital, tecnología e insumos que el productor necesita proteger y existen múltiples coberturas para administrar los riesgos que pueden afectar el resultado económico de una campaña.…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-02",
-      "url": "https://100seguro.com.ar/el-campo-inicia-la-campana-gruesa-con-el-seguro-como-una-herramienta-clave-frente-a-riesgos-climaticos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2025/09/Fabian-Perez-gerente-Comercial-de-Interior-de-Experta-Seguros.jpg"
-    },
-    {
       "titulo": "Federación Patronal ART participó de la Semana Argentina de la Ergonomía",
       "resumen": "La compañía estuvo presente en la XI Jornada Nacional de Ergonomía, uno de los espacios de intercambio y actualización profesional de la disciplina, con la participación de Marina Lanfranqui, ergónoma del Sector de…",
       "fuente": "El Seguro en Acción",
@@ -207,15 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-02",
       "url": "https://elseguroenaccion.com.ar/patentamientos-de-motos-agosto-crecio3470-y-el-mercado-acumula-mas-de-590-000-unidades-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Robo de Cargas y Nueva Tecnología para la prevención",
-      "resumen": "El «delincuente logístico» de hoy no se parece en nada al de hace 15 años. En esta entrevista exclusiva, Samuel Markov, Director de ARM Services, nos cuenta cómo cambió radicalmente el mapa de riesgos en el transporte…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-02",
-      "url": "https://elseguroenaccion.com.ar/robo-de-cargas-y-nueva-tecnologia-para-la-prevencion/",
       "imagen": ""
     }
   ]
