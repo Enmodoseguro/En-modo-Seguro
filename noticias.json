@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-09-07T11:38-03:00",
+  "actualizado": "2026-09-08T10:12-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Patentamientos de motos: agosto creció 34,70% en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto de 2026 se patentaron 74.155 motos según CAFAM, un 34,70% más que en agosto de 2025. El acumulado enero-agosto suma 590.861 unidades; 96,85% fueron…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-08",
+      "url": "https://mercadosyseguros.com/patentamientos-de-motos-agosto-crecio-3470-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Robo de cargas: nuevas tecnologías para prevenir pérdidas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Samuel Markov, director de ARM Services, sostiene que el perfil del delincuente logístico cambió en 15 años y plantea tecnologías de trazabilidad y telemetría para…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-08",
+      "url": "https://mercadosyseguros.com/robo-de-cargas-nuevas-tecnologias-para-prevenir-perdidas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro agrícola: herramienta clave en el inicio de la campaña gruesa",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En septiembre, al comenzar la campaña gruesa de soja, maíz, girasol y sorgo, los productores priorizan el seguro agrícola. Experta Seguros ofrece coberturas contra…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-08",
+      "url": "https://mercadosyseguros.com/seguro-agricola-herramienta-clave-en-el-inicio-de-la-campana-gruesa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN suspende emisión de pólizas a dos aseguradoras en agosto-septiembre 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aplicó resoluciones en agosto-septiembre de 2026 que prohíben celebrar nuevos contratos a Libra Seguros y a Comarseg por problemas con auditoría y por no…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-08",
+      "url": "https://mercadosyseguros.com/ssn-suspende-emision-de-polizas-a-dos-aseguradoras-en-agosto-septiembre-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Libra Seguros: suspensión temporal de emisión por la SSN",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN suspendió temporalmente la emisión de nuevas pólizas de Libra Compañía Argentina de Seguros S.A. por la presentación fuera de término de sus Estados Contables,…",
@@ -48,6 +84,51 @@
       "imagen": ""
     },
     {
+      "titulo": "El Superintendente de Seguros de la Nación participó del Seminario Internacional de Seguros de Vida y Retiro organizado por AVIRA",
+      "resumen": "Guillermo Plate destacó el potencial de los sectores estratégicos de la economía argentina y definió al seguro como una «infraestructura invisible del crecimiento». El Superintendente de Seguros de la Nación, Guillermo…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://elseguroenaccion.com.ar/el-superintendente-de-seguros-de-la-nacion-participo-del-seminario-internacional-de-seguros-de-vida-y-retiro-organizado-por-avira/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros de Vida y Salud: mirada estratégica para transformar el negocio",
+      "resumen": "Bruno Campanero, Gerente Técnico y de Operaciones de IAPSER, y Luis Maria Bollini, Fundador y CEO de CB Studio, presentan una mirada estratégica sobre el negocio de los seguros de vida y salud: tendencias del mercado,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://elseguroenaccion.com.ar/seguros-de-vida-y-salud-mirada-estrategica-para-transformar-el-negocio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“Ojo con lo que publicás”; cuando las redes se transforman en un problema laboral",
+      "resumen": "Comentarios, memes, discusiones y videos virales podrían generar conflictos laborales y problemas reputacionales para compañías y empleados. La entrada “Ojo con lo que publicás”; cuando las redes se transforman en un…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://nbs.ar/ojo-con-lo-que-publicas-cuando-las-redes-se-transforman-en-un-problema-laboral/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Clemencia Nicholson: No todo es automatización: las empresas vuelven a poner a las personas en el centro",
+      "resumen": "Un informe de Clemencia Nicholson, CEO de Arbusta, apunta que la calidad de los resultados depende tanto de la tecnología como de las personas que la diseñan, entrenan, supervisan y validan. La entrada Clemencia…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-09-07",
+      "url": "https://nbs.ar/clemencia-nicholson-no-todo-es-automatizacion-las-empresas-vuelven-a-poner-a-las-personas-en-el-centro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Inter llega a Argentina: Simplifica la inversión en mercados internacionales para 45 millones de clientes",
+      "resumen": "Inter, la plataforma financiera con más de 45 millones de clientes a nivel mundial, ha anunciado su llegada a Argentina con el objetivo de simplificar el acceso de los argentinos a inversiones en el mercado…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-07",
+      "url": "https://nbs.ar/inter-llega-a-argentina-simplifica-la-inversion-en-mercados-internacionales-para-45-millones-de-clientes/",
+      "imagen": ""
+    },
+    {
       "titulo": "UART: récord de nuevas demandas laborales y Santa Fe en alza",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La UART reportó 72.525 nuevas demandas por riesgos del trabajo entre enero y julio de 2026; julio tuvo 7.814 ingresos y la proyección anual es de 137.800 juicios.…",
       "fuente": "Mercado y Seguros",
@@ -63,42 +144,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-05",
       "url": "https://mercadosyseguros.com/patrimonio-neto-del-mercado-asegurador-a-marzo-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Producción de seguros: cayó 5,7% interanual en julio 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La producción de seguros fue de $2.557.478 millones en julio de 2026 (SSN): subió 15,1% mensual en valores constantes pero cayó 5,7% interanual. Daños Patrimoniales…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-09-05",
-      "url": "https://mercadosyseguros.com/produccion-de-seguros-cayo-57-interanual-en-julio-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA participó del acto por el Día del Liquidador de Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 26 de agosto de 2024, Juan I. Luco (vicepresidente) y Jorge L. Zottos (secretario) de FAPASA participaron del acto de la AALPS en el Centro Naval de Buenos Aires.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-05",
-      "url": "https://mercadosyseguros.com/fapasa-participo-del-acto-por-el-dia-del-liquidador-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Interacción entre productores y brokers de reaseguro en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 27 de mayo, en el 12º Seminario Latinoamericano, productores y brokers de reaseguro debatieron la cooperación previa a la colocación de riesgos. Coincidieron en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-05",
-      "url": "https://mercadosyseguros.com/interaccion-entre-productores-y-brokers-de-reaseguro-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre apoyó jornada para productores asesores en Córdoba",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre patrocinó el 28 de agosto en el Hotel Quinto Centenario de Córdoba la jornada \"Productor asesor de alto impacto\", organizada por APAS Córdoba y FAPASA, con la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-04",
-      "url": "https://mercadosyseguros.com/mapfre-apoyo-jornada-para-productores-asesores-en-cordoba/",
       "imagen": ""
     },
     {
@@ -171,51 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-03",
       "url": "https://100seguro.com.ar/provincia-art-cronograma-de-cursos-gratuitos-para-el-mes-de-septiembre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Producción y balances al cierre: junio 2026",
-      "resumen": "Los resultados a Junio 2026 publicados recientemente por SSN permiten observar una reducción significativa de las pérdidas y una tendencia a la estabilización. El cierre de los balances consolidados al 30 de junio de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-03",
-      "url": "https://elseguroenaccion.com.ar/produccion-y-balances-al-cierre-junio-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Un bar vintage con el encanto del barrio en Villa Devoto",
-      "resumen": "La entrada Un bar vintage con el encanto del barrio en Villa Devoto se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-03",
-      "url": "https://www.informeoperadores.com.ar/2026/09/03/un-bar-vintage-con-el-encanto-del-barrio-en-villa-devoto/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/ficha817.jpg"
-    },
-    {
-      "titulo": "ProNaPre: apertura de nuevas mesas cuatripartitas en Mendoza",
-      "resumen": "La Superintendencia de Riesgos del Trabajo (SRT) y el Gobierno de Mendoza impulsan nuevos espacios de diálogo entre representantes de los trabajadores, los empleadores, las aseguradoras de riesgos del trabajo (ART) y el…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-02",
-      "url": "https://100seguro.com.ar/pronapre-apertura-de-nuevas-mesas-cuatripartitas-en-mendoza/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/SRT-ProNaPre-Mendoza-cuerpo.jpg"
-    },
-    {
-      "titulo": "Federación Patronal ART participó de la Semana Argentina de la Ergonomía",
-      "resumen": "La compañía estuvo presente en la XI Jornada Nacional de Ergonomía, uno de los espacios de intercambio y actualización profesional de la disciplina, con la participación de Marina Lanfranqui, ergónoma del Sector de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-02",
-      "url": "https://elseguroenaccion.com.ar/federacion-patronal-art-participo-de-la-semana-argentina-de-la-ergonomia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos de motos: agosto creció34,70% y el mercado acumula más de 590.000 unidades en 2026",
-      "resumen": "El mercado de motovehículos mantiene una tendencia de crecimiento durante 2026. Según los datos de patentamientos de la Cámara de Fabricantes de Motovehículos (CAFAM), en agosto se registraron 74.155 unidades, frente a…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-02",
-      "url": "https://elseguroenaccion.com.ar/patentamientos-de-motos-agosto-crecio3470-y-el-mercado-acumula-mas-de-590-000-unidades-en-2026/",
       "imagen": ""
     }
   ]
