@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-09-10T10:14-03:00",
+  "actualizado": "2026-09-11T10:08-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "El Norte Seguros en jornada sobre innovación y IA para productores",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Norte Seguros participó en la jornada “Productor asesor de alto impacto” de APAS Córdoba, que reunió a más de 800 productores y abordó innovación e inteligencia…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-11",
+      "url": "https://mercadosyseguros.com/el-norte-seguros-en-jornada-sobre-innovacion-y-ia-para-productores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros agropecuarios: cómo proteger campañas y activos del productor",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros destaca que, ante riesgos como sequías o heladas, los productores necesitan coberturas claras y ágiles; los seguros paramétricos y la tecnología…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-11",
+      "url": "https://mercadosyseguros.com/seguros-agropecuarios-como-proteger-campanas-y-activos-del-productor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Balances a junio 2026: datos completos en Todo Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Todo Seguros publicó los balances al 30 de junio de 2026 con rankings de producción total y por ramos, resultados técnicos y finales, evolución de inversiones y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://mercadosyseguros.com/balances-a-junio-2026-datos-completos-en-todo-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA participó del acto por el Día del Liquidador de Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA estuvo representada por Juan Ignacio Luco y Jorge Zottos en la celebración del Día del Liquidador el 26 de agosto en el Centro Naval de Buenos Aires. El acto,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://mercadosyseguros.com/fapasa-participo-del-acto-por-el-dia-del-liquidador-de-seguros/",
+      "imagen": ""
+    },
     {
       "titulo": "CESVI Argentina y FIA Región IV firman convenio por seguridad vial",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI Argentina y FIA Región IV firmaron un Convenio Marco para intercambiar datos, desarrollar investigaciones y capacitar equipos en seguridad vial. El acuerdo…",
@@ -39,6 +75,132 @@
       "imagen": ""
     },
     {
+      "titulo": "Ciberseguro: la IA redefine el riesgo y pone a prueba los límites de cobertura",
+      "resumen": "El mercado mundial de seguros cibernéticos alcanzará los USD 16.400 millones en primas durante 2026 y Swiss Re proyecta que llegará a USD 17.100 millones en 2027. Sin embargo, detrás de este crecimiento persiste una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://100seguro.com.ar/ciberseguro-la-ia-redefine-el-riesgo-y-pone-a-prueba-los-limites-de-cobertura/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Cámara Insurtech Argentina lanza Insurmap 2.0, el mapa insurtech ahora potenciado con Inteligencia Artificial",
+      "resumen": "La nueva versión de Insurmap incorpora un buscador con IA que permite describir una necesidad o desafío en lenguaje natural y descubrir qué empresas insurtech de Argentina y Latam pueden ayudar a resolverlo. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://100seguro.com.ar/la-camara-insurtech-argentina-lanza-insurmap-2-0-el-mapa-insurtech-ahora-potenciado-con-inteligencia-artificial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El podio del mercado asegurador se mueve: así quedó el ranking de primas a junio de 2026",
+      "resumen": "Con una suba interanual del 42,4% —casi 9 puntos por encima de la inflación—, la nueva estadística interactiva de El Seguro en Acción permite ver, grupo por grupo, quién gana y quien pierde en términos relativos. El…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/el-podio-del-mercado-asegurador-se-mueve-asi-quedo-el-ranking-de-primas-a-junio-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-86100652-APN-GE#SSN – Prórroga de la implementación del nuevo Régimen de Información (RI)",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/if-2026-86100652-apn-gessn-prorroga-de-la-implementacion-del-nuevo-regimen-de-informacion-ri/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-403-APN-SSN#MEC – COOPERACIÓN MUTUAL PATRONAL SOCIEDAD MUTUAL DE SEGUROS GENERALES – RAMA AERONAVEGACIÓN – SEGURO PARA VEHÍCULOS AÉREOS PILOTADOS A DISTANCIA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-403-apn-ssnmec-cooperacion-mutual-patronal-sociedad-mutual-de-seguros-generales-rama-aeronavegacion-seguro-para-vehiculos-aereos-pilotados-a-distancia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-402-APN-SSN#MEC – IMPEDIMENTO PUNTO 9 RGAA – Sr. Norberto Eduardo FRANCABANDIERA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-402-apn-ssnmec-impedimento-punto-9-rgaa-sr-norberto-eduardo-francabandiera/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-401-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. -AUTORIZACIÓN RAMA SEPELIO – SEGURO COLECTIVO DE SEPELIO Y SEGURO INDIVIDUAL DE SEPELIO",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-401-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-sepelio-seguro-colectivo-de-sepelio-y-seguro-individual-de-sepelio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-398-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA ACCIDENTES PERSONALES – SEGURO DE ACCIDENTES PERSONALES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-398-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-accidentes-personales-seguro-de-accidentes-personales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "DeltaNet Consulting anuncia el curso «Manejo de Conflictos y Negociación + IA»",
+      "resumen": "Delta Net Consulting SA presenta un nuevo programa de capacitación centrado en dos habilidades cada vez más demandadas en el mundo profesional: la gestión de conflictos y la negociación efectiva, ahora potenciadas con…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/deltanet-consulting-anuncia-el-curso-manejo-de-conflictos-y-negociacion-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alzas y bajas en el mercado automotor",
+      "resumen": "Mientras el segmento de automotores continúa a la baja, el crecimiento de la sección de motovehículos no para. A continuación, los números de agosto, a partir del reporte elaborado por SIOMAA. AUTOS El patentamiento del…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/alzas-y-bajas-en-el-mercado-automotor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cómo la IA facilita la recopilación de información para fraudes: cualquiera puede ser un objetivo",
+      "resumen": "La velocidad a la que evoluciona la inteligencia artificial implica que actividades que antes requerían varias horas o incluso días de trabajo de un ciberdelincuente experimentado ahora pueden realizarse en una fracción…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/como-la-ia-facilita-la-recopilacion-de-informacion-para-fraudes-cualquiera-puede-ser-un-objetivo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz Argentina presentó su Reporte de Sustentabilidad 2025",
+      "resumen": "Allianz Argentina, líder global en seguros y servicios financieros, presentó su Reporte de Sustentabilidad 2025, correspondiente a la tercera edición del documento, elaborado bajo los estándares del Global Reporting…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://www.informeoperadores.com.ar/2026/09/10/allianz-argentina-presento-su-reporte-de-sustentabilidad-2025/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/allianz-seguros_3-600x400.png"
+    },
+    {
+      "titulo": "Red de Servicios Pilkington: tecnología, trazabilidad y una red que genera valor para las compañías de seguros.",
+      "resumen": "La gestión de un siniestro requiere coordinación, agilidad y una comunicación fluida entre La gestión de un siniestro requiere coordinación, agilidad y una comunicación fluida entre quienes intervienen en el proceso. En…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-09-10",
+      "url": "https://www.informeoperadores.com.ar/2026/09/10/red-de-servicios-pilkington-tecnologia-trazabilidad-y-una-red-que-genera-valor-para-las-companias-de-seguros/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/SAS-600x400.jpg"
+    },
+    {
+      "titulo": "Robos de vehículos: la sustracción silenciosa domina el robo de 4×4 en Argentina",
+      "resumen": "Según el Informe de Movilidad de Strix, el robo de 4×4 viene en crecimiento desde el año pasado y el hurto se consolida como la modalidad predeterminada con el 63% de los robos de estos vehículos. El Informe de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://www.informeoperadores.com.ar/2026/09/10/robos-de-vehiculos-la-sustraccion-silenciosa-domina-el-robo-de-4x4-en-argentina/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/strix-logo-600x400.jpg"
+    },
+    {
       "titulo": "San Cristóbal: sucesión de multas punitivas y reducción brusca de tarifas",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Distintos tribunales aplicaron multas punitivas a San Cristóbal por incumplimientos en seguros, mientras los productores advierten bajas de tarifas de hasta el 40%.…",
       "fuente": "Mercado y Seguros",
@@ -55,168 +217,6 @@
       "fecha": "2026-09-09",
       "url": "https://mercadosyseguros.com/liderazgo-con-sentido-que-valoran-hoy-las-organizaciones/",
       "imagen": ""
-    },
-    {
-      "titulo": "Seguro de retiro 100% digital de Galicia Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros lanzó en 2025 un seguro de retiro 100% digital que permite simular ahorros, elegir moneda (pesos o dólares), definir aportes y gestionar la póliza…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-09",
-      "url": "https://mercadosyseguros.com/seguro-de-retiro-100-digital-de-galicia-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Balances a junio 2026: reducción del déficit del 82,6%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Al 30/6/2026 el mercado asegurador registró un déficit de -$113.028 millones según la SSN; ajustado, el rojo de junio 2025 fue -$648.845 millones, lo que implica una…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-09-09",
-      "url": "https://mercadosyseguros.com/balances-a-junio-2026-reduccion-del-deficit-del-826/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal ART en la XI Jornada Nacional de Ergonomía",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal ART participó el 30 de julio en la XI Jornada Nacional de Ergonomía en CABA; Marina Lanfranqui, ergónoma del Sector de Ergonomía Ocupacional, fue…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://mercadosyseguros.com/federacion-patronal-art-en-la-xi-jornada-nacional-de-ergonomia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Globaim desembarca en Argentina y refuerza su expansión en Latinoamérica",
-      "resumen": "La firma española de consultoría de siniestros y reclamaciones inicia operaciones en Argentina, simultáneamente con su lanzamiento en México y Chile. Globaim designa a Roberto Lynch, ejecutivo con más de dos décadas de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://100seguro.com.ar/globaim-desembarca-en-argentina-y-refuerza-su-expansion-en-latinoamerica/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Roberto-Lynch-Globaim-Argentina.png"
-    },
-    {
-      "titulo": "BBVA presenta una propuesta integral para los Fondos FAL: reintegra el 100% del aporte y bonifica la comisión de administración durante 2027",
-      "resumen": "BBVA presentó su propuesta de administración de los Fondos FAL para empresas y PyMEs, que busca integrar su gestión con la de haberes. La entrada BBVA presenta una propuesta integral para los Fondos FAL: reintegra el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://100seguro.com.ar/bbva-presenta-una-propuesta-integral-para-los-fondos-fal-reintegra-el-100-del-aporte-y-bonifica-la-comision-de-administracion-durante-2027/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Flyer-Fondos-FAL.png"
-    },
-    {
-      "titulo": "Rivadavia Seguros acompaña el desarrollo minero en el NOA y participa en Argentina Mining Norte 2026",
-      "resumen": "En el marco de la XIX Convención Internacional Argentina Mining Norte 2026, celebrada del 2 al 4 de septiembre en el Centro de Convenciones de la ciudad de Salta, Rivadavia Seguros llevó a cabo una intensa agenda…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://100seguro.com.ar/rivadavia-seguros-acompana-el-desarrollo-minero-en-el-noa-y-participa-en-argentina-mining-norte-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Rivadavia-Seguros-acompana-el-desarrollo-minero-en-el-NOA-y-participa-en-Argentina-Mining-Norte-2026-2.jpeg"
-    },
-    {
-      "titulo": "El riesgo cambió, ¿y el seguro? Cambio climático, catástrofes y el desafío de prevenir, invertir y seguir asegurando",
-      "resumen": "La abogada penalista, socia del Estudio Jurídico Nicolás D’Albora, analiza cómo el cambio climático está modificando la naturaleza y la dimensión de los riesgos que enfrenta la sociedad, y plantea el desafío que este…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://100seguro.com.ar/el-riesgo-cambio-y-el-seguro-cambio-climatico-catastrofes-y-el-desafio-de-prevenir-invertir-y-seguir-asegurando/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguridad y respaldo jurídico en seguros: cómo hacer frente a la suplantación de marca y a la nueva ola de fraude digital",
-      "resumen": "El informe \"Percepción en Seguridad Digital 2026\" de CertiSur advierte que el 43% de los usuarios ha sufrido ciberataques o fraudes en el último año. Ante el avance del phishing por suplantación de marcas e identidades…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-09",
-      "url": "https://100seguro.com.ar/seguridad-y-respaldo-juridico-en-seguros-como-hacer-frente-a-la-suplantacion-de-marca-y-a-la-nueva-ola-de-fraude-digital/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA, Ciberseguros y Protección del asegurado: el abogado Martín Pirota y los ecos de un importante Congreso realizado en Colombia",
-      "resumen": "¿Qué nuevos riesgos trae la inteligencia artificial para las aseguradoras? ¿Por qué el ciberseguro sigue rezagado en Latinoamérica frente a Europa y EE.UU.? En esta entrevista exclusiva conversamos con *Martín Pirota*,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-09",
-      "url": "https://elseguroenaccion.com.ar/ia-ciberseguros-y-proteccion-del-asegurado-el-abogado-martin-pirota-y-los-ecos-de-un-importante-congreso-realizado-en-colombia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Robos de vehículos: la sustracción silenciosa domina el robo de 4×4 en Argentina",
-      "resumen": "Según el Informe de Movilidad de Strix, el robo de 4×4 viene en crecimiento desde el año pasado y el hurto se consolida como la modalidad predeterminada con el 63% de los robos de estos vehículos. El Informe de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://elseguroenaccion.com.ar/robos-de-vehiculos-la-sustraccion-silenciosa-domina-el-robo-de-4x4-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Se prorroga la implementación del nuevo Régimen de Información",
-      "resumen": "La Superintendencia de Seguros de la Nación prorrogó la implementación del nuevo Régimen de Información (RI), a través de la Circular IF-2026-86100652-APN-GE#SSN. La medida responde a solicitudes del sector para ampliar…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-09",
-      "url": "https://elseguroenaccion.com.ar/se-prorroga-la-implementacion-del-nuevo-regimen-de-informacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención ART presenta ErgoScan, una herramienta basada en inteligencia artificial que fortalece la evaluación ergonómica y la prevención de riesgos laborales",
-      "resumen": "Prevención ART continúa promoviendo la innovación aplicada a la prevención de riesgos laborales con el lanzamiento de ErgoScan, una herramienta digital impulsada por inteligencia artificial que fortalece el proceso de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-09",
-      "url": "https://elseguroenaccion.com.ar/prevencion-art-presenta-ergoscan-una-herramienta-basada-en-inteligencia-artificial-que-fortalece-la-evaluacion-ergonomica-y-la-prevencion-de-riesgos-laborales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia Seguros acompaña el desarrollo minero enel NOA y participa en Argentina Mining Norte 2026",
-      "resumen": "En el marco de la XIX Convención Internacional Argentina Mining Norte 2026, celebrada del 2 al 4 de septiembre en el Centro de Convenciones de la ciudad de Salta, Rivadavia Seguros llevó a cabo una intensa agenda…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://elseguroenaccion.com.ar/rivadavia-seguros-acompana-el-desarrollo-minero-enel-noa-y-participa-en-argentina-mining-norte-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS estará presente en las ediciones de Santa Fe y Paraná del Social Media Day",
-      "resumen": "Río Uruguay Seguros (RUS) continúa fortaleciendo su presencia en los principales espacios vinculados con la innovación, la comunicación y la transformación digital. Los próximos 9 y 10 de septiembre, la compañía será…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-09",
-      "url": "https://elseguroenaccion.com.ar/rus-estara-presente-en-las-ediciones-de-santa-fe-y-parana-del-social-media-day/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención ART lanza ErgoScan: Innovadora herramienta de IA para mejorar la ergonomía laboral",
-      "resumen": "En septiembre de 2026, Prevención ART presentó ErgoScan, una herramienta basada en inteligencia artificial que promete transformar la evaluación ergonómica y la prevención de riesgos laborales. Este lanzamiento responde…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-09-09",
-      "url": "https://nbs.ar/prevencion-art-lanza-ergoscan-innovadora-herramienta-de-ia-para-mejorar-la-ergonomia-laboral/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz Argentina revela su Reporte de Sustentabilidad 2025: un compromiso con el futuro responsable",
-      "resumen": "Allianz Argentina, líder global en seguros y servicios financieros, presentó su Reporte de Sustentabilidad 2025 en Buenos Aires en septiembre de 2026. Este informe detalla los esfuerzos de la compañía para integrar…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://nbs.ar/allianz-argentina-revela-su-reporte-de-sustentabilidad-2025-un-compromiso-con-el-futuro-responsable/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos de motos: agosto creció 34,70% en 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto de 2026 se patentaron 74.155 motos según CAFAM, un 34,70% más que en agosto de 2025. El acumulado enero-agosto suma 590.861 unidades; 96,85% fueron…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-08",
-      "url": "https://mercadosyseguros.com/patentamientos-de-motos-agosto-crecio-3470-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "APAS Santa Fe organiza la Jornada Regional de Seguros 2026",
-      "resumen": "El evento reunirá a productores asesores, aseguradoras y especialistas del mercado, en una agenda de capacitación de una jornada completa, con eje en inteligencia artificial, transporte, evidencia digital, retiro y…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-08",
-      "url": "https://100seguro.com.ar/apas-santa-fe-organiza-la-jornada-regional-de-seguros-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/los-silos-1024x574-1.jpg"
     }
   ]
 }
