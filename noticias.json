@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T10:08-03:00",
+  "actualizado": "2026-09-12T09:32-03:00",
   "total": 24,
   "noticias": [
     {
@@ -37,6 +37,69 @@
       "fecha": "2026-09-11",
       "url": "https://mercadosyseguros.com/fapasa-participo-del-acto-por-el-dia-del-liquidador-de-seguros/",
       "imagen": ""
+    },
+    {
+      "titulo": "Del seguro de vida al seguro para vivir: expertos ponen foco en los sub-40 y los “silver”",
+      "resumen": "En un programa especial de 100% SEGURO desde el 19° Seminario Internacional de Seguros de Vida y de Retiro, organizado por AVIRA, analizamos los principales desafíos del seguro de personas frente a los cambios…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://100seguro.com.ar/del-seguro-de-vida-al-seguro-para-vivir-expertos-ponen-foco-en-los-sub-40-y-los-silver/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hawk Group presentó su propuesta integral para el sector retail en el Encuentro Red Acero 2026",
+      "resumen": "La compañía exhibió las innovadoras soluciones de YOLO y Assist Blister como ejes centrales de su participación, consolidando una propuesta de valor integral que combina financiación y servicios estratégicos para…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-11",
+      "url": "https://100seguro.com.ar/hawk-group-presento-su-propuesta-integral-para-el-sector-retail-en-el-encuentro-red-acero-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CESVI Argentina premió a los ganadores del Concurso Nacional de Lucha contra el Fraude",
+      "resumen": "Más de 70 casos fueron analizados por un jurado integrado por referentes del sector asegurador, judicial y académico. El análisis permitió identificar nuevas modalidades de fraude y los desafíos que enfrentan las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://100seguro.com.ar/cesvi-argentina-premio-a-los-ganadores-del-concurso-nacional-de-lucha-contra-el-fraude/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/CESVI-Argentina-premio-a-los-ganadores-del-Concurso-Nacional-de-Lucha-contra-el-Fraude-2.jpg"
+    },
+    {
+      "titulo": "AOSS y AMPASS renovaron autoridades y cerraron un nuevo ciclo institucional con sus asociados",
+      "resumen": "AOSS, la Asociación de Organizadores del Grupo Sancor Seguros, y AMPASS, la Asociación Mutual de Productores Asesores del Grupo Sancor Seguros, celebraron sus Asambleas Generales Ordinarias en Sunchales, donde aprobaron…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://100seguro.com.ar/aoss-y-ampass-renovaron-autoridades-y-cerraron-un-nuevo-ciclo-institucional-con-sus-asociados/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Asamblea-AOSS.jpeg"
+    },
+    {
+      "titulo": "Las empresas en Argentina avanzan hacia un modelo de compensación más estratégico y previsible",
+      "resumen": "El cambiante contexto económico argentino centrado en ajustes salariales para combatir la inflación, está dando paso a un modelo de compensaciones mucho más estratégico, planificado y sofisticado. En este escenario, una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://100seguro.com.ar/las-empresas-en-argentina-avanzan-hacia-un-modelo-de-compensacion-mas-estrategico-y-previsible/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rivadavia Seguros acompaña el desarrollo minero enel NOA y participa en Argentina Mining Norte 2026",
+      "resumen": "En el marco de la XIX Convención Internacional Argentina Mining Norte 2026, celebrada del 2 al 4 de septiembre en el Centro de Convenciones de la ciudad de Salta, Rivadavia Seguros llevó a cabo una intensa agenda…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-11",
+      "url": "https://www.informeoperadores.com.ar/2026/09/11/rivadavia-seguros-acompana-el-desarrollo-minero-enel-noa-y-participa-en-argentina-mining-norte-2026/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Rivadavia-Seguros-acompana-el-desarrollo-minero-en-el-NOA-y-participa-en-Argentina-Mining-Norte-2026-2-600x450.jpeg"
+    },
+    {
+      "titulo": "Prevención ART presenta ErgoScan, una herramienta basada en inteligencia artificial que fortalece la evaluación ergonómica y la prevención de riesgos laborales",
+      "resumen": "Prevención ART continúa promoviendo la innovación aplicada a la prevención de riesgos laborales con el lanzamiento de ErgoScan, una herramienta digital impulsada por inteligencia artificial que fortalece el proceso de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-09-11",
+      "url": "https://www.informeoperadores.com.ar/2026/09/11/prevencion-art-presenta-ergoscan-una-herramienta-basada-en-inteligencia-artificial-que-fortalece-la-evaluacion-ergonomica-y-la-prevencion-de-riesgos-laborales/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Prevencion-ART-presenta-ErgoScan-1-600x400.jpg"
     },
     {
       "titulo": "CESVI Argentina y FIA Región IV firman convenio por seguridad vial",
@@ -153,69 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-10",
       "url": "https://elseguroenaccion.com.ar/deltanet-consulting-anuncia-el-curso-manejo-de-conflictos-y-negociacion-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alzas y bajas en el mercado automotor",
-      "resumen": "Mientras el segmento de automotores continúa a la baja, el crecimiento de la sección de motovehículos no para. A continuación, los números de agosto, a partir del reporte elaborado por SIOMAA. AUTOS El patentamiento del…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://elseguroenaccion.com.ar/alzas-y-bajas-en-el-mercado-automotor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cómo la IA facilita la recopilación de información para fraudes: cualquiera puede ser un objetivo",
-      "resumen": "La velocidad a la que evoluciona la inteligencia artificial implica que actividades que antes requerían varias horas o incluso días de trabajo de un ciberdelincuente experimentado ahora pueden realizarse en una fracción…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-10",
-      "url": "https://elseguroenaccion.com.ar/como-la-ia-facilita-la-recopilacion-de-informacion-para-fraudes-cualquiera-puede-ser-un-objetivo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz Argentina presentó su Reporte de Sustentabilidad 2025",
-      "resumen": "Allianz Argentina, líder global en seguros y servicios financieros, presentó su Reporte de Sustentabilidad 2025, correspondiente a la tercera edición del documento, elaborado bajo los estándares del Global Reporting…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://www.informeoperadores.com.ar/2026/09/10/allianz-argentina-presento-su-reporte-de-sustentabilidad-2025/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/allianz-seguros_3-600x400.png"
-    },
-    {
-      "titulo": "Red de Servicios Pilkington: tecnología, trazabilidad y una red que genera valor para las compañías de seguros.",
-      "resumen": "La gestión de un siniestro requiere coordinación, agilidad y una comunicación fluida entre La gestión de un siniestro requiere coordinación, agilidad y una comunicación fluida entre quienes intervienen en el proceso. En…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-09-10",
-      "url": "https://www.informeoperadores.com.ar/2026/09/10/red-de-servicios-pilkington-tecnologia-trazabilidad-y-una-red-que-genera-valor-para-las-companias-de-seguros/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/SAS-600x400.jpg"
-    },
-    {
-      "titulo": "Robos de vehículos: la sustracción silenciosa domina el robo de 4×4 en Argentina",
-      "resumen": "Según el Informe de Movilidad de Strix, el robo de 4×4 viene en crecimiento desde el año pasado y el hurto se consolida como la modalidad predeterminada con el 63% de los robos de estos vehículos. El Informe de…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://www.informeoperadores.com.ar/2026/09/10/robos-de-vehiculos-la-sustraccion-silenciosa-domina-el-robo-de-4x4-en-argentina/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/07/strix-logo-600x400.jpg"
-    },
-    {
-      "titulo": "San Cristóbal: sucesión de multas punitivas y reducción brusca de tarifas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Distintos tribunales aplicaron multas punitivas a San Cristóbal por incumplimientos en seguros, mientras los productores advierten bajas de tarifas de hasta el 40%.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://mercadosyseguros.com/san-cristobal-multas-dano-punitivo-tarifas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Liderazgo con sentido: qué valoran hoy las organizaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Calveiro, con más de 40 años de experiencia, define cuatro sentidos del liderazgo frente a la incertidumbre: propuestas prácticas, acompañamiento del líder,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-09",
-      "url": "https://mercadosyseguros.com/liderazgo-con-sentido-que-valoran-hoy-las-organizaciones/",
       "imagen": ""
     }
   ]
