@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-09-12T09:32-03:00",
+  "actualizado": "2026-09-13T10:33-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Patentamientos agosto: autos en baja, motos en alza",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto se patentaron 44.415 autos (−19,1% interanual) y 73.566 motos (+34,2% interanual), según SIOMAA. TOYOTA y HONDA lideraron las preferencias por marcas;…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-13",
+      "url": "https://mercadosyseguros.com/patentamientos-agosto-autos-en-baja-motos-en-alza/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA y fraude: cómo la inteligencia artificial facilita la recopilación de datos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET alertó en 2024 que la IA reduce la barrera para ciberdelincuentes, permitiendo recolectar datos públicos y crear phishing y deepfakes más convincentes. La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-13",
+      "url": "https://mercadosyseguros.com/ia-y-fraude-como-la-inteligencia-artificial-facilita-la-recopilacion-de-datos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA y ciberseguros: conclusiones del Congreso CILA-AIDA 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En el XIX Congreso CILA-AIDA (26-28 ago 2026) en Colombia, Martín Pirota explicó que la IA y las amenazas digitales amplían riesgos asegurables y que el mercado de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-13",
+      "url": "https://mercadosyseguros.com/ia-y-ciberseguros-conclusiones-del-congreso-cila-aida-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ErgoScan: Prevención ART lanzó una herramienta de IA para ergonomía",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención ART lanzó ErgoScan en 2026, una herramienta de inteligencia artificial que analiza videos desde móviles para evaluar posturas y movimientos, genera…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-13",
+      "url": "https://mercadosyseguros.com/ergoscan-prevencion-art-lanzo-una-herramienta-de-ia-para-ergonomia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Avispero radiactivo en Savannah River: encontraron radiación 10 veces superior",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 3 de julio de 2025 se detectó un avispero con radiación diez veces por encima del límite en Savannah River Site, Carolina del Sur. El nido fue tratado como residuo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-12",
+      "url": "https://mercadosyseguros.com/avispero-radiactivo-en-savannah-river-encontraron-radiacion-10-veces-superior/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate en AVIRA: seguro como infraestructura invisible del crecimiento",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate, superintendente de Seguros de la Nación, afirmó en el seminario de AVIRA que el seguro es una \"infraestructura invisible del crecimiento\" y destacó…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-12",
+      "url": "https://mercadosyseguros.com/plate-en-avira-seguro-como-infraestructura-invisible-del-crecimiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros de vida y salud: claves para transformar el negocio",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Bruno Campanero (IAPSER) y Luis María Bollini (CB Studio) analizan tendencias, errores de venta y estrategias formativas para impulsar seguros de vida y salud, con…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-12",
+      "url": "https://mercadosyseguros.com/seguros-de-vida-y-salud-claves-para-transformar-el-negocio/",
+      "imagen": ""
+    },
     {
       "titulo": "El Norte Seguros en jornada sobre innovación y IA para productores",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Norte Seguros participó en la jornada “Productor asesor de alto impacto” de APAS Córdoba, que reunió a más de 800 productores y abordó innovación e inteligencia…",
@@ -27,15 +90,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-11",
       "url": "https://mercadosyseguros.com/balances-a-junio-2026-datos-completos-en-todo-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA participó del acto por el Día del Liquidador de Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA estuvo representada por Juan Ignacio Luco y Jorge Zottos en la celebración del Día del Liquidador el 26 de agosto en el Centro Naval de Buenos Aires. El acto,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-11",
-      "url": "https://mercadosyseguros.com/fapasa-participo-del-acto-por-el-dia-del-liquidador-de-seguros/",
       "imagen": ""
     },
     {
@@ -102,42 +156,6 @@
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Prevencion-ART-presenta-ErgoScan-1-600x400.jpg"
     },
     {
-      "titulo": "CESVI Argentina y FIA Región IV firman convenio por seguridad vial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI Argentina y FIA Región IV firmaron un Convenio Marco para intercambiar datos, desarrollar investigaciones y capacitar equipos en seguridad vial. El acuerdo…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://mercadosyseguros.com/cesvi-argentina-y-fia-region-iv-firman-convenio-por-seguridad-vial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros de vida y retiro: reclaman alivio fiscal para impulsar el ahorro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Autoridades y referentes aseguradores, entre ellos Guillermo Plate, pidieron incentivos fiscales y reducción de impuestos para que los seguros de vida y retiro…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://mercadosyseguros.com/seguros-de-vida-y-retiro-reclaman-alivio-fiscal-para-impulsar-el-ahorro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y seguros: redefine quién consigue mejores condiciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon sostiene que en el Q2 2026 la IA y la analítica hicieron la tarificación más técnica y diferenciada, sin cambiar aún los precios globales; la calidad de la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://mercadosyseguros.com/ia-y-seguros-redefine-quien-consigue-mejores-condiciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mercado asegurador: cinco años de pérdidas y nueva agenda",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, dijo que el mercado asegurador argentino acumula cinco años de pérdidas y afronta un deterioro de la solvencia, en un contexto…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://mercadosyseguros.com/mercado-asegurador-cinco-anos-de-perdidas-y-nueva-agenda/",
-      "imagen": ""
-    },
-    {
       "titulo": "Ciberseguro: la IA redefine el riesgo y pone a prueba los límites de cobertura",
       "resumen": "El mercado mundial de seguros cibernéticos alcanzará los USD 16.400 millones en primas durante 2026 y Swiss Re proyecta que llegará a USD 17.100 millones en 2027. Sin embargo, detrás de este crecimiento persiste una…",
       "fuente": "100% Seguro",
@@ -198,24 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-09-10",
       "url": "https://elseguroenaccion.com.ar/resol-2026-401-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-sepelio-seguro-colectivo-de-sepelio-y-seguro-individual-de-sepelio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-398-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA ACCIDENTES PERSONALES – SEGURO DE ACCIDENTES PERSONALES",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-10",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-398-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-accidentes-personales-seguro-de-accidentes-personales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "DeltaNet Consulting anuncia el curso «Manejo de Conflictos y Negociación + IA»",
-      "resumen": "Delta Net Consulting SA presenta un nuevo programa de capacitación centrado en dos habilidades cada vez más demandadas en el mundo profesional: la gestión de conflictos y la negociación efectiva, ahora potenciadas con…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-10",
-      "url": "https://elseguroenaccion.com.ar/deltanet-consulting-anuncia-el-curso-manejo-de-conflictos-y-negociacion-ia/",
       "imagen": ""
     }
   ]
