@@ -1,7 +1,34 @@
 {
-  "actualizado": "2026-09-13T10:33-03:00",
+  "actualizado": "2026-09-14T12:31-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Solvencia del seguro: el cambio de paradigma que pide Gustavo Trías",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, dijo en El Cronista Estudio que la baja de la inflación obliga a readecuar primas y reforzar la solvencia. Señaló riesgos como…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-14",
+      "url": "https://mercadosyseguros.com/solvencia-del-seguro-el-cambio-de-paradigma-que-pide-gustavo-trias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jornada Regional de Seguros 2026 en Santa Fe",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com APAS Santa Fe organiza la Jornada Regional de Seguros 2026 el 17 de septiembre, de 8:00 a 13:30, en el Centro de Convenciones Los Maderos. Exposiciones incluirán IA…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-14",
+      "url": "https://mercadosyseguros.com/jornada-regional-de-seguros-2026-en-santa-fe/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Curso de negociación y manejo de conflictos con IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com DeltaNet Consulting SA dictará el curso online \"Manejo de Conflictos y Negociación + IA\" los días 15, 20 y 22 de octubre (tres encuentros de 10:00 a 12:30, 7h30 en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-14",
+      "url": "https://mercadosyseguros.com/curso-de-negociacion-y-manejo-de-conflictos-con-ia/",
+      "imagen": ""
+    },
     {
       "titulo": "Patentamientos agosto: autos en baja, motos en alza",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto se patentaron 44.415 autos (−19,1% interanual) y 73.566 motos (+34,2% interanual), según SIOMAA. TOYOTA y HONDA lideraron las preferencias por marcas;…",
@@ -66,33 +93,6 @@
       "imagen": ""
     },
     {
-      "titulo": "El Norte Seguros en jornada sobre innovación y IA para productores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Norte Seguros participó en la jornada “Productor asesor de alto impacto” de APAS Córdoba, que reunió a más de 800 productores y abordó innovación e inteligencia…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-11",
-      "url": "https://mercadosyseguros.com/el-norte-seguros-en-jornada-sobre-innovacion-y-ia-para-productores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros agropecuarios: cómo proteger campañas y activos del productor",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros destaca que, ante riesgos como sequías o heladas, los productores necesitan coberturas claras y ágiles; los seguros paramétricos y la tecnología…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-11",
-      "url": "https://mercadosyseguros.com/seguros-agropecuarios-como-proteger-campanas-y-activos-del-productor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Balances a junio 2026: datos completos en Todo Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Todo Seguros publicó los balances al 30 de junio de 2026 con rankings de producción total y por ramos, resultados técnicos y finales, evolución de inversiones y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-11",
-      "url": "https://mercadosyseguros.com/balances-a-junio-2026-datos-completos-en-todo-seguros/",
-      "imagen": ""
-    },
-    {
       "titulo": "Del seguro de vida al seguro para vivir: expertos ponen foco en los sub-40 y los “silver”",
       "resumen": "En un programa especial de 100% SEGURO desde el 19° Seminario Internacional de Seguros de Vida y de Retiro, organizado por AVIRA, analizamos los principales desafíos del seguro de personas frente a los cambios…",
       "fuente": "100% Seguro",
@@ -136,24 +136,6 @@
       "fecha": "2026-09-11",
       "url": "https://100seguro.com.ar/las-empresas-en-argentina-avanzan-hacia-un-modelo-de-compensacion-mas-estrategico-y-previsible/",
       "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia Seguros acompaña el desarrollo minero enel NOA y participa en Argentina Mining Norte 2026",
-      "resumen": "En el marco de la XIX Convención Internacional Argentina Mining Norte 2026, celebrada del 2 al 4 de septiembre en el Centro de Convenciones de la ciudad de Salta, Rivadavia Seguros llevó a cabo una intensa agenda…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-11",
-      "url": "https://www.informeoperadores.com.ar/2026/09/11/rivadavia-seguros-acompana-el-desarrollo-minero-enel-noa-y-participa-en-argentina-mining-norte-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Rivadavia-Seguros-acompana-el-desarrollo-minero-en-el-NOA-y-participa-en-Argentina-Mining-Norte-2026-2-600x450.jpeg"
-    },
-    {
-      "titulo": "Prevención ART presenta ErgoScan, una herramienta basada en inteligencia artificial que fortalece la evaluación ergonómica y la prevención de riesgos laborales",
-      "resumen": "Prevención ART continúa promoviendo la innovación aplicada a la prevención de riesgos laborales con el lanzamiento de ErgoScan, una herramienta digital impulsada por inteligencia artificial que fortalece el proceso de…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-09-11",
-      "url": "https://www.informeoperadores.com.ar/2026/09/11/prevencion-art-presenta-ergoscan-una-herramienta-basada-en-inteligencia-artificial-que-fortalece-la-evaluacion-ergonomica-y-la-prevencion-de-riesgos-laborales/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Prevencion-ART-presenta-ErgoScan-1-600x400.jpg"
     },
     {
       "titulo": "Ciberseguro: la IA redefine el riesgo y pone a prueba los límites de cobertura",
@@ -216,6 +198,24 @@
       "categoria": "Regulación",
       "fecha": "2026-09-10",
       "url": "https://elseguroenaccion.com.ar/resol-2026-401-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-sepelio-seguro-colectivo-de-sepelio-y-seguro-individual-de-sepelio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-398-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA ACCIDENTES PERSONALES – SEGURO DE ACCIDENTES PERSONALES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-398-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-accidentes-personales-seguro-de-accidentes-personales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "DeltaNet Consulting anuncia el curso «Manejo de Conflictos y Negociación + IA»",
+      "resumen": "Delta Net Consulting SA presenta un nuevo programa de capacitación centrado en dos habilidades cada vez más demandadas en el mundo profesional: la gestión de conflictos y la negociación efectiva, ahora potenciadas con…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-10",
+      "url": "https://elseguroenaccion.com.ar/deltanet-consulting-anuncia-el-curso-manejo-de-conflictos-y-negociacion-ia/",
       "imagen": ""
     }
   ]
