@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-09-15T11:03-03:00",
+  "actualizado": "2026-09-16T10:56-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Federación Patronal: estrategia comercial y nuevos riesgos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Denis Barrios, Gerente Comercial de Federación Patronal Seguros, detalló la estrategia para mejorar rentabilidad y servicio: revisión de primas en automotores, foco…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-16",
+      "url": "https://mercadosyseguros.com/federacion-patronal-estrategia-comercial-y-nuevos-riesgos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Kilometraje adulterado: concesionaria deberá pagar $6.000.000",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un juzgado de General San Martín condenó a responsables de una concesionaria a pagar $6.000.000 por la venta en octubre de 2018 de un SUV 2010 cuyo kilometraje fue…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-16",
+      "url": "https://mercadosyseguros.com/kilometraje-adulterado-concesionaria-debera-pagar-6-000-000/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Exámenes para productores de seguros: 196 rindieron en el interior",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Entre el 1 y el 4 de septiembre rindieron 196 personas en cuatro ciudades del interior: 104 aspirantes y 92 productores asesores de seguros. La actividad fue…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-16",
+      "url": "https://mercadosyseguros.com/examenes-para-productores-de-seguros-196-rindieron-en-el-interior/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz en Argentina Mining Norte 2026 en Salta",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina fue sponsor de Argentina Mining Norte 2026, celebrado del 2 al 4 de septiembre en Salta; la aseguradora presentó soluciones de gestión de riesgos y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-16",
+      "url": "https://mercadosyseguros.com/allianz-en-argentina-mining-norte-2026-en-salta/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grouti: el growth partner que quiere resolver el problema de ejecución comercial de las insurtechs de Latam",
+      "resumen": "Por Hugues Bertin, CEO & Founder de Digital Insurance LatAm y Presidente de la Alianza Insurtech Panamericana (AIP).- Hay un problema del que se habla poco en el ecosistema y que en mi experiencia explica muchos de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-16",
+      "url": "https://100seguro.com.ar/grouti-el-growth-partner-que-quiere-resolver-el-problema-de-ejecucion-comercial-de-las-insurtechs-de-latam/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/HUGUES-BERTIN-150x150.png"
+    },
     {
       "titulo": "Boletín Estadístico del Seguro: edición junio 2026 disponible",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Todo Riesgo publicó la edición de junio de 2026 del Boletín Estadístico del Seguro en formato digital. La novena edición incluye ranking de producción, resultados…",
@@ -39,183 +84,138 @@
       "imagen": ""
     },
     {
-      "titulo": "No era solo San Cristóbal: las sanciones que el mercado asegurador debe discutir",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Las multas civiles contra distintas aseguradoras plantean preguntas sobre la supervisión, el trato al cliente y la agenda del sector. Mientras tanto, las bajas de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://mercadosyseguros.com/dano-punitivo-aseguradoras-ssn-descuentos-polizas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Solvencia del seguro: el cambio de paradigma que pide Gustavo Trías",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, dijo en El Cronista Estudio que la baja de la inflación obliga a readecuar primas y reforzar la solvencia. Señaló riesgos como…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://mercadosyseguros.com/solvencia-del-seguro-el-cambio-de-paradigma-que-pide-gustavo-trias/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jornada Regional de Seguros 2026 en Santa Fe",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com APAS Santa Fe organiza la Jornada Regional de Seguros 2026 el 17 de septiembre, de 8:00 a 13:30, en el Centro de Convenciones Los Maderos. Exposiciones incluirán IA…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://mercadosyseguros.com/jornada-regional-de-seguros-2026-en-santa-fe/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Curso de negociación y manejo de conflictos con IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com DeltaNet Consulting SA dictará el curso online \"Manejo de Conflictos y Negociación + IA\" los días 15, 20 y 22 de octubre (tres encuentros de 10:00 a 12:30, 7h30 en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://mercadosyseguros.com/curso-de-negociacion-y-manejo-de-conflictos-con-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rumbo a los 42K: siete claves para entrenar el cuerpo y la mente antes, durante y después de una maratón",
-      "resumen": "Entrenamiento, descanso, hidratación y motivación son algunos de los factores que forman parte de la preparación para una carrera de larga distancia. De cara a la Maratón Internacional de Buenos Aires, Prevención Salud…",
+      "titulo": "Rosales: “El riesgo empresario cambió y el broker también tiene que cambiar”",
+      "resumen": "El negocio corporativo atraviesa una etapa de fuerte transformación. Mientras minería, energía y agro muestran nuevas oportunidades, riesgos como Cyber, interrupción de negocios y talento ganan peso en la agenda…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/rumbo-a-los-42k-siete-claves-para-entrenar-el-cuerpo-y-la-mente-antes-durante-y-despues-de-una-maraton/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Prevencion-Salud-Maraton.jpg"
-    },
-    {
-      "titulo": "Insurance Week confirma su tercera edición: abril de 2027 en Salta",
-      "resumen": "La nueva edición del evento organizado por el Centro de Investigaciones para el Desarrollo del Seguro (CIDeS) se realizará del 6 al 8 de abril de 2027 en el Centro de Convenciones de Salta. Tras las experiencias de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/insurance-week-confirma-su-tercera-edicion-abril-de-2027-en-salta/",
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/rosales-el-riesgo-empresario-cambio-y-el-broker-tambien-tiene-que-cambiar/",
       "imagen": ""
     },
     {
-      "titulo": "Crece el uso de la bicicleta: Galicia Seguros plantea claves para una movilidad segura y responsable",
-      "resumen": "En el marco de la Semana de la Movilidad Sustentable, Galicia Seguros invita a repensar la movilidad con el uso creciente de medios como la bicicleta. Si bien su crecimiento aporta beneficios ambientales y ayuda a…",
+      "titulo": "Crecen 11% los juicios por Riesgos del Trabajo y Santa Fe bate récords mientras avanzan reformas clave en la Justicia",
+      "resumen": "En agosto ingresaron casi 15 mil demandas contra el sistema de Riesgos del Trabajo, el segundo nivel más alto de la historia. Distritos como la provincia de Santa Fe y la Ciudad Autónoma de Buenos Aires (CABA) avanzan…",
       "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/crece-el-uso-de-la-bicicleta-galicia-seguros-plantea-claves-para-una-movilidad-segura-y-responsable/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Infografia_Dia_BICI-1.png"
+      "categoria": "Regulación",
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/crecen-11-los-juicios-por-riesgos-del-trabajo-y-santa-fe-bate-records-mientras-avanzan-reformas-clave-en-la-justicia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Acumulado-movil.jpg"
     },
     {
-      "titulo": "Cómo la inteligencia artificial está transformando la prevención laboral: el debate global llega a Rosario",
-      "resumen": "El Congreso Internacional ORP reunirá a 2000 expertos de todo el mundo para analizar el impacto de los datos y la inteligencia artificial en la prevención de riesgos laborales. Dr. Daniel López Rosetti y Paula Pareto…",
+      "titulo": "Electromovilidad: el desafío ya no es solo sumar vehículos eléctricos, sino preparar la infraestructura",
+      "resumen": "Por Diego Delfino, Gerente Técnico de Mehcco.- La movilidad eléctrica empieza a dejar de ser una conversación sobre el futuro para convertirse en un desafío concreto. La incorporación de vehículos eléctricos al…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/electromovilidad-el-desafio-ya-no-es-solo-sumar-vehiculos-electricos-sino-preparar-la-infraestructura/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Diego-Delfino-Gerente-Tecnico-de-Mehcco-150x150.jpg"
+    },
+    {
+      "titulo": "Más de 400 PAS y aspirantes rindieron examen en cinco sedes del interior del país",
+      "resumen": "Córdoba, Junín, Santa Rosa, Tandil y Mar del Plata fueron las sedes de una nueva semana de evaluaciones para Productores Asesores de Seguros y aspirantes a la matrícula. En total, se presentaron 402 personas, en el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/mas-de-400-pas-y-aspirantes-rindieron-examen-en-cinco-sedes-del-interior-del-pais/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/cordoba-2-300x200.jpg"
+    },
+    {
+      "titulo": "Julieta Fondeville asume como Head of Marketing & Communications de Allianz Commercial LatAm",
+      "resumen": "La ejecutiva sumó desde el 1 de septiembre esta responsabilidad regional a su rol actual como Head of Marketing, Communications & Customer Experience de Allianz Argentina. La entrada Julieta Fondeville asume como Head…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/julieta-fondeville-asume-como-head-of-marketing-communications-de-allianz-commercial-latam/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Barrio La Salamanca comienza a hacerse realidad en Concepción del Uruguay de la mano del Grupo RUS",
+      "resumen": "El Grupo RUS y los fiduciantes del Fideicomiso La Salamanca firmaron con JCB Construcciones S.A. el convenio de inicio de obra para la ejecución del nuevo desarrollo urbano de Concepción del Uruguay. El proyecto…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/el-barrio-la-salamanca-comienza-a-hacerse-realidad-en-concepcion-del-uruguay-de-la-mano-del-grupo-rus/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Fotos-Walter-Barsotti-3.jpeg"
+    },
+    {
+      "titulo": "Semana de la Movilidad Sostenible: la tecnología como aliada de una movilidad más segura y eficiente",
+      "resumen": "Los datos sobre seguridad vial se consolidan como una pieza clave para pensar el futuro de las ciudades inteligentes. La entrada Semana de la Movilidad Sostenible: la tecnología como aliada de una movilidad más segura y…",
       "fuente": "100% Seguro",
       "categoria": "Innovación",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/como-la-inteligencia-artificial-esta-transformando-la-prevencion-laboral-el-debate-global-llega-a-rosario/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/XXVI-Congreso-Internacional-ORP-2026.jpg"
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/semana-de-la-movilidad-sostenible-la-tecnologia-como-aliada-de-una-movilidad-mas-segura-y-eficiente/",
+      "imagen": ""
     },
     {
-      "titulo": "¿Las mutuales y cooperativas ya dieron el salto hacia las finanzas digitales?",
-      "resumen": "Estas entidades en Argentina enfrentan el desafío de modernizar la gestión de sus recursos a medida que incorporan nuevas tecnologías y herramientas financieras. La entrada ¿Las mutuales y cooperativas ya dieron el…",
+      "titulo": "RUS y Autoinspector: la inspección de motos ya es 100% digital",
+      "resumen": "Río Uruguay Seguros (RUS) suma una nueva etapa a su alianza con Autoinspector: la inspección de motovehículos ya opera de forma completamente digital, y acumula más de 12.000 casos procesados, con un ritmo de…",
       "fuente": "100% Seguro",
       "categoria": "Innovación",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/las-mutuales-y-cooperativas-ya-dieron-el-salto-hacia-las-finanzas-digitales/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Foto-Bruno-Antonello-2026.jpg"
+      "fecha": "2026-09-15",
+      "url": "https://100seguro.com.ar/rus-y-autoinspector-la-inspeccion-de-motos-ya-es-100-digital/",
+      "imagen": ""
     },
     {
-      "titulo": "Seguro de asistencia al viajero: qué tener en cuenta para viajar preparado ante los imprevistos",
-      "resumen": "Desde una urgencia médica hasta una demora de vuelo o la pérdida de equipaje, distintos imprevistos pueden alterar un viaje. Qué aspectos considerar al contratar una asistencia al viajero y por qué contar con respaldo…",
-      "fuente": "100% Seguro",
+      "titulo": "Caución en Auge: el impacto de Vaca Muerta y la minería en el negocio de garantías",
+      "resumen": "Eduardo Nicolás Ventrice, Gerente de Caución en Integrity Seguros, y Daniela D’Alessio, Treaty Manager de Special Division Reinsurance Brokers, analizan el momento actual del mercado de seguros de caución y cómo el boom…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/seguro-de-asistencia-al-viajero-que-tener-en-cuenta-para-viajar-preparado-ante-los-imprevistos/",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/caucion-en-auge-el-impacto-de-vaca-muerta-y-la-mineria-en-el-negocio-de-garantias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Salamanca comienza a hacerse realidad",
+      "resumen": "El Grupo RUS y los fiduciantes del Fideicomiso La Salamanca firmaron con JCB Construcciones S.A. el convenio de inicio de obra para la ejecución del nuevo desarrollo urbano de Concepción del Uruguay. El proyecto…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/la-salamanca-comienza-a-hacerse-realidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CESVI ARGENTINA premió a los ganadores del Concurso Nacional de Lucha contra el Fraude",
+      "resumen": "Más de 70 casos fueron analizados por un jurado integrado por referentes del sector asegurador, judicial y académico. El análisis permitió identificar nuevas modalidades de fraude y los desafíos que enfrentan las…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/cesvi-argentina-premio-a-los-ganadores-del-concurso-nacional-de-lucha-contra-el-fraude/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz participó como sponsor de Argentina Mining Norte 2026 en Salta",
+      "resumen": "La compañía estuvo presente en el principal encuentro internacional de la industria minera argentina, realizado del 2 al 4 de septiembre en el Centro de Convenciones de Salta, reafirmando su compromiso con un sector…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/allianz-participo-como-sponsor-de-argentina-mining-norte-2026-en-salta/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AOSS y AMPASS renovaron autoridades y cerraron un nuevo ciclo institucional con sus asociados",
+      "resumen": "AOSS, la Asociación de Organizadores del Grupo Sancor Seguros, y AMPASS, la Asociación Mutual de Productores Asesores del Grupo Sancor Seguros, celebraron sus Asambleas Generales Ordinarias en Sunchales, donde aprobaron…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/aoss-y-ampass-renovaron-autoridades-y-cerraron-un-nuevo-ciclo-institucional-con-sus-asociados/",
       "imagen": ""
     },
     {
       "titulo": "RUS Salud +: cuidar la salud también es estar preparado",
       "resumen": "Hay cosas que solemos postergar: un chequeo médico, una consulta con un especialista, un estudio que nos indicaron o incluso una visita al odontólogo. No siempre porque no sean importantes, sino porque aparecen otras…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://100seguro.com.ar/rus-salud-cuidar-la-salud-tambien-es-estar-preparado/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/RUS-Salud-.jpg"
-    },
-    {
-      "titulo": "Matías Manzo: “Este cambio regulatorio genera un gran optimismo para el desarrollo del ramo salud»",
-      "resumen": "El gerente de Seguros de Personas del Grupo Sancor Seguros explica cómo impactan las recientes modificaciones dispuestas por la Superintendencia de Seguros de la Nación (SSN). La Superintendencia de Seguros de la Nación…",
-      "fuente": "NBS",
-      "categoria": "Regulación",
-      "fecha": "2026-09-14",
-      "url": "https://nbs.ar/matias-manzo-este-cambio-regulatorio-genera-un-gran-optimismo-para-el-desarrollo-del-ramo-salud/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Banco Santa Fe reduce tasas en créditos hipotecarios: UVA + 7,5% para tu primera vivienda.",
-      "resumen": "El Banco Santa Fe ha tomado la decisión de reducir la tasa de interés en su oferta de créditos hipotecarios, ahora fijada en UVA más 7,5%. Esta nueva línea de financiación estará disponible a partir de la próxima semana…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://nbs.ar/banco-santa-fe-reduce-tasas-en-creditos-hipotecarios-uva-75-para-tu-primera-vivienda/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Créditos de carbono: clave para descarbonizar la logística y combatir las emisiones del transporte",
-      "resumen": "Créditos de carbono: el complemento verde para descarbonizar la logística de larga distancia El transporte, especialmente la logística de larga distancia, es uno de los principales emisores de CO₂. Los créditos de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-14",
-      "url": "https://nbs.ar/creditos-de-carbono-clave-para-descarbonizar-la-logistica-y-combatir-las-emisiones-del-transporte/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patentamientos agosto: autos en baja, motos en alza",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto se patentaron 44.415 autos (−19,1% interanual) y 73.566 motos (+34,2% interanual), según SIOMAA. TOYOTA y HONDA lideraron las preferencias por marcas;…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-13",
-      "url": "https://mercadosyseguros.com/patentamientos-agosto-autos-en-baja-motos-en-alza/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y fraude: cómo la inteligencia artificial facilita la recopilación de datos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET alertó en 2024 que la IA reduce la barrera para ciberdelincuentes, permitiendo recolectar datos públicos y crear phishing y deepfakes más convincentes. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-13",
-      "url": "https://mercadosyseguros.com/ia-y-fraude-como-la-inteligencia-artificial-facilita-la-recopilacion-de-datos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del seguro de vida al seguro para vivir: expertos ponen foco en los sub-40 y los “silver”",
-      "resumen": "En un programa especial de 100% SEGURO desde el 19° Seminario Internacional de Seguros de Vida y de Retiro, organizado por AVIRA, analizamos los principales desafíos del seguro de personas frente a los cambios…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-11",
-      "url": "https://100seguro.com.ar/del-seguro-de-vida-al-seguro-para-vivir-expertos-ponen-foco-en-los-sub-40-y-los-silver/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hawk Group presentó su propuesta integral para el sector retail en el Encuentro Red Acero 2026",
-      "resumen": "La compañía exhibió las innovadoras soluciones de YOLO y Assist Blister como ejes centrales de su participación, consolidando una propuesta de valor integral que combina financiación y servicios estratégicos para…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-11",
-      "url": "https://100seguro.com.ar/hawk-group-presento-su-propuesta-integral-para-el-sector-retail-en-el-encuentro-red-acero-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CESVI Argentina premió a los ganadores del Concurso Nacional de Lucha contra el Fraude",
-      "resumen": "Más de 70 casos fueron analizados por un jurado integrado por referentes del sector asegurador, judicial y académico. El análisis permitió identificar nuevas modalidades de fraude y los desafíos que enfrentan las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-11",
-      "url": "https://100seguro.com.ar/cesvi-argentina-premio-a-los-ganadores-del-concurso-nacional-de-lucha-contra-el-fraude/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/CESVI-Argentina-premio-a-los-ganadores-del-Concurso-Nacional-de-Lucha-contra-el-Fraude-2.jpg"
-    },
-    {
-      "titulo": "Rentabilidad, Servicio y Nuevos Riesgos: la estrategia comercial de Federación Patronal Seguros",
-      "resumen": "Denis Barrios, Gerente Comercial de Federación Patronal Seguros, repasa cómo la compañía equilibra eficiencia, rentabilidad y calidad de servicio en un mercado cada vez más competitivo, y cuenta las apuestas de la…",
       "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
-      "fecha": "2026-09-11",
-      "url": "https://elseguroenaccion.com.ar/rentabilidad-servicio-y-nuevos-riesgos-la-estrategia-comercial-de-federacion-patronal-seguros/",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/rus-salud-cuidar-la-salud-tambien-es-estar-preparado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Crece el uso de la bicicleta",
+      "resumen": "Galicia Seguros plantea claves para una movilidad segura y responsable En el marco de la Semana de la Movilidad Sustentable, Galicia Seguros invita a repensar la movilidad con el uso creciente de medios como la…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-15",
+      "url": "https://elseguroenaccion.com.ar/crece-el-uso-de-la-bicicleta/",
       "imagen": ""
     }
   ]
