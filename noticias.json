@@ -1,7 +1,160 @@
 {
-  "actualizado": "2026-09-17T11:00-03:00",
+  "actualizado": "2026-09-18T10:17-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Hawk Group presentó soluciones para el retail en Red Acero 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Group presentó en Red Acero 2026 una propuesta integral para el retail basada en YOLO (financiación) y Assist Blister (asistencias), en un evento con más de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://mercadosyseguros.com/hawk-group-presento-soluciones-para-el-retail-en-red-acero-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CESVI premió ganadores del Concurso Nacional contra el fraude",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI Argentina celebró la edición 2026 del Concurso Nacional de Lucha contra el Fraude, con más de 70 trabajos presentados y un ahorro acumulado informado de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://mercadosyseguros.com/cesvi-premio-ganadores-del-concurso-nacional-contra-el-fraude/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AOSS y AMPASS renovaron autoridades y cerraron su ciclo 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AOSS ratificó a Mauricio Poldrugach y AMPASS eligió a Martín Alcaraz como presidentes para 2026/2027, tras sus asambleas en Sunchales; AOSS reúne cerca de 650…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://mercadosyseguros.com/aoss-y-ampass-renovaron-autoridades-y-cerraron-su-ciclo-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El desafío de la IA en suscripción: preservar el criterio experto mientras se transforma el negocio asegurador",
+      "resumen": "La inteligencia artificial está modificando la forma en que las aseguradoras analizan riesgos, procesan información y toman decisiones de suscripción. Sin embargo, la incorporación de estas herramientas abre un…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/el-desafio-de-la-ia-en-suscripcion-preservar-el-criterio-experto-mientras-se-transforma-el-negocio-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Dos aseguradoras fueron multadas por incumplimientos en el pago de indemnizaciones",
+      "resumen": "La Superintendencia de Seguros de la Nación sancionó a dos compañías por demoras en el cumplimiento de obligaciones derivadas de siniestros. Las resoluciones también dispusieron la inhabilitación de una mutual y de una…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/dos-aseguradoras-fueron-multadas-por-incumplimientos-en-el-pago-de-indemnizaciones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros y HIT apuestan al futuro en el Parque de Innovación",
+      "resumen": "A través de su vertical Real Estate, Sancor Seguros lanza PI Buenos Aires, un nuevo punto de encuentro en Núñez, para quienes imaginan, desarrollan y transforman el futuro. La entrada Sancor Seguros y HIT apuestan al…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/sancor-seguros-y-hit-apuestan-al-futuro-en-el-parque-de-innovacion/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Sancor-Seguros-HIT-evento.jpg"
+    },
+    {
+      "titulo": "La huella digital corporativa gana importancia en la suscripción de ciberriesgos",
+      "resumen": "Un estudio de Gallagher Re y KYND, basado en el análisis de 63.000 pólizas de ciberseguros, concluye que variables como la cantidad de direcciones IP, la diversidad de proveedores de Internet y los servicios expuestos…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/la-huella-digital-corporativa-gana-importancia-en-la-suscripcion-de-ciberriesgos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Escasez de talento tecnológico y brechas en ciberseguridad: los mayores riesgos corporativos según Marsh Argentina",
+      "resumen": "Romper los silos entre la Gestión de Riesgos y Recursos Humanos resulta clave: el 43% de las empresas que lo lograron reportan un incremento directo en la productividad y eficiencia de su fuerza laboral. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/escasez-de-talento-tecnologico-y-brechas-en-ciberseguridad-los-mayores-riesgos-corporativos-segun-marsh-argentina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/MARSH-mesa-redonda-2.jpeg"
+    },
+    {
+      "titulo": "La Caja presenta Seguro de Auto Eléctrico, una cobertura que evoluciona junto al parque automotor argentino",
+      "resumen": "La aseguradora incorpora protección para componentes específicos de los vehículos eléctricos y adapta sus servicios ante una transformación acelerada del mercado automotor. La entrada La Caja presenta Seguro de Auto…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/la-caja-presenta-seguro-de-auto-electrico-una-cobertura-que-evoluciona-junto-al-parque-automotor-argentino/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Carola-Altuna-La-Caja.jpg"
+    },
+    {
+      "titulo": "Mientras que la IA transforma el trabajo de los puestos junior, la Generación Z prioriza el crecimiento profesional y el pensamiento crítico",
+      "resumen": "De los 906 encuestados, el 76% respondió que en el futuro el éxito profesional exigirá tanto habilidades humanas como la capacidad de orientar eficazmente el uso de la IA. La principal preocupación en torno a la IA es…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/mientras-que-la-ia-transforma-el-trabajo-de-los-puestos-junior-la-generacion-z-prioriza-el-crecimiento-profesional-y-el-pensamiento-critico/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Munich Re reorganiza su equipo de Propositions en América Latina",
+      "resumen": "La entidad articula su estrategia en dos nuevos equipos especializados para acelerar la digitalización y el desarrollo de propuestas de valor para sus socios. La entrada Munich Re reorganiza su equipo de Propositions en…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/munich-re-reorganiza-su-equipo-de-propositions-en-america-latina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Una aseguradora, en el podio de las mejores PyMEs para trabajar",
+      "resumen": "Great Place to Work, autoridad mundial en cultura organizacional, dio a conocer este jueves 17 de septiembre la sexta edición del ranking de Los Mejores Lugares para Trabajar™ Mujeres 2026, que se elaboró en base a las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/una-aseguradora-en-el-podio-de-las-mejores-pymes-para-trabajar/",
+      "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
+    },
+    {
+      "titulo": "Los robos de autos en la madrugada se duplicaron en agosto",
+      "resumen": "El último Indicador Ituran de Robo Vehicular (IRV) mostró un cambio de tendencia: el hurto le gana terreno al robo a mano armada y la Zona Sur desplaza al Oeste como principal escenario del delito. La entrada Los robos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/los-robos-de-autos-en-la-madrugada-se-duplicaron-en-agosto/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Tipo-de-vehiculo-mas-robado-Agosto-2026.png"
+    },
+    {
+      "titulo": "RESOL-2026-409-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA COMBINADO FAMILIAR E INTEGRAL – SEGURO INTEGRAL DE COMERCIO E INDUSTRIA.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-17",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-409-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-combinado-familiar-e-integral-seguro-integral-de-comercio-e-industria/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-407-APN-SSN#MEC – RÉGIMEN SANCIONATORIO – PAS CRISTIÁN GASTÓN ALONSO, NATALIA SOLEDAD SCALZO Y SERGIO ADRIÁN PRINCIPI – SEPRON-SERVICIOS A MEDIDA S.A. / ORGANIZACIÓN PALERMO “OP” – LIBRA COMPAÑÍA ARGENTINA DE SEGUROS S.A.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-17",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-407-apn-ssnmec-regimen-sancionatorio-pas-cristian-gaston-alonso-natalia-soledad-scalzo-y-sergio-adrian-principi-sepron-servicios-a-medida-s-a-organizacion-palermo-o/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-406-APN-SSN#MEC – RÉGIMEN SANCIONATORIO – ASEGURADORA DEL FINISTERRE COMPAÑÍA ARGENTINA DE SEGUROS S.A. Y “ASOCIACIÓN MUTUAL COMPROMISO”.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-17",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-406-apn-ssnmec-regimen-sancionatorio-aseguradora-del-finisterre-compania-argentina-de-seguros-s-a-y-asociacion-mutual-compromiso/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vida lidera la carrera: el ramo que más creció en un mercado que se expande al 42,4%",
+      "resumen": "La producción total del mercado asegurador a junio 2026 avanzó 42,4% en relación al ciclo anterior. Pero detrás del número global hay una foto mucho más desigual: mientras Vida trepó 66,6% y Robo y Aeronavegación…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://elseguroenaccion.com.ar/vida-lidera-la-carrera-el-ramo-que-mas-crecio-en-un-mercado-que-se-expande-al-424/",
+      "imagen": ""
+    },
     {
       "titulo": "Decarre en Uruguay: respaldo regional al proyecto que busca regular la intermediación de seguros",
       "resumen": "La presidente de COPAPROSE y FAPASA mantuvo reuniones en Montevideo con autoridades regulatorias, aseguradoras y referentes del sector para acompañar el proyecto de ley que busca establecer reglas de matriculación,…",
@@ -63,159 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-17",
       "url": "https://nbs.ar/andres-selpa-los-seguros-de-salud-complementarios-seran-uno-de-los-segmentos-con-mayor-potencial-de-crecimiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal: estrategia comercial y nuevos riesgos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Denis Barrios, Gerente Comercial de Federación Patronal Seguros, detalló la estrategia para mejorar rentabilidad y servicio: revisión de primas en automotores, foco…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://mercadosyseguros.com/federacion-patronal-estrategia-comercial-y-nuevos-riesgos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Kilometraje adulterado: concesionaria deberá pagar $6.000.000",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un juzgado de General San Martín condenó a responsables de una concesionaria a pagar $6.000.000 por la venta en octubre de 2018 de un SUV 2010 cuyo kilometraje fue…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://mercadosyseguros.com/kilometraje-adulterado-concesionaria-debera-pagar-6-000-000/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Exámenes para productores de seguros: 196 rindieron en el interior",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Entre el 1 y el 4 de septiembre rindieron 196 personas en cuatro ciudades del interior: 104 aspirantes y 92 productores asesores de seguros. La actividad fue…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://mercadosyseguros.com/examenes-para-productores-de-seguros-196-rindieron-en-el-interior/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz en Argentina Mining Norte 2026 en Salta",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina fue sponsor de Argentina Mining Norte 2026, celebrado del 2 al 4 de septiembre en Salta; la aseguradora presentó soluciones de gestión de riesgos y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://mercadosyseguros.com/allianz-en-argentina-mining-norte-2026-en-salta/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención 4.0: la SRT presentó en Mendoza el registro de prestadores tecnológicos",
-      "resumen": "La iniciativa fue expuesta ante empresas del Polo TIC Mendoza, en una jornada destinada a promover la transformación digital, la incorporación de tecnología y el acceso a herramientas para el desarrollo productivo. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-16",
-      "url": "https://100seguro.com.ar/prevencion-4-0-la-srt-presento-en-mendoza-el-registro-de-prestadores-tecnologicos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Un huracán en Florida podría causar pérdidas aseguradas por USD 300 mil millones, según Swiss Re Institute",
-      "resumen": "Un huracán de categoría 5 que tocara tierra en Miami o en la bahía de Tampa podría generar pérdidas aseguradas de 300 mil millones de dólares o más, cifra que superaría cualquier pérdida asegurada registrada hasta la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://100seguro.com.ar/un-huracan-en-florida-podria-causar-perdidas-aseguradas-por-usd-300-mil-millones-segun-swiss-re-institute/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Las multas que nadie mira: cómo los adquirentes penalizan a las aseguradoras por una mala gestión de rechazos",
-      "resumen": "Por Fernando del Peral, COO de Debi.- En la liquidación mensual de algunos adquirentes (como Fiserv o Payway) existe un concepto que suele pasar desapercibido. Aparece al final del resumen bajo descripciones ambiguas…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://100seguro.com.ar/las-multas-que-nadie-mira-como-los-adquirentes-penalizan-a-las-aseguradoras-por-una-mala-gestion-de-rechazos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Fernando-del-Peral-Debi-150x150.png"
-    },
-    {
-      "titulo": "Serena ART organiza capacitación virtual sobre accidentes in itinere",
-      "resumen": "Desde Serena ART Bienestar invitan a participar de una nueva capacitación virtual en accidentes in itinere, orientada a promover una cultura de prevención y cuidado en cada trayecto. En este encuentro se abordarán…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://100seguro.com.ar/serena-art-organiza-capacitacion-virtual-sobre-accidentes-in-itinere/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS, única aseguradora presente en el workshop de IA y redes sociales realizado en el Palacio Bosch",
-      "resumen": "Organizado por el Social Media Day y la Embajada de Estados Unidos, el encuentro reunió a un reducido grupo de empresas vinculadas con el marketing digital, la generación de contenidos y la implementación de…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-16",
-      "url": "https://100seguro.com.ar/rus-unica-aseguradora-presente-en-el-workshop-de-ia-y-redes-sociales-realizado-en-el-palacio-bosch/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/RUS-Palacio-Bosch.webp"
-    },
-    {
-      "titulo": "Grouti: el growth partner que quiere resolver el problema de ejecución comercial de las insurtechs de Latam",
-      "resumen": "Por Hugues Bertin, CEO & Founder de Digital Insurance LatAm y Presidente de la Alianza Insurtech Panamericana (AIP).- Hay un problema del que se habla poco en el ecosistema y que en mi experiencia explica muchos de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-16",
-      "url": "https://100seguro.com.ar/grouti-el-growth-partner-que-quiere-resolver-el-problema-de-ejecucion-comercial-de-las-insurtechs-de-latam/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/HUGUES-BERTIN-150x150.png"
-    },
-    {
-      "titulo": "Canales digitales para denunciar un siniestro: lo que necesita saber el productor",
-      "resumen": "La entrada Canales digitales para denunciar un siniestro: lo que necesita saber el productor se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-09-16",
-      "url": "https://www.informeoperadores.com.ar/2026/09/16/canales-digitales-para-denunciar-un-siniestro-lo-que-necesita-saber-el-productor/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/01-apertura-2.jpg"
-    },
-    {
-      "titulo": "“La IA agéntica va mucho más allá de los chatbots con guión”",
-      "resumen": "La entrada “La IA agéntica va mucho más allá de los chatbots con guión” se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://www.informeoperadores.com.ar/2026/09/16/la-ia-agentica-va-mucho-mas-alla-de-los-chatbots-con-guion/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/01-Apertura-1-scaled.jpg"
-    },
-    {
-      "titulo": "Escasez de talento y ciberseguridad: riesgos claves para las empresas, según Marsh Argentina",
-      "resumen": "La escasez de perfiles tecnológicos y la baja alfabetización en ciberseguridad aparecen entre los principales riesgos corporativos. Un estudio de Marsh advierte sobre la brecha entre inversión tecnológica y preparación…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://nbs.ar/escasez-de-talento-y-ciberseguridad-riesgos-claves-para-las-empresas-segun-marsh-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Julieta Fondeville asume liderazgo en Marketing y Comunicaciones de Allianz Commercial LatAm",
-      "resumen": "Julieta Fondeville ha sido nombrada Head of Marketing & Communications de Allianz Commercial para América Latina, asumiendo este nuevo cargo a partir del 1° de septiembre de 2023. Esta designación complementa su rol…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://nbs.ar/julieta-fondeville-asume-liderazgo-en-marketing-y-comunicaciones-de-allianz-commercial-latam/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Insurance Week 2027: Salta se prepara para recibir a los líderes del sector asegurador en abril",
-      "resumen": "Insurance Week, el evento clave del sector asegurador en Argentina, ha confirmado su tercera edición, que se llevará a cabo del 6 al 8 de abril de 2027 en la ciudad de Salta. Este evento, organizado por el Centro de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-16",
-      "url": "https://nbs.ar/insurance-week-2027-salta-se-prepara-para-recibir-a-los-lideres-del-sector-asegurador-en-abril/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Boletín Estadístico del Seguro: edición junio 2026 disponible",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Todo Riesgo publicó la edición de junio de 2026 del Boletín Estadístico del Seguro en formato digital. La novena edición incluye ranking de producción, resultados…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-15",
-      "url": "https://mercadosyseguros.com/boletin-estadistico-del-seguro-edicion-junio-2026-disponible/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Escasez de talento tecnológico que preocupa a las aseguradoras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 78% de las empresas en España y el 72% global tienen problemas para cubrir perfiles tecnológicos, según ManpowerGroup. Mapfre destaca demanda en ciencia de datos,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-15",
-      "url": "https://mercadosyseguros.com/escasez-de-talento-tecnologico-que-preocupa-a-las-aseguradoras/",
       "imagen": ""
     }
   ]
