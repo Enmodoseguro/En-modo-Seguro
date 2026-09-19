@@ -1,7 +1,133 @@
 {
-  "actualizado": "2026-09-18T10:17-03:00",
+  "actualizado": "2026-09-19T09:48-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "RUS Salud +: nuevo plan de prevención y respaldo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Río Uruguay Seguros presentó RUS Salud +, con dos opciones: Prevención y Respaldo. Incluye cobertura por cáncer, infarto y ACV, telemedicina 24 horas y reintegros…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://mercadosyseguros.com/rus-salud-nuevo-plan-de-prevencion-y-respaldo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aumenta el uso de la bicicleta y crecen los riesgos viales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros, con datos del informe de CESVI en seis ciudades, informó que sólo el 33% de los ciclistas usa casco y detectó altas tasas de distracción en peatones…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://mercadosyseguros.com/aumenta-el-uso-de-la-bicicleta-y-crecen-los-riesgos-viales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Niño 2026: mayor riesgo para agro, transporte e infraestructura",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon advierte que El Niño, clasificado por la NOAA como \"muy fuerte\" y con máxima intensidad prevista entre noviembre de 2026 y enero de 2027, aumentará…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://mercadosyseguros.com/el-nino-2026-mayor-riesgo-para-agro-transporte-e-infraestructura/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevención Salud: 7 recomendaciones antes de la Maratón de Buenos Aires",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención Salud, la prepaga de Sancor Seguros, publicó siete recomendaciones para la Maratón Internacional de Buenos Aires (20 de septiembre), que incluyen…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://mercadosyseguros.com/prevencion-salud-7-recomendaciones-antes-de-la-maraton-de-buenos-aires/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Desde el Hilton, junto a uno de los nuevos CEOs del mercado asegurador",
+      "resumen": "Llegó un nuevo especial mensual de 100% SEGURO desde el Hotel Hilton de Puerto Madero, con una charla amena, a fondo y comida de por medio, para conocer la historia, la actualidad y el pensamiento de los principales…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://100seguro.com.ar/desde-el-hilton-junto-a-uno-de-los-nuevos-ceos-del-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nueva capacitación de La Perseverancia sobre inteligencia comercial para Productores Asesores de Seguros",
+      "resumen": "La Perseverancia Seguros abre la inscripción a una nueva capacitación para el sector asegurador, online, gratuita y con certificación universitaria. La entrada Nueva capacitación de La Perseverancia sobre inteligencia…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://100seguro.com.ar/nueva-capacitacion-de-la-perseverancia-sobre-inteligencia-comercial-para-productores-asesores-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AIP Awards 2026: la Alianza Insurtech Panamericana reconoció a quienes están transformando la industria aseguradora en América Latina",
+      "resumen": "La Alianza Insurtech Panamericana (AIP) celebró la tercera edición de los AIP Awards, el reconocimiento regional a las organizaciones que están impulsando la transformación de la industria aseguradora en América Latina…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-18",
+      "url": "https://100seguro.com.ar/aip-awards-2026-la-alianza-insurtech-panamericana-reconocio-a-quienes-estan-transformando-la-industria-aseguradora-en-america-latina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Niño vuelve a poner al clima en el centro de las decisiones del campo",
+      "resumen": "Un episodio de granizo que atravesó tres provincias a fines de agosto dejó 600 denuncias sobre lotes de trigo y cebada, cinco veces más que el pico registrado en el mismo mes durante los últimos años. El fenómeno vuelve…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/el-nino-vuelve-a-poner-al-clima-en-el-centro-de-las-decisiones-del-campo/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/El-Nino-vuelve-a-poner-al-clima-en-el-centro-de-las-decisiones-del-campo-600x400.jpg"
+    },
+    {
+      "titulo": "Coderhouse suma un buscador laboral que reúne ofertas de Argentina y la región",
+      "resumen": "– La plataforma educativa incorporó una herramienta que permite explorar oportunidades de empleo a partir de un currículum vitae o mediante una búsqueda por rol. – El sistema reúne avisos provenientes de portales de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/coderhouse-suma-un-buscador-laboral-que-reune-ofertas-de-argentina-y-la-region/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/coderhouse-600x400.jpg"
+    },
+    {
+      "titulo": "Julieta Fondeville asume como Head of Marketing & Communications de Allianz Commercial LatAm",
+      "resumen": "La ejecutiva sumó desde el 1° de septiembre esta responsabilidad regional a su rol actual como Head of Marketing, Communications & Customer Experience de Allianz Argentina. Allianz Argentina anunció que Julieta…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/julieta-fondeville-asume-como-head-of-marketing-communications-de-allianz-commercial-latam/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Julieta-Fondeville1-600x400.jpg"
+    },
+    {
+      "titulo": "La Salamanca comienza a hacerse realidad",
+      "resumen": "El Grupo RUS y los fiduciantes del Fideicomiso La Salamanca firmaron con JCB Construcciones S.A. el convenio de inicio de obra para la ejecución del nuevo desarrollo urbano de Concepción del Uruguay. El proyecto…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/la-salamanca-comienza-a-hacerse-realidad/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Fotos-Walter-Barsotti-3.jpg"
+    },
+    {
+      "titulo": "Galicia Seguros plantea claves para una movilidad segura y responsable",
+      "resumen": "En el marco de la Semana de la Movilidad Sustentable, Galicia Seguros invita a repensar la movilidadcon el uso creciente de medios como la bicicleta. Si bien su crecimiento aporta beneficios ambientales y ayuda a…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/galicia-seguros-plantea-claves-para-una-movilidad-segura-y-responsable/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/young-adult-traveling-using-sustainable-mobility-600x400.jpg"
+    },
+    {
+      "titulo": "RUS Salud +: cuidar la salud también es estar preparado",
+      "resumen": "Hay cosas que solemos postergar: un chequeo médico, una consulta con un especialista, un estudio que nos indicaron o incluso una visita al odontólogo. No siempre porque no sean importantes, sino porque aparecen otras…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/rus-salud-cuidar-la-salud-tambien-es-estar-preparado/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/01-1-480x600.png"
+    },
+    {
+      "titulo": "Seguro de asistencia al viajero: qué tener en cuenta para viajar preparado ante los imprevistos",
+      "resumen": "Desde una urgencia médica hasta una demora de vuelo o la pérdida de equipaje, distintos imprevistos pueden alterar un viaje. Qué aspectos considerar al contratar una asistencia al viajero y por qué contar con respaldo…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-18",
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/seguro-de-asistencia-al-viajero-que-tener-en-cuenta-para-viajar-preparado-ante-los-imprevistos/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/seguro-de-asistencia-al-viajero-LPS-600x400.jpg"
+    },
     {
       "titulo": "Hawk Group presentó soluciones para el retail en Red Acero 2026",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Group presentó en Red Acero 2026 una propuesta integral para el retail basada en YOLO (financiación) y Assist Blister (asistencias), en un evento con más de…",
@@ -84,138 +210,12 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Carola-Altuna-La-Caja.jpg"
     },
     {
-      "titulo": "Mientras que la IA transforma el trabajo de los puestos junior, la Generación Z prioriza el crecimiento profesional y el pensamiento crítico",
+      "titulo": "Mientras la IA transforma el trabajo de los puestos junior, la Generación Z prioriza el crecimiento profesional y el pensamiento crítico",
       "resumen": "De los 906 encuestados, el 76% respondió que en el futuro el éxito profesional exigirá tanto habilidades humanas como la capacidad de orientar eficazmente el uso de la IA. La principal preocupación en torno a la IA es…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/mientras-que-la-ia-transforma-el-trabajo-de-los-puestos-junior-la-generacion-z-prioriza-el-crecimiento-profesional-y-el-pensamiento-critico/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Munich Re reorganiza su equipo de Propositions en América Latina",
-      "resumen": "La entidad articula su estrategia en dos nuevos equipos especializados para acelerar la digitalización y el desarrollo de propuestas de valor para sus socios. La entrada Munich Re reorganiza su equipo de Propositions en…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/munich-re-reorganiza-su-equipo-de-propositions-en-america-latina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una aseguradora, en el podio de las mejores PyMEs para trabajar",
-      "resumen": "Great Place to Work, autoridad mundial en cultura organizacional, dio a conocer este jueves 17 de septiembre la sexta edición del ranking de Los Mejores Lugares para Trabajar™ Mujeres 2026, que se elaboró en base a las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/una-aseguradora-en-el-podio-de-las-mejores-pymes-para-trabajar/",
-      "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
-    },
-    {
-      "titulo": "Los robos de autos en la madrugada se duplicaron en agosto",
-      "resumen": "El último Indicador Ituran de Robo Vehicular (IRV) mostró un cambio de tendencia: el hurto le gana terreno al robo a mano armada y la Zona Sur desplaza al Oeste como principal escenario del delito. La entrada Los robos…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/los-robos-de-autos-en-la-madrugada-se-duplicaron-en-agosto/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Tipo-de-vehiculo-mas-robado-Agosto-2026.png"
-    },
-    {
-      "titulo": "RESOL-2026-409-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA COMBINADO FAMILIAR E INTEGRAL – SEGURO INTEGRAL DE COMERCIO E INDUSTRIA.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-409-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-combinado-familiar-e-integral-seguro-integral-de-comercio-e-industria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-407-APN-SSN#MEC – RÉGIMEN SANCIONATORIO – PAS CRISTIÁN GASTÓN ALONSO, NATALIA SOLEDAD SCALZO Y SERGIO ADRIÁN PRINCIPI – SEPRON-SERVICIOS A MEDIDA S.A. / ORGANIZACIÓN PALERMO “OP” – LIBRA COMPAÑÍA ARGENTINA DE SEGUROS S.A.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-407-apn-ssnmec-regimen-sancionatorio-pas-cristian-gaston-alonso-natalia-soledad-scalzo-y-sergio-adrian-principi-sepron-servicios-a-medida-s-a-organizacion-palermo-o/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-406-APN-SSN#MEC – RÉGIMEN SANCIONATORIO – ASEGURADORA DEL FINISTERRE COMPAÑÍA ARGENTINA DE SEGUROS S.A. Y “ASOCIACIÓN MUTUAL COMPROMISO”.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-406-apn-ssnmec-regimen-sancionatorio-aseguradora-del-finisterre-compania-argentina-de-seguros-s-a-y-asociacion-mutual-compromiso/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vida lidera la carrera: el ramo que más creció en un mercado que se expande al 42,4%",
-      "resumen": "La producción total del mercado asegurador a junio 2026 avanzó 42,4% en relación al ciclo anterior. Pero detrás del número global hay una foto mucho más desigual: mientras Vida trepó 66,6% y Robo y Aeronavegación…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/vida-lidera-la-carrera-el-ramo-que-mas-crecio-en-un-mercado-que-se-expande-al-424/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Decarre en Uruguay: respaldo regional al proyecto que busca regular la intermediación de seguros",
-      "resumen": "La presidente de COPAPROSE y FAPASA mantuvo reuniones en Montevideo con autoridades regulatorias, aseguradoras y referentes del sector para acompañar el proyecto de ley que busca establecer reglas de matriculación,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/decarre-en-uruguay-respaldo-regional-al-proyecto-que-busca-regular-la-intermediacion-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El plan de Experta para escalar en el mercado asegurador, según Andrés Quantin",
-      "resumen": "En diálogo con El Seguro en Acción, Andrés Quantin, CEO de Experta ART y Experta Seguros, repasó el escenario actual de la industria, el peso de la judicialidad en Riesgos del Trabajo, el rol de la inteligencia…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/el-plan-de-experta-para-escalar-en-el-mercado-asegurador-segun-andres-quantin/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Escuela Argentina de Seguros lanza un nuevo ciclo sobre la responsabilidad profesional del PAS",
-      "resumen": "EAS abre una nueva propuesta de capacitación no obligatoria junto a AIDA Argentina. El ciclo abordará, en tres encuentros, la responsabilidad profesional del Productor Asesor de Seguros en su vínculo con los asegurados,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/la-escuela-argentina-de-seguros-lanza-un-nuevo-ciclo-sobre-la-responsabilidad-profesional-del-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rumbo a los 42K: siete claves para entrenar el cuerpo y la mente antes, durante y después de una maratón",
-      "resumen": "Entrenamiento, descanso, hidratación y motivación son algunos de los factores que forman parte de la preparación para una carrera de larga distancia. De cara a la Maratón Internacional de Buenos Aires, Prevención Salud…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/rumbo-a-los-42k-siete-claves-para-entrenar-el-cuerpo-y-la-mente-antes-durante-y-despues-de-una-maraton/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Streaming de Premiación y Cierre del COOPATHON EDUCATIVO 2026",
-      "resumen": "Los invitamos a acompañarnos en el Streaming de Cierre y Premiación del COOPATHON EDUCATIVO 2026, una iniciativa que durante meses reunió a cooperativas y mutuales escolares de todo el país en un proceso de formación,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/streaming-de-premiacion-y-cierre-del-coopathon-educativo-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Carola Altuna: «Vemos una oportunidad clara para que los seguros de salud crezcan en propuesta de valor»",
-      "resumen": "Para la Chief Insurance Officer de La Caja los cambios recientes amplían las posibilidades para que el mercado diseñe soluciones más completas y cercanas a las necesidades de las personas La entrada Carola Altuna:…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://nbs.ar/carola-altuna-vemos-una-oportunidad-clara-para-que-los-seguros-de-salud-crezcan-en-propuesta-de-valor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Andrés Selpa: «Los seguros de salud complementarios serán uno de los segmentos con mayor potencial de crecimiento»",
-      "resumen": "El gerente experto en Negocios de Vida de Mapfre, de opina sobre el nuevo escenario que se abre para los seguros de salud La entrada Andrés Selpa: «Los seguros de salud complementarios serán uno de los segmentos con…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://nbs.ar/andres-selpa-los-seguros-de-salud-complementarios-seran-uno-de-los-segmentos-con-mayor-potencial-de-crecimiento/",
+      "url": "https://100seguro.com.ar/mientras-la-ia-transforma-el-trabajo-de-los-puestos-junior-la-generacion-z-prioriza-el-crecimiento-profesional-y-el-pensamiento-critico/",
       "imagen": ""
     }
   ]
