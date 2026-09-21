@@ -1,7 +1,106 @@
 {
-  "actualizado": "2026-09-20T10:22-03:00",
+  "actualizado": "2026-09-21T12:31-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Huella digital como factor clave en riesgo ciber",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de Gallagher Re y KYND sobre 63.000 pólizas indica que la huella digital —IP, ISP y servicios expuestos— mejora la evaluación del riesgo cibernético: el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-21",
+      "url": "https://mercadosyseguros.com/huella-digital-como-factor-clave-en-riesgo-ciber/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA y energía impulsan primas globales de seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Swiss Re estima que los centros de datos para IA y las infraestructuras renovables podrían generar 200.000 millones USD en primas entre 2026 y 2030. El informe…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://mercadosyseguros.com/ia-y-energia-impulsan-primas-globales-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz: Julieta Fondeville asume liderazgo regional de Marketing",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina designó a Julieta Fondeville como Head of Marketing & Communications de Allianz Commercial LatAm, cargo que asumió el 1° de septiembre de 2026.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://mercadosyseguros.com/allianz-julieta-fondeville-asume-liderazgo-regional-de-marketing/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mercado asegurador guatemalteco: crecimiento, brechas y desafíos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Al cierre de 2025 el mercado asegurador de Guatemala creció 9,0% en primas; Vida subió 13,9% y el parque automotor asegurado alcanzó 623.214 unidades (9,84% del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://mercadosyseguros.com/mercado-asegurador-guatemalteco-crecimiento-brechas-y-desafios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Premio al Impacto Social 2026: Grupo San Cristóbal distinguió a tres organizaciones con $45 millones para potenciar sus proyectos",
+      "resumen": "Las iniciativas fueron seleccionadas entre proyectos de todo el país y recibirán $15 millones cada una para fortalecer y ampliar su impacto en las comunidades. La entrada Premio al Impacto Social 2026: Grupo San…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://100seguro.com.ar/premio-al-impacto-social-2026-grupo-san-cristobal-distinguio-a-tres-organizaciones-con-45-millones-para-potenciar-sus-proyectos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mapfre acompañó una nueva edición del Programa de Capacitación Continua de APAS La Pampa y Oeste de Buenos Aires",
+      "resumen": "Mapfre participó como Sponsor Plata de una nueva edición del Programa de Capacitación Continua (PCC) organizado por la Asociación de Productores Asesores de Seguros de La Pampa y Oeste de Buenos Aires (APAS LP y OBA),…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://www.informeoperadores.com.ar/2026/09/21/mapfre-acompano-una-nueva-edicion-del-programa-de-capacitacion-continua-de-apas-la-pampa-y-oeste-de-buenos-aires/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/AF_MAPFRE_40_ARGENTINA_RGB_NEGATIVO.jpg"
+    },
+    {
+      "titulo": "La IA ya puede comprar. ¿Quién está preparando al PAS para seguir vendiendo?",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA ya puede comprar por las personas. Relevamos qué hacen las aseguradoras argentinas para que el productor (PAS) siga vendiendo en la era del B2IA. La entrada La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-20",
+      "url": "https://mercadosyseguros.com/ia-pas-aseguradoras-argentinas-b2ia-cursos-herramientas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reaseguro en Argentina: capacidad, brecha y riesgos emergentes",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ejecutivos de MS Reinsurance, Swiss Re y AON RE discutieron el ingreso de capacidad reaseguradora a Argentina, la brecha de protección cercana al 97% y los riesgos no…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-20",
+      "url": "https://mercadosyseguros.com/reaseguro-en-argentina-capacidad-brecha-y-riesgos-emergentes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Escuela Argentina de Seguros: nueva formación federal para productores",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Federación de Asociaciones de Productores Asesores de Seguros (FAPASA) lanzó en 2026 la Escuela Argentina de Seguros (EAS), una plataforma digital federal con…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-20",
+      "url": "https://mercadosyseguros.com/escuela-argentina-de-seguros-nueva-formacion-federal-para-productores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Juicios por riesgos del trabajo suben 11% y Santa Fe marca récord",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En agosto de 2026 se iniciaron 14.966 juicios por accidentes de trabajo (+11,3% interanual). La UART reporta 87.553 demandas en 2026 y proyecta más de 138.000 juicios…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-20",
+      "url": "https://mercadosyseguros.com/juicios-por-riesgos-del-trabajo-suben-11-y-santa-fe-marca-record/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Caución: crecimiento por Vaca Muerta y minería",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Integrity Seguros y Special Division Reinsurance Brokers informan que Vaca Muerta y proyectos mineros aumentaron la demanda de cauciones en 2024, con garantías de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-20",
+      "url": "https://mercadosyseguros.com/caucion-crecimiento-por-vaca-muerta-y-mineria/",
+      "imagen": ""
+    },
     {
       "titulo": "Julieta Fondeville, nueva Head of Marketing de Allianz Commercial LatAm",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Julieta Fondeville asumió el 1° de septiembre de 2026 como Head of Marketing & Communications de Allianz Commercial LatAm, manteniendo su rol en Allianz Argentina.…",
@@ -9,69 +108,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-19",
       "url": "https://mercadosyseguros.com/julieta-fondeville-nueva-head-of-marketing-de-allianz-commercial-latam/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Concurso CESVI: premiaron casos de fraude y ahorros por $2.314.603.598",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI ARGENTINA premió investigaciones del Concurso Nacional de Lucha contra el Fraude tras evaluar más de 70 casos. El ahorro informado alcanzó $2.314.603.598; el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-19",
-      "url": "https://mercadosyseguros.com/concurso-cesvi-premiaron-casos-de-fraude-y-ahorros-por-2-314-603-598/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz sponsor en Argentina Mining Norte 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina fue sponsor de Argentina Mining Norte 2026, celebrado del 2 al 4 de septiembre en Salta. Ejecutivos como Pablo Santa Cruz y Gustavo Guereña…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-19",
-      "url": "https://mercadosyseguros.com/allianz-sponsor-en-argentina-mining-norte-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AOSS y AMPASS renuevan autoridades y cierran el ciclo 2026/2027",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AOSS ratificó a Mauricio Poldrugach y AMPASS eligió a Martín Alcaraz como presidentes para 2026/2027; las asambleas se realizaron del 3 al 5 de septiembre en Colonia.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-19",
-      "url": "https://mercadosyseguros.com/aoss-y-ampass-renuevan-autoridades-y-cierran-el-ciclo-2026-2027/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS Salud +: nuevo plan de prevención y respaldo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Río Uruguay Seguros presentó RUS Salud +, con dos opciones: Prevención y Respaldo. Incluye cobertura por cáncer, infarto y ACV, telemedicina 24 horas y reintegros…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://mercadosyseguros.com/rus-salud-nuevo-plan-de-prevencion-y-respaldo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aumenta el uso de la bicicleta y crecen los riesgos viales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros, con datos del informe de CESVI en seis ciudades, informó que sólo el 33% de los ciclistas usa casco y detectó altas tasas de distracción en peatones…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://mercadosyseguros.com/aumenta-el-uso-de-la-bicicleta-y-crecen-los-riesgos-viales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El Niño 2026: mayor riesgo para agro, transporte e infraestructura",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon advierte que El Niño, clasificado por la NOAA como \"muy fuerte\" y con máxima intensidad prevista entre noviembre de 2026 y enero de 2027, aumentará…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://mercadosyseguros.com/el-nino-2026-mayor-riesgo-para-agro-transporte-e-infraestructura/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención Salud: 7 recomendaciones antes de la Maratón de Buenos Aires",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención Salud, la prepaga de Sancor Seguros, publicó siete recomendaciones para la Maratón Internacional de Buenos Aires (20 de septiembre), que incluyen…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://mercadosyseguros.com/prevencion-salud-7-recomendaciones-antes-de-la-maraton-de-buenos-aires/",
       "imagen": ""
     },
     {
@@ -102,85 +138,22 @@
       "imagen": ""
     },
     {
-      "titulo": "El Niño vuelve a poner al clima en el centro de las decisiones del campo",
-      "resumen": "Un episodio de granizo que atravesó tres provincias a fines de agosto dejó 600 denuncias sobre lotes de trigo y cebada, cinco veces más que el pico registrado en el mismo mes durante los últimos años. El fenómeno vuelve…",
+      "titulo": "Nueva Capacitación sobre Inteligencia Comercial para Productores Asesores de Seguros",
+      "resumen": "La Perseverancia Seguros abre la inscripción a una nueva capacitación para el sector asegurador, online, gratuita y con certificación universitaria. En una nueva edición del Programa de Formación en Seguros, La…",
       "fuente": "Informe Operadores",
       "categoria": "Mercado",
       "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/el-nino-vuelve-a-poner-al-clima-en-el-centro-de-las-decisiones-del-campo/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/El-Nino-vuelve-a-poner-al-clima-en-el-centro-de-las-decisiones-del-campo-600x400.jpg"
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/nueva-capacitacion-sobre-inteligencia-comercial-para-productores-asesores-de-seguros/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/capacitacion-la-perseverancia-seguros-600x400.jpg"
     },
     {
-      "titulo": "Coderhouse suma un buscador laboral que reúne ofertas de Argentina y la región",
-      "resumen": "– La plataforma educativa incorporó una herramienta que permite explorar oportunidades de empleo a partir de un currículum vitae o mediante una búsqueda por rol. – El sistema reúne avisos provenientes de portales de…",
+      "titulo": "Allianz: el boom de los data centers inaugura una nueva era de riesgos de infraestructura y de oportunidades para las aseguradoras",
+      "resumen": "? La inversión creciente a nivel global está transformando el perfil de riesgo de los data centers, que pasan de ser un activo inmobiliario comercial a infraestructura crítica, con Estados Unidos y China concentrando…",
       "fuente": "Informe Operadores",
       "categoria": "Mercado",
       "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/coderhouse-suma-un-buscador-laboral-que-reune-ofertas-de-argentina-y-la-region/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/coderhouse-600x400.jpg"
-    },
-    {
-      "titulo": "Julieta Fondeville asume como Head of Marketing & Communications de Allianz Commercial LatAm",
-      "resumen": "La ejecutiva sumó desde el 1° de septiembre esta responsabilidad regional a su rol actual como Head of Marketing, Communications & Customer Experience de Allianz Argentina. Allianz Argentina anunció que Julieta…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/julieta-fondeville-asume-como-head-of-marketing-communications-de-allianz-commercial-latam/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Julieta-Fondeville1-600x400.jpg"
-    },
-    {
-      "titulo": "La Salamanca comienza a hacerse realidad",
-      "resumen": "El Grupo RUS y los fiduciantes del Fideicomiso La Salamanca firmaron con JCB Construcciones S.A. el convenio de inicio de obra para la ejecución del nuevo desarrollo urbano de Concepción del Uruguay. El proyecto…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/la-salamanca-comienza-a-hacerse-realidad/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Fotos-Walter-Barsotti-3.jpg"
-    },
-    {
-      "titulo": "Galicia Seguros plantea claves para una movilidad segura y responsable",
-      "resumen": "En el marco de la Semana de la Movilidad Sustentable, Galicia Seguros invita a repensar la movilidadcon el uso creciente de medios como la bicicleta. Si bien su crecimiento aporta beneficios ambientales y ayuda a…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/galicia-seguros-plantea-claves-para-una-movilidad-segura-y-responsable/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/young-adult-traveling-using-sustainable-mobility-600x400.jpg"
-    },
-    {
-      "titulo": "RUS Salud +: cuidar la salud también es estar preparado",
-      "resumen": "Hay cosas que solemos postergar: un chequeo médico, una consulta con un especialista, un estudio que nos indicaron o incluso una visita al odontólogo. No siempre porque no sean importantes, sino porque aparecen otras…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/rus-salud-cuidar-la-salud-tambien-es-estar-preparado/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/01-1-480x600.png"
-    },
-    {
-      "titulo": "Seguro de asistencia al viajero: qué tener en cuenta para viajar preparado ante los imprevistos",
-      "resumen": "Desde una urgencia médica hasta una demora de vuelo o la pérdida de equipaje, distintos imprevistos pueden alterar un viaje. Qué aspectos considerar al contratar una asistencia al viajero y por qué contar con respaldo…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/seguro-de-asistencia-al-viajero-que-tener-en-cuenta-para-viajar-preparado-ante-los-imprevistos/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/seguro-de-asistencia-al-viajero-LPS-600x400.jpg"
-    },
-    {
-      "titulo": "Hawk Group presentó soluciones para el retail en Red Acero 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Group presentó en Red Acero 2026 una propuesta integral para el retail basada en YOLO (financiación) y Assist Blister (asistencias), en un evento con más de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://mercadosyseguros.com/hawk-group-presento-soluciones-para-el-retail-en-red-acero-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CESVI premió ganadores del Concurso Nacional contra el fraude",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CESVI Argentina celebró la edición 2026 del Concurso Nacional de Lucha contra el Fraude, con más de 70 trabajos presentados y un ahorro acumulado informado de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://mercadosyseguros.com/cesvi-premio-ganadores-del-concurso-nacional-contra-el-fraude/",
-      "imagen": ""
+      "url": "https://www.informeoperadores.com.ar/2026/09/18/allianz-el-boom-de-los-data-centers-inaugura-una-nueva-era-de-riesgos-de-infraestructura-y-de-oportunidades-para-las-aseguradoras/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/allianz-seguros_3-600x400.png"
     },
     {
       "titulo": "El desafío de la IA en suscripción: preservar el criterio experto mientras se transforma el negocio asegurador",
@@ -216,6 +189,33 @@
       "categoria": "Innovación",
       "fecha": "2026-09-17",
       "url": "https://100seguro.com.ar/la-huella-digital-corporativa-gana-importancia-en-la-suscripcion-de-ciberriesgos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Escasez de talento tecnológico y brechas en ciberseguridad: los mayores riesgos corporativos según Marsh Argentina",
+      "resumen": "Romper los silos entre la Gestión de Riesgos y Recursos Humanos resulta clave: el 43% de las empresas que lo lograron reportan un incremento directo en la productividad y eficiencia de su fuerza laboral. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/escasez-de-talento-tecnologico-y-brechas-en-ciberseguridad-los-mayores-riesgos-corporativos-segun-marsh-argentina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/MARSH-mesa-redonda-2.jpeg"
+    },
+    {
+      "titulo": "La Caja presenta Seguro de Auto Eléctrico, una cobertura que evoluciona junto al parque automotor argentino",
+      "resumen": "La aseguradora incorpora protección para componentes específicos de los vehículos eléctricos y adapta sus servicios ante una transformación acelerada del mercado automotor. La entrada La Caja presenta Seguro de Auto…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-17",
+      "url": "https://100seguro.com.ar/la-caja-presenta-seguro-de-auto-electrico-una-cobertura-que-evoluciona-junto-al-parque-automotor-argentino/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Carola-Altuna-La-Caja.jpg"
+    },
+    {
+      "titulo": "RESOL-2026-409-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA COMBINADO FAMILIAR E INTEGRAL – SEGURO INTEGRAL DE COMERCIO E INDUSTRIA.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-09-17",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-409-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-combinado-familiar-e-integral-seguro-integral-de-comercio-e-industria/",
       "imagen": ""
     }
   ]
