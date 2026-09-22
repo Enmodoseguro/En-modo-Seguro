@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-09-21T12:31-03:00",
+  "actualizado": "2026-09-22T10:48-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Allianz Argentina lanza su nuevo canal de WhatsApp",
+      "resumen": "Ally, el asistente virtual de la compañía, llega a WhatsApp con atención 24×7, autogestión e inteligencia artificial generativa para clientes y no clientes. Allianz Argentina, líder mundial en seguros y servicios…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-09-22",
+      "url": "https://www.informeoperadores.com.ar/2026/09/22/allianz-argentina-lanza-su-nuevo-canal-de-whatsapp/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/ALLY-2-383x600.png"
+    },
+    {
+      "titulo": "Roy Humphreys: “El gran desafío es que el seguro sea entendido como un esquema de protección”",
+      "resumen": "Litigiosidad, impuestos, regulación, oportunidades y el rol del seguro son los temas que, entre otros desafíos que enfrenta el sector, analiza Humphreys acerca de la actualidad de las compañías de seguros en Argentina.…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-22",
+      "url": "https://nbs.ar/roy-humphreys-el-gran-desafio-es-que-el-seguro-sea-entendido-como-un-esquema-de-proteccion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Bancos: se moderan los márgenes de crecimiento y rentabilidad",
+      "resumen": "Un informe de Moody’s revela que los bancos argentinos se orientan hacia ganancias basadas en el volumen en un contexto de márgenes sólidos, pero más reducidos. La entrada Bancos: se moderan los márgenes de crecimiento…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-22",
+      "url": "https://nbs.ar/bancos-se-moderan-los-margenes-de-crecimiento-y-rentabilidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Matías Buffa: «El respaldo de Sancor Seguros le permite al afiliado poder acceder a una cobertura integral»",
+      "resumen": "El gerente general de Prevención Salud destaca que trabajan fuertemente con el público individual o familia, pero también ofrece un muy buen producto y costos razonables para planes corporativos. La entrada Matías…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-22",
+      "url": "https://nbs.ar/matias-buffa-el-respaldo-de-sancor-seguros-le-permite-al-afiliado-poder-acceder-a-una-cobertura-integral/",
+      "imagen": ""
+    },
     {
       "titulo": "Huella digital como factor clave en riesgo ciber",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de Gallagher Re y KYND sobre 63.000 pólizas indica que la huella digital —IP, ISP y servicios expuestos— mejora la evaluación del riesgo cibernético: el…",
@@ -36,6 +72,51 @@
       "categoria": "Mercado",
       "fecha": "2026-09-21",
       "url": "https://mercadosyseguros.com/mercado-asegurador-guatemalteco-crecimiento-brechas-y-desafios/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate inauguró el Seminario Regional de Capacitación de Supervisores de Seguros de América Latina",
+      "resumen": "La actividad, organizada por ASSAL, IAIS y la Superintendencia de Seguros de Paraguay, reunió a representantes de organismos de supervisión de distintos países de la región para intercambiar experiencias y abordar los…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-21",
+      "url": "https://100seguro.com.ar/plate-inauguro-el-seminario-regional-de-capacitacion-de-supervisores-de-seguros-de-america-latina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/ssn_plate_atril_paraguay.jpg"
+    },
+    {
+      "titulo": "Robo de motos: una tendencia en alza que preocupa a los argentinos",
+      "resumen": "El robo de vehículos, y en particular de motos, viene marcando la agenda de inseguridad del último tiempo. Basta con prender la televisión para escuchar a vecinos de distintas zonas del país relatar delitos violentos,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://100seguro.com.ar/robo-de-motos-una-tendencia-en-alza-que-preocupa-a-los-argentinos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Dreamforce 2026: bdt global destaca tres cambios que redefinen la tecnología para seguros",
+      "resumen": "Agentes de IA capaces de actuar sobre procesos empresariales, datos integrados y confiables, y una nueva forma de desarrollar software. Tras participar en Dreamforce 2026, bdt global identifica tres conversaciones clave…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-21",
+      "url": "https://100seguro.com.ar/dreamforce-2026-bdt-global-destaca-tres-cambios-que-redefinen-la-tecnologia-para-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Dreamforce-2026-bdt-global-2.jpeg"
+    },
+    {
+      "titulo": "El Niño en Argentina: mayor exposición a riesgos climáticos en agroindustria, transporte e infraestructura, según Aon",
+      "resumen": "El fortalecimiento del fenómeno climático elevará las precipitaciones y el riesgo de inundaciones en el centro y sur del país, con impacto directo en cosechas, logística, energía y continuidad operativa. La entrada El…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-21",
+      "url": "https://100seguro.com.ar/el-nino-en-argentina-mayor-exposicion-a-riesgos-climaticos-en-agroindustria-transporte-e-infraestructura-segun-aon/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz Argentina lanza su nuevo canal de WhatsApp",
+      "resumen": "Ally, el asistente virtual de la compañía, llega a WhatsApp con atención 24x7, autogestión e inteligencia artificial generativa para clientes y no clientes. La entrada Allianz Argentina lanza su nuevo canal de WhatsApp…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-21",
+      "url": "https://100seguro.com.ar/allianz-argentina-lanza-su-nuevo-canal-de-whatsapp/",
       "imagen": ""
     },
     {
@@ -135,87 +216,6 @@
       "categoria": "Innovación",
       "fecha": "2026-09-18",
       "url": "https://100seguro.com.ar/aip-awards-2026-la-alianza-insurtech-panamericana-reconocio-a-quienes-estan-transformando-la-industria-aseguradora-en-america-latina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Nueva Capacitación sobre Inteligencia Comercial para Productores Asesores de Seguros",
-      "resumen": "La Perseverancia Seguros abre la inscripción a una nueva capacitación para el sector asegurador, online, gratuita y con certificación universitaria. En una nueva edición del Programa de Formación en Seguros, La…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/nueva-capacitacion-sobre-inteligencia-comercial-para-productores-asesores-de-seguros/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/capacitacion-la-perseverancia-seguros-600x400.jpg"
-    },
-    {
-      "titulo": "Allianz: el boom de los data centers inaugura una nueva era de riesgos de infraestructura y de oportunidades para las aseguradoras",
-      "resumen": "? La inversión creciente a nivel global está transformando el perfil de riesgo de los data centers, que pasan de ser un activo inmobiliario comercial a infraestructura crítica, con Estados Unidos y China concentrando…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-18",
-      "url": "https://www.informeoperadores.com.ar/2026/09/18/allianz-el-boom-de-los-data-centers-inaugura-una-nueva-era-de-riesgos-de-infraestructura-y-de-oportunidades-para-las-aseguradoras/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/allianz-seguros_3-600x400.png"
-    },
-    {
-      "titulo": "El desafío de la IA en suscripción: preservar el criterio experto mientras se transforma el negocio asegurador",
-      "resumen": "La inteligencia artificial está modificando la forma en que las aseguradoras analizan riesgos, procesan información y toman decisiones de suscripción. Sin embargo, la incorporación de estas herramientas abre un…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/el-desafio-de-la-ia-en-suscripcion-preservar-el-criterio-experto-mientras-se-transforma-el-negocio-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dos aseguradoras fueron multadas por incumplimientos en el pago de indemnizaciones",
-      "resumen": "La Superintendencia de Seguros de la Nación sancionó a dos compañías por demoras en el cumplimiento de obligaciones derivadas de siniestros. Las resoluciones también dispusieron la inhabilitación de una mutual y de una…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/dos-aseguradoras-fueron-multadas-por-incumplimientos-en-el-pago-de-indemnizaciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros y HIT apuestan al futuro en el Parque de Innovación",
-      "resumen": "A través de su vertical Real Estate, Sancor Seguros lanza PI Buenos Aires, un nuevo punto de encuentro en Núñez, para quienes imaginan, desarrollan y transforman el futuro. La entrada Sancor Seguros y HIT apuestan al…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/sancor-seguros-y-hit-apuestan-al-futuro-en-el-parque-de-innovacion/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Sancor-Seguros-HIT-evento.jpg"
-    },
-    {
-      "titulo": "La huella digital corporativa gana importancia en la suscripción de ciberriesgos",
-      "resumen": "Un estudio de Gallagher Re y KYND, basado en el análisis de 63.000 pólizas de ciberseguros, concluye que variables como la cantidad de direcciones IP, la diversidad de proveedores de Internet y los servicios expuestos…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/la-huella-digital-corporativa-gana-importancia-en-la-suscripcion-de-ciberriesgos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Escasez de talento tecnológico y brechas en ciberseguridad: los mayores riesgos corporativos según Marsh Argentina",
-      "resumen": "Romper los silos entre la Gestión de Riesgos y Recursos Humanos resulta clave: el 43% de las empresas que lo lograron reportan un incremento directo en la productividad y eficiencia de su fuerza laboral. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/escasez-de-talento-tecnologico-y-brechas-en-ciberseguridad-los-mayores-riesgos-corporativos-segun-marsh-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/MARSH-mesa-redonda-2.jpeg"
-    },
-    {
-      "titulo": "La Caja presenta Seguro de Auto Eléctrico, una cobertura que evoluciona junto al parque automotor argentino",
-      "resumen": "La aseguradora incorpora protección para componentes específicos de los vehículos eléctricos y adapta sus servicios ante una transformación acelerada del mercado automotor. La entrada La Caja presenta Seguro de Auto…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-17",
-      "url": "https://100seguro.com.ar/la-caja-presenta-seguro-de-auto-electrico-una-cobertura-que-evoluciona-junto-al-parque-automotor-argentino/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Carola-Altuna-La-Caja.jpg"
-    },
-    {
-      "titulo": "RESOL-2026-409-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA COMBINADO FAMILIAR E INTEGRAL – SEGURO INTEGRAL DE COMERCIO E INDUSTRIA.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-09-17",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-409-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-combinado-familiar-e-integral-seguro-integral-de-comercio-e-industria/",
       "imagen": ""
     }
   ]
