@@ -1,7 +1,97 @@
 {
-  "actualizado": "2026-09-27T11:28-03:00",
+  "actualizado": "2026-09-28T14:13-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Más de 110 nuevos Productores Asesores en Santa Fe",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com APAS Santa Fe reunió el 21 de septiembre a más de 300 asistentes y entregó diplomas a más de 110 nuevos Productores Asesores de Seguros. La jornada incluyó formación…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-28",
+      "url": "https://mercadosyseguros.com/mas-de-110-nuevos-productores-asesores-en-santa-fe/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ranking Automotores: qué aseguradoras le ganaron a la inflación",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A junio de 2026 la prima emitida en Automotores llegó a $10.480.873 millones, un aumento interanual del 36,6% que supera el IPC (33,8%). Diez grupos concentran el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-28",
+      "url": "https://mercadosyseguros.com/ranking-automotores-que-aseguradoras-le-ganaron-a-la-inflacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fallo en Córdoba: positivio por cocaína no anula cobertura de seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El juzgado de San Francisco (Córdoba) ordenó pagar 81,6 millones de pesos por la muerte de un motociclista el 23/4/2025; concluyó que un resultado toxicológico…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-28",
+      "url": "https://mercadosyseguros.com/fallo-en-cordoba-positivio-por-cocaina-no-anula-cobertura-de-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cambiar modelo IA en 2026: 4 preguntas clave",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Entre el 21 y 22/9/2026 SpaceXAI, Anthropic y OpenAI lanzaron Grok 4.7, Claude Opus 5.5 y GPT-6 Sol/Luna. Migrar entre ellos exige revisar protocolo de request, cliff…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-28",
+      "url": "https://mercadosyseguros.com/cambiar-modelo-ia-en-2026-4-preguntas-clave/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo San Cristóbal presenta “Productores del Futuro”, su campaña digital por el Día del PAS",
+      "resumen": "En el marco del Día del Productor Asesor de Seguros (PAS), que se conmemora cada 28 de septiembre, Grupo San Cristóbal presenta “Productores del Futuro”, una campaña digital que pone en valor la evolución del rol de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-28",
+      "url": "https://100seguro.com.ar/grupo-san-cristobal-presenta-productores-del-futuro-su-campana-digital-por-el-dia-del-pas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SRT abrió un concurso público para cubrir cargos médicos en todo el país",
+      "resumen": "La convocatoria está dirigida a profesionales de distintas especialidades. La inscripción se realizará a través de Trámites a Distancia (TAD). La entrada La SRT abrió un concurso público para cubrir cargos médicos en…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-09-28",
+      "url": "https://100seguro.com.ar/la-srt-abrio-un-concurso-publico-para-cubrir-cargos-medicos-en-todo-el-pais/",
+      "imagen": ""
+    },
+    {
+      "titulo": "The Cleaner: evitar fugas de PII en agentes de IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com The Cleaner, componente de avantGate descrito el 24/09/2026, enmascara emails, IBAN/BIC y NIR en tiempo real y corre in-process para evitar hasta 250 ms de latencia.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-27",
+      "url": "https://mercadosyseguros.com/the-cleaner-evitar-fugas-de-pii-en-agentes-de-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Memoria semántica en agentes de IA con DynamoDB Vectors",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Amazon DynamoDB sumó búsqueda vectorial nativa (5 de agosto de 2026). Combinada con embeddings Titan V2 via Bedrock, permite dar memoria semántica a agentes sin…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-27",
+      "url": "https://mercadosyseguros.com/memoria-semantica-en-agentes-de-ia-con-dynamodb-vectors/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Christopher Horne y el «unicornio de una persona» en 48 horas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Christopher Horne afirma haber creado Leave Your Agent en 48 horas: marca, sitio con lista de espera, campañas y demo iOS. La suscripción cuesta USD 99/mes y declara…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-27",
+      "url": "https://mercadosyseguros.com/christopher-horne-y-el-unicornio-de-una-persona-en-48-horas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Claude AI: cómo Anthropic logró un rendimiento 3× en dos semanas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Anthropic aceleró claude.ai hasta 3× en un sprint de dos semanas en agosto de 2026, desplegando 3.000+ cambios con Claude Tag (comparable a Opus 5.5) y sin rollbacks.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-27",
+      "url": "https://mercadosyseguros.com/claude-ai-como-anthropic-logro-un-rendimiento-3x-en-dos-semanas/",
+      "imagen": ""
+    },
     {
       "titulo": "Prevención ART ingresa al Registro de Soluciones 4.0 de la SRT",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención ART ingresó al Registro de Prestadores de Soluciones 4.0 de la SRT con INMERSO, una capacitación en realidad virtual y realidad mixta autorizada bajo la…",
@@ -21,24 +111,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Escuela Argentina de Seguros lanza ciclo sobre responsabilidad del PAS",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Escuela Argentina de Seguros de FAPASA y AIDA Argentina presentan el ciclo \"La Responsabilidad del PAS en su ejercicio profesional\": tres charlas los días 30/09,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-26",
-      "url": "https://mercadosyseguros.com/escuela-argentina-de-seguros-lanza-ciclo-sobre-responsabilidad-del-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y resiliencia climática: cómo financiar mitigación",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de Marsh y el Milken Institute (2024) plantea cinco mecanismos para transformar datos de riesgo climático en financiamiento de obras preventivas. Propone…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-26",
-      "url": "https://mercadosyseguros.com/ia-y-resiliencia-climatica-como-financiar-mitigacion/",
-      "imagen": ""
-    },
-    {
       "titulo": "Zurich presenta «Vos nos importás», su nueva campaña con foco en la empatía y el acompañamiento de las personas",
       "resumen": "La compañía evoluciona su estrategia de marca para poner las necesidades, el tiempo y el bienestar de las personas en el centro de la experiencia de protección. Zurich Argentina, empresa líder de la industria…",
       "fuente": "El Seguro en Acción",
@@ -54,51 +126,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-26",
       "url": "https://elseguroenaccion.com.ar/fondo-de-asistencia-laboral-fal-national-brokers-lanza-una-propuesta-integral-y-bonifica-el-100-de-los-honorarios-y-gastos-ordinarios-de-administracion-durante-el-primer-ano/",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿La IA nos va a matar? Quizás estamos teniendo la discusión equivocada",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mientras el mundo debate si la IA nos matará, el seguro argentino tiene urgencias medibles: productividad, costos, datos, cultura y el nuevo comercio B2IA. La entrada…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-25",
-      "url": "https://mercadosyseguros.com/ia-seguros-discusion-equivocada/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Por qué la IA no hizo más eficiente al seguro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aunque la productividad mejoró 14% en P&C y 24% en vida, McKinsey muestra que la ratio de gastos de P&C sigue entre 27% y 32% desde 2005. El problema: la IA aceleró…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-25",
-      "url": "https://mercadosyseguros.com/por-que-la-ia-no-hizo-mas-eficiente-al-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Bamboo posterga salida a bolsa respaldada por CVC",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Bamboo Insurance, controlada por CVC Capital Partners y valuada en 1.750 millones de dólares, postergó su oferta pública inicial prevista en septiembre de 2026 por…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-25",
-      "url": "https://mercadosyseguros.com/bamboo-posterga-salida-a-bolsa-respaldada-por-cvc/",
-      "imagen": ""
-    },
-    {
-      "titulo": "56% de empresas teme ataques con IA y muchas no tienen ciberseguro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 56% de las empresas teme ataques que usan IA y el 50% de las pequeñas no tiene ciberseguro, según el 2026 Risk Index del Travelers Institute. El informe advierte…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-25",
-      "url": "https://mercadosyseguros.com/56-de-empresas-teme-ataques-con-ia-y-muchas-no-tienen-ciberseguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "MetLife invirtió US$3.200 M para integrar IA en sus operaciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com MetLife destinó más de US$3.200 millones para modernizar tecnología e integrar IA con la plataforma MetIQ. La compañía reporta duplicación en ingresos digitales de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-09-25",
-      "url": "https://mercadosyseguros.com/metlife-invirtio-us3-200-m-para-integrar-ia-en-sus-operaciones/",
       "imagen": ""
     },
     {
@@ -175,29 +202,11 @@
     },
     {
       "titulo": "RUS llevó a la Cumbre de Agricultura Sostenible su experiencia con el Seguro de Protección del Yaguareté",
-      "resumen": "Río Uruguay Seguros (RUS) participó de la 2ª Cumbre Internacional de Agricultura Sostenible, realizada el 17 y 18 de septiembre en el Museo Aníbal Cambas de Posadas, Misiones. El encuentro, organizado por la Cumbre…",
-      "fuente": "100% Seguro",
+      "resumen": "Río Uruguay Seguros (RUS) participó de la 2° Cumbre Internacional de Agricultura Sostenible, realizada el 17 y 18 de septiembre en el Museo Aníbal Cambas de Posadas, Misiones. El encuentro, organizado por la Cumbre…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-09-25",
-      "url": "https://100seguro.com.ar/rus-llevo-a-la-cumbre-de-agricultura-sostenible-su-experiencia-con-el-seguro-de-proteccion-del-yaguarete/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/IMG_3131-990x556.jpg"
-    },
-    {
-      "titulo": "Seminario de IA para productores: AAPAS abre inscripciones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS dictará el seminario \"IA aplicada al productor\" el 15 y 22 de octubre a las 9:30 en su sede de CABA. La capacitación es gratuita para socios y cuesta $28.000…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-24",
-      "url": "https://mercadosyseguros.com/seminario-de-ia-para-productores-aapas-abre-inscripciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA en seguros: la capacidad operativa se convierte en el nuevo límite para crecer",
-      "resumen": "Un estudio global de ISG, realizado por encargo de mea Platform, revela que el 83% del mercado asegurador está dispuesto a utilizar inteligencia artificial para ejecutar tareas repetitivas, aunque el 75% exige que esas…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-24",
-      "url": "https://100seguro.com.ar/ia-en-seguros-la-capacidad-operativa-se-convierte-en-el-nuevo-limite-para-crecer/",
+      "url": "https://elseguroenaccion.com.ar/rus-llevo-a-la-cumbre-de-agricultura-sostenible-su-experiencia-con-el-seguro-de-proteccion-del-yaguarete/",
       "imagen": ""
     },
     {
@@ -207,15 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-09-24",
       "url": "https://elseguroenaccion.com.ar/resol-2026-410-apn-ssnmec-social-san-juan-seguros-de-personas-s-a-concede-recurso-de-apelacion-articulo-83-ley-n-20-091/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS, única aseguradora presente en el workshop de IA y redes sociales realizado en el Palacio Bosch",
-      "resumen": "Organizado por el Social Media Day y la Embajada de Estados Unidos, el encuentro reunió a un reducido grupo de empresas vinculadas con el marketing digital, la generación de contenidos y la implementación de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-24",
-      "url": "https://elseguroenaccion.com.ar/rus-unica-aseguradora-presente-en-el-workshop-de-ia-y-redes-sociales-realizado-en-el-palacio-bosch/",
       "imagen": ""
     }
   ]
