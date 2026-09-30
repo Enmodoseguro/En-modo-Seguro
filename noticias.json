@@ -1,15 +1,150 @@
 {
-  "actualizado": "2026-09-29T12:15-03:00",
+  "actualizado": "2026-09-30T12:29-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Encuentro SRT-AISS para compartir avances y experiencias en Prevención 4.0",
-      "resumen": "Autoridades de la Superintendencia de Riesgos del Trabajo (SRT) y de la Asociación Internacional de la Seguridad Social (AISS) mantuvieron un encuentro para intercambiar experiencias sobre el uso de nuevas tecnologías…",
+      "titulo": "Plate destacó el rol del seguro y la prevención en el Congreso Internacional ORP 2026",
+      "resumen": "El Superintendente remarcó la importancia de la solvencia y el uso de tecnología para anticiparse a los riesgos y proteger a los trabajadores. La entrada Plate destacó el rol del seguro y la prevención en el Congreso…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/plate-destaco-el-rol-del-seguro-y-la-prevencion-en-el-congreso-internacional-orp-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Con la conducción de 100% SEGURO, ITC LATAM vivió una jornada con presencia latina récord en Las Vegas",
+      "resumen": "COBERTURA EXCLUSIVA 100% SEGURO.- La edición 2026 del segmento ITC LATAM, conducido nuevamente por 100% SEGURO en el marco de ITC Vegas, dejó otra marca histórica en el Mandalay Bay Convention Center de Las Vegas. Con…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/con-la-conduccion-de-100-seguro-itc-latam-vivio-una-jornada-con-presencia-latina-record-en-las-vegas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Hernan-Fernandez-Leonardo-Redolfi-ITC-LATAM-2026.jpg"
+    },
+    {
+      "titulo": "“La futura batalla por la distribución de seguros no va a estar a nivel de canales, sino de momentos”",
+      "resumen": "En el marco de ITC LATAM, Carlos Cendra, Scouting & Investment Lead de Mapfre, planteó una mirada diferente sobre el futuro de la distribución de seguros. Bajo el título “El próximo canal de seguros no es un canal”,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/la-futura-batalla-por-la-distribucion-de-seguros-no-va-a-estar-a-nivel-de-canales-sino-de-momentos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Carlos-Cendra-ITC-LATAM-2.jpeg"
+    },
+    {
+      "titulo": "“El desafío no es desarrollar nuevas coberturas, sino definir dónde se realiza la oferta y cómo se incorpora a la experiencia del cliente”",
+      "resumen": "En una presentación centrada en las nuevas formas de distribución en América Latina, Javier Cabello, SVP & Head of MetLife Xcelerator Latam, planteó que el desafío de la industria no pasa solamente por desarrollar…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/el-desafio-no-es-desarrollar-nuevas-coberturas-sino-definir-donde-se-realiza-la-oferta-y-como-se-incorpora-a-la-experiencia-del-cliente/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/0b500df7-e833-4db5-950c-5f8042c1802f.jpeg"
+    },
+    {
+      "titulo": "“En seguros, la cobranza dejó de ser una función administrativa y se convirtió en una fuente de inteligencia sobre la cartera”",
+      "resumen": "ENTREVISTA 100% SEGURO.- En un mercado donde la experiencia del asegurado ya no termina en la venta de una póliza, la cobranza adquiere un rol cada vez más estratégico. Eso lo tiene en claro Debi, fintech mendocina…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/en-seguros-la-cobranza-dejo-de-ser-una-funcion-administrativa-y-se-convirtio-en-una-fuente-de-inteligencia-sobre-la-cartera/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevención ART ingresa al Registro de Prestadores 4.0 de la SRT",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención ART ingresó al Registro de Prestadores de Soluciones 4.0 de la SRT tras presentar INMERSO, una capacitación con realidad virtual y mixta. La medida…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-29",
+      "url": "https://mercadosyseguros.com/prevencion-art-ingresa-al-registro-de-prestadores-4-0-de-la-srt/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Riesgos y oportunidades para seguros por el auge de los data centers",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Commercial advierte que la inversión en data centers podría crecer de US$ 500.000 millones en 2024 a más de US$ 1 billón en 2027; EEUU y China concentrarían…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://mercadosyseguros.com/riesgos-y-oportunidades-para-seguros-por-el-auge-de-los-data-centers/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rivadavia Seguros: ganadora en el concurso nacional contra el fraude",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En septiembre, Rivadavia Seguros ganó el primer puesto en Automotores y en Otros Ramos en el Concurso Nacional de Lucha contra el Fraude de CESVI Argentina. La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://mercadosyseguros.com/rivadavia-seguros-ganadora-en-el-concurso-nacional-contra-el-fraude/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Exámenes de Productores: más de 460 rindieron en cuatro ciudades",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN y el Ente Cooperador Ley 22.400 realizaron mesas examinadoras la última semana en Neuquén, Rosario, Santa Fe y Paraná, con más de 460 aspirantes y Productores…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-09-29",
+      "url": "https://mercadosyseguros.com/examenes-de-productores-mas-de-460-rindieron-en-cuatro-ciudades/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Caja acompaña el boom de las automotrices chinas y será Main Sponsor de Expo Auto Chino 2026",
+      "resumen": "La aseguradora acompañará la primera exposición dedicada exclusivamente a las automotrices chinas en Argentina, consolidando su estrategia de crecimiento en uno de los segmentos más dinámicos del mercado automotor. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://100seguro.com.ar/la-caja-acompana-el-boom-de-las-automotrices-chinas-y-sera-main-sponsor-de-expo-auto-chino-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/EXPO-AUTO-CHINO-2026.png"
+    },
+    {
+      "titulo": "Mapfre relanza MediMapfre con nuevas opciones de protección ante cirugías y trasplantes",
+      "resumen": "El seguro brinda una indemnización directa, independientemente de la cobertura médica del asegurado. Incorpora sumas aseguradas de hasta $5 millones y alternativas para familias y seniors sin declaración de salud. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://100seguro.com.ar/mapfre-relanza-medimapfre-con-nuevas-opciones-de-proteccion-ante-cirugias-y-trasplantes/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Mapfre-Relanzamiento-producto-MEDIMAPFRE-Micaela-_Mailing-para-Internos-y-PAS.jpg"
+    },
+    {
+      "titulo": "Inhibidores de señal: el robo silencioso de autos que la ley todavía no logra frenar",
+      "resumen": "El robo de autos con inhibidores de señal volvió a instalarse en la agenda pública luego de que un juzgado federal enviara un oficio al Congreso de la Nación para reclamar una reforma penal que criminalice la tenencia…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://100seguro.com.ar/inhibidores-de-senal-el-robo-silencioso-de-autos-que-la-ley-todavia-no-logra-frenar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cerró el segundo turno de exámenes 2026 con más de 2.500 aspirantes y PAS evaluados en todo el país",
+      "resumen": "Con la evaluación de 383 aspirantes y PAS en Mendoza, Chaco y Misiones concluyó la última etapa del segundo turno de exámenes 2026, fruto del trabajo conjunto entre la SSN, el Ente Cooperador Ley 22.400 y FAPASA. La…",
       "fuente": "100% Seguro",
       "categoria": "Regulación",
       "fecha": "2026-09-29",
-      "url": "https://100seguro.com.ar/encuentro-srt-aiss-para-compartir-avances-y-experiencias-en-prevencion-4-0/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/srtaiss02.jpeg"
+      "url": "https://100seguro.com.ar/cerro-el-segundo-turno-de-examenes-2026-con-mas-de-2-500-aspirantes-y-pas-evaluados-en-todo-el-pais/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/apas-mendoza-1024x768-1.jpeg"
+    },
+    {
+      "titulo": "La Pampa reunió a 230 Productores Asesores en una jornada de Capacitación Continuada",
+      "resumen": "APAS La Pampa y Oeste de Buenos Aires reunió a 230 Productores Asesores en una nueva edición de su Programa de Capacitación Continuada, que tuvo como eje la disertación de Carlos Salinas sobre \"El PAS como empresa\". La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://100seguro.com.ar/la-pampa-reunio-a-230-productores-asesores-en-una-jornada-de-capacitacion-continuada/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Silvina-Carrozzi-La-Pampa.jpg"
+    },
+    {
+      "titulo": "Día del Productor Asesor de Seguros: el socio estratégico que hace crecer al canal",
+      "resumen": "Hay historias que construyen familias y otras que hacen crecer empresas. Y detrás de muchas de ellas hay un productor que ayuda a protegerlas. Cada 28 de septiembre, la industria aseguradora reconoce a los Productores…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://elseguroenaccion.com.ar/dia-del-productor-asesor-de-seguros-el-socio-estrategico-que-hace-crecer-al-canal/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ATM Seguros reconoció el compromiso y la dedicación de sus Productores Asesores de Seguros",
+      "resumen": "La compañía puso en valor el rol de los PAS y el vínculo que construyen cada día con los asegurados. ATM Seguros, compañía líder en seguros para motos y en constante crecimiento en el segmento autos, celebró el Día del…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://www.informeoperadores.com.ar/2026/09/29/atm-seguros-reconocio-el-compromiso-y-la-dedicacion-de-sus-productores-asesores-de-seguros/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/ATM-DESTACADA-600x400.jpg"
     },
     {
       "titulo": "Bajo el lema “Somos 1”, Allianz Argentina reunió a sus Allianzers de todo el país en sus Jornadas de Integración 2026",
@@ -19,6 +154,33 @@
       "fecha": "2026-09-29",
       "url": "https://www.informeoperadores.com.ar/2026/09/29/bajo-el-lema-somos-1-allianz-argentina-reunio-a-sus-allianzers-de-todo-el-pais-en-sus-jornadas-de-integracion-2026/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/allianz-seguros_3-600x400.png"
+    },
+    {
+      "titulo": "Desperdicio de alimentos en Argentina: un llamado a la acción por una cadena sostenible y eficiente.",
+      "resumen": "El desperdicio de alimentos se ha convertido en una preocupación creciente en Argentina, con un 26,1% de la población admitiendo que desecha alimentos al menos una vez por semana. Esta situación no solo afecta la…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-09-29",
+      "url": "https://nbs.ar/desperdicio-de-alimentos-en-argentina-un-llamado-a-la-accion-por-una-cadena-sostenible-y-eficiente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Juan Valle: el canal que impulsa el crecimiento y la protección",
+      "resumen": "La expansión del canal, las nuevas oportunidades de negocio y el crecimiento del seguro de hogar muestran el rol que mantiene el Productor Asesor en un mercado cada vez más digital. La entrada Juan Valle: el canal que…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-09-29",
+      "url": "https://nbs.ar/juan-valle-el-canal-que-impulsa-el-crecimiento-y-la-proteccion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo San Cristóbal lanza «Productores del Futuro» por el Día del PAS Argentina 2026",
+      "resumen": "La campaña digital de Grupo San Cristóbal celebra el Día del Productor Asesor de Seguros con un enfoque en la innovación y el futuro del sector. En el marco del Día del Productor Asesor de Seguros (PAS), que se celebra…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-09-29",
+      "url": "https://nbs.ar/grupo-san-cristobal-lanza-productores-del-futuro-por-el-dia-del-pas-argentina-2026/",
+      "imagen": ""
     },
     {
       "titulo": "Más de 110 nuevos Productores Asesores en Santa Fe",
@@ -54,168 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-28",
       "url": "https://mercadosyseguros.com/cambiar-modelo-ia-en-2026-4-preguntas-clave/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allaria, Grupo Almarena y Sancor Seguros lanzan INVITA, primer vehículo financiero para impulsar inversiones en turismo",
-      "resumen": "La iniciativa impulsada por Allaria, Grupo Almarena y Sancor Seguros combina mercado de capitales, real estate y experiencia hotelera para desarrollar y operar activos de hospitalidad en destinos estratégicos del país.…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/allaria-grupo-almarena-y-sancor-seguros-lanzan-invita-primer-vehiculo-financiero-para-impulsar-inversiones-en-turismo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Almarena-Puerto-Retiro.jpg"
-    },
-    {
-      "titulo": "“El PAS es el que traduce la complejidad del seguro en tranquilidad real para el asegurado”",
-      "resumen": "El Día del Productor Asesor de Seguros no es un día más. Ejecutivos del sector como Julio Scarafía, Director Comercial de El Norte Seguros, realzan hoy más que nunca el papel que desempeña el PAS en la relación entre…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/el-pas-es-el-que-traduce-la-complejidad-del-seguro-en-tranquilidad-real-para-el-asegurado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros nombra nueva Chief Data & Artificial Intelligence Officer",
-      "resumen": "Galicia Seguros entiende la importancia de la tecnología, los datos y la Inteligencia Artificial Generativa como palancas fundamentales para impulsar el crecimiento de la compañía, con la confianza en el dato como punto…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/galicia-seguros-nombra-nueva-chief-data-artificial-intelligence-officer/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día del Productor Asesor de Seguros: el socio estratégico que hace crecer al canal",
-      "resumen": "Hay historias que construyen familias y otras que hacen crecer empresas. Y detrás de muchas de ellas hay un productor que ayuda a protegerlas. Cada 28 de septiembre, la industria aseguradora reconoce a los Productores…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/dia-del-productor-asesor-de-seguros-el-socio-estrategico-que-hace-crecer-al-canal/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Life-Seguros-6636.jpg"
-    },
-    {
-      "titulo": "“La tecnología facilita los procesos, pero la confianza, la cercanía y el conocimiento que brinda un PAS siguen siendo atributos irremplazables”",
-      "resumen": "En el marco del Día del Productor Asesor de Seguros, que se celebra este 28 de septiembre, conversamos con Juan Valle, Gerente de Canal Productores de La Caja, sobre las perspectivas de crecimiento de este canal, el…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/la-tecnologia-facilita-los-procesos-pero-la-confianza-la-cercania-y-el-conocimiento-que-brinda-un-pas-siguen-siendo-atributos-irremplazables/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Grupo San Cristóbal presenta “Productores del Futuro”, su campaña digital por el Día del PAS",
-      "resumen": "En el marco del Día del Productor Asesor de Seguros (PAS), que se conmemora cada 28 de septiembre, Grupo San Cristóbal presenta “Productores del Futuro”, una campaña digital que pone en valor la evolución del rol de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/grupo-san-cristobal-presenta-productores-del-futuro-su-campana-digital-por-el-dia-del-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SRT abrió un concurso público para cubrir cargos médicos en todo el país",
-      "resumen": "La convocatoria está dirigida a profesionales de distintas especialidades. La inscripción se realizará a través de Trámites a Distancia (TAD) hasta el 21 de octubre inclusive. La entrada La SRT abrió un concurso público…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-28",
-      "url": "https://100seguro.com.ar/la-srt-abrio-un-concurso-publico-para-cubrir-cargos-medicos-en-todo-el-pais/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros lanza un nuevo modelo de alta para Productores Asesores de Seguros (PAS) 100% digital",
-      "resumen": "28 DE SEPTIEMBRE | DÍA DEL PRODUCTOR ASESOR DE SEGUROS La compañía transforma su experiencia de incorporación de los PAS con un proceso que pasa a completarse en minutos. Cada 28 de septiembre, el Día del Productor…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://elseguroenaccion.com.ar/galicia-seguros-lanza-un-nuevo-modelo-de-alta-para-productores-asesores-de-seguros-pas-100-digital/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Bajo el lema «Somos 1», Allianz Argentina reunió a sus Allianzers de todo el país en sus Jornadas de Integración 2026",
-      "resumen": "El encuentro anual, realizado en Espacio Pilar, combinó estrategia de negocio, innovación y una jornada de voluntariado corporativo a beneficio de la Asociación Civil Una Mano que Ayuda. Allianz Argentina llevó adelante…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://elseguroenaccion.com.ar/bajo-el-lema-somos-1-allianz-argentina-reunio-a-sus-allianzers-de-todo-el-pais-en-sus-jornadas-de-integracion-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fraude en seguros: el ecosistema tecnológico con el que CESVI ARGENTINA ayuda a las aseguradoras a anticiparse a los nuevos desafíos",
-      "resumen": "Con más de 30 años de experiencia y soluciones utilizadas por el 63% del mercado asegurador argentino, CESVI ARGENTINA combina el procesamiento de datos masivos, la analítica avanzada e inteligencia artificial para…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://elseguroenaccion.com.ar/fraude-en-seguros-el-ecosistema-tecnologico-con-el-que-cesvi-argentina-ayuda-a-las-aseguradoras-a-anticiparse-a-los-nuevos-desafios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Strix relanza su solución para motos con una nueva tecnología pensada para el uso diario",
-      "resumen": "La nueva versión del rastreador Strix incorpora al GPS un desarrollo que amplía la vida útil del localizador sin consumir recursos del rodado. La solución está especialmente dirigida a quienes se trasladan diariamente…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://www.informeoperadores.com.ar/2026/09/28/strix-relanza-su-solucion-para-motos-con-una-nueva-tecnologia-pensada-para-el-uso-diario/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/Strix-moto2-600x370.png"
-    },
-    {
-      "titulo": "Mapfre se adhiere a la Red Panhispánica de Lenguaje Claro y Accesible, impulsada por la RAE",
-      "resumen": "Antonio Huertas: «El lenguaje claro es esencial para mantener una relación de confianza con nuestros clientes» Mapfre ha firmado hoy su adhesión a la Red Panhispánica de Lenguaje Claro y Accesible, una iniciativa…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://www.informeoperadores.com.ar/2026/09/28/mapfre-se-adhiere-a-la-red-panhispanica-de-lenguaje-claro-y-accesible-impulsada-por-la-rae/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/firma-RAE-Mapfre-600x400.jpg"
-    },
-    {
-      "titulo": "Mariano Nimo: “El desafío es avanzar hacia una incorporación más transversal y sistemática de la IA”",
-      "resumen": "Mariano Nimo, CEO de Afianzadora Seguros de Caución, revela cuáles son los resultados concretos del uso de esta tecnología en la compañía y qué se necesita para impulsar el crecimiento. La entrada Mariano Nimo: “El…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-09-28",
-      "url": "https://nbs.ar/mariano-nimo-el-desafio-es-avanzar-hacia-una-incorporacion-mas-transversal-y-sistematica-de-la-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Myriam Clérici: “El verdadero salto se dará cuando la IA pase a formar parte de la gestión cotidiana”",
-      "resumen": "Myriam Clérici, presidenta de IAPSER Seguros, comparte su visión y experiencia sobre cómo la actualización tecnológica en el mercado y en su propia compañía potencian al capital humano y los resultados del negocio. La…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://nbs.ar/myriam-clerici-el-verdadero-salto-se-dara-cuando-la-ia-pase-a-formar-parte-de-la-gestion-cotidiana/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevención ART ingresa al Registro de Soluciones 4.0 de la SRT",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Prevención ART ingresó al Registro de Prestadores de Soluciones 4.0 de la SRT con INMERSO, una capacitación en realidad virtual y realidad mixta autorizada bajo la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-09-26",
-      "url": "https://mercadosyseguros.com/prevencion-art-ingresa-al-registro-de-soluciones-4-0-de-la-srt/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AP Envíos de ATM Seguros: cobertura para repartidores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros presentó AP Envíos, un seguro de accidentes personales para repartidores que cubre jornada e in itinere, con tres niveles de suma asegurada y cuotas desde…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-26",
-      "url": "https://mercadosyseguros.com/ap-envios-de-atm-seguros-cobertura-para-repartidores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Escuela Argentina de Seguros lanza ciclo sobre responsabilidad del PAS",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Escuela Argentina de Seguros de FAPASA y AIDA Argentina presentan el ciclo \"La Responsabilidad del PAS en su ejercicio profesional\": tres charlas los días 30/09,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-26",
-      "url": "https://mercadosyseguros.com/escuela-argentina-de-seguros-lanza-ciclo-sobre-responsabilidad-del-pas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Zurich presenta «Vos nos importás», su nueva campaña con foco en la empatía y el acompañamiento de las personas",
-      "resumen": "La compañía evoluciona su estrategia de marca para poner las necesidades, el tiempo y el bienestar de las personas en el centro de la experiencia de protección. Zurich Argentina, empresa líder de la industria…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-26",
-      "url": "https://elseguroenaccion.com.ar/zurich-presenta-vos-nos-importas-su-nueva-campana-con-foco-en-la-empatia-y-el-acompanamiento-de-las-personas/",
       "imagen": ""
     }
   ]
