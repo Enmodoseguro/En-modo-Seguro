@@ -1,7 +1,169 @@
 {
-  "actualizado": "2026-09-30T12:29-03:00",
+  "actualizado": "2026-10-01T12:52-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Los Productores Asesores de Seguros expusieron en el Congreso de la Nación las cifras de una actividad clave para la economía argentina",
+      "resumen": "La Asociación Argentina de Productores Asesores de Seguros (AAPAS) participó de una reunión de la Comisión de Comercio de la Cámara de Diputados y llevó al Congreso la mirada de una actividad que reúne a casi 53.000…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://100seguro.com.ar/los-productores-asesores-de-seguros-expusieron-en-el-congreso-de-la-nacion-las-cifras-de-una-actividad-clave-para-la-economia-argentina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Ignacio-Sammarra-AAPAS-Congreso.jpeg"
+    },
+    {
+      "titulo": "MIA Hub lanzó una plataforma global de networking para sus miembros en ITC Vegas 2026",
+      "resumen": "La nueva plataforma digital facilita la conexión entre miembros de todo el mundo, el descubrimiento de alianzas y soluciones insurtech y la construcción de relaciones más allá de las fronteras. La entrada MIA Hub lanzó…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-01",
+      "url": "https://100seguro.com.ar/mia-hub-lanzo-una-plataforma-global-de-networking-para-sus-miembros-en-itc-vegas-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cinco segundos pueden cambiar un viaje: Galicia Seguros pone el foco en evitar la distracción tecnológica al volante",
+      "resumen": "En una conducción cada vez más atravesada por pantallas, notificaciones, aplicaciones de navegación, la distracción tecnológica se convirtió en un desafío central para la seguridad vial. El riesgo no se limita a…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://100seguro.com.ar/cinco-segundos-pueden-cambiar-un-viaje-galicia-seguros-pone-el-foco-en-evitar-la-distraccion-tecnologica-al-volante/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/261001-Infografia_Dia-del-Camino-y-Educacion-Vial.jpg"
+    },
+    {
+      "titulo": "En agosto, la producción de seguros cayó un 12% mensual y un 3% interanual, con los principales ramos en baja",
+      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,290 billones de pesos en agosto, lo que representa una caída del 11,9% en términos reales con respecto al mes anterior (julio de 2026), que tuvo una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://100seguro.com.ar/en-agosto-la-produccion-de-seguros-cayo-un-12-mensual-y-un-3-interanual-con-los-principales-ramos-en-baja/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Estimacion-de-la-Produccion-de-Seguros-Agosto-2026.png"
+    },
+    {
+      "titulo": "Cerró el segundo turno de exámenes 2026 con más de 2.500 aspirantes y PAS evaluados en todo el país",
+      "resumen": "Con la evaluación de 383 aspirantes y PAS en Mendoza, Chaco y Misiones concluyó la última etapa del segundo turno de exámenes 2026, fruto del trabajo conjunto entre la SSN, el Ente Cooperador Ley 22.400 y FAPASA. La…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/cerro-el-segundo-turno-de-examenes-2026-con-mas-de-2-500-aspirantes-y-pas-evaluados-en-todo-el-pais/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Programados contra el Cibercrimen",
+      "resumen": "FUENTE: DIARIO JUDICIAL El Ministerio de Justicia creó el Programa Nacional de Política Criminal en Materia de Ciberdelincuencia y Evidencia Digital (PRONACIB), una estructura que concentrará acciones sobre…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/programados-contra-el-cibercrimen/",
+      "imagen": ""
+    },
+    {
+      "titulo": "INVITA: lanzan el primer vehículo financiero para impulsar inversiones en el turismo argentino",
+      "resumen": "La iniciativa impulsada por Allaria, Grupo Almarena y Sancor Seguros combina mercado de capitales, real estate y experiencia hotelera para desarrollar y operar activos de hospitalidad en destinos estratégicos del país.…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/invita-lanzan-el-primer-vehiculo-financiero-para-impulsar-inversiones-en-el-turismo-argentino/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz Argentina amplía las coberturas y servicios de su seguro de Hogar",
+      "resumen": "La compañía incorporó nuevos bienes cubiertos, nuevos tipos de construcción y coberturas para hogares sustentables, y renovó su servicio de asistencia con mayores límites y nuevas prestaciones de mantenimiento y…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/allianz-argentina-amplia-las-coberturas-y-servicios-de-su-seguro-de-hogar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate, presente en la 45ª Asamblea Ordinaria Anual de ADIRA",
+      "resumen": "El Superintendente destacó la importancia de la supervisión, la solvencia y el diálogo con el mercado asegurador. El 24 de septiembre, el Superintendente de Seguros de la Nación, Guillermo Plate, participó de la 45ª…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/guillermo-plate-presente-en-la-45a-asamblea-ordinaria-anual-de-adira/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ADIRA aprobó su Memoria y Balance 2025-2026 y eligió nuevas autoridades",
+      "resumen": "La Asamblea Anual de la Asociación de Aseguradores del Interior de la República Argentina (ADIRA) aprobó la Memoria y Balance correspondiente al ejercicio 2025/2026 y eligió a sus nuevas autoridades. El encuentro contó…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/adira-aprobo-su-memoria-y-balance-2025-2026-y-eligio-nuevas-autoridades/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ranking de Producción de Combinados e Integrales",
+      "resumen": "Con datos a junio 2026, una estadística interactiva permite comparar el desempeño de cada grupo asegurador en uno de los ramos más diversos del mercado El ramo Combinados e Integrales cerró junio de 2026 con una prima…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-01",
+      "url": "https://elseguroenaccion.com.ar/ranking-de-produccion-de-combinados-e-integrales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ranking 2026: aseguradoras por producción en mala praxis médica",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A junio de 2026 la producción de seguros de mala praxis médica fue de 102.007.934 miles de pesos. Swiss Medical Seguros lidera con 47.638.301 miles (46,70%), seguido…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://mercadosyseguros.com/ranking-2026-aseguradoras-por-produccion-en-mala-praxis-medica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Omint y Cubus Broker realizaron jornada de capacitación en Rosario",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Omint y Cubus Broker realizaron en Rosario una jornada de capacitación para productores asesores de seguros con la charla de Soledad González Alemán y la presentación…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://mercadosyseguros.com/omint-y-cubus-broker-realizaron-jornada-de-capacitacion-en-rosario/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Educación financiera e innovación para el futuro del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, defendió la educación financiera y un marco regulatorio moderno como pilares para el crecimiento del mercado de seguros…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-09-30",
+      "url": "https://mercadosyseguros.com/educacion-financiera-e-innovacion-para-el-futuro-del-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Premio al Impacto Social 2026: Grupo San Cristóbal asignó $45 millones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo San Cristóbal entregó en 2026 tres subsidios de $15.000.000 (total $45.000.000) a Asociación El Arca, Fundación Crear Vale la Pena y Asociación Civil Mocha…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://mercadosyseguros.com/premio-al-impacto-social-2026-grupo-san-cristobal-asigno-45-millones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La IA ya compara seguros y obliga a las aseguradoras a repensar cómo muestran sus productos",
+      "resumen": "Las personas empiezan a utilizar inteligencia artificial para investigar, comparar y entender coberturas antes de llegar a los canales de una aseguradora. El cambio abre una nueva discusión: qué pasa cuando una parte de…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/la-ia-ya-compara-seguros-y-obliga-a-las-aseguradoras-a-repensar-como-muestran-sus-productos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/seguros-ia.png"
+    },
+    {
+      "titulo": "Chile ya es el tercer polo insurtech de Latinoamérica y la IA empieza a cambiar el negocio asegurador",
+      "resumen": "Con 112 empresas y un crecimiento de 26% en un año, el ecosistema chileno llega a ITC Vegas 2026 en medio de un debate global: la IA ya no solo aporta eficiencia, sino que también modifica la estructura de costos de las…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/chile-ya-es-el-tercer-polo-insurtech-de-latinoamerica-y-la-ia-empieza-a-cambiar-el-negocio-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Maria-Sol-Gonzalez-Chief-Revenue-Officer-de-ComparaOnline-Foto-Horizontal.jpg"
+    },
+    {
+      "titulo": "Día de la Conciencia Ambiental: impulsar soluciones para un futuro sostenible",
+      "resumen": "En Grupo Sancor Seguros asumen el cuidado del ambiente como un compromiso transversal a su gestión. A través de su Estrategia de Cuidado del Ambiente, trabajan sobre tres ejes prioritarios: uso sostenible de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-09-30",
+      "url": "https://100seguro.com.ar/dia-de-la-conciencia-ambiental-impulsar-soluciones-para-un-futuro-sostenible/",
+      "imagen": ""
+    },
     {
       "titulo": "Plate destacó el rol del seguro y la prevención en el Congreso Internacional ORP 2026",
       "resumen": "El Superintendente remarcó la importancia de la solvencia y el uso de tecnología para anticiparse a los riesgos y proteger a los trabajadores. La entrada Plate destacó el rol del seguro y la prevención en el Congreso…",
@@ -30,21 +192,12 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Carlos-Cendra-ITC-LATAM-2.jpeg"
     },
     {
-      "titulo": "“El desafío no es desarrollar nuevas coberturas, sino definir dónde se realiza la oferta y cómo se incorpora a la experiencia del cliente”",
-      "resumen": "En una presentación centrada en las nuevas formas de distribución en América Latina, Javier Cabello, SVP & Head of MetLife Xcelerator Latam, planteó que el desafío de la industria no pasa solamente por desarrollar…",
-      "fuente": "100% Seguro",
+      "titulo": "Seguros, en el centro de una reunión informativa en Diputados",
+      "resumen": "Representantes de entidades del sector asegurador expusieron ante la comisión de Comercio La Honorable Cámara de Diputados de la Nación realizó una reunión informativa en la Sala 2 del Anexo «A», el pasado cmartes 29 de…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-09-30",
-      "url": "https://100seguro.com.ar/el-desafio-no-es-desarrollar-nuevas-coberturas-sino-definir-donde-se-realiza-la-oferta-y-como-se-incorpora-a-la-experiencia-del-cliente/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/0b500df7-e833-4db5-950c-5f8042c1802f.jpeg"
-    },
-    {
-      "titulo": "“En seguros, la cobranza dejó de ser una función administrativa y se convirtió en una fuente de inteligencia sobre la cartera”",
-      "resumen": "ENTREVISTA 100% SEGURO.- En un mercado donde la experiencia del asegurado ya no termina en la venta de una póliza, la cobranza adquiere un rol cada vez más estratégico. Eso lo tiene en claro Debi, fintech mendocina…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-30",
-      "url": "https://100seguro.com.ar/en-seguros-la-cobranza-dejo-de-ser-una-funcion-administrativa-y-se-convirtio-en-una-fuente-de-inteligencia-sobre-la-cartera/",
+      "url": "https://elseguroenaccion.com.ar/seguros-en-el-centro-de-una-reunion-informativa-en-diputados/",
       "imagen": ""
     },
     {
@@ -63,159 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-09-29",
       "url": "https://mercadosyseguros.com/riesgos-y-oportunidades-para-seguros-por-el-auge-de-los-data-centers/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia Seguros: ganadora en el concurso nacional contra el fraude",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En septiembre, Rivadavia Seguros ganó el primer puesto en Automotores y en Otros Ramos en el Concurso Nacional de Lucha contra el Fraude de CESVI Argentina. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://mercadosyseguros.com/rivadavia-seguros-ganadora-en-el-concurso-nacional-contra-el-fraude/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Exámenes de Productores: más de 460 rindieron en cuatro ciudades",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN y el Ente Cooperador Ley 22.400 realizaron mesas examinadoras la última semana en Neuquén, Rosario, Santa Fe y Paraná, con más de 460 aspirantes y Productores…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-09-29",
-      "url": "https://mercadosyseguros.com/examenes-de-productores-mas-de-460-rindieron-en-cuatro-ciudades/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Caja acompaña el boom de las automotrices chinas y será Main Sponsor de Expo Auto Chino 2026",
-      "resumen": "La aseguradora acompañará la primera exposición dedicada exclusivamente a las automotrices chinas en Argentina, consolidando su estrategia de crecimiento en uno de los segmentos más dinámicos del mercado automotor. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://100seguro.com.ar/la-caja-acompana-el-boom-de-las-automotrices-chinas-y-sera-main-sponsor-de-expo-auto-chino-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/EXPO-AUTO-CHINO-2026.png"
-    },
-    {
-      "titulo": "Mapfre relanza MediMapfre con nuevas opciones de protección ante cirugías y trasplantes",
-      "resumen": "El seguro brinda una indemnización directa, independientemente de la cobertura médica del asegurado. Incorpora sumas aseguradas de hasta $5 millones y alternativas para familias y seniors sin declaración de salud. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://100seguro.com.ar/mapfre-relanza-medimapfre-con-nuevas-opciones-de-proteccion-ante-cirugias-y-trasplantes/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Mapfre-Relanzamiento-producto-MEDIMAPFRE-Micaela-_Mailing-para-Internos-y-PAS.jpg"
-    },
-    {
-      "titulo": "Inhibidores de señal: el robo silencioso de autos que la ley todavía no logra frenar",
-      "resumen": "El robo de autos con inhibidores de señal volvió a instalarse en la agenda pública luego de que un juzgado federal enviara un oficio al Congreso de la Nación para reclamar una reforma penal que criminalice la tenencia…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://100seguro.com.ar/inhibidores-de-senal-el-robo-silencioso-de-autos-que-la-ley-todavia-no-logra-frenar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cerró el segundo turno de exámenes 2026 con más de 2.500 aspirantes y PAS evaluados en todo el país",
-      "resumen": "Con la evaluación de 383 aspirantes y PAS en Mendoza, Chaco y Misiones concluyó la última etapa del segundo turno de exámenes 2026, fruto del trabajo conjunto entre la SSN, el Ente Cooperador Ley 22.400 y FAPASA. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-09-29",
-      "url": "https://100seguro.com.ar/cerro-el-segundo-turno-de-examenes-2026-con-mas-de-2-500-aspirantes-y-pas-evaluados-en-todo-el-pais/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/apas-mendoza-1024x768-1.jpeg"
-    },
-    {
-      "titulo": "La Pampa reunió a 230 Productores Asesores en una jornada de Capacitación Continuada",
-      "resumen": "APAS La Pampa y Oeste de Buenos Aires reunió a 230 Productores Asesores en una nueva edición de su Programa de Capacitación Continuada, que tuvo como eje la disertación de Carlos Salinas sobre \"El PAS como empresa\". La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://100seguro.com.ar/la-pampa-reunio-a-230-productores-asesores-en-una-jornada-de-capacitacion-continuada/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Silvina-Carrozzi-La-Pampa.jpg"
-    },
-    {
-      "titulo": "Día del Productor Asesor de Seguros: el socio estratégico que hace crecer al canal",
-      "resumen": "Hay historias que construyen familias y otras que hacen crecer empresas. Y detrás de muchas de ellas hay un productor que ayuda a protegerlas. Cada 28 de septiembre, la industria aseguradora reconoce a los Productores…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://elseguroenaccion.com.ar/dia-del-productor-asesor-de-seguros-el-socio-estrategico-que-hace-crecer-al-canal/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ATM Seguros reconoció el compromiso y la dedicación de sus Productores Asesores de Seguros",
-      "resumen": "La compañía puso en valor el rol de los PAS y el vínculo que construyen cada día con los asegurados. ATM Seguros, compañía líder en seguros para motos y en constante crecimiento en el segmento autos, celebró el Día del…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://www.informeoperadores.com.ar/2026/09/29/atm-seguros-reconocio-el-compromiso-y-la-dedicacion-de-sus-productores-asesores-de-seguros/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/09/ATM-DESTACADA-600x400.jpg"
-    },
-    {
-      "titulo": "Bajo el lema “Somos 1”, Allianz Argentina reunió a sus Allianzers de todo el país en sus Jornadas de Integración 2026",
-      "resumen": "El encuentro anual, realizado en Espacio Pilar, combinó estrategia de negocio, innovación y una jornada de voluntariado corporativo a beneficio de la Asociación Civil Una Mano que Ayuda. Buenos Aires, septiembre de 2026…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-09-29",
-      "url": "https://www.informeoperadores.com.ar/2026/09/29/bajo-el-lema-somos-1-allianz-argentina-reunio-a-sus-allianzers-de-todo-el-pais-en-sus-jornadas-de-integracion-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2025/04/allianz-seguros_3-600x400.png"
-    },
-    {
-      "titulo": "Desperdicio de alimentos en Argentina: un llamado a la acción por una cadena sostenible y eficiente.",
-      "resumen": "El desperdicio de alimentos se ha convertido en una preocupación creciente en Argentina, con un 26,1% de la población admitiendo que desecha alimentos al menos una vez por semana. Esta situación no solo afecta la…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-09-29",
-      "url": "https://nbs.ar/desperdicio-de-alimentos-en-argentina-un-llamado-a-la-accion-por-una-cadena-sostenible-y-eficiente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Juan Valle: el canal que impulsa el crecimiento y la protección",
-      "resumen": "La expansión del canal, las nuevas oportunidades de negocio y el crecimiento del seguro de hogar muestran el rol que mantiene el Productor Asesor en un mercado cada vez más digital. La entrada Juan Valle: el canal que…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-09-29",
-      "url": "https://nbs.ar/juan-valle-el-canal-que-impulsa-el-crecimiento-y-la-proteccion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Grupo San Cristóbal lanza «Productores del Futuro» por el Día del PAS Argentina 2026",
-      "resumen": "La campaña digital de Grupo San Cristóbal celebra el Día del Productor Asesor de Seguros con un enfoque en la innovación y el futuro del sector. En el marco del Día del Productor Asesor de Seguros (PAS), que se celebra…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-09-29",
-      "url": "https://nbs.ar/grupo-san-cristobal-lanza-productores-del-futuro-por-el-dia-del-pas-argentina-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Más de 110 nuevos Productores Asesores en Santa Fe",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com APAS Santa Fe reunió el 21 de septiembre a más de 300 asistentes y entregó diplomas a más de 110 nuevos Productores Asesores de Seguros. La jornada incluyó formación…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://mercadosyseguros.com/mas-de-110-nuevos-productores-asesores-en-santa-fe/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ranking Automotores: qué aseguradoras le ganaron a la inflación",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A junio de 2026 la prima emitida en Automotores llegó a $10.480.873 millones, un aumento interanual del 36,6% que supera el IPC (33,8%). Diez grupos concentran el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://mercadosyseguros.com/ranking-automotores-que-aseguradoras-le-ganaron-a-la-inflacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fallo en Córdoba: positivio por cocaína no anula cobertura de seguro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El juzgado de San Francisco (Córdoba) ordenó pagar 81,6 millones de pesos por la muerte de un motociclista el 23/4/2025; concluyó que un resultado toxicológico…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://mercadosyseguros.com/fallo-en-cordoba-positivio-por-cocaina-no-anula-cobertura-de-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cambiar modelo IA en 2026: 4 preguntas clave",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Entre el 21 y 22/9/2026 SpaceXAI, Anthropic y OpenAI lanzaron Grok 4.7, Claude Opus 5.5 y GPT-6 Sol/Luna. Migrar entre ellos exige revisar protocolo de request, cliff…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-09-28",
-      "url": "https://mercadosyseguros.com/cambiar-modelo-ia-en-2026-4-preguntas-clave/",
       "imagen": ""
     }
   ]
