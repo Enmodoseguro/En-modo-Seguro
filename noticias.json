@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-10-02T12:14-03:00",
+  "actualizado": "2026-10-03T11:05-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Aseguradora y broker: dos miradas sobre el mercado que viene",
+      "resumen": "En un nuevo programa de 100% SEGURO, presentamos una mirada complementaria del mercado asegurador: la visión de una compañía y la de un broker con amplia trayectoria. En primer lugar, conversamos con Nadia Bressan,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-02",
+      "url": "https://100seguro.com.ar/aseguradora-y-broker-dos-miradas-sobre-el-mercado-que-viene/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Scoring, IA y controles en las fronteras: los desafíos en seguridad vial de las provincias",
+      "resumen": "El pasado jueves 1 de octubre se realizó la 106ª Asamblea del Consejo Federal de Seguridad Vial en la provincia de Córdoba. Con la participación de autoridades de 22 jurisdicciones, se abordaron distintas experiencias y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-02",
+      "url": "https://100seguro.com.ar/scoring-ia-y-controles-en-las-fronteras-los-desafios-en-seguridad-vial-de-las-provincias/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/CFSV-2.jpg"
+    },
+    {
+      "titulo": "“La IA agéntica crea una oportunidad, pero también una amenaza para los seguros embebidos”",
+      "resumen": "Leire Jiménez, Chief Innovation Officer de Mapfre, analizó en ITC Vegas 2026 la evolución del modelo B2B2C y planteó una nueva etapa para los seguros embebidos, marcada por la irrupción de la inteligencia artificial…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-02",
+      "url": "https://100seguro.com.ar/la-ia-agentica-crea-una-oportunidad-pero-tambien-una-amenaza-para-los-seguros-embebidos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Leire-Jimenez-Chief-Innovation-Officer-de-Mapfre.jpeg"
+    },
+    {
+      "titulo": "El parque asegurado sigue en aumento y alcanzó los 15,2 millones de vehículos expuestos a riesgo",
+      "resumen": "Los últimos datos oficiales confirman una nueva mejora del parque asegurado, que alcanzó los 15.203.225 vehículos expuestos a riesgo al 30 de junio de 2026, lo que representa un crecimiento del 1,9% frente al mismo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-02",
+      "url": "https://100seguro.com.ar/el-parque-asegurado-sigue-en-aumento-y-alcanzo-los-152-millones-de-vehiculos-expuestos-a-riesgo/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Vehiculos-Expuestos-a-Riesgo-por-tipo-de-vehiculo-2T-2026.png"
+    },
     {
       "titulo": "Cómo construir cuando todo cambia: las lecciones de dos “pesos pesados” para aplicar en el negocio asegurador",
       "resumen": "El fundador de FUBU y estrella de Shark Tank, Daymond John, y William Powers, CEO y cofundador de Cambridge Mobile Telematics, compartieron sus experiencias sobre emprendimiento, competencia, innovación y el impacto de…",
@@ -36,6 +72,15 @@
       "categoria": "Regulación",
       "fecha": "2026-10-02",
       "url": "https://100seguro.com.ar/la-ssn-reorganiza-los-seguros-de-transporte-de-pasajeros-habilitando-dos-subramas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El NEA prepara su gran Foro Regional de Seguros",
+      "resumen": "Resistencia será sede, el próximo 8 de octubre, del segundo Foro Regional de Seguros del NEA, organizado por las cuatro APAS de la región junto a FAPASA. Pablo Trangoni, presidente de APAS Chaco, adelantó los objetivos…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-02",
+      "url": "https://elseguroenaccion.com.ar/el-nea-prepara-su-gran-foro-regional-de-seguros/",
       "imagen": ""
     },
     {
@@ -100,42 +145,6 @@
       "fecha": "2026-10-01",
       "url": "https://100seguro.com.ar/patentamientos-de-septiembre-las-motos-siguen-en-alza-y-los-autos-tuvieron-un-repunte-intermensual/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Patentamientos-de-autos-septiembre-2026-Resumen-del-mercado.png"
-    },
-    {
-      "titulo": "Provincia ART: cronograma de cursos gratuitos para el mes de octubre",
-      "resumen": "Provincia ART, la aseguradora de riesgos de Grupo Provincia, confirmó su cronograma de cursos gratuitos para el décimo mes del año. La entrada Provincia ART: cronograma de cursos gratuitos para el mes de octubre se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-01",
-      "url": "https://100seguro.com.ar/provincia-art-cronograma-de-cursos-gratuitos-para-el-mes-de-octubre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los nuevos riesgos del trabajo: salud mental, IA y cambio climático en el centro del debate",
-      "resumen": "La transformación del mundo laboral obliga a ampliar la mirada sobre la prevención: el impacto de la inteligencia artificial, los riesgos psicosociales, las nuevas tecnologías y el cambio climático plantean desafíos que…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-01",
-      "url": "https://100seguro.com.ar/los-nuevos-riesgos-del-trabajo-salud-mental-ia-y-cambio-climatico-en-el-centro-del-debate/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Guillermo-Meneguzzi.jpg"
-    },
-    {
-      "titulo": "Sancor Seguros reunió a más de 20 familias para fortalecer la continuidad generacional de sus empresas",
-      "resumen": "En el marco del programa DALE Continuador, Sancor Seguros llevó adelante el taller “La conversación pendiente”, una propuesta diseñada para acompañar a las empresas familiares en uno de sus desafíos más trascendentes:…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-01",
-      "url": "https://100seguro.com.ar/sancor-seguros-reunio-a-mas-de-20-familias-para-fortalecer-la-continuidad-generacional-de-sus-empresas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El sector agropecuario argentino cuenta con ventajas estructurales frente a un mundo que seguirá demandando alimentos",
-      "resumen": "BBVA Research elaboró un nuevo informe sectorial, denominado Situación Agricultura, que analiza la situación del sector y destaca que el campo sigue siendo un motor fundamental para la economía de Argentina. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-01",
-      "url": "https://100seguro.com.ar/el-sector-agropecuario-argentino-cuenta-con-ventajas-estructurales-frente-a-un-mundo-que-seguira-demandando-alimentos/",
-      "imagen": ""
     },
     {
       "titulo": "RESOL-2026-431-APN-SSN#MEC – LINEAMIENTOS SEGUROS COLECTIVOS DE RETIRO DE RENTA VARIABLE VINCULADA A ACTIVOS",
@@ -207,15 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-10-01",
       "url": "https://elseguroenaccion.com.ar/resol-2026-420-apn-ssnmec-ondro-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-418-APN-SSN#MEC – S&I SOCIEDAD DE PRODUCTORES, ASESORES DE SEGUROS S.A.S. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-418-apn-ssnmec-si-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     }
   ]
