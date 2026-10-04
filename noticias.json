@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-10-03T11:05-03:00",
+  "actualizado": "2026-10-04T11:31-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sancor Seguros renovó sus autoridades para el ejercicio 2026/2027 junto al resto de las empresas del grupo",
+      "resumen": "El sábado 3 de octubre se realizó la 80ª Asamblea General Ordinaria de Sancor Cooperativa de Seguros Limitada. Durante el encuentro, que contó con la presencia de delegados representantes de los asociados de todo el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-04",
+      "url": "https://100seguro.com.ar/sancor-seguros-renovo-sus-autoridades-para-el-ejercicio-2026-2027-junto-al-resto-de-las-empresas-del-grupo/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/PRESIDENTE-JOSE-SANCHEZ.jpg"
+    },
+    {
+      "titulo": "Allianz Hogar renueva coberturas y asistencia en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina renovó Allianz Hogar (disponible desde septiembre de 2026) con coberturas para nuevos electrodomésticos, paneles solares y tipos de construcción…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-03",
+      "url": "https://mercadosyseguros.com/allianz-hogar-renueva-coberturas-y-asistencia-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Caja, main sponsor de Expo Auto Chino 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Caja será Main Sponsor de Expo Auto Chino 2026 (2-4 de octubre, BA Ferial) y presentó coberturas específicas para autos eléctricos, mientras el segmento…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-03",
+      "url": "https://mercadosyseguros.com/la-caja-main-sponsor-de-expo-auto-chino-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Benchmark: cómo la IA falla corrigiendo italiano",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El benchmark \"Would you ship this Italian?\" (29 pares) mostró que GPT-5.4 mini acertó 19/29 y GPT-5.4 nano marcó hasta un tercio de las correcciones correctas como…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-03",
+      "url": "https://mercadosyseguros.com/benchmark-como-la-ia-falla-corrigiendo-italiano/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prompt chaining 2.0: técnicas y costos clave en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Dev.to (28/09/2026) resume el prompt chaining 2.0: pipelines con contratos JSON, branching dinámico, Tree-of-Thought y prompting maiéutico; Anthropic publicó Claude…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-03",
+      "url": "https://mercadosyseguros.com/prompt-chaining-2-0-tecnicas-y-costos-clave-en-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Aseguradora y broker: dos miradas sobre el mercado que viene",
       "resumen": "En un nuevo programa de 100% SEGURO, presentamos una mirada complementaria del mercado asegurador: la visión de una compañía y la de un broker con amplia trayectoria. En primer lugar, conversamos con Nadia Bressan,…",
@@ -102,24 +147,6 @@
       "imagen": ""
     },
     {
-      "titulo": "NVIDIA OpenShell 0.1.0: control real a agentes de IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com NVIDIA lanzó el 28/09/2026 OpenShell 0.1.0, un runtime open-source que limita qué sistemas, datos y credenciales puede usar un agente de IA sin tocar su código.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-01",
-      "url": "https://mercadosyseguros.com/nvidia-openshell-0-1-0-control-real-a-agentes-de-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Space Bunny: IA anónima con 1M de contexto disponible",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Space Bunny se publicó el 23/9/2026 en OpenRouter y OpenCode con contexto de 1.000.000 de tokens y salida de hasta 524.288 tokens. Estudios independientes ubican al…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-01",
-      "url": "https://mercadosyseguros.com/space-bunny-ia-anonima-con-1m-de-contexto-disponible/",
-      "imagen": ""
-    },
-    {
       "titulo": "Investigadores analizan sexo en robotaxis y posibles soluciones",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com En Love in Traffic (AutomotiveUI 2026) investigadores, entre ellos Pavlo Bazilinsky, analizaron la posibilidad de sexo en robotaxis tras hallar casi 300 videos…",
       "fuente": "Mercado y Seguros",
@@ -136,15 +163,6 @@
       "fecha": "2026-10-01",
       "url": "https://100seguro.com.ar/la-ia-entra-en-accion-las-insurtech-latinoamericanas-revelaron-sus-novedades-en-el-breaking-news-de-la-aip-en-itc-vegas-2026/",
       "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
-    },
-    {
-      "titulo": "Patentamientos de septiembre: las motos siguen en alza y los autos tuvieron un repunte intermensual",
-      "resumen": "Al igual que los meses anteriores, septiembre tuvo altas y bajas para el mercado automotor y de motovehículos en Argentina. En el caso de los autos, durante el octavo mes de 2026 se patentaron 49.814 vehículos, lo que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-01",
-      "url": "https://100seguro.com.ar/patentamientos-de-septiembre-las-motos-siguen-en-alza-y-los-autos-tuvieron-un-repunte-intermensual/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Patentamientos-de-autos-septiembre-2026-Resumen-del-mercado.png"
     },
     {
       "titulo": "RESOL-2026-431-APN-SSN#MEC – LINEAMIENTOS SEGUROS COLECTIVOS DE RETIRO DE RENTA VARIABLE VINCULADA A ACTIVOS",
@@ -198,24 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-10-01",
       "url": "https://elseguroenaccion.com.ar/resol-2026-422-apn-ssnmec-nfr-sociedad-de-productores-de-seguros-sociedad-por-acciones-simplificada-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-421-APN-SSN#MEC – VALENTINO Y PALOU SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.R.L. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-421-apn-ssnmec-valentino-y-palou-sociedad-de-productores-asesores-de-seguros-s-r-l-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-420-APN-SSN#MEC – ONDRO SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A.S. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-01",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-420-apn-ssnmec-ondro-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     }
   ]
