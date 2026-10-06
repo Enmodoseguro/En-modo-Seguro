@@ -1,7 +1,34 @@
 {
-  "actualizado": "2026-10-05T14:38-03:00",
+  "actualizado": "2026-10-06T12:36-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Hipotecario Seguros y Clickie sellan una alianza para transformar la experiencia del hogar",
+      "resumen": "La aseguradora da un paso concreto hacia su visión de plataforma del hogar: sus clientes pueden acceder a servicios de plomería, electricidad, gas y mantenimiento general de forma digital, coordinados por inteligencia…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/hipotecario-seguros-y-clickie-sellan-una-alianza-para-transformar-la-experiencia-del-hogar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Riesgos del Trabajo: Jujuy pone en marcha el Cuerpo de Peritos Médicos del Poder Judicial",
+      "resumen": "El nuevo cuerpo intervendrá en las causas laborales para fortalecer la calidad de las evaluaciones médicas y brindar mayor seguridad jurídica a trabajadores y empleadores, con criterios técnicos unificados. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/riesgos-del-trabajo-jujuy-pone-en-marcha-el-cuerpo-de-peritos-medicos-del-poder-judicial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rol del seguro y la prevención en el Congreso ORP 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 29 de septiembre, Guillermo Plate inauguró el XXVI Congreso Internacional ORP 2026 en Rosario y afirmó que la solvencia de las aseguradoras y el uso de tecnología…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-10-05",
+      "url": "https://mercadosyseguros.com/rol-del-seguro-y-la-prevencion-en-el-congreso-orp-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "ADIRA aprobó Memoria 2025/2026 y renovó autoridades",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADIRA aprobó la Memoria y Balance 2025/2026, ratificó a Diego Guaita como presidente y renovó su comisión directiva 2026/2027. El informe resalta avances en IBNR,…",
@@ -27,6 +54,33 @@
       "categoria": "Mercado",
       "fecha": "2026-10-05",
       "url": "https://mercadosyseguros.com/software-a-medida-pymes-presupuesto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros celebró sus 80 años con un espectáculo multitudinario y un impactante show de drones en Sunchales",
+      "resumen": "Alrededor de 7.000 personas participaron de una celebración única en la ciudad donde nació la compañía. Artistas de renombre nacional; un saludo especial del Presidente de la Nación, Javier Milei; uno de Lionel Messi y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-05",
+      "url": "https://100seguro.com.ar/sancor-seguros-celebro-sus-80-anos-con-un-espectaculo-multitudinario-y-un-impactante-show-de-drones-en-sunchales/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Vista-aerea.png"
+    },
+    {
+      "titulo": "Día del Camino y la Seguridad Vial: cómo trabajar junto con la tecnología para prevenir incidentes viales",
+      "resumen": "La tecnología es una aliada fundamental para anticipar situaciones de riesgo y tomar mejores decisiones al volante. La entrada Día del Camino y la Seguridad Vial: cómo trabajar junto con la tecnología para prevenir…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-05",
+      "url": "https://100seguro.com.ar/dia-del-camino-y-la-seguridad-vial-como-trabajar-junto-con-la-tecnologia-para-prevenir-incidentes-viales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "De Rosario a Las Vegas: La Segunda Seguros presentó UiFlou, la startup para la prevención de riesgos, en ITC Vegas",
+      "resumen": "Integrantes de La Segunda Seguros viajaron a ITC Vegas, la cumbre internacional que reúne a aseguradoras, startups y referentes tecnológicos de la industria, junto a UiFlou, una de las startups impulsadas por InnLab, el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-05",
+      "url": "https://100seguro.com.ar/de-rosario-a-las-vegas-la-segunda-seguros-presento-uiflou-la-startup-para-la-prevencion-de-riesgos-en-itc-vegas/",
       "imagen": ""
     },
     {
@@ -73,33 +127,6 @@
       "fecha": "2026-10-05",
       "url": "https://100seguro.com.ar/es-espanola-y-se-llama-tuio-hablamos-con-el-ceo-de-la-primera-app-de-seguros-integrada-nativamente-en-chatgpt/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Juan-Garcia-Tuio-2.jpeg"
-    },
-    {
-      "titulo": "La Segunda lleva a ITC su experiencia en innovación y busca escalar nuevos casos de uso",
-      "resumen": "Hugo Bellantig, gerente de Innovación y Procesos de La Segunda Seguros, participó por primera vez de ITC Vegas y destacó las oportunidades que encontró para aplicar inteligencia artificial en áreas como compliance,…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/la-segunda-lleva-a-itc-su-experiencia-en-innovacion-y-busca-escalar-nuevos-casos-de-uso/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-13.18.38.jpeg"
-    },
-    {
-      "titulo": "CNP Seguros y Mecubro cumplen tres años de alianza para ampliar el acceso a seguros entre los trabajadores independientes",
-      "resumen": "La aseguradora y la insurtech argentina celebran tres años de trabajo conjunto con una propuesta de Accidentes Personales por Día que combina flexibilidad, tecnología y accesibilidad para acompañar las nuevas formas de…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/cnp-seguros-y-mecubro-cumplen-tres-anos-de-alianza-para-ampliar-el-acceso-a-seguros-entre-los-trabajadores-independientes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El futuro de la cobranza en seguros: de un proceso operativo a una ventaja competitiva",
-      "resumen": "Por Santiago del Peral, CEO de Debi.- Durante mucho tiempo, la cobranza fue tratada en las aseguradoras como un proceso de retaguardia. Necesario, invisible, medido por su capacidad de no generar problemas. Un área que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/el-futuro-de-la-cobranza-en-seguros-de-un-proceso-operativo-a-una-ventaja-competitiva/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Santiago-del-Peral-DEBI-150x150.png"
     },
     {
       "titulo": "Hawk Insurance Broker se expande e invierte en el proyecto inmobiliario “PI Buenos Aires”",
@@ -183,39 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Sancor Seguros renovó sus autoridades para el ejercicio 2026/2027 junto al resto de las empresas del grupo",
-      "resumen": "El sábado 3 de octubre se realizó la 80ª Asamblea General Ordinaria de Sancor Cooperativa de Seguros Limitada. Durante el encuentro, que contó con la presencia de delegados representantes de los asociados de todo el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-04",
-      "url": "https://100seguro.com.ar/sancor-seguros-renovo-sus-autoridades-para-el-ejercicio-2026-2027-junto-al-resto-de-las-empresas-del-grupo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/PRESIDENTE-JOSE-SANCHEZ.jpg"
-    },
-    {
       "titulo": "Allianz Hogar renueva coberturas y asistencia en Argentina",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina renovó Allianz Hogar (disponible desde septiembre de 2026) con coberturas para nuevos electrodomésticos, paneles solares y tipos de construcción…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-10-03",
       "url": "https://mercadosyseguros.com/allianz-hogar-renueva-coberturas-y-asistencia-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Caja, main sponsor de Expo Auto Chino 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Caja será Main Sponsor de Expo Auto Chino 2026 (2-4 de octubre, BA Ferial) y presentó coberturas específicas para autos eléctricos, mientras el segmento…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-03",
-      "url": "https://mercadosyseguros.com/la-caja-main-sponsor-de-expo-auto-chino-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Benchmark: cómo la IA falla corrigiendo italiano",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El benchmark \"Would you ship this Italian?\" (29 pares) mostró que GPT-5.4 mini acertó 19/29 y GPT-5.4 nano marcó hasta un tercio de las correcciones correctas como…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-03",
-      "url": "https://mercadosyseguros.com/benchmark-como-la-ia-falla-corrigiendo-italiano/",
       "imagen": ""
     }
   ]
