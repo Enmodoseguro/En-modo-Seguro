@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-10-06T12:36-03:00",
+  "actualizado": "2026-10-07T12:56-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sancor Seguros y Messi: el error de confundir un homenaje con una vidriera",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El logo de Sancor Seguros apareció antes del homenaje con drones a Messi y provocó silbidos. Por qué conseguir atención no equivale a construir reputación. La entrada…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-07",
+      "url": "https://mercadosyseguros.com/sancor-seguros-messi-homenaje-publicidad-drones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El 60% de los líderes de IT en Argentina advierte que la IA avanza más rápido que las estrategias de negocio",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 60% de los líderes de IT en Argentina dice que la IA avanza más rápido que la estrategia. Claves del CIO Report 2026 de Logicalis para invertir con criterio La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-07",
+      "url": "https://mercadosyseguros.com/cio-report-2026-ia-estrategia-negocio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "TUIO trae a Argentina la venta directa a través de IA. ¿Qué rol juega el PAS?",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tuio ya vende seguros en ChatGPT y Mapfre lo trae a la región. ¿Qué lugar le reservan CIDeS y las aseguradoras al PAS en el negocio que viene? La entrada TUIO trae a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-07",
+      "url": "https://mercadosyseguros.com/tuio-cides-mapfre-pas-futuro-intermediacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El responsable global de seguros de OpenAI anticipa el poder de ChatGPT en el sector y su desembarco a Latinoamérica",
+      "resumen": "100% SEGURO participó de una charla privada organizada por Insurtech Brasil durante ITC Vegas, donde Tony Jacob, líder de seguros de OpenAI, analizó el momento que atraviesa la industria aseguradora frente a la…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-07",
+      "url": "https://100seguro.com.ar/el-responsable-global-de-seguros-de-openai-anticipa-el-poder-de-chatgpt-en-el-sector-y-su-desembarco-a-latinoamerica/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Tony-Jacob-charla.jpeg"
+    },
+    {
+      "titulo": "Cuando la plataforma sabe del siniestro antes que la aseguradora: el nuevo juego del seguro impulsado por datos",
+      "resumen": "PagBank y 99, una de las principales plataformas de movilidad de Brasil y parte de DiDi Global, mostraron en ITC LATAM cómo el acceso a datos en tiempo real está transformando la distribución, la retención y hasta la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-07",
+      "url": "https://100seguro.com.ar/cuando-la-plataforma-sabe-del-siniestro-antes-que-la-aseguradora-el-nuevo-juego-del-seguro-impulsado-por-datos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Repensando-la-experiencia-del-seguro-en-un-mundo-impulsado-por-los-datos-3.jpeg"
+    },
+    {
+      "titulo": "De la eficiencia a la transformación: las experiencias de una aseguradora y un broker en la implementación de IA",
+      "resumen": "Nationwide y Goosehead compartieron en ITC Vegas 2026 sus experiencias en la implementación de inteligencia artificial, desde la productividad y el desarrollo de software hasta la suscripción, la atención al cliente y…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-07",
+      "url": "https://100seguro.com.ar/de-la-eficiencia-a-la-transformacion-las-experiencias-de-una-aseguradora-y-un-broker-en-la-implementacion-de-ia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/292d43cf-cb7a-4e28-8920-7af518cb6b6e.jpeg"
+    },
+    {
+      "titulo": "MIA Hub lanza una plataforma global de networking para sus miembros en ITC Vegas 2026",
+      "resumen": "La nueva plataforma digital facilita la conexión entre miembros de todo el mundo, el descubrimiento de alianzas y soluciones insurtech y la construcción de relaciones más allá de las fronteras Miami Insurtech Advocates…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-07",
+      "url": "https://elseguroenaccion.com.ar/mia-hub-lanza-una-plataforma-global-de-networking-para-sus-miembros-en-itc-vegas-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "PRONACIB: nuevo programa nacional contra la ciberdelincuencia",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Ministerio de Justicia creó el PRONACIB por Resolución 483/2026 (25/09/2026) para coordinar la prevención e investigación de ciberdelitos, incluyendo activos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-10-06",
+      "url": "https://mercadosyseguros.com/pronacib-nuevo-programa-nacional-contra-la-ciberdelincuencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "INVITA: vehículo financiero para invertir en turismo argentino",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allaria, Grupo Almarena y Sancor Seguros lanzaron INVITA, un vehículo financiero que planea invertir 150 millones de dólares en proyectos hoteleros junto a Meliá…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://mercadosyseguros.com/invita-vehiculo-financiero-para-invertir-en-turismo-argentino/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Conciencia Ambiental: Sancor Seguros impulsa siete proyectos verdes",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Sancor Seguros anunció el 5 de junio la inversión directa en 7 proyectos seleccionados de 136 incubados por Sancor Seguros Impulsa, destacando Agrojusto,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://mercadosyseguros.com/conciencia-ambiental-sancor-seguros-impulsa-siete-proyectos-verdes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz Hogar: nuevas coberturas y asistencia ampliada",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina actualizó Allianz Hogar: amplió coberturas para electrodomésticos y viviendas (incluye Container, Adobe y paneles solares), simplificó cierres para…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://mercadosyseguros.com/allianz-hogar-nuevas-coberturas-y-asistencia-ampliada/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La IA llega al sector automotor: de la cotización de repuestos a la posventa",
+      "resumen": "El negocio automotor tiene mucho trabajo manual detrás del mostrador: cotizar repuestos, responder a aseguradoras, dar turnos de taller, seguir cobros. Los agentes de IA empiezan a hacerse cargo de esas tareas y el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/la-ia-llega-al-sector-automotor-de-la-cotizacion-de-repuestos-a-la-posventa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Crawford expande su experiencia técnica en Argentina",
+      "resumen": "La incorporación de IBA Latinoamérica reúne décadas de experiencia local con las capacidades globales de Crawford, fortaleciendo el apoyo que brinda a sus clientes en Argentina y el Cono Sur. La entrada Crawford expande…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/crawford-expande-su-experiencia-tecnica-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Esta semana llega el Foro Nacional del Seguro NEA 2026",
+      "resumen": "El próximo jueves 8 de octubre, Resistencia será sede de una jornada que reunirá a referentes del seguro, la economía y la prevención, con la presencia del Superintendente de Seguros de la Nación. El foro ya cuenta con…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/esta-semana-llega-el-foro-nacional-del-seguro-nea-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Innovación e investigación argentina en el escenario global: CESVI Argentina participó de RCAR 2026",
+      "resumen": "En Ciudad de México, Marcelo Aiello y Diego Li Gotti expusieron ante referentes internacionales una solución de inteligencia artificial para la estimación de daños vehiculares y compartieron un análisis sobre el avance…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/innovacion-e-investigacion-argentina-en-el-escenario-global-cesvi-argentina-participo-de-rcar-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/179072271571.jpg"
+    },
+    {
+      "titulo": "Mapfre analiza el futuro de la distribución aseguradora en ITC Vegas 2026",
+      "resumen": "Expertos de Mapfre abordaron la transformación de los seguros embebidos, la creciente relevancia de nuevas interfaces digitales y el impacto de los agentes de IA en los procesos de decisión y contratación. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-06",
+      "url": "https://100seguro.com.ar/mapfre-analiza-el-futuro-de-la-distribucion-aseguradora-en-itc-vegas-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Leyre-Jimenez-1024x768-1.jpg"
+    },
     {
       "titulo": "Hipotecario Seguros y Clickie sellan una alianza para transformar la experiencia del hogar",
       "resumen": "La aseguradora da un paso concreto hacia su visión de plataforma del hogar: sus clientes pueden acceder a servicios de plomería, electricidad, gas y mantenimiento general de forma digital, coordinados por inteligencia…",
@@ -18,6 +162,15 @@
       "categoria": "Regulación",
       "fecha": "2026-10-06",
       "url": "https://100seguro.com.ar/riesgos-del-trabajo-jujuy-pone-en-marcha-el-cuerpo-de-peritos-medicos-del-poder-judicial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SANCOR SEGUROS celebró sus 80 años con un espectáculo multitudinario y un impactante show de drones en Sunchales",
+      "resumen": "Alrededor de 7000 personas participaron de una celebración única en la ciudad donde nació la compañía. Artistas de renombre nacional; un saludo especial del Presidente de la Nación, Javier Milei; uno de Lionel Messi y…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-06",
+      "url": "https://elseguroenaccion.com.ar/sancor-seguros-celebro-sus-80-anos-con-un-espectaculo-multitudinario-y-un-impactante-show-de-drones-en-sunchales/",
       "imagen": ""
     },
     {
@@ -48,87 +201,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Se terminó la era de pagar fortunas por software",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El presupuesto millonario para software a medida es un mito. Por qué la optimización de procesos es hoy la mejor defensa —y el mejor ROI— para una PYME. La entrada Se…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-05",
-      "url": "https://mercadosyseguros.com/software-a-medida-pymes-presupuesto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros celebró sus 80 años con un espectáculo multitudinario y un impactante show de drones en Sunchales",
-      "resumen": "Alrededor de 7.000 personas participaron de una celebración única en la ciudad donde nació la compañía. Artistas de renombre nacional; un saludo especial del Presidente de la Nación, Javier Milei; uno de Lionel Messi y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/sancor-seguros-celebro-sus-80-anos-con-un-espectaculo-multitudinario-y-un-impactante-show-de-drones-en-sunchales/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Vista-aerea.png"
-    },
-    {
-      "titulo": "Día del Camino y la Seguridad Vial: cómo trabajar junto con la tecnología para prevenir incidentes viales",
-      "resumen": "La tecnología es una aliada fundamental para anticipar situaciones de riesgo y tomar mejores decisiones al volante. La entrada Día del Camino y la Seguridad Vial: cómo trabajar junto con la tecnología para prevenir…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/dia-del-camino-y-la-seguridad-vial-como-trabajar-junto-con-la-tecnologia-para-prevenir-incidentes-viales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De Rosario a Las Vegas: La Segunda Seguros presentó UiFlou, la startup para la prevención de riesgos, en ITC Vegas",
-      "resumen": "Integrantes de La Segunda Seguros viajaron a ITC Vegas, la cumbre internacional que reúne a aseguradoras, startups y referentes tecnológicos de la industria, junto a UiFlou, una de las startups impulsadas por InnLab, el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/de-rosario-a-las-vegas-la-segunda-seguros-presento-uiflou-la-startup-para-la-prevencion-de-riesgos-en-itc-vegas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De la indemnización a la prevención de daños en el hogar: cómo las aseguradoras pueden convertirse en actores activos para reducir riesgos",
-      "resumen": "En ITC Vegas 2026, Jonathan Scott, estrella en la TV norteamericana y una de las figuras más reconocidas mundialmente en transformación del hogar, analizó cómo la tecnología está cambiando la manera de construir,…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/de-la-indemnizacion-a-la-prevencion-de-danos-en-el-hogar-como-las-aseguradoras-pueden-convertirse-en-actores-activos-para-reducir-riesgos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Jonathan-Scott-Rich-DeMuro.jpeg"
-    },
-    {
-      "titulo": "“La próxima era de los seguros de salud es IA nativa”: cómo la inteligencia artificial busca transformar costos, cobertura y experiencia",
-      "resumen": "Ty Wang, CEO y cofundador de Angle Health, analizó en ITC Vegas 2026 cómo la inteligencia artificial puede transformar de punta a punta el seguro de salud, desde la suscripción y el pricing hasta los siniestros, la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/la-proxima-era-de-los-seguros-de-salud-es-ia-nativa-como-la-inteligencia-artificial-busca-transformar-costos-cobertura-y-experiencia/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Ty-Wang-Naama-Pozniak-ITC.jpeg"
-    },
-    {
-      "titulo": "Prevención 4.0 de la SRT: avances y experiencias en el Congreso Internacional ORP 2026",
-      "resumen": "La SRT presentó en Rosario su ecosistema de innovación tecnológica para la prevención de riesgos laborales, en un encuentro organizado por la Fundación ORP de España y La Segunda Seguros. La entrada Prevención 4.0 de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/prevencion-4-0-de-la-srt-avances-y-experiencias-en-el-congreso-internacional-orp-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El líder de seguros de Anthropic, creadora de Claude, mostró cómo construir agentes de IA en los que una aseguradora pueda confiar",
-      "resumen": "En una masterclass, Tom Deaney, líder de IA aplicada a Seguros de Anthropic, propietaria de Claude, mostró cómo construir y evaluar un agente de IA para la gestión de siniestros. Más allá de la tecnología, el foco…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/el-lider-de-seguros-de-anthropic-creadora-de-claude-mostro-como-construir-agentes-de-ia-en-los-que-una-aseguradora-pueda-confiar/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Tom-Deaney-2.jpeg"
-    },
-    {
-      "titulo": "Es española y se llama Tuio: hablamos con el CEO de la primera aplicación de seguros integrada nativamente en ChatGPT",
-      "resumen": "En diálogo con 100% SEGURO durante ITC Vegas 2026, Juan García, CEO y cofundador de la insurtech española Tuio, explicó cómo la compañía está utilizando inteligencia artificial para transformar la experiencia…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://100seguro.com.ar/es-espanola-y-se-llama-tuio-hablamos-con-el-ceo-de-la-primera-app-de-seguros-integrada-nativamente-en-chatgpt/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Juan-Garcia-Tuio-2.jpeg"
-    },
-    {
       "titulo": "Hawk Insurance Broker se expande e invierte en el proyecto inmobiliario “PI Buenos Aires”",
       "resumen": "La compañía consolida su crecimiento y visión tecnológica al adquirir la primera oficina de “PI Buenos Aires”, el innovador megaproyecto de US$ 100 millones que impulsan el Grupo Sancor Seguros y la desarrolladora HIT…",
       "fuente": "Informe Operadores",
@@ -145,78 +217,6 @@
       "fecha": "2026-10-05",
       "url": "https://www.informeoperadores.com.ar/2026/10/05/mas-de-20-familias-participaron-de-una-experiencia-para-fortalecer-la-continuidad-de-sus-empresas-a-traves-del-dialogo-entre-generaciones/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/foto-EF-600x400.jpeg"
-    },
-    {
-      "titulo": "Más de 80 mil motos patentadas en septiembre: suba interanual del 35,42%",
-      "resumen": "En septiembre se registraron 80.641 unidades. Entre enero y septiembre, el mercado acumuló más de 670.000 patentamientos. CAFAM (Cámara de Fabricantes de Motovehículos) informa 80.641 patentamientos de motos en…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-05",
-      "url": "https://www.informeoperadores.com.ar/2026/10/05/mas-de-80-mil-motos-patentadas-en-septiembre-suba-interanual-del-3542/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Infografia-Patentamientos-Septiembre-2026-216x600.png"
-    },
-    {
-      "titulo": "La IA entra en acción: las insurtech latinoamericanas revelan sus novedades en el Breaking News de la AIP en ITC Vegas 2026",
-      "resumen": "Las Vegas, Octubre de 2026. La Alianza Insurtech Panamericana (AIP) presentó los principales anuncios de aseguradoras, insurtechs e inversores de América Latina en su espacio de Breaking News, realizado en ITC Vegas…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-10-05",
-      "url": "https://www.informeoperadores.com.ar/2026/10/05/la-ia-entra-en-accion-las-insurtech-latinoamericanas-revelan-sus-novedades-en-el-breaking-news-de-la-aip-en-itc-vegas-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/foto-aip-itc-vegas-600x400.jpeg"
-    },
-    {
-      "titulo": "Sancor Seguros renueva autoridades para el ciclo 2026/2027 en su 80ª Asamblea General Ordinaria",
-      "resumen": "El 3 de octubre, Sancor Seguros celebró su 80ª Asamblea General Ordinaria, donde se procedió a la renovación de autoridades para el ejercicio 2026/2027. Este importante evento se llevó a cabo en un contexto en el que la…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-05",
-      "url": "https://nbs.ar/sancor-seguros-renueva-autoridades-para-el-ciclo-2026-2027-en-su-80a-asamblea-general-ordinaria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Audiencia en Diputados sobre seguros: exposiciones y cronograma",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 29 de septiembre, en Diputados y presidida por Juan Fernando Brügge, representantes de AAPAS, FIDESEG y AIDA expusieron sobre la situación del mercado asegurador.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-04",
-      "url": "https://mercadosyseguros.com/audiencia-en-diputados-sobre-seguros-exposiciones-y-cronograma/",
-      "imagen": ""
-    },
-    {
-      "titulo": "MediMapfre: seguro por cirugías y trasplantes con cobertura hasta $5 millones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mapfre relanzó MediMapfre con indemnizaciones directas por cirugías y trasplantes desde $1.000.000 hasta $5.000.000 y opciones sin declaración de salud hasta…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-04",
-      "url": "https://mercadosyseguros.com/medimapfre-seguro-por-cirugias-y-trasplantes-con-cobertura-hasta-5-millones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Concientización y prevención en seguros: palabras de Gustavo Trías",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, afirmó en una entrevista que la educación vial, la prevención de siniestros y la lucha contra el fraude son esenciales para la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-04",
-      "url": "https://mercadosyseguros.com/concientizacion-y-prevencion-en-seguros-palabras-de-gustavo-trias/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros invierte en 7 proyectos ambientales y sociales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Sancor Seguros invirtió en siete proyectos de Sancor Seguros Impulsa entre 136 incubados, destacando Agrojusto, Reaquila y WorkOn, dentro de su estrategia de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-04",
-      "url": "https://mercadosyseguros.com/sancor-seguros-invierte-en-7-proyectos-ambientales-y-sociales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Allianz Hogar renueva coberturas y asistencia en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz Argentina renovó Allianz Hogar (disponible desde septiembre de 2026) con coberturas para nuevos electrodomésticos, paneles solares y tipos de construcción…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-03",
-      "url": "https://mercadosyseguros.com/allianz-hogar-renueva-coberturas-y-asistencia-en-argentina/",
-      "imagen": ""
     }
   ]
 }
