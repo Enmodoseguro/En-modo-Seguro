@@ -1,7 +1,133 @@
 {
-  "actualizado": "2026-10-08T12:59-03:00",
+  "actualizado": "2026-10-09T12:41-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "De la caución al seguro de personas: oportunidades para crecer",
+      "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos segmentos con fuerte potencial de crecimiento para el mercado asegurador: el seguro de caución dentro de los seguros generales, y los seguros de vida, retiro y salud…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://100seguro.com.ar/de-la-caucion-al-seguro-de-personas-oportunidades-para-crecer/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros: cuando la cercanía al poder alimenta la ilusión de estar por encima de todos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El papelón en la despedida de Messi expone algo más profundo que un error de marketing: cuando una empresa confunde su cercanía al poder con el derecho a ocuparlo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://mercadosyseguros.com/sancor-seguros-poder-messi-reputacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Suprema Corte de Buenos Aires anula multa a Experta ART",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Suprema Corte bonaerense anuló la multa por temeridad impuesta a Experta ART en la causa L.131.893, al considerar que la sanción estaba fundada en un “razonamiento…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://mercadosyseguros.com/suprema-corte-de-buenos-aires-anula-multa-a-experta-art/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN extiende plazos técnicos para balances hasta 30/6/2027",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN prorrogó hasta el 30 de junio de 2027 los esquemas transitorios aplicables a balances cerrados al 30/9/2026, incluyendo la reducción temporal del coeficiente…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-10-08",
+      "url": "https://mercadosyseguros.com/ssn-extiende-plazos-tecnicos-para-balances-hasta-30-6-2027/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FISO anuncia dos charlas online sobre cultura preventiva en octubre",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FISO ofrecerá dos conferencias online en octubre: \"Liderazgo en cultura preventiva\" el 7/10 a las 10:00 con Patricia Kuzis y \"Beneficios de la inversión en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://mercadosyseguros.com/fiso-anuncia-dos-charlas-online-sobre-cultura-preventiva-en-octubre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Foro Regional de Seguros del NEA: Resistencia 8 de octubre",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 8 de octubre de 2026 Resistencia será sede del Foro Regional de Seguros del NEA, organizado por FAPASA y las APAS de Chaco, Corrientes, Formosa y Misiones. Claudio…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://mercadosyseguros.com/foro-regional-de-seguros-del-nea-resistencia-8-de-octubre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El fenómeno de “El Niño”: la prevención gana relevancia frente a eventos climáticos extremos",
+      "resumen": "Con una probabilidad del 100% de continuidad de El Niño durante el trimestre, según el Servicio Meteorológico Nacional, y pérdidas anuales de más de 1.400 millones de dólares en infraestructura, la prevención cobra un…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/el-fenomeno-de-el-nino-la-prevencion-gana-relevancia-frente-a-eventos-climaticos-extremos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“Decidimos ser parte del Parque de Innovación pensando en una relación de largo plazo y en una visión compartida sobre cómo seguir creciendo”",
+      "resumen": "Hawk Group fue el primer comprador de oficinas dentro del proyecto de USD 100 millones que el Grupo Sancor Seguros desarrolla junto a HIT en el Parque de Innovación de la Ciudad de Buenos Aires. Sebastián Larrea, CEO de…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/decidimos-ser-parte-del-parque-de-innovacion-pensando-en-una-relacion-de-largo-plazo-y-en-una-vision-compartida-sobre-como-seguir-creciendo/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Hawk-PI.jpg"
+    },
+    {
+      "titulo": "BBVA Research: exportaciones, inversión y desinflación, las claves de la economía argentina hacia 2027",
+      "resumen": "El último informe Situación Argentina, elaborado por BBVA Research, señala que este año Argentina se encamina a lograr un récord histórico de exportaciones de 102 mil millones de dólares. El principal impulso proviene…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/bbva-research-exportaciones-inversion-y-desinflacion-las-claves-de-la-economia-argentina-hacia-2027/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Perseverancia Seguros celebra 121 años de trayectoria en el mercado asegurador",
+      "resumen": "Fundada en 1905 en la ciudad de Tres Arroyos, la compañía conmemora un nuevo aniversario destacando la evolución constante de sus procesos y la expansión de su red comercial a nivel nacional. La entrada La Perseverancia…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/la-perseverancia-seguros-celebra-121-anos-de-trayectoria-en-el-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo Gaman fue reconocido por su excelencia en Gestión Integral de Riesgos",
+      "resumen": "El reconocimiento se entregó en la Bolsa de Comercio de Buenos Aires, como parte de la gala que distingue a las organizaciones y personalidades que se destacaron en la actividad económica en distintos rubros. Grupo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/grupo-gaman-fue-reconocido-por-su-excelencia-en-gestion-integral-de-riesgos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Grupo-Gaman-fue-reconocido-por-su-excelencia-en-Gestion-Integral-de-Riesgos-1.png"
+    },
+    {
+      "titulo": "IA en seguros: solo una de cada cuatro aseguradoras está preparada para la próxima ola de autonomía",
+      "resumen": "La primera edición del \"Sapiens Insurance AI Maturity Index\", elaborado por Research in Finance para Sapiens a partir de una encuesta a 475 ejecutivos y usuarios empresariales, revela que el 87% considera importante la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/ia-en-seguros-solo-una-de-cada-cuatro-aseguradoras-esta-preparada-para-la-proxima-ola-de-autonomia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Motos de uso urbano: esta es la frecuencia ideal para revisar frenos y transmisión",
+      "resumen": "El uso diario expone a las motos a un desgaste constante, pero no todos los componentes se deterioran al mismo ritmo. Dos de los que más rápido acusan el trote urbano (paradas, arranques, lluvia y kilometraje acumulado)…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/motos-de-uso-urbano-esta-es-la-frecuencia-ideal-para-revisar-frenos-y-transmision/",
+      "imagen": ""
+    },
+    {
+      "titulo": "América Latina, entre las regiones con mayor crecimiento de tráfico fraudulento: estudio reporta un alza de más de 50% en un año",
+      "resumen": "Mientras los ciberdelincuentes usan inteligencia artificial para escalar y personalizar sus ataques, un nuevo informe de Infobip revela que las empresas de la región están respondiendo con defensas cada vez más…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-08",
+      "url": "https://100seguro.com.ar/america-latina-entre-las-regiones-con-mayor-crecimiento-de-trafico-fraudulento-estudio-reporta-un-alza-de-mas-de-50-en-un-ano/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/infografia1.png"
+    },
     {
       "titulo": "IA agéntica: por qué modernizar el core de seguros ya no alcanza",
       "resumen": "Un artículo de McKinsey analiza cómo la irrupción de la IA agéntica está modificando la ecuación de modernización de las aseguradoras. Un socio de la consultora conversó con tres ejecutivos de Guidewire, Bessemer…",
@@ -9,15 +135,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-08",
       "url": "https://100seguro.com.ar/ia-agentica-por-que-modernizar-el-core-de-seguros-ya-no-alcanza/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Megaproyecto: La Segunda Seguros y Fundar se unen para transformar más de 25.000 m² urbanos",
-      "resumen": "La alianza entre las dos compañías de amplia trayectoria dará lugar a una propuesta de vivienda y usos mixtos de más de 25.000 m², concebida a partir de la integración entre arquitectura, naturaleza y vida urbana. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/megaproyecto-la-segunda-seguros-y-fundar-se-unen-para-transformar-mas-de-25-000-m%c2%b2-urbanos/",
       "imagen": ""
     },
     {
@@ -100,123 +217,6 @@
       "fecha": "2026-10-08",
       "url": "https://elseguroenaccion.com.ar/los-productores-de-segurosexpusieron-en-el-congreso-de-lanacion-las-cifras-de-una-actividadclave-para-la-economia-argentina/",
       "imagen": ""
-    },
-    {
-      "titulo": "Duplicar la producción: la estrategia de Geronimo Fresco para Galicia Seguros",
-      "resumen": "Gerónimo Fresco, CEO de Galicia Seguros, cuenta los desafíos de este año y medio al frente de la compañía: el objetivo de duplicar el volumen de producción hacia 2030, la apuesta por fortalecer el canal de productores,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/duplicar-la-produccion-la-estrategia-de-geronimo-fresco-para-galicia-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El ICBC avanza con el fondeo para los créditos hipotecarios",
-      "resumen": "El banco participó de la licitación del FGS y lanzó emisiones de obligaciones negociables para conseguir financiamiento que les permita completar la oferta de préstamos para vivienda. El banco ICBC fue uno de los que…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://nbs.ar/el-icbc-avanza-con-el-fondeo-para-los-creditos-hipotecarios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ITC Vegas 2026: insurtechs latinas presentan agentes de IA en producción",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En ITC Vegas 2026 la Alianza Insurtech Panamericana presentó 16 anuncios centrados en agentes de IA en producción para venta, cobranza y siniestros. Destacan mejoras…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/itc-vegas-2026-insurtechs-latinas-presentan-agentes-de-ia-en-produccion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y velocidad: la nueva estrategia del sector de seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un estudio a 72 ejecutivos del mercado asegurador argentino (26/09/2026) señaló que 57% prioriza datos, inteligencia artificial y analítica; 47% espera crecimiento en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/ia-y-velocidad-la-nueva-estrategia-del-sector-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros automotor: menos choques y reparaciones más caras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de Lombard Odier proyecta que la adopción de vehículos autónomos reducirá la frecuencia de siniestros hasta 80% en EE. UU. hacia 2040, mientras las…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/seguros-automotor-menos-choques-y-reparaciones-mas-caras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Segundo turno 2026: más de 2.500 evaluados para Productor Asesor",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Entre el 18/8 y el 25/9/2026 rindieron 1.521 aspirantes y 1.048 PAS en el segundo turno, 2.569 evaluados en total. La SSN, el Ente Cooperador Ley 22.400 y FAPASA…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/segundo-turno-2026-mas-de-2-500-evaluados-para-productor-asesor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros y Messi: el error de confundir un homenaje con una vidriera",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El logo de Sancor Seguros apareció antes del homenaje con drones a Messi y provocó silbidos. Por qué conseguir atención no equivale a construir reputación. La entrada…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/sancor-seguros-messi-homenaje-publicidad-drones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El 60% de los líderes de IT en Argentina advierte que la IA avanza más rápido que las estrategias de negocio",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 60% de los líderes de IT en Argentina dice que la IA avanza más rápido que la estrategia. Claves del CIO Report 2026 de Logicalis para invertir con criterio La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/cio-report-2026-ia-estrategia-negocio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "TUIO trae a Argentina la venta directa a través de IA. ¿Qué rol juega el PAS?",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Tuio ya vende seguros en ChatGPT y Mapfre lo trae a la región. ¿Qué lugar le reservan CIDeS y las aseguradoras al PAS en el negocio que viene? La entrada TUIO trae a…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://mercadosyseguros.com/tuio-cides-mapfre-pas-futuro-intermediacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros reafirma su compromiso con la educación a través del programa de becas DELF-DALF",
-      "resumen": "CNP Seguros participó de un encuentro con becarios y exbecarios del programa de becas DELF-DALF, realizado el 22 de septiembre en la Embajada de Francia, para compartir los avances de una iniciativa organizada por el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://100seguro.com.ar/cnp-seguros-reafirma-su-compromiso-con-la-educacion-a-traves-del-programa-de-becas-delf-dalf/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La intención de protegerse ya existe, pero el reto es convertirla en acción, según revela un estudio de MetLife",
-      "resumen": "El estudio identifica dos brechas entre querer protegerse y hacerlo: conectar las soluciones con aquello que realmente importa y facilitar su acceso. El 53% ahorra activamente y el 51% evita riesgos para protegerse…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://100seguro.com.ar/la-intencion-de-protegerse-ya-existe-pero-el-reto-es-convertirla-en-accion-segun-revela-un-estudio-de-metlife/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El responsable global de seguros de OpenAI anticipa el poder de ChatGPT en el sector y su desembarco a Latinoamérica",
-      "resumen": "100% SEGURO participó de una charla privada organizada por Insurtech Brasil durante ITC Vegas, donde Tony Jacob, líder de seguros de OpenAI, analizó el momento que atraviesa la industria aseguradora frente a la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-07",
-      "url": "https://100seguro.com.ar/el-responsable-global-de-seguros-de-openai-anticipa-el-poder-de-chatgpt-en-el-sector-y-su-desembarco-a-latinoamerica/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Tony-Jacob-charla.jpeg"
-    },
-    {
-      "titulo": "Cuando la plataforma sabe del siniestro antes que la aseguradora: el nuevo juego del seguro impulsado por datos",
-      "resumen": "PagBank y 99, una de las principales plataformas de movilidad de Brasil y parte de DiDi Global, mostraron en ITC LATAM cómo el acceso a datos en tiempo real está transformando la distribución, la retención y hasta la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-07",
-      "url": "https://100seguro.com.ar/cuando-la-plataforma-sabe-del-siniestro-antes-que-la-aseguradora-el-nuevo-juego-del-seguro-impulsado-por-datos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Repensando-la-experiencia-del-seguro-en-un-mundo-impulsado-por-los-datos-3.jpeg"
     }
   ]
 }
