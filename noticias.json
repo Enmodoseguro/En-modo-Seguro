@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-10-09T12:41-03:00",
+  "actualizado": "2026-10-10T11:56-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "La SSN levantó la prohibición de emitir nuevos contratos de seguros a Libra Seguros.",
+      "resumen": "Mediante la resolución 442/2026, la Superintendencia de Seguros de la Nación (SSN) dispuso el levantamiento de la medida cautelar de prohibición de celebrar nuevos contratos de seguro impuesta a Libra Compañía Argentina…",
+      "fuente": "Informe Operadores",
+      "categoria": "Regulación",
+      "fecha": "2026-10-10",
+      "url": "https://www.informeoperadores.com.ar/2026/10/10/la-ssn-levanto-la-prohibicion-de-emitir-nuevos-contratos-de-seguros-a-libra-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jornada sobre “Seguros y Proceso Judicial: cobertura, responsabilidad y nuevos desafíos”. Un debate clave para el sector asegurador.",
+      "resumen": "En un contexto donde la relación entre la actividad aseguradora y los procesos judiciales adquiere una relevancia crítica para la economía nacional, la Asociación de Aseguradores Argentinos (ADEAA) y el Superior…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-10",
+      "url": "https://www.informeoperadores.com.ar/2026/10/10/jornada-sobre-seguros-y-proceso-judicial-cobertura-responsabilidad-y-nuevos-desafios-un-debate-clave-para-el-sector-asegurador/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/image005.jpg"
+    },
+    {
+      "titulo": "IA acapara US$1.550 M en financiación a insurtechs en 1T2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En 1T2026, las insurtechs centradas en inteligencia artificial concentraron US$1.550 millones de los US$1.630 millones invertidos en el sector, según el Índice WIR.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-10-09",
+      "url": "https://mercadosyseguros.com/ia-acapara-us1-550-m-en-financiacion-a-insurtechs-en-1t2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA reduce carga operativa en reaseguros, según Mea Platform",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Martin Henley, CEO de Mea Platform, afirmó en Rendez-Vous de Septembre que la IA ayuda a reducir tareas administrativas y mejorar la calidad de datos en reaseguro,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://mercadosyseguros.com/ia-reduce-carga-operativa-en-reaseguros-segun-mea-platform/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aseguradoras como inversores institucionales en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, afirmó que las aseguradoras actúan como grandes generadores de ahorro e inversores de largo plazo y pidió instrumentos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://mercadosyseguros.com/aseguradoras-como-inversores-institucionales-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros: 80 años celebrados con 7.000 asistentes en Sunchales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros conmemoró su 80° aniversario en Sunchales con un evento el 2025 en su predio corporativo que reunió a casi 7.000 personas, contó con shows de Jorge…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://mercadosyseguros.com/sancor-seguros-80-anos-celebrados-con-7-000-asistentes-en-sunchales/",
+      "imagen": ""
+    },
     {
       "titulo": "De la caución al seguro de personas: oportunidades para crecer",
       "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos segmentos con fuerte potencial de crecimiento para el mercado asegurador: el seguro de caución dentro de los seguros generales, y los seguros de vida, retiro y salud…",
@@ -9,6 +63,60 @@
       "categoria": "Mercado",
       "fecha": "2026-10-09",
       "url": "https://100seguro.com.ar/de-la-caucion-al-seguro-de-personas-oportunidades-para-crecer/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Adopción de IA en equipos de tecnología: webinar regional impulsado por bdt global, la AACH y la Escuela de Seguros de Chile",
+      "resumen": "El próximo 20 de octubre a las 10 horas se realizará “Adopción de IA en equipos de tecnología: del potencial a la práctica en seguros”, un encuentro online orientado a la industria aseguradora de la región. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-09",
+      "url": "https://100seguro.com.ar/adopcion-de-ia-en-equipos-de-tecnologia-webinar-regional-impulsado-por-bdt-global-la-aach-y-la-escuela-de-seguros-de-chile/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CNP Seguros y la oportunidad excepcional que tiene hoy el seguro de vida con ahorro",
+      "resumen": "CNP Seguros llevó adelante el martes 6 de octubre un evento exclusivo junto a referentes del sistema financiero, con el objetivo de analizar las oportunidades que presenta el mercado de Vida con Ahorro y Capitalización…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://100seguro.com.ar/cnp-seguros-y-la-oportunidad-excepcional-que-tiene-hoy-el-seguro-de-vida-con-ahorro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El punto ciego de las PyMEs: casi el 20% no tiene seguro",
+      "resumen": "Aunque el 84% considera que los seguros son una inversión clave para la estabilidad financiera, la falta de ingresos y la dificultad para encontrar una opción adecuada aparecen entre las principales barreras para…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://100seguro.com.ar/el-punto-ciego-de-las-pymes-casi-el-20-no-tiene-seguro/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/PyMEs-Seguros-pic-2.png"
+    },
+    {
+      "titulo": "El Norte Seguros participó del Foro Nacional del Seguro NEA 2026",
+      "resumen": "La compañía formó parte de uno de los principales encuentros del sector asegurador de la región, que reunió a referentes de la industria, productores asesores, especialistas y representantes institucionales para debatir…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://100seguro.com.ar/el-norte-seguros-participo-del-foro-nacional-del-seguro-nea-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jornada “Seguros y Proceso Judicial: cobertura, responsabilidad y nuevos desafíos”, un debate clave para el sector asegurador",
+      "resumen": "En un contexto donde la relación entre la actividad aseguradora y los procesos judiciales adquiere una relevancia crítica para la economía nacional, la Asociación de Aseguradores Argentinos (ADEAA) y el Superior…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-09",
+      "url": "https://100seguro.com.ar/jornada-sobre-seguros-y-proceso-judicial-cobertura-responsabilidad-y-nuevos-desafios-un-debate-clave-para-el-sector-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Plate-y-diputada-provincial.png"
+    },
+    {
+      "titulo": "La SSN levantó la prohibición y Libra Seguros vuelve a emitir pólizas, pero sigue con sus bienes inhibidos",
+      "resumen": "La Superintendencia de Seguros de la Nación consideró que ya no subsisten los motivos que impedían a la aseguradora celebrar nuevos contratos. La inhibición general de bienes, en cambio, se mantiene, y los estados…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-09",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-levanto-la-prohibicion-y-libra-seguros-vuelve-a-emitir-polizas-pero-sigue-con-sus-bienes-inhibidos/",
       "imagen": ""
     },
     {
@@ -93,51 +201,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Grupo Gaman fue reconocido por su excelencia en Gestión Integral de Riesgos",
-      "resumen": "El reconocimiento se entregó en la Bolsa de Comercio de Buenos Aires, como parte de la gala que distingue a las organizaciones y personalidades que se destacaron en la actividad económica en distintos rubros. Grupo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/grupo-gaman-fue-reconocido-por-su-excelencia-en-gestion-integral-de-riesgos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Grupo-Gaman-fue-reconocido-por-su-excelencia-en-Gestion-Integral-de-Riesgos-1.png"
-    },
-    {
-      "titulo": "IA en seguros: solo una de cada cuatro aseguradoras está preparada para la próxima ola de autonomía",
-      "resumen": "La primera edición del \"Sapiens Insurance AI Maturity Index\", elaborado por Research in Finance para Sapiens a partir de una encuesta a 475 ejecutivos y usuarios empresariales, revela que el 87% considera importante la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/ia-en-seguros-solo-una-de-cada-cuatro-aseguradoras-esta-preparada-para-la-proxima-ola-de-autonomia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Motos de uso urbano: esta es la frecuencia ideal para revisar frenos y transmisión",
-      "resumen": "El uso diario expone a las motos a un desgaste constante, pero no todos los componentes se deterioran al mismo ritmo. Dos de los que más rápido acusan el trote urbano (paradas, arranques, lluvia y kilometraje acumulado)…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/motos-de-uso-urbano-esta-es-la-frecuencia-ideal-para-revisar-frenos-y-transmision/",
-      "imagen": ""
-    },
-    {
-      "titulo": "América Latina, entre las regiones con mayor crecimiento de tráfico fraudulento: estudio reporta un alza de más de 50% en un año",
-      "resumen": "Mientras los ciberdelincuentes usan inteligencia artificial para escalar y personalizar sus ataques, un nuevo informe de Infobip revela que las empresas de la región están respondiendo con defensas cada vez más…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/america-latina-entre-las-regiones-con-mayor-crecimiento-de-trafico-fraudulento-estudio-reporta-un-alza-de-mas-de-50-en-un-ano/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/infografia1.png"
-    },
-    {
-      "titulo": "IA agéntica: por qué modernizar el core de seguros ya no alcanza",
-      "resumen": "Un artículo de McKinsey analiza cómo la irrupción de la IA agéntica está modificando la ecuación de modernización de las aseguradoras. Un socio de la consultora conversó con tres ejecutivos de Guidewire, Bessemer…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/ia-agentica-por-que-modernizar-el-core-de-seguros-ya-no-alcanza/",
-      "imagen": ""
-    },
-    {
       "titulo": "La SSN actualiza el régimen de seguros para el transporte de pasajeros",
       "resumen": "La medida reorganiza las subramas de esta actividad y dispone que las nuevas contrataciones y renovaciones se regirán por el nuevo esquema a partir del 1° de enero de 2027. La Superintendencia de Seguros de la Nación…",
       "fuente": "El Seguro en Acción",
@@ -153,69 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-08",
       "url": "https://elseguroenaccion.com.ar/como-eliminar-una-app-maliciosa-del-celular-guia-paso-a-paso/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Panorama de ciberamenazas en América Latina: balance del primer semestre de 2026",
-      "resumen": "ESET Latinoamérica revela que los ataques que no necesitaron técnicas innovadoras, sino que se valieron de vulnerabilidades de 2017, el ransomware corporativo, el phishing y el ciberespionaje estatal fueron lo destacado…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/panorama-de-ciberamenazas-en-america-latina-balance-del-primer-semestre-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SANCOR SEGUROS renovó sus autoridades para el ejercicio 2026/2027 junto al resto de las empresas del Grupo",
-      "resumen": "El sábado 3 de octubre se realizó la 80ª Asamblea General Ordinaria de Sancor Cooperativa de Seguros Limitada. Durante el encuentro, que contó con la presencia de delegados representantes de los asociados de todo el…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/sancor-seguros-renovo-sus-autoridades-para-el-ejercicio-2026-2027-junto-al-resto-de-las-empresas-del-grupo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hawk Insurance Broker se expande e invierte en el proyecto inmobiliario «PI Buenos Aires»",
-      "resumen": "La compañía consolida su crecimiento y visión tecnológica al adquirir la primera oficina de «PI Buenos Aires», el innovador megaproyecto de US$ 100 millones que impulsan el Grupo Sancor Seguros y la desarrolladora HIT…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/hawk-insurance-broker-se-expande-e-invierte-en-el-proyecto-inmobiliario-pi-buenos-aires/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal Seguros de Retiro consolida su crecimiento y proyecta un nuevo ciclo de expansión",
-      "resumen": "La compañía destacó la evolución comercial del ramo, reafirmó el rol estratégico del Productor Asesor como único canal de comercialización y proyectó nuevas oportunidades para el desarrollo del seguro de retiro.…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/federacion-patronal-seguros-de-retiro-consolida-su-crecimiento-y-proyecta-un-nuevo-ciclo-de-expansion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Más de 80 mil motos patentadas en septiembre: suba interanual del 35,42%",
-      "resumen": "En septiembre se registraron 80.641 unidades. Entre enero y septiembre, el mercado acumuló más de 670.000 patentamientos. CAFAM (Cámara de Fabricantes de Motovehículos) informa 80.641 patentamientos de motos en…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/mas-de-80-mil-motos-patentadas-en-septiembre-suba-interanual-del-3542/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN establece nuevos lineamientos para los seguros colectivos de retiro",
-      "resumen": "La medida aprueba pautas específicas para estos productos y establece nuevos requerimientos de información sobre las reservas matemáticas y los activos vinculados. La Superintendencia de Seguros de la Nación (SSN)…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-establece-nuevos-lineamientos-para-los-seguros-colectivos-de-retiro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los Productores de Seguros expusieron en el Congreso de la Nación las cifras de una actividad clave para la economía argentina",
-      "resumen": "AAPAS participó de una reunión de la Comisión de Comercio de la Cámara de Diputados y llevó al Congreso la mirada de una actividad que reúne a casi 53.000 Productores Asesores, interviene en cerca del 70% de la…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://elseguroenaccion.com.ar/los-productores-de-segurosexpusieron-en-el-congreso-de-lanacion-las-cifras-de-una-actividadclave-para-la-economia-argentina/",
       "imagen": ""
     }
   ]
