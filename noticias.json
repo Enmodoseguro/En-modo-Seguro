@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-10-11T12:13-03:00",
+  "actualizado": "2026-10-12T15:26-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Google responde qué pasa a medida que los agentes de IA operan cada vez más en todo el ecosistema de seguros",
+      "resumen": "Un informe elaborado por Google y la insurtech CoverGo advierte que la IA agéntica podría modificar mucho más que la productividad de las aseguradoras. A medida que agentes de IA comiencen a intervenir simultáneamente…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-12",
+      "url": "https://100seguro.com.ar/google-responde-que-pasa-a-medida-que-los-agentes-de-ia-operan-cada-vez-mas-en-todo-el-ecosistema-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ezequiel Fanelli: «El desafío pasa por generar valor sostenible para el cliente»",
+      "resumen": "Ezequiel Fanelli, de La Caja, destaca que la IA potencia la capacidad de escuchar al cliente y que hay que avanzar hacia estándares regulatorios que garanticen el uso responsable de datos. La entrada Ezequiel Fanelli:…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-12",
+      "url": "https://nbs.ar/ezequiel-fanelli-el-desafio-pasa-por-generar-valor-sostenible-para-el-cliente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en seguros: integración fragmentada suma hasta 30 minutos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una encuesta de Augie y el informe de SambaSafety muestran que la IA aporta poco ahorro cuando los sistemas están desconectados: 79% de agencias usa IA, 60% reporta…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-11",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-integracion-fragmentada-suma-hasta-30-minutos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "67% de aseguradoras prevén IA totalmente autónoma en 3 años",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un estudio de Sapiens y Research in Finance revela que el 67% de los directivos de seguros espera IA totalmente autónoma en dos o tres años, pese a que solo el 29%…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-11",
+      "url": "https://mercadosyseguros.com/67-de-aseguradoras-preven-ia-totalmente-autonoma-en-3-anos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Analítica por propiedad para abaratar seguros de hogar",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Las aseguradoras están adoptando analítica por propiedad para distinguir riesgos entre viviendas vecinas y ajustar primas. Estudios de HazardHub y Guidewire muestran…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-11",
+      "url": "https://mercadosyseguros.com/analitica-por-propiedad-para-abaratar-seguros-de-hogar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Transparencia en IA: por qué Liberty Mutual subió en el ranking",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Liberty Mutual, liderada por la CIO Mónica Caldas desde 2023, quedó 5ª entre 30 aseguradoras en el relevamiento de Evident y 6ª en transparencia tras pasar del puesto…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-11",
+      "url": "https://mercadosyseguros.com/transparencia-en-ia-por-que-liberty-mutual-subio-en-el-ranking/",
+      "imagen": ""
+    },
     {
       "titulo": "Muse de Meta: informe revela su perfil de vigilancia",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La investigación de Time del 6 de octubre de 2026 revela que Muse, el agente IA de Meta, crea dossieres horarios con datos de usuarios y contactos, clasifica…",
@@ -93,24 +147,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Aseguradoras como inversores institucionales en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gustavo Trías, presidente de la AACS, afirmó que las aseguradoras actúan como grandes generadores de ahorro e inversores de largo plazo y pidió instrumentos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-09",
-      "url": "https://mercadosyseguros.com/aseguradoras-como-inversores-institucionales-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros: 80 años celebrados con 7.000 asistentes en Sunchales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros conmemoró su 80° aniversario en Sunchales con un evento el 2025 en su predio corporativo que reunió a casi 7.000 personas, contó con shows de Jorge…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-09",
-      "url": "https://mercadosyseguros.com/sancor-seguros-80-anos-celebrados-con-7-000-asistentes-en-sunchales/",
-      "imagen": ""
-    },
-    {
       "titulo": "De la caución al seguro de personas: oportunidades para crecer",
       "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos segmentos con fuerte potencial de crecimiento para el mercado asegurador: el seguro de caución dentro de los seguros generales, y los seguros de vida, retiro y salud…",
       "fuente": "100% Seguro",
@@ -174,48 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Sancor Seguros: cuando la cercanía al poder alimenta la ilusión de estar por encima de todos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El papelón en la despedida de Messi expone algo más profundo que un error de marketing: cuando una empresa confunde su cercanía al poder con el derecho a ocuparlo…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://mercadosyseguros.com/sancor-seguros-poder-messi-reputacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Suprema Corte de Buenos Aires anula multa a Experta ART",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Suprema Corte bonaerense anuló la multa por temeridad impuesta a Experta ART en la causa L.131.893, al considerar que la sanción estaba fundada en un “razonamiento…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://mercadosyseguros.com/suprema-corte-de-buenos-aires-anula-multa-a-experta-art/",
-      "imagen": ""
-    },
-    {
       "titulo": "El fenómeno de “El Niño”: la prevención gana relevancia frente a eventos climáticos extremos",
       "resumen": "Con una probabilidad del 100% de continuidad de El Niño durante el trimestre, según el Servicio Meteorológico Nacional, y pérdidas anuales de más de 1.400 millones de dólares en infraestructura, la prevención cobra un…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-10-08",
       "url": "https://100seguro.com.ar/el-fenomeno-de-el-nino-la-prevencion-gana-relevancia-frente-a-eventos-climaticos-extremos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "“Decidimos ser parte del Parque de Innovación pensando en una relación de largo plazo y en una visión compartida sobre cómo seguir creciendo”",
-      "resumen": "Hawk Group fue el primer comprador de oficinas dentro del proyecto de USD 100 millones que el Grupo Sancor Seguros desarrolla junto a HIT en el Parque de Innovación de la Ciudad de Buenos Aires. Sebastián Larrea, CEO de…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/decidimos-ser-parte-del-parque-de-innovacion-pensando-en-una-relacion-de-largo-plazo-y-en-una-vision-compartida-sobre-como-seguir-creciendo/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Hawk-PI.jpg"
-    },
-    {
-      "titulo": "BBVA Research: exportaciones, inversión y desinflación, las claves de la economía argentina hacia 2027",
-      "resumen": "El último informe Situación Argentina, elaborado por BBVA Research, señala que este año Argentina se encamina a lograr un récord histórico de exportaciones de 102 mil millones de dólares. El principal impulso proviene…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-08",
-      "url": "https://100seguro.com.ar/bbva-research-exportaciones-inversion-y-desinflacion-las-claves-de-la-economia-argentina-hacia-2027/",
       "imagen": ""
     }
   ]
