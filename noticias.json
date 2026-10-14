@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-10-13T13:38-03:00",
+  "actualizado": "2026-10-14T11:16-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Pablo Pisciolari: “El futuro del sistema pasa por combinar tecnología y cercanía”",
+      "resumen": "Pablo Pisciolari, gerente de Prevención ART La entrada Pablo Pisciolari: “El futuro del sistema pasa por combinar tecnología y cercanía” se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-14",
+      "url": "https://nbs.ar/pablo-pisciolari-el-futuro-del-sistema-pasa-por-combinar-tecnologia-y-cercania-2/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ciberamenazas en LatAm: balance del 1° semestre 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET Latinoamérica informó que en el 1° semestre de 2026 la mayoría de exploits en la región usaron fallas de 2017 (CVE-2017-0199 y CVE-2017-11882), mientras…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://mercadosyseguros.com/ciberamenazas-en-latam-balance-del-1-semestre-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros renovó autoridades para el ejercicio 2026/2027",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Cooperativa de Seguros renovó su Consejo de Administración el 3 de octubre de 2026; José Sánchez fue electo presidente para el período 2026/2027. En el Grupo,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://mercadosyseguros.com/sancor-seguros-renovo-autoridades-para-el-ejercicio-2026-2027/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hawk Insurance Broker invierte en PI Buenos Aires",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Insurance Broker adquirió la primera oficina de PI Buenos Aires, el emprendimiento de US$ 100 millones de Grupo Sancor Seguros y HIT en Núñez. La compra busca…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://mercadosyseguros.com/hawk-insurance-broker-invierte-en-pi-buenos-aires/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Federación Patronal: crecimiento y nueva etapa en seguro de retiro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal Seguros de Retiro informó crecimiento en cartera y nuevos asegurados, con mayor participación de Productores Asesores como único canal de venta.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://mercadosyseguros.com/federacion-patronal-crecimiento-y-nueva-etapa-en-seguro-de-retiro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate participó de encuentros clave para el sector asegurador en Chaco",
+      "resumen": "El superintendente realizó la apertura del Foro Nacional del Seguro NEA 2026, formó parte de la jornada “Seguros y proceso judicial: cobertura, responsabilidad y nuevos desafíos” y visitó el Superior Tribunal de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://100seguro.com.ar/plate-participo-de-encuentros-clave-para-el-sector-asegurador-en-chaco/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/ssn_chaco_sentados.png"
+    },
+    {
+      "titulo": "Afianzadora suma cuatro profesionales a su equipo comercial",
+      "resumen": "En un contexto global donde la automatización y el reemplazo de tareas por tecnología parecen marcar el rumbo del mercado de servicios, Afianzadora, especializada en seguros de caución, elige un camino distinto: hacer…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-13",
+      "url": "https://100seguro.com.ar/afianzadora-suma-cuatro-profesionales-a-su-equipo-comercial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AALPS ganó lugar en la mesa de decisiones del seguro: expuso en el Foro NEA 2026 y dialogó con el superintendente",
+      "resumen": "Virginia Alarcia, presidente de AALPS, integró el panel “Mirada Institucional” junto a otras entidades del sector, y su vicepresidente, Tomás Fourcade, dio una charla propia. Las autoridades de la entidad aprovecharon…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://100seguro.com.ar/aalps-gano-lugar-en-la-mesa-de-decisiones-del-seguro-expuso-en-el-foro-nea-2026-y-dialogo-con-el-superintendente/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/foto-4.jpg"
+    },
+    {
+      "titulo": "Temporada de eventos, temporada de Responsabilidad Civil",
+      "resumen": "Llega fin de año y la agenda empieza a cargarse de citas: fiestas de cierre, reuniones, eventos al aire libre, festivales, congresos, etc. En este contexto, la cobertura de Responsabilidad Civil para eventos se…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://100seguro.com.ar/temporada-de-eventos-temporada-de-responsabilidad-civil/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Viviana-Roldan-DDN-Brokers.png"
+    },
     {
       "titulo": "El costo de lo que queda: cómo la IA redistribuye el trabajo humano en Claims",
       "resumen": "La automatización puede retirar siniestros del circuito humano y, al mismo tiempo, cambiar el trabajo que permanece dentro de los expedientes. Este artículo propone mirar más allá de la tasa de automatización:…",
@@ -12,6 +93,42 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Jorge_Eduardo_Peralta_Tracewarden-150x150.jpg"
     },
     {
+      "titulo": "Foro NEA 2026: 1.400 PAS llenaron Resistencia y mostraron el poder de trabajar juntos",
+      "resumen": "El evento fue un éxito de convocatoria y contenido. Lo organizaron las cuatro APAS del Nordeste junto a FAPASA, y lo abrió su presidenta, Agustina Decarre. Hablaron además el superintendente de Seguros de la Nación,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://elseguroenaccion.com.ar/foro-nea-2026-1-400-pas-llenaron-resistencia-y-mostraron-el-poder-de-trabajar-juntos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ranking de seguros para Motos",
+      "resumen": "Con datos a junio 2026, nuestra estadística interactiva permite comparar el desempeño de cada grupo asegurador en el ramo de motovehículos, el que exhibe el mayor dinamismo del mercado El ramo Motos fue, con diferencia,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://elseguroenaccion.com.ar/ranking-de-seguros-para-motos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "«Nadie puede hacerlo solo»: el mensaje de FAPASA a los Productores Asesores de Seguros reunidos en Chaco",
+      "resumen": "Agustina Decarre, presidente de FAPASA, inauguró el Foro NEA 2026 con un discurso sobre profesionalización, ética y conciencia aseguradora, y pidió trabajar en conjunto entre asociaciones, compañías y autoridades. El…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://elseguroenaccion.com.ar/nadie-puede-hacerlo-solo-el-mensaje-de-fapasa-a-los-productores-asesores-de-seguros-reunidos-en-chaco/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El fenómeno de “el niño”: la prevención gana relevancia frente a eventos climáticos extremos",
+      "resumen": "Con una probabilidad del 100% de continuidad de El Niño durante el trimestre, según el Servicio Meteorológico Nacional, y pérdidas anuales de más de USD 1.400 millones en infraestructura, la prevención cobra un rol cada…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://www.informeoperadores.com.ar/2026/10/13/el-fenomeno-de-el-nino-la-prevencion-gana-relevancia-frente-a-eventos-climaticos-extremos/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Fenomeno-El-Nino-600x400.jpg"
+    },
+    {
       "titulo": "La Perseverancia Seguros celebra 121 años de trayectoria en el mercado asegurador",
       "resumen": "Fundada en 1905 en la ciudad de Tres Arroyos, la compañía conmemora un nuevo aniversario destacando la evolución constante de sus procesos y la expansión de su red comercial a nivel nacional. Cumplir 121 años en el…",
       "fuente": "Informe Operadores",
@@ -19,6 +136,15 @@
       "fecha": "2026-10-13",
       "url": "https://www.informeoperadores.com.ar/2026/10/13/la-perseverancia-seguros-celebra-121-anos-de-trayectoria-en-el-mercado-asegurador/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/aniversario-lps-600x400.jpeg"
+    },
+    {
+      "titulo": "«El seguro debe adaptarse a la movilidad eléctrica”: qué ofrece La Caja para estos vehículos",
+      "resumen": "La aseguradora incorporó coberturas específicas para baterías, sistemas eléctricos y cables de carga, junto con asistencia pensada para autos eléctricos e híbridos. Entrevista a Federico Polzoni, gerente de Siniestros…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-13",
+      "url": "https://nbs.ar/el-seguro-debe-adaptarse-a-la-movilidad-electrica-que-ofrece-la-caja-para-estos-vehiculos/",
+      "imagen": ""
     },
     {
       "titulo": "Gerardo Pardo: “El principal cambio es cultural”",
@@ -91,132 +217,6 @@
       "fecha": "2026-10-12",
       "url": "https://nbs.ar/ezequiel-fanelli-el-desafio-pasa-por-generar-valor-sostenible-para-el-cliente/",
       "imagen": ""
-    },
-    {
-      "titulo": "IA en seguros: integración fragmentada suma hasta 30 minutos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una encuesta de Augie y el informe de SambaSafety muestran que la IA aporta poco ahorro cuando los sistemas están desconectados: 79% de agencias usa IA, 60% reporta…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-11",
-      "url": "https://mercadosyseguros.com/ia-en-seguros-integracion-fragmentada-suma-hasta-30-minutos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "67% de aseguradoras prevén IA totalmente autónoma en 3 años",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un estudio de Sapiens y Research in Finance revela que el 67% de los directivos de seguros espera IA totalmente autónoma en dos o tres años, pese a que solo el 29%…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-11",
-      "url": "https://mercadosyseguros.com/67-de-aseguradoras-preven-ia-totalmente-autonoma-en-3-anos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia Seguros: plan para duplicar producción hacia 2030",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gerónimo Fresco, CEO de Galicia Seguros, anunció el objetivo de duplicar la producción hacia 2030 y detalló medidas como el fortalecimiento del canal de productores,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-10",
-      "url": "https://mercadosyseguros.com/galicia-seguros-plan-para-duplicar-produccion-hacia-2030/",
-      "imagen": ""
-    },
-    {
-      "titulo": "MIA Hub lanza plataforma global de networking",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com MIA Hub presentó en ITC Vegas 2026 su plataforma global de networking, disponible desde el 25 de abril de 2026, que permite a miembros conectarse, descubrir…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-10",
-      "url": "https://mercadosyseguros.com/mia-hub-lanza-plataforma-global-de-networking/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alta digital de PAS de Galicia Seguros en minutos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros presentó un proceso de alta digital para Productores Asesores de Seguros que reduce la incorporación de hasta 72 horas a 2–3 minutos mediante…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-10",
-      "url": "https://mercadosyseguros.com/alta-digital-de-pas-de-galicia-seguros-en-minutos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De Rosario a Las Vegas: La Segunda Seguros presentó UiFlou, la startup para la prevención de riesgos, en uno de los principales encuentros globales de innovación en seguros",
-      "resumen": "Integrantes de La Segunda Seguros viajaron a ITC Vegas, la cumbre internacional que reúne a aseguradoras, startups y referentes tecnológicos de la industria, junto a UiFlou, una de las startups impulsadas por InnLab, el…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-10-10",
-      "url": "https://www.informeoperadores.com.ar/2026/10/10/de-rosario-a-las-vegas-la-segunda-seguros-presento-uiflou-la-startup-para-la-prevencion-de-riesgos-en-uno-de-los-principales-encuentros-globales-de-innovacion-en-seguros/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/la-segunda-1-600x400.jpg"
-    },
-    {
-      "titulo": "Innovación e investigación argentina en el escenario global: CESVI ARGENTINA participó de RCAR 2026",
-      "resumen": "En Ciudad de México, Marcelo Aiello y Diego Li Gotti expusieron ante referentes internacionales una solución de inteligencia artificial para la estimación de daños vehiculares y compartieron un análisis sobre el avance…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-10-10",
-      "url": "https://www.informeoperadores.com.ar/2026/10/10/innovacion-e-investigacion-argentina-en-el-escenario-global-cesvi-argentina-participo-de-rcar-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/unnamed2-600x338.jpg"
-    },
-    {
-      "titulo": "La SSN levantó la prohibición de emitir nuevos contratos de seguros a Libra Seguros.",
-      "resumen": "Mediante la resolución 442/2026, la Superintendencia de Seguros de la Nación (SSN) dispuso el levantamiento de la medida cautelar de prohibición de celebrar nuevos contratos de seguro impuesta a Libra Compañía Argentina…",
-      "fuente": "Informe Operadores",
-      "categoria": "Regulación",
-      "fecha": "2026-10-10",
-      "url": "https://www.informeoperadores.com.ar/2026/10/10/la-ssn-levanto-la-prohibicion-de-emitir-nuevos-contratos-de-seguros-a-libra-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jornada sobre “Seguros y Proceso Judicial: cobertura, responsabilidad y nuevos desafíos”. Un debate clave para el sector asegurador.",
-      "resumen": "En un contexto donde la relación entre la actividad aseguradora y los procesos judiciales adquiere una relevancia crítica para la economía nacional, la Asociación de Aseguradores Argentinos (ADEAA) y el Superior…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-10",
-      "url": "https://www.informeoperadores.com.ar/2026/10/10/jornada-sobre-seguros-y-proceso-judicial-cobertura-responsabilidad-y-nuevos-desafios-un-debate-clave-para-el-sector-asegurador/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/image005.jpg"
-    },
-    {
-      "titulo": "IA acapara US$1.550 M en financiación a insurtechs en 1T2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En 1T2026, las insurtechs centradas en inteligencia artificial concentraron US$1.550 millones de los US$1.630 millones invertidos en el sector, según el Índice WIR.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-09",
-      "url": "https://mercadosyseguros.com/ia-acapara-us1-550-m-en-financiacion-a-insurtechs-en-1t2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De la caución al seguro de personas: oportunidades para crecer",
-      "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos segmentos con fuerte potencial de crecimiento para el mercado asegurador: el seguro de caución dentro de los seguros generales, y los seguros de vida, retiro y salud…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-09",
-      "url": "https://100seguro.com.ar/de-la-caucion-al-seguro-de-personas-oportunidades-para-crecer/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Adopción de IA en equipos de tecnología: webinar regional impulsado por bdt global, la AACH y la Escuela de Seguros de Chile",
-      "resumen": "El próximo 20 de octubre a las 10 horas se realizará “Adopción de IA en equipos de tecnología: del potencial a la práctica en seguros”, un encuentro online orientado a la industria aseguradora de la región. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-09",
-      "url": "https://100seguro.com.ar/adopcion-de-ia-en-equipos-de-tecnologia-webinar-regional-impulsado-por-bdt-global-la-aach-y-la-escuela-de-seguros-de-chile/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros y la oportunidad excepcional que tiene hoy el seguro de vida con ahorro",
-      "resumen": "CNP Seguros llevó adelante el martes 6 de octubre un evento exclusivo junto a referentes del sistema financiero, con el objetivo de analizar las oportunidades que presenta el mercado de Vida con Ahorro y Capitalización…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-09",
-      "url": "https://100seguro.com.ar/cnp-seguros-y-la-oportunidad-excepcional-que-tiene-hoy-el-seguro-de-vida-con-ahorro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El punto ciego de las PyMEs: casi el 20% no tiene seguro",
-      "resumen": "Aunque el 84% considera que los seguros son una inversión clave para la estabilidad financiera, la falta de ingresos y la dificultad para encontrar una opción adecuada aparecen entre las principales barreras para…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-09",
-      "url": "https://100seguro.com.ar/el-punto-ciego-de-las-pymes-casi-el-20-no-tiene-seguro/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/PyMEs-Seguros-pic-2.png"
     }
   ]
 }
