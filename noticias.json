@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-10-14T11:16-03:00",
+  "actualizado": "2026-10-15T10:49-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sin paz para Sancor: demandas colectivas y cuestionamiento a sus inversiones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una demanda colectiva por seguros sin consentimiento y compras de tierras públicas por casi US$ 59 millones vuelven a poner a Sancor Seguros bajo la lupa. La entrada…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://mercadosyseguros.com/sancor-seguros-denuncias-demanda-tierras-publicas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Dictan la liquidación judicial de Profru, la histórica aseguradora cooperativa de los productores frutícolas",
+      "resumen": "El Juzgado Comercial 30 abrió el proceso contra Productores de Frutas Argentinas Cooperativa de Seguros Ltda., que ya tenía prohibido emitir pólizas y acumulaba pedidos de quiebra, multas y reclamos de acreedores. La…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/dictan-la-liquidacion-judicial-de-profru-la-historica-aseguradora-cooperativa-de-los-productores-fruticolas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Megaproyecto: dos empresas rosarinas se unen para transformar más de 25.000 m² urbanos",
+      "resumen": "La alianza entre dos compañías de amplia trayectoria dará lugar a una propuesta de vivienda y usos mixtos de más de 25.000 m², concebida a partir de la integración entre arquitectura, naturaleza y vida urbana. Fundar y…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://www.informeoperadores.com.ar/2026/10/15/megaproyecto-dos-empresas-rosarinas-se-unen-para-transformar-mas-de-25-000-m%c2%b2-urbanos/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/unnamed2-600x600.png"
+    },
+    {
+      "titulo": "Afianzadora suma 4 profesionales a su equipo comercial",
+      "resumen": "En un contexto global donde la automatización y el reemplazo de tareas por tecnología parecen marcar el rumbo del mercado de servicios, Afianzadora, especializada en Seguros de Caución, elige un camino distinto: hacer…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-10-15",
+      "url": "https://www.informeoperadores.com.ar/2026/10/15/afianzadora-suma-4-profesionales-a-su-equipo-comercial/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Foto-Comerciales-AFZ-600x400.jpg"
+    },
+    {
+      "titulo": "CNP Seguros: aumento de becas DELF-DALF y alcance nacional",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CNP Seguros participó el 22 de septiembre en la Embajada de Francia en el encuentro del programa DELF-DALF; las becas aumentaron de 62 en 2023 a 136 en 2025 y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-14",
+      "url": "https://mercadosyseguros.com/cnp-seguros-aumento-de-becas-delf-dalf-y-alcance-nacional/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Webinar sobre adopción de IA para equipos de tecnología en seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com bdt global, la AACH y la Escuela de Seguros de Chile realizarán un webinar el 20 de octubre a las 10:00 para orientar a CIOs y CTOs de aseguradoras sobre cómo…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-10-14",
+      "url": "https://mercadosyseguros.com/webinar-sobre-adopcion-de-ia-para-equipos-de-tecnologia-en-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN actualiza el régimen de seguros para transporte de pasajeros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN emitió la Resol. SSN N° 415/2026, que reorganiza la rama Transporte de Pasajeros en dos subramas y establece la obligatoriedad de una franquicia para Servicios…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-10-14",
+      "url": "https://mercadosyseguros.com/ssn-actualiza-el-regimen-de-seguros-para-transporte-de-pasajeros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Eliminar app maliciosa: guía práctica y paso a paso",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET Latinoamérica explica cómo identificar y remover apps maliciosas: señales clave (permisos excesivos, consumo de batería y datos, cargos no reconocidos) y pasos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-14",
+      "url": "https://mercadosyseguros.com/eliminar-app-maliciosa-guia-practica-y-paso-a-paso/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Foro NEA 2026: 1.400 PAS llenaron Resistencia y mostraron el poder de trabajar juntos",
+      "resumen": "El evento fue un éxito de convocatoria y contenido. Lo organizaron las cuatro APAS del Nordeste junto a FAPASA, y lo abrió su presidenta, Agustina Decarre. Hablaron además el superintendente de Seguros de la Nación,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-14",
+      "url": "https://100seguro.com.ar/foro-nea-2026-1-400-pas-llenaron-resistencia-y-mostraron-el-poder-de-trabajar-juntos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/agustina-nea.jpg"
+    },
+    {
+      "titulo": "Sedgwick celebra 20 años en Argentina y reafirma su compromiso con el mercado local",
+      "resumen": "Sedgwick celebró sus 20 años en Argentina con un encuentro realizado el 8 de octubre que reunió a clientes, socios, representantes del sector asegurador y colaboradores de la compañía. La ocasión permitió repasar dos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-14",
+      "url": "https://100seguro.com.ar/sedgwick-celebra-20-anos-en-argentina-y-reafirma-su-compromiso-con-el-mercado-local/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/20°-Aniversario-Sedgwick-1.png"
+    },
+    {
+      "titulo": "La SSN eliminó una disposición del reglamento de seguros de salud para evitar interpretaciones divergentes",
+      "resumen": "RESOLUCIÓN SSN 437/2026.- La Superintendencia de Seguros de la Nación (SSN) introdujo una modificación en el Reglamento General de la Actividad Aseguradora (RGAA) con el objetivo de reducir las ambigüedades en la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-14",
+      "url": "https://100seguro.com.ar/la-ssn-elimino-una-disposicion-del-reglamento-de-seguros-de-salud-para-evitar-interpretaciones-divergentes/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El seguro y el derecho al olvido oncológico",
+      "resumen": "La abogada y miembro de AIDA Argentina analiza el alcance del derecho al olvido oncológico en el ámbito asegurador y el desafío de evitar que las personas que superaron un cáncer sufran discriminación al contratar una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-14",
+      "url": "https://100seguro.com.ar/el-seguro-y-el-derecho-al-olvido-oncologico/",
+      "imagen": ""
+    },
     {
       "titulo": "Pablo Pisciolari: “El futuro del sistema pasa por combinar tecnología y cercanía”",
       "resumen": "Pablo Pisciolari, gerente de Prevención ART La entrada Pablo Pisciolari: “El futuro del sistema pasa por combinar tecnología y cercanía” se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
@@ -93,15 +201,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Jorge_Eduardo_Peralta_Tracewarden-150x150.jpg"
     },
     {
-      "titulo": "Foro NEA 2026: 1.400 PAS llenaron Resistencia y mostraron el poder de trabajar juntos",
-      "resumen": "El evento fue un éxito de convocatoria y contenido. Lo organizaron las cuatro APAS del Nordeste junto a FAPASA, y lo abrió su presidenta, Agustina Decarre. Hablaron además el superintendente de Seguros de la Nación,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://elseguroenaccion.com.ar/foro-nea-2026-1-400-pas-llenaron-resistencia-y-mostraron-el-poder-de-trabajar-juntos/",
-      "imagen": ""
-    },
-    {
       "titulo": "Ranking de seguros para Motos",
       "resumen": "Con datos a junio 2026, nuestra estadística interactiva permite comparar el desempeño de cada grupo asegurador en el ramo de motovehículos, el que exhibe el mayor dinamismo del mercado El ramo Motos fue, con diferencia,…",
       "fuente": "El Seguro en Acción",
@@ -117,105 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-13",
       "url": "https://elseguroenaccion.com.ar/nadie-puede-hacerlo-solo-el-mensaje-de-fapasa-a-los-productores-asesores-de-seguros-reunidos-en-chaco/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El fenómeno de “el niño”: la prevención gana relevancia frente a eventos climáticos extremos",
-      "resumen": "Con una probabilidad del 100% de continuidad de El Niño durante el trimestre, según el Servicio Meteorológico Nacional, y pérdidas anuales de más de USD 1.400 millones en infraestructura, la prevención cobra un rol cada…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://www.informeoperadores.com.ar/2026/10/13/el-fenomeno-de-el-nino-la-prevencion-gana-relevancia-frente-a-eventos-climaticos-extremos/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Fenomeno-El-Nino-600x400.jpg"
-    },
-    {
-      "titulo": "La Perseverancia Seguros celebra 121 años de trayectoria en el mercado asegurador",
-      "resumen": "Fundada en 1905 en la ciudad de Tres Arroyos, la compañía conmemora un nuevo aniversario destacando la evolución constante de sus procesos y la expansión de su red comercial a nivel nacional. Cumplir 121 años en el…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://www.informeoperadores.com.ar/2026/10/13/la-perseverancia-seguros-celebra-121-anos-de-trayectoria-en-el-mercado-asegurador/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/aniversario-lps-600x400.jpeg"
-    },
-    {
-      "titulo": "«El seguro debe adaptarse a la movilidad eléctrica”: qué ofrece La Caja para estos vehículos",
-      "resumen": "La aseguradora incorporó coberturas específicas para baterías, sistemas eléctricos y cables de carga, junto con asistencia pensada para autos eléctricos e híbridos. Entrevista a Federico Polzoni, gerente de Siniestros…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://nbs.ar/el-seguro-debe-adaptarse-a-la-movilidad-electrica-que-ofrece-la-caja-para-estos-vehiculos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gerardo Pardo: “El principal cambio es cultural”",
-      "resumen": "La inteligencia artificial ya forma parte de nuestra forma de operar y de impulsar el negocio. La entrada Gerardo Pardo: “El principal cambio es cultural” se publicó primero en NBS | Revista de Negocios, Bancos y…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-13",
-      "url": "https://nbs.ar/gerardo-pardo-el-principal-cambio-es-cultural/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Motos: 80.641 patentadas en septiembre, suba interanual 35,42%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CAFAM informó 80.641 patentamientos de motos en septiembre de 2026, 35,42% más que en septiembre de 2025. El acumulado enero–septiembre llegó a 672.710 unidades, con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-12",
-      "url": "https://mercadosyseguros.com/motos-80-641-patentadas-en-septiembre-suba-interanual-3542/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Nuevos lineamientos de la SSN para seguros colectivos de retiro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la Resolución SSN N° 431/2026 que regula los Seguros Colectivos de Retiro de Renta Variable Vinculada a Activos, exigiendo detalle de reservas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-10-12",
-      "url": "https://mercadosyseguros.com/nuevos-lineamientos-de-la-ssn-para-seguros-colectivos-de-retiro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Productores de seguros expusieron cifras clave en el Congreso",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 29 de septiembre AAPAS presentó ante la Comisión de Comercio que 52.999 Productores Asesores intervienen en cerca del 70% de la comercialización, con USD 18.500…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-12",
-      "url": "https://mercadosyseguros.com/productores-de-seguros-expusieron-cifras-clave-en-el-congreso/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cómo evitar la discriminación por proxy en seguros y modelos de IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Quitar atributos sensibles no evita la discriminación por proxy: modelos de IA pueden inferir raza o género desde códigos postales, ocupación o comportamiento…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-12",
-      "url": "https://mercadosyseguros.com/como-evitar-la-discriminacion-por-proxy-en-seguros-y-modelos-de-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Google responde qué pasa a medida que los agentes de IA operan cada vez más en todo el ecosistema de seguros",
-      "resumen": "Un informe elaborado por Google y la insurtech CoverGo advierte que la IA agéntica podría modificar mucho más que la productividad de las aseguradoras. A medida que agentes de IA comiencen a intervenir simultáneamente…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-12",
-      "url": "https://100seguro.com.ar/google-responde-que-pasa-a-medida-que-los-agentes-de-ia-operan-cada-vez-mas-en-todo-el-ecosistema-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Guillermo Davi: «Seguir avanzando en reformas tendrá un efecto positivo en el sector asegurador»",
-      "resumen": "Guillermo Davi es director de Seguros del Grupo Sancor Seguros. \"En nuestro país y en toda nuestra región hay una baja penetración del seguro. Debemos trabajar en revertir esta escasa cultura aseguradora\", plantea. La…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-12",
-      "url": "https://nbs.ar/guillermo-davi-seguir-avanzando-en-reformas-tendra-un-efecto-positivo-en-el-sector-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ezequiel Fanelli: «El desafío pasa por generar valor sostenible para el cliente»",
-      "resumen": "Ezequiel Fanelli, de La Caja, destaca que la IA potencia la capacidad de escuchar al cliente y que hay que avanzar hacia estándares regulatorios que garanticen el uso responsable de datos. La entrada Ezequiel Fanelli:…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-12",
-      "url": "https://nbs.ar/ezequiel-fanelli-el-desafio-pasa-por-generar-valor-sostenible-para-el-cliente/",
       "imagen": ""
     }
   ]
