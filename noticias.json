@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T10:49-03:00",
+  "actualizado": "2026-10-16T10:39-03:00",
   "total": 24,
   "noticias": [
     {
@@ -12,12 +12,138 @@
       "imagen": ""
     },
     {
+      "titulo": "La SSN revocó la autorización de una aseguradora y dispuso su liquidación forzosa",
+      "resumen": "La medida alcanza a Prof Seguros, que acumulaba sanciones por demoras en el pago de sentencias judiciales, restricciones para operar y observaciones sobre sus reservas técnicas. La decisión se produjo luego de que la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://100seguro.com.ar/la-ssn-revoco-la-autorizacion-de-una-aseguradora-y-dispuso-su-liquidacion-forzosa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Del Coloquio de IDEA al mercado asegurador: la mirada de Hawk sobre inversión, riesgos y previsibilidad",
+      "resumen": "Concluido un nuevo Coloquio de IDEA, Sebastián Larrea analizó el clima de negocios que atraviesa la Argentina, las condiciones que el sector privado considera necesarias para volver a invertir a largo plazo y los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://100seguro.com.ar/del-coloquio-de-idea-al-mercado-asegurador-la-mirada-de-hawk-sobre-inversion-riesgos-y-previsibilidad/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Coloquio-de-IDEA-banner.jpeg"
+    },
+    {
+      "titulo": "Ualá ahora permite contratar seguro de autos junto a Allianz",
+      "resumen": "El banco digital incorpora la posibilidad de cotizar y contratar un seguro vehicular desde la app, combinando la agilidad de la tecnología con el respaldo de una aseguradora líder. La entrada Ualá ahora permite…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-15",
+      "url": "https://100seguro.com.ar/uala-ahora-permite-contratar-seguro-de-autos-junto-a-allianz/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La inteligencia artificial desplaza al cambio climático como principal riesgo global para los expertos, según AXA",
+      "resumen": "El informe “Future Risks Report 2026”, elaborado por AXA en colaboración con Ipsos, ubica por primera vez a la inteligencia artificial y el big data en el primer puesto del ranking de riesgos emergentes a nivel mundial.…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-15",
+      "url": "https://100seguro.com.ar/la-inteligencia-artificial-desplaza-al-cambio-climatico-como-principal-riesgo-global-para-los-expertos-segun-axa/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mapfre acompaña las semifinales de la CONMEBOL Libertadores con una guía gratuita para los hinchas",
+      "resumen": "Con Estudiantes de La Plata como único representante argentino, la aseguradora propone descubrir las ciudades del torneo a través del fútbol, la gastronomía y la cultura. La entrada Mapfre acompaña las semifinales de la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://100seguro.com.ar/mapfre-acompana-las-semifinales-de-la-conmebol-libertadores-con-una-guia-gratuita-para-los-hinchas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-98097416-APN-GEYE#SSN – SITUACIÓN DE MERCADO REASEGURADOR – JUNIO DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/if-2026-98097416-apn-geyessn-situacion-de-mercado-reasegurador-junio-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-443-APN-SSN#MEC – PRODUCTORES DE FRUTAS ARGENTINAS COOPERATIVA DE SEGUROS LIMITADA – REVOCACIÓN DE LA AUTORIZACIÓN PARA OPERAR",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-443-apn-ssnmec-productores-de-frutas-argentinas-cooperativa-de-seguros-limitada-revocacion-de-la-autorizacion-para-operar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-440-APN-SSN#MEC – STARR INDEMNITY & LIABILITY COMPANY, SUCURSAL ARGENTINA, DE SEGUROS – AUTORIZACIÓN RAMA OTROS RIESGOS DE DAÑOS PATRIMONIALES – SEGURO DE CRISTALES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-440-apn-ssnmec-starr-indemnity-liability-company-sucursal-argentina-de-seguros-autorizacion-rama-otros-riesgos-de-danos-patrimoniales-seguro-de-cristales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-439-APN-SSN#MEC – REGLAMENTO GENERAL DE ACTIVIDADES ACADÉMICAS PAS – EXAMEN DE ACREDITACIÓN DE COMPETENCIA",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-439-apn-ssnmec-reglamento-general-de-actividades-academicas-pas-examen-de-acreditacion-de-competencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-438-APN-SSN#MEC- PRÓRROGA DISPOSICIONES TRANSITORIAS – PUNTOS 30 Y 33 DEL R.G.A.A.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-438-apn-ssnmec-prorroga-disposiciones-transitorias-puntos-30-y-33-del-r-g-a-a/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-437-APN-SSN#MEC- MODIFICACIÓN DEL RGAA – ANEXO DEL PUNTO 23.2. INC. A)",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-437-apn-ssnmec-modificacion-del-rgaa-anexo-del-punto-23-2-inc-a/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-436-APN-SSN#MEC- CONCEDE RECURSO DE APELACIÓN ARTÍCULO 83 Ley N° 20.091 – PAS Cristian Gastón ALONSO, Sergio Adrián PRINCIPI y Natalia Soledad SCALZO – LIBRA COMPAÑÍA ARGENTINA DE SEGUROS S.A.",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-436-apn-ssnmec-concede-recurso-de-apelacion-articulo-83-ley-n-20-091-pas-cristian-gaston-alonso-sergio-adrian-principi-y-natalia-soledad-scalzo-libra-compania-argentina-de-segu/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-435-APN-SSN#MEC- ZURICH INSURANCE PUBLIC LIMITED COMPANY – CAMBIO DE DENOMINACIÓN",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-435-apn-ssnmec-zurich-insurance-public-limited-company-cambio-de-denominacion/",
+      "imagen": ""
+    },
+    {
       "titulo": "Dictan la liquidación judicial de Profru, la histórica aseguradora cooperativa de los productores frutícolas",
-      "resumen": "El Juzgado Comercial 30 abrió el proceso contra Productores de Frutas Argentinas Cooperativa de Seguros Ltda., que ya tenía prohibido emitir pólizas y acumulaba pedidos de quiebra, multas y reclamos de acreedores. La…",
+      "resumen": "El Juzgado Comercial 30 abrió el proceso contra Productores de Frutas Argentinas Cooperativa de Seguros Ltda., que ya tenía prohibido emitir pólizas y acumulaba pedidos de quiebra, multas y reclamos de acreedores. Por…",
       "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-10-15",
       "url": "https://elseguroenaccion.com.ar/dictan-la-liquidacion-judicial-de-profru-la-historica-aseguradora-cooperativa-de-los-productores-fruticolas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Perseverancia Seguros celebra 121 años de trayectoria en el mercado asegurador",
+      "resumen": "Fundada en 1905 en la ciudad de Tres Arroyos, la compañía conmemora un nuevo aniversario destacando la evolución constante de sus procesos y la expansión de su red comercial a nivel nacional. Cumplir 121 años en el…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://elseguroenaccion.com.ar/la-perseverancia-seguros-celebra-121-anos-de-trayectoria-en-el-mercado-asegurador/",
       "imagen": ""
     },
     {
@@ -37,6 +163,15 @@
       "fecha": "2026-10-15",
       "url": "https://www.informeoperadores.com.ar/2026/10/15/afianzadora-suma-4-profesionales-a-su-equipo-comercial/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Foto-Comerciales-AFZ-600x400.jpg"
+    },
+    {
+      "titulo": "El fondeo de largo plazo, la llave para los créditos hipotecarios",
+      "resumen": "El Gobierno anunció que el Fondo de Garantía de Sustentabilidad (FGS) de ANSES podrá destinar hasta $2 billones a financiar bancos y ampliar la oferta de créditos hipotecarios. La iniciativa contempla plazos fijos de…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-15",
+      "url": "https://nbs.ar/anses-fondos-creditos-hipotecarios/",
+      "imagen": ""
     },
     {
       "titulo": "CNP Seguros: aumento de becas DELF-DALF y alcance nacional",
@@ -82,141 +217,6 @@
       "fecha": "2026-10-14",
       "url": "https://100seguro.com.ar/foro-nea-2026-1-400-pas-llenaron-resistencia-y-mostraron-el-poder-de-trabajar-juntos/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/agustina-nea.jpg"
-    },
-    {
-      "titulo": "Sedgwick celebra 20 años en Argentina y reafirma su compromiso con el mercado local",
-      "resumen": "Sedgwick celebró sus 20 años en Argentina con un encuentro realizado el 8 de octubre que reunió a clientes, socios, representantes del sector asegurador y colaboradores de la compañía. La ocasión permitió repasar dos…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-14",
-      "url": "https://100seguro.com.ar/sedgwick-celebra-20-anos-en-argentina-y-reafirma-su-compromiso-con-el-mercado-local/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/20°-Aniversario-Sedgwick-1.png"
-    },
-    {
-      "titulo": "La SSN eliminó una disposición del reglamento de seguros de salud para evitar interpretaciones divergentes",
-      "resumen": "RESOLUCIÓN SSN 437/2026.- La Superintendencia de Seguros de la Nación (SSN) introdujo una modificación en el Reglamento General de la Actividad Aseguradora (RGAA) con el objetivo de reducir las ambigüedades en la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-14",
-      "url": "https://100seguro.com.ar/la-ssn-elimino-una-disposicion-del-reglamento-de-seguros-de-salud-para-evitar-interpretaciones-divergentes/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El seguro y el derecho al olvido oncológico",
-      "resumen": "La abogada y miembro de AIDA Argentina analiza el alcance del derecho al olvido oncológico en el ámbito asegurador y el desafío de evitar que las personas que superaron un cáncer sufran discriminación al contratar una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-14",
-      "url": "https://100seguro.com.ar/el-seguro-y-el-derecho-al-olvido-oncologico/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Pablo Pisciolari: “El futuro del sistema pasa por combinar tecnología y cercanía”",
-      "resumen": "Pablo Pisciolari, gerente de Prevención ART La entrada Pablo Pisciolari: “El futuro del sistema pasa por combinar tecnología y cercanía” se publicó primero en NBS | Revista de Negocios, Bancos y Seguros .",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-14",
-      "url": "https://nbs.ar/pablo-pisciolari-el-futuro-del-sistema-pasa-por-combinar-tecnologia-y-cercania-2/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ciberamenazas en LatAm: balance del 1° semestre 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET Latinoamérica informó que en el 1° semestre de 2026 la mayoría de exploits en la región usaron fallas de 2017 (CVE-2017-0199 y CVE-2017-11882), mientras…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://mercadosyseguros.com/ciberamenazas-en-latam-balance-del-1-semestre-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros renovó autoridades para el ejercicio 2026/2027",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Cooperativa de Seguros renovó su Consejo de Administración el 3 de octubre de 2026; José Sánchez fue electo presidente para el período 2026/2027. En el Grupo,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://mercadosyseguros.com/sancor-seguros-renovo-autoridades-para-el-ejercicio-2026-2027/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hawk Insurance Broker invierte en PI Buenos Aires",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Insurance Broker adquirió la primera oficina de PI Buenos Aires, el emprendimiento de US$ 100 millones de Grupo Sancor Seguros y HIT en Núñez. La compra busca…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://mercadosyseguros.com/hawk-insurance-broker-invierte-en-pi-buenos-aires/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federación Patronal: crecimiento y nueva etapa en seguro de retiro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Federación Patronal Seguros de Retiro informó crecimiento en cartera y nuevos asegurados, con mayor participación de Productores Asesores como único canal de venta.…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://mercadosyseguros.com/federacion-patronal-crecimiento-y-nueva-etapa-en-seguro-de-retiro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Plate participó de encuentros clave para el sector asegurador en Chaco",
-      "resumen": "El superintendente realizó la apertura del Foro Nacional del Seguro NEA 2026, formó parte de la jornada “Seguros y proceso judicial: cobertura, responsabilidad y nuevos desafíos” y visitó el Superior Tribunal de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://100seguro.com.ar/plate-participo-de-encuentros-clave-para-el-sector-asegurador-en-chaco/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/ssn_chaco_sentados.png"
-    },
-    {
-      "titulo": "Afianzadora suma cuatro profesionales a su equipo comercial",
-      "resumen": "En un contexto global donde la automatización y el reemplazo de tareas por tecnología parecen marcar el rumbo del mercado de servicios, Afianzadora, especializada en seguros de caución, elige un camino distinto: hacer…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-13",
-      "url": "https://100seguro.com.ar/afianzadora-suma-cuatro-profesionales-a-su-equipo-comercial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AALPS ganó lugar en la mesa de decisiones del seguro: expuso en el Foro NEA 2026 y dialogó con el superintendente",
-      "resumen": "Virginia Alarcia, presidente de AALPS, integró el panel “Mirada Institucional” junto a otras entidades del sector, y su vicepresidente, Tomás Fourcade, dio una charla propia. Las autoridades de la entidad aprovecharon…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://100seguro.com.ar/aalps-gano-lugar-en-la-mesa-de-decisiones-del-seguro-expuso-en-el-foro-nea-2026-y-dialogo-con-el-superintendente/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/foto-4.jpg"
-    },
-    {
-      "titulo": "Temporada de eventos, temporada de Responsabilidad Civil",
-      "resumen": "Llega fin de año y la agenda empieza a cargarse de citas: fiestas de cierre, reuniones, eventos al aire libre, festivales, congresos, etc. En este contexto, la cobertura de Responsabilidad Civil para eventos se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://100seguro.com.ar/temporada-de-eventos-temporada-de-responsabilidad-civil/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Viviana-Roldan-DDN-Brokers.png"
-    },
-    {
-      "titulo": "El costo de lo que queda: cómo la IA redistribuye el trabajo humano en Claims",
-      "resumen": "La automatización puede retirar siniestros del circuito humano y, al mismo tiempo, cambiar el trabajo que permanece dentro de los expedientes. Este artículo propone mirar más allá de la tasa de automatización:…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://100seguro.com.ar/el-costo-de-lo-que-queda-como-la-ia-redistribuye-el-trabajo-humano-en-claims/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Jorge_Eduardo_Peralta_Tracewarden-150x150.jpg"
-    },
-    {
-      "titulo": "Ranking de seguros para Motos",
-      "resumen": "Con datos a junio 2026, nuestra estadística interactiva permite comparar el desempeño de cada grupo asegurador en el ramo de motovehículos, el que exhibe el mayor dinamismo del mercado El ramo Motos fue, con diferencia,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://elseguroenaccion.com.ar/ranking-de-seguros-para-motos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "«Nadie puede hacerlo solo»: el mensaje de FAPASA a los Productores Asesores de Seguros reunidos en Chaco",
-      "resumen": "Agustina Decarre, presidente de FAPASA, inauguró el Foro NEA 2026 con un discurso sobre profesionalización, ética y conciencia aseguradora, y pidió trabajar en conjunto entre asociaciones, compañías y autoridades. El…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-13",
-      "url": "https://elseguroenaccion.com.ar/nadie-puede-hacerlo-solo-el-mensaje-de-fapasa-a-los-productores-asesores-de-seguros-reunidos-en-chaco/",
-      "imagen": ""
     }
   ]
 }
