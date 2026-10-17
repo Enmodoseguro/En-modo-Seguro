@@ -1,7 +1,142 @@
 {
-  "actualizado": "2026-10-16T10:39-03:00",
+  "actualizado": "2026-10-17T09:36-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seguros de auto: priorizar telemetría sobre el crédito",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La telemetría propone reemplazar el uso de edad, género y score crediticio —factores que hoy elevan primas— por datos de manejo reales (velocidad, frenadas,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://mercadosyseguros.com/seguros-de-auto-priorizar-telemetria-sobre-el-credito/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gobernanza y control: clave del avance de la IA en aseguradoras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aseguradoras como Liberty Mutual y Harbor piden priorizar gobernanza, monitoreo continuo y control del stack de IA para evitar riesgos operativos, regulatorios y la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://mercadosyseguros.com/gobernanza-y-control-clave-del-avance-de-la-ia-en-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en seguros de salud: revisar con humanos gana disputas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El uso de IA ya es mayoritario: 84% de aseguradoras la emplea y casi 1,4 millones de disputas se iniciaron en el segundo semestre de 2025. Más que la adopción,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-de-salud-revisar-con-humanos-gana-disputas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Explicar decisiones de suscripción IA: por qué es urgente",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Con el 62% de aseguradoras usando IA en 2026 y normas de la NAIC en discusión, la explicabilidad debe diseñarse desde el inicio en la suscripción. Calidad y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://mercadosyseguros.com/explicar-decisiones-de-suscripcion-ia-por-que-es-urgente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Del Congreso de la Nación a la calle: la agenda del seguro y sus oportunidades",
+      "resumen": "En un nuevo programa de 100% SEGURO, presentamos dos miradas complementarias del mercado asegurador: la agenda institucional de los Productores Asesores y la realidad comercial de una compañía con más de un siglo de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/del-congreso-de-la-nacion-a-la-calle-la-agenda-del-seguro-y-sus-oportunidades/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CNP Seguros dijo presente en el Foro NEA 2026 para impulsar nuevas oportunidades de negocio en la región",
+      "resumen": "CNP Seguros participó del Foro NEA 2026, realizado el 8 de octubre en el Centro de Convenciones Gala, en Chaco, un espacio de encuentro para referentes del sector asegurador y empresarial que tuvo como lema “El seguro…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/cnp-seguros-dijo-presente-en-el-foro-nea-2026-para-impulsar-nuevas-oportunidades-de-negocio-en-la-region/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El reaseguro argentino multiplicó sus ganancias y mejoró su resultado técnico: los números de un año de recuperación",
+      "resumen": "El último informe de la SSN muestra una fuerte mejora en los principales indicadores del mercado reasegurador al cierre de junio de 2026. Las ganancias crecieron casi 400% en términos reales, la producción avanzó por…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/el-reaseguro-argentino-multiplico-sus-ganancias-y-mejoro-su-resultado-tecnico-los-numeros-de-un-ano-de-recuperacion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN amplió a cuatro las oportunidades para rendir el examen de matrícula de Productor Asesor de Seguros",
+      "resumen": "El organismo modifica el reglamento de capacitación para aspirantes a Productores Asesores de Seguros y establece que podrán presentarse hasta cuatro veces dentro de los seis turnos de examen posteriores a la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/la-ssn-amplio-a-cuatro-las-oportunidades-para-rendir-el-examen-de-matricula-de-productor-asesor-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate disertó en el primer Congreso Iberoamericano de Salud FICS 2026",
+      "resumen": "El evento reunió a referentes del sector público y privado de Europa y Latinoamérica para debatir sobre los desafíos del financiamiento sanitario, las políticas públicas y la innovación en salud. La entrada Guillermo…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/guillermo-plate-diserto-en-el-primer-congreso-iberoamericano-de-salud-fics-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/ssn_lugones_fis2026.jpg"
+    },
+    {
+      "titulo": "Nuevos reconocimientos de los XXI Premios Biodiversidad de la Fundación BBVA",
+      "resumen": "La persecución eficaz de los delitos ambientales liderada por la Unidad Central Operativa de Medio Ambiente (UCOMA) del Servicio de Protección de la Naturaleza de la Guardia Civil (SEPRONA), en defensa de las especies y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/nuevos-reconocimientos-de-los-xxi-premios-biodiversidad-de-la-fundacion-bbva/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AlbaCaución simplifica la cotización de garantías de alquiler familiar con una nueva herramienta online",
+      "resumen": "La compañía incorporó un cotizador que permite obtener en pocos minutos una estimación del costo de la garantía y continuar la gestión con un ejecutivo. La herramienta también puede ser utilizada por Productores…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://100seguro.com.ar/albacaucion-simplifica-la-cotizacion-de-garantias-de-alquiler-familiar-con-una-nueva-herramienta-online/",
+      "imagen": ""
+    },
+    {
+      "titulo": "REDMES reunió a más de 60 profesionales del sector asegurador en su Meeting Point Paraguay 2026",
+      "resumen": "En el marco de Octubre Rosa, el encuentro puso la prevención y el bienestar en el centro de la conversación sobre liderazgo. REDMES (Red Mujeres en Seguros) realizó el pasado jueves 15 de octubre el Meeting Point REDMES…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://elseguroenaccion.com.ar/redmes-reunio-a-mas-de-60-profesionales-del-sector-asegurador-en-su-meeting-point-paraguay-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Participar del Foro NEA del Seguro, el 8 de octubre en Resistencia, fue una experiencia muy valiosa para VTC – Vendé Tu Chocado",
+      "resumen": "En nombre de VTC, agradecemos a APAS Chaco y a las asociaciones APAS de Corrientes, Formosa y Misiones por la organización y por abrirnos el espacio para la participación de nuestra empresa en el evento. Durante el foro…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://elseguroenaccion.com.ar/participar-del-foro-nea-del-seguro-el-8-de-octubre-en-resistencia-fue-una-experiencia-muy-valiosa-para-vtc-vende-tu-chocado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "820",
+      "resumen": "La entrada 820 se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://www.informeoperadores.com.ar/2026/10/16/820/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Tapa-820-R90.jpg"
+    },
+    {
+      "titulo": "Reconocen la labor de UCOMA en los XXI Premios Biodiversidad de la Fundación BBVA",
+      "resumen": "Los XXI Premios Biodiversidad de la Fundación BBVA han puesto de relieve el compromiso y los esfuerzos en la protección del medio ambiente, con un enfoque especial en la persecución de delitos ambientales. Este año, uno…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-16",
+      "url": "https://nbs.ar/reconocen-la-labor-de-ucoma-en-los-xxi-premios-biodiversidad-de-la-fundacion-bbva/",
+      "imagen": ""
+    },
     {
       "titulo": "Sin paz para Sancor: demandas colectivas y cuestionamiento a sus inversiones",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una demanda colectiva por seguros sin consentimiento y compras de tierras públicas por casi US$ 59 millones vuelven a poner a Sancor Seguros bajo la lupa. La entrada…",
@@ -36,24 +171,6 @@
       "categoria": "Innovación",
       "fecha": "2026-10-15",
       "url": "https://100seguro.com.ar/uala-ahora-permite-contratar-seguro-de-autos-junto-a-allianz/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La inteligencia artificial desplaza al cambio climático como principal riesgo global para los expertos, según AXA",
-      "resumen": "El informe “Future Risks Report 2026”, elaborado por AXA en colaboración con Ipsos, ubica por primera vez a la inteligencia artificial y el big data en el primer puesto del ranking de riesgos emergentes a nivel mundial.…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-15",
-      "url": "https://100seguro.com.ar/la-inteligencia-artificial-desplaza-al-cambio-climatico-como-principal-riesgo-global-para-los-expertos-segun-axa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mapfre acompaña las semifinales de la CONMEBOL Libertadores con una guía gratuita para los hinchas",
-      "resumen": "Con Estudiantes de La Plata como único representante argentino, la aseguradora propone descubrir las ciudades del torneo a través del fútbol, la gastronomía y la cultura. La entrada Mapfre acompaña las semifinales de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://100seguro.com.ar/mapfre-acompana-las-semifinales-de-la-conmebol-libertadores-con-una-guia-gratuita-para-los-hinchas/",
       "imagen": ""
     },
     {
@@ -100,123 +217,6 @@
       "fecha": "2026-10-15",
       "url": "https://elseguroenaccion.com.ar/resol-2026-438-apn-ssnmec-prorroga-disposiciones-transitorias-puntos-30-y-33-del-r-g-a-a/",
       "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-437-APN-SSN#MEC- MODIFICACIÓN DEL RGAA – ANEXO DEL PUNTO 23.2. INC. A)",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-437-apn-ssnmec-modificacion-del-rgaa-anexo-del-punto-23-2-inc-a/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-436-APN-SSN#MEC- CONCEDE RECURSO DE APELACIÓN ARTÍCULO 83 Ley N° 20.091 – PAS Cristian Gastón ALONSO, Sergio Adrián PRINCIPI y Natalia Soledad SCALZO – LIBRA COMPAÑÍA ARGENTINA DE SEGUROS S.A.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-436-apn-ssnmec-concede-recurso-de-apelacion-articulo-83-ley-n-20-091-pas-cristian-gaston-alonso-sergio-adrian-principi-y-natalia-soledad-scalzo-libra-compania-argentina-de-segu/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-435-APN-SSN#MEC- ZURICH INSURANCE PUBLIC LIMITED COMPANY – CAMBIO DE DENOMINACIÓN",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-435-apn-ssnmec-zurich-insurance-public-limited-company-cambio-de-denominacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dictan la liquidación judicial de Profru, la histórica aseguradora cooperativa de los productores frutícolas",
-      "resumen": "El Juzgado Comercial 30 abrió el proceso contra Productores de Frutas Argentinas Cooperativa de Seguros Ltda., que ya tenía prohibido emitir pólizas y acumulaba pedidos de quiebra, multas y reclamos de acreedores. Por…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/dictan-la-liquidacion-judicial-de-profru-la-historica-aseguradora-cooperativa-de-los-productores-fruticolas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Perseverancia Seguros celebra 121 años de trayectoria en el mercado asegurador",
-      "resumen": "Fundada en 1905 en la ciudad de Tres Arroyos, la compañía conmemora un nuevo aniversario destacando la evolución constante de sus procesos y la expansión de su red comercial a nivel nacional. Cumplir 121 años en el…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/la-perseverancia-seguros-celebra-121-anos-de-trayectoria-en-el-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Megaproyecto: dos empresas rosarinas se unen para transformar más de 25.000 m² urbanos",
-      "resumen": "La alianza entre dos compañías de amplia trayectoria dará lugar a una propuesta de vivienda y usos mixtos de más de 25.000 m², concebida a partir de la integración entre arquitectura, naturaleza y vida urbana. Fundar y…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://www.informeoperadores.com.ar/2026/10/15/megaproyecto-dos-empresas-rosarinas-se-unen-para-transformar-mas-de-25-000-m%c2%b2-urbanos/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/unnamed2-600x600.png"
-    },
-    {
-      "titulo": "Afianzadora suma 4 profesionales a su equipo comercial",
-      "resumen": "En un contexto global donde la automatización y el reemplazo de tareas por tecnología parecen marcar el rumbo del mercado de servicios, Afianzadora, especializada en Seguros de Caución, elige un camino distinto: hacer…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-10-15",
-      "url": "https://www.informeoperadores.com.ar/2026/10/15/afianzadora-suma-4-profesionales-a-su-equipo-comercial/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Foto-Comerciales-AFZ-600x400.jpg"
-    },
-    {
-      "titulo": "El fondeo de largo plazo, la llave para los créditos hipotecarios",
-      "resumen": "El Gobierno anunció que el Fondo de Garantía de Sustentabilidad (FGS) de ANSES podrá destinar hasta $2 billones a financiar bancos y ampliar la oferta de créditos hipotecarios. La iniciativa contempla plazos fijos de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://nbs.ar/anses-fondos-creditos-hipotecarios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros: aumento de becas DELF-DALF y alcance nacional",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CNP Seguros participó el 22 de septiembre en la Embajada de Francia en el encuentro del programa DELF-DALF; las becas aumentaron de 62 en 2023 a 136 en 2025 y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-14",
-      "url": "https://mercadosyseguros.com/cnp-seguros-aumento-de-becas-delf-dalf-y-alcance-nacional/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Webinar sobre adopción de IA para equipos de tecnología en seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com bdt global, la AACH y la Escuela de Seguros de Chile realizarán un webinar el 20 de octubre a las 10:00 para orientar a CIOs y CTOs de aseguradoras sobre cómo…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-14",
-      "url": "https://mercadosyseguros.com/webinar-sobre-adopcion-de-ia-para-equipos-de-tecnologia-en-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN actualiza el régimen de seguros para transporte de pasajeros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN emitió la Resol. SSN N° 415/2026, que reorganiza la rama Transporte de Pasajeros en dos subramas y establece la obligatoriedad de una franquicia para Servicios…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-10-14",
-      "url": "https://mercadosyseguros.com/ssn-actualiza-el-regimen-de-seguros-para-transporte-de-pasajeros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Eliminar app maliciosa: guía práctica y paso a paso",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ESET Latinoamérica explica cómo identificar y remover apps maliciosas: señales clave (permisos excesivos, consumo de batería y datos, cargos no reconocidos) y pasos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-14",
-      "url": "https://mercadosyseguros.com/eliminar-app-maliciosa-guia-practica-y-paso-a-paso/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Foro NEA 2026: 1.400 PAS llenaron Resistencia y mostraron el poder de trabajar juntos",
-      "resumen": "El evento fue un éxito de convocatoria y contenido. Lo organizaron las cuatro APAS del Nordeste junto a FAPASA, y lo abrió su presidenta, Agustina Decarre. Hablaron además el superintendente de Seguros de la Nación,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-14",
-      "url": "https://100seguro.com.ar/foro-nea-2026-1-400-pas-llenaron-resistencia-y-mostraron-el-poder-de-trabajar-juntos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/agustina-nea.jpg"
     }
   ]
 }
