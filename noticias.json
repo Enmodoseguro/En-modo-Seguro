@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-10-17T09:36-03:00",
+  "actualizado": "2026-10-18T09:54-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "NAIC: pedido para excluir GLM de las reglas sobre IA en seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociaciones de seguros pidieron al NAIC que excluya los modelos lineales generalizados (GLM) de su herramienta de evaluación de IA antes de la reunión de noviembre,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-17",
+      "url": "https://mercadosyseguros.com/naic-pedido-para-excluir-glm-de-las-reglas-sobre-ia-en-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cooperación Seguros celebra 100 años eligiendo estar",
+      "resumen": "La compañía celebra un siglo de historia, crecimiento y compromiso con las personas. La entrada Cooperación Seguros celebra 100 años eligiendo estar se publicó primero en 100% SEGURO .",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-17",
+      "url": "https://100seguro.com.ar/cooperacion-seguros-celebra-100-anos-eligiendo-estar/",
+      "imagen": ""
+    },
     {
       "titulo": "Seguros de auto: priorizar telemetría sobre el crédito",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La telemetría propone reemplazar el uso de edad, género y score crediticio —factores que hoy elevan primas— por datos de manejo reales (velocidad, frenadas,…",
@@ -165,15 +183,6 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Coloquio-de-IDEA-banner.jpeg"
     },
     {
-      "titulo": "Ualá ahora permite contratar seguro de autos junto a Allianz",
-      "resumen": "El banco digital incorpora la posibilidad de cotizar y contratar un seguro vehicular desde la app, combinando la agilidad de la tecnología con el respaldo de una aseguradora líder. La entrada Ualá ahora permite…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-15",
-      "url": "https://100seguro.com.ar/uala-ahora-permite-contratar-seguro-de-autos-junto-a-allianz/",
-      "imagen": ""
-    },
-    {
       "titulo": "IF-2026-98097416-APN-GEYE#SSN – SITUACIÓN DE MERCADO REASEGURADOR – JUNIO DE 2026",
       "resumen": "",
       "fuente": "El Seguro en Acción",
@@ -207,15 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-10-15",
       "url": "https://elseguroenaccion.com.ar/resol-2026-439-apn-ssnmec-reglamento-general-de-actividades-academicas-pas-examen-de-acreditacion-de-competencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-438-APN-SSN#MEC- PRÓRROGA DISPOSICIONES TRANSITORIAS – PUNTOS 30 Y 33 DEL R.G.A.A.",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-438-apn-ssnmec-prorroga-disposiciones-transitorias-puntos-30-y-33-del-r-g-a-a/",
       "imagen": ""
     }
   ]
