@@ -1,7 +1,97 @@
 {
-  "actualizado": "2026-10-18T09:54-03:00",
+  "actualizado": "2026-10-19T13:03-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Elon Musk vuelve a desafiar al seguro automotor: el auto volador de Tesla abre nuevos interrogantes para el mercado asegurador",
+      "resumen": "La conducción autónoma ya obligó a las aseguradoras a revisar cómo evalúan los riesgos, calculan las primas y determinan responsabilidades. Ahora, Tesla presentó una versión del Roadster con capacidad de vuelo, una…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://100seguro.com.ar/elon-musk-vuelve-a-desafiar-al-seguro-automotor-el-auto-volador-de-tesla-abre-nuevos-interrogantes-para-el-mercado-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-19-120747.png"
+    },
+    {
+      "titulo": "El nuevo restaurante de Belgrano que propone descubrir la carne desde el origen, el fuego y el vino",
+      "resumen": "La entrada El nuevo restaurante de Belgrano que propone descubrir la carne desde el origen, el fuego y el vino se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://www.informeoperadores.com.ar/2026/10/18/el-nuevo-restaurante-de-belgrano-que-propone-descubrir-la-carne-desde-el-origen-el-fuego-y-el-vino/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/ficha820.png"
+    },
+    {
+      "titulo": "Romina Valente: “El objetivo es ampliar la capacidad del banco Nación para continuar acompañando tanto al sector productivo como a las familias»",
+      "resumen": "Banco Nación obtuvo aproximadamente US$ 644 millones en dos emisiones de deuda realizadas en 2026, tras más de tres décadas fuera del mercado de capitales. Según Romina L. Valente, gerente de Banca de Inversión y…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://nbs.ar/romina-valente-el-objetivo-es-ampliar-la-capacidad-del-banco-nacion-para-continuar-acompanando-tanto-al-sector-productivo-como-a-las-familias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AlbaCaución lanza herramienta online para facilitar la cotización de garantías de alquiler familiar",
+      "resumen": "AlbaCaución ha lanzado una innovadora herramienta online que facilita la cotización de garantías de alquiler familiar. Esta nueva plataforma permite a los usuarios obtener, en cuestión de minutos, una estimación clara y…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-19",
+      "url": "https://nbs.ar/albacaucion-lanza-herramienta-online-para-facilitar-la-cotizacion-de-garantias-de-alquiler-familiar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alianza entre Ultra PR y CELESE para proteger y comunicar marcas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ultra PR y CELESE firmaron una alianza el 16/10/2026 para combinar comunicación estratégica y asesoramiento en propiedad intelectual. Ofrecen servicios conjuntos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-18",
+      "url": "https://mercadosyseguros.com/alianza-entre-ultra-pr-y-celese-para-proteger-y-comunicar-marcas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro agrícola: cómo evitar que una pérdida climática se transforme en crisis financiera",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Jimena Baigorria (IAPSER Seguros) explicó el 29 de septiembre en Buenos Aires que un productor puede tener hasta US$930.500 comprometidos en una campaña de maíz de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-18",
+      "url": "https://mercadosyseguros.com/seguro-agricola-como-evitar-que-una-perdida-climatica-se-transforme-en-crisis-financiera/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mundial 2026 impulsó aumento de viajes asegurados a Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Squaremouth informó un aumento del 55,9% en viajes asegurados a Argentina en septiembre-octubre de 2026. España creció 23,6% y otros países finalistas también…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-18",
+      "url": "https://mercadosyseguros.com/mundial-2026-impulso-aumento-de-viajes-asegurados-a-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Madurez digital de PAS: 30,6% con bajo uso tecnológico",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una encuesta de AAPAS a 157 PAS en AMBA ubica al 30,6% en madurez digital baja, 49% en media y 20,4% en alta. El estudio muestra uso extendido de WhatsApp y planillas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-10-18",
+      "url": "https://mercadosyseguros.com/madurez-digital-de-pas-306-con-bajo-uso-tecnologico/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reaseguro: más capacidad y más competencia, pero la Argentina todavía carga con su historial de pagos",
+      "resumen": "La entrada Reaseguro: más capacidad y más competencia, pero la Argentina todavía carga con su historial de pagos se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-18",
+      "url": "https://www.informeoperadores.com.ar/2026/10/18/reaseguro-mas-capacidad-y-mas-competencia-pero-la-argentina-todavia-carga-con-su-historial-de-pagos/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Reaseguro1.jpg"
+    },
+    {
+      "titulo": "“Los seguros de Vida y de Retiro atraviesan su mejor momento en mucho tiempo”",
+      "resumen": "La entrada “Los seguros de Vida y de Retiro atraviesan su mejor momento en mucho tiempo” se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-18",
+      "url": "https://www.informeoperadores.com.ar/2026/10/18/los-seguros-de-vida-y-de-retiro-atraviesan-su-mejor-momento-en-mucho-tiempo/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/foto-01-scaled.jpg"
+    },
     {
       "titulo": "NAIC: pedido para excluir GLM de las reglas sobre IA en seguros",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociaciones de seguros pidieron al NAIC que excluya los modelos lineales generalizados (GLM) de su herramienta de evaluación de IA antes de la reunión de noviembre,…",
@@ -126,96 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-16",
       "url": "https://elseguroenaccion.com.ar/redmes-reunio-a-mas-de-60-profesionales-del-sector-asegurador-en-su-meeting-point-paraguay-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Participar del Foro NEA del Seguro, el 8 de octubre en Resistencia, fue una experiencia muy valiosa para VTC – Vendé Tu Chocado",
-      "resumen": "En nombre de VTC, agradecemos a APAS Chaco y a las asociaciones APAS de Corrientes, Formosa y Misiones por la organización y por abrirnos el espacio para la participación de nuestra empresa en el evento. Durante el foro…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://elseguroenaccion.com.ar/participar-del-foro-nea-del-seguro-el-8-de-octubre-en-resistencia-fue-una-experiencia-muy-valiosa-para-vtc-vende-tu-chocado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "820",
-      "resumen": "La entrada 820 se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://www.informeoperadores.com.ar/2026/10/16/820/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Tapa-820-R90.jpg"
-    },
-    {
-      "titulo": "Reconocen la labor de UCOMA en los XXI Premios Biodiversidad de la Fundación BBVA",
-      "resumen": "Los XXI Premios Biodiversidad de la Fundación BBVA han puesto de relieve el compromiso y los esfuerzos en la protección del medio ambiente, con un enfoque especial en la persecución de delitos ambientales. Este año, uno…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://nbs.ar/reconocen-la-labor-de-ucoma-en-los-xxi-premios-biodiversidad-de-la-fundacion-bbva/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sin paz para Sancor: demandas colectivas y cuestionamiento a sus inversiones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una demanda colectiva por seguros sin consentimiento y compras de tierras públicas por casi US$ 59 millones vuelven a poner a Sancor Seguros bajo la lupa. La entrada…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://mercadosyseguros.com/sancor-seguros-denuncias-demanda-tierras-publicas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN revocó la autorización de una aseguradora y dispuso su liquidación forzosa",
-      "resumen": "La medida alcanza a Prof Seguros, que acumulaba sanciones por demoras en el pago de sentencias judiciales, restricciones para operar y observaciones sobre sus reservas técnicas. La decisión se produjo luego de que la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://100seguro.com.ar/la-ssn-revoco-la-autorizacion-de-una-aseguradora-y-dispuso-su-liquidacion-forzosa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del Coloquio de IDEA al mercado asegurador: la mirada de Hawk sobre inversión, riesgos y previsibilidad",
-      "resumen": "Concluido un nuevo Coloquio de IDEA, Sebastián Larrea analizó el clima de negocios que atraviesa la Argentina, las condiciones que el sector privado considera necesarias para volver a invertir a largo plazo y los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-15",
-      "url": "https://100seguro.com.ar/del-coloquio-de-idea-al-mercado-asegurador-la-mirada-de-hawk-sobre-inversion-riesgos-y-previsibilidad/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Coloquio-de-IDEA-banner.jpeg"
-    },
-    {
-      "titulo": "IF-2026-98097416-APN-GEYE#SSN – SITUACIÓN DE MERCADO REASEGURADOR – JUNIO DE 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/if-2026-98097416-apn-geyessn-situacion-de-mercado-reasegurador-junio-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-443-APN-SSN#MEC – PRODUCTORES DE FRUTAS ARGENTINAS COOPERATIVA DE SEGUROS LIMITADA – REVOCACIÓN DE LA AUTORIZACIÓN PARA OPERAR",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-443-apn-ssnmec-productores-de-frutas-argentinas-cooperativa-de-seguros-limitada-revocacion-de-la-autorizacion-para-operar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-440-APN-SSN#MEC – STARR INDEMNITY & LIABILITY COMPANY, SUCURSAL ARGENTINA, DE SEGUROS – AUTORIZACIÓN RAMA OTROS RIESGOS DE DAÑOS PATRIMONIALES – SEGURO DE CRISTALES",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-440-apn-ssnmec-starr-indemnity-liability-company-sucursal-argentina-de-seguros-autorizacion-rama-otros-riesgos-de-danos-patrimoniales-seguro-de-cristales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-439-APN-SSN#MEC – REGLAMENTO GENERAL DE ACTIVIDADES ACADÉMICAS PAS – EXAMEN DE ACREDITACIÓN DE COMPETENCIA",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-15",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-439-apn-ssnmec-reglamento-general-de-actividades-academicas-pas-examen-de-acreditacion-de-competencia/",
       "imagen": ""
     }
   ]
