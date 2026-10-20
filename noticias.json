@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-10-19T13:03-03:00",
+  "actualizado": "2026-10-20T10:59-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Cumbre de aseguradoras: impacto, cifras y desafíos del sector",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En la cumbre del sector, AVIRA, UART, ADEAA y ADIRA expusieron cifras y problemas: los seguros de personas pesan 14% de las primas y crecieron ~13% real; la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://mercadosyseguros.com/cumbre-de-aseguradoras-impacto-cifras-y-desafios-del-sector/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AlbaCaución lanzó cotizador online para garantías de alquiler",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AlbaCaución lanzó en octubre de 2026 un cotizador online que estima la prima de garantías de alquiler y permite iniciar la gestión con la compañía. La herramienta…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://mercadosyseguros.com/albacaucion-lanzo-cotizador-online-para-garantias-de-alquiler/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Coris apuesta a la IA y mantiene atención humana en asistencia al viajero",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Pilar Lozano, CEO de Grupo Coris LATAM, explicó que la empresa lleva tres años con proyectos de inteligencia artificial, formó a 50 de sus 170 empleados y lanzó 16…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-10-19",
+      "url": "https://mercadosyseguros.com/coris-apuesta-a-la-ia-y-mantiene-atencion-humana-en-asistencia-al-viajero/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Webinar Sedgwick: El Niño 2026/2027 y riesgos asegurables en LATAM",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sedgwick ofrecerá un webinar el 20 de octubre a las 12:00 (hora de Argentina) sobre El Niño 2026/2027, su probabilidad de intensificación y los riesgos para…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://mercadosyseguros.com/webinar-sedgwick-el-nino-2026-2027-y-riesgos-asegurables-en-latam/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate expuso ante el Comité de Finanzas y Seguros de AmCham",
+      "resumen": "El superintendente destacó la solvencia real de las aseguradoras, la evolución del modelo de supervisión y las oportunidades para ampliar el mercado asegurador argentino. La entrada Plate expuso ante el Comité de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://100seguro.com.ar/plate-expuso-ante-el-comite-de-finanzas-y-seguros-de-amcham/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
+      "resumen": "El fideicomiso financiero impulsado por Río Uruguay Seguros (RUS) recibió una mención especial de A3 Mercados por su propuesta innovadora, que conecta el mercado de capitales con la inversión inmobiliaria. La entrada La…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-19",
+      "url": "https://100seguro.com.ar/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/RUS-Futuro-2.jpeg"
+    },
+    {
+      "titulo": "Claims Services presenta su ecosistema IA multiagente para transformar la gestión de siniestros",
+      "resumen": "La insurtech presentó un ecosistema compuesto por herramientas multiagentes de inteligencia artificial, desarrollado con el respaldo tecnológico de Google Cloud, que busca potenciar cada instancia del proceso de gestión…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-19",
+      "url": "https://100seguro.com.ar/claims-services-presenta-su-ecosistema-ia-multiagente-para-transformar-la-gestion-de-siniestros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2023/11/Leonardo-Valseche_3.jpg"
+    },
     {
       "titulo": "Elon Musk vuelve a desafiar al seguro automotor: el auto volador de Tesla abre nuevos interrogantes para el mercado asegurador",
       "resumen": "La conducción autónoma ya obligó a las aseguradoras a revisar cómo evalúan los riesgos, calculan las primas y determinan responsabilidades. Ahora, Tesla presentó una versión del Roadster con capacidad de vuelo, una…",
@@ -10,6 +73,15 @@
       "fecha": "2026-10-19",
       "url": "https://100seguro.com.ar/elon-musk-vuelve-a-desafiar-al-seguro-automotor-el-auto-volador-de-tesla-abre-nuevos-interrogantes-para-el-mercado-asegurador/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-19-120747.png"
+    },
+    {
+      "titulo": "Continúa subiendo la satisfacción de los clientes con sus Aseguradoras",
+      "resumen": "Los resultados del Monitor del Mercado Asegurador demostraron que una mayor proporción de usuarios está a gusto con compañía de seguros. La satisfacción global obtuvo 8,1 puntos en el 2026, dos décimas más que el año…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://elseguroenaccion.com.ar/continua-subiendo-la-satisfaccion-de-los-clientes-con-sus-aseguradoras/",
+      "imagen": ""
     },
     {
       "titulo": "El nuevo restaurante de Belgrano que propone descubrir la carne desde el origen, el fuego y el vino",
@@ -27,6 +99,15 @@
       "categoria": "Mercado",
       "fecha": "2026-10-19",
       "url": "https://nbs.ar/romina-valente-el-objetivo-es-ampliar-la-capacidad-del-banco-nacion-para-continuar-acompanando-tanto-al-sector-productivo-como-a-las-familias/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CNP Seguros impulsa el desarrollo regional en el Foro NEA 2026 con nuevas oportunidades de negocio",
+      "resumen": "CNP Seguros estuvo presente en el Foro NEA 2026, celebrado el 8 de octubre en el Centro de Eventos y Convenciones de la ciudad de Resistencia, Chaco. Este evento reunió a actores clave del sector financiero y…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-19",
+      "url": "https://nbs.ar/cnp-seguros-impulsa-el-desarrollo-regional-en-el-foro-nea-2026-con-nuevas-oportunidades-de-negocio/",
       "imagen": ""
     },
     {
@@ -120,33 +201,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Gobernanza y control: clave del avance de la IA en aseguradoras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aseguradoras como Liberty Mutual y Harbor piden priorizar gobernanza, monitoreo continuo y control del stack de IA para evitar riesgos operativos, regulatorios y la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://mercadosyseguros.com/gobernanza-y-control-clave-del-avance-de-la-ia-en-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA en seguros de salud: revisar con humanos gana disputas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El uso de IA ya es mayoritario: 84% de aseguradoras la emplea y casi 1,4 millones de disputas se iniciaron en el segundo semestre de 2025. Más que la adopción,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://mercadosyseguros.com/ia-en-seguros-de-salud-revisar-con-humanos-gana-disputas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Explicar decisiones de suscripción IA: por qué es urgente",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Con el 62% de aseguradoras usando IA en 2026 y normas de la NAIC en discusión, la explicabilidad debe diseñarse desde el inicio en la suscripción. Calidad y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://mercadosyseguros.com/explicar-decisiones-de-suscripcion-ia-por-que-es-urgente/",
-      "imagen": ""
-    },
-    {
       "titulo": "Del Congreso de la Nación a la calle: la agenda del seguro y sus oportunidades",
       "resumen": "En un nuevo programa de 100% SEGURO, presentamos dos miradas complementarias del mercado asegurador: la agenda institucional de los Productores Asesores y la realidad comercial de una compañía con más de un siglo de…",
       "fuente": "100% Seguro",
@@ -162,60 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-16",
       "url": "https://100seguro.com.ar/cnp-seguros-dijo-presente-en-el-foro-nea-2026-para-impulsar-nuevas-oportunidades-de-negocio-en-la-region/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El reaseguro argentino multiplicó sus ganancias y mejoró su resultado técnico: los números de un año de recuperación",
-      "resumen": "El último informe de la SSN muestra una fuerte mejora en los principales indicadores del mercado reasegurador al cierre de junio de 2026. Las ganancias crecieron casi 400% en términos reales, la producción avanzó por…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/el-reaseguro-argentino-multiplico-sus-ganancias-y-mejoro-su-resultado-tecnico-los-numeros-de-un-ano-de-recuperacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN amplió a cuatro las oportunidades para rendir el examen de matrícula de Productor Asesor de Seguros",
-      "resumen": "El organismo modifica el reglamento de capacitación para aspirantes a Productores Asesores de Seguros y establece que podrán presentarse hasta cuatro veces dentro de los seis turnos de examen posteriores a la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/la-ssn-amplio-a-cuatro-las-oportunidades-para-rendir-el-examen-de-matricula-de-productor-asesor-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Guillermo Plate disertó en el primer Congreso Iberoamericano de Salud FICS 2026",
-      "resumen": "El evento reunió a referentes del sector público y privado de Europa y Latinoamérica para debatir sobre los desafíos del financiamiento sanitario, las políticas públicas y la innovación en salud. La entrada Guillermo…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/guillermo-plate-diserto-en-el-primer-congreso-iberoamericano-de-salud-fics-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/ssn_lugones_fis2026.jpg"
-    },
-    {
-      "titulo": "Nuevos reconocimientos de los XXI Premios Biodiversidad de la Fundación BBVA",
-      "resumen": "La persecución eficaz de los delitos ambientales liderada por la Unidad Central Operativa de Medio Ambiente (UCOMA) del Servicio de Protección de la Naturaleza de la Guardia Civil (SEPRONA), en defensa de las especies y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/nuevos-reconocimientos-de-los-xxi-premios-biodiversidad-de-la-fundacion-bbva/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AlbaCaución simplifica la cotización de garantías de alquiler familiar con una nueva herramienta online",
-      "resumen": "La compañía incorporó un cotizador que permite obtener en pocos minutos una estimación del costo de la garantía y continuar la gestión con un ejecutivo. La herramienta también puede ser utilizada por Productores…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/albacaucion-simplifica-la-cotizacion-de-garantias-de-alquiler-familiar-con-una-nueva-herramienta-online/",
-      "imagen": ""
-    },
-    {
-      "titulo": "REDMES reunió a más de 60 profesionales del sector asegurador en su Meeting Point Paraguay 2026",
-      "resumen": "En el marco de Octubre Rosa, el encuentro puso la prevención y el bienestar en el centro de la conversación sobre liderazgo. REDMES (Red Mujeres en Seguros) realizó el pasado jueves 15 de octubre el Meeting Point REDMES…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://elseguroenaccion.com.ar/redmes-reunio-a-mas-de-60-profesionales-del-sector-asegurador-en-su-meeting-point-paraguay-2026/",
       "imagen": ""
     }
   ]
