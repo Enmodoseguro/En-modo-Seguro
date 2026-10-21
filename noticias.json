@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-10-20T10:59-03:00",
+  "actualizado": "2026-10-21T11:15-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Serena ART refuerza su compromiso con el bienestar como sponsor de la McDonald’s Run 2026",
+      "resumen": "Serena ART participará de una de las carreras más convocantes del país con presencia de marca y un Circuito Bienestar especialmente diseñado para acompañar a los corredores y promover hábitos saludables. “En Serena…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/serena-art-refuerza-su-compromiso-con-el-bienestar-como-sponsor-de-la-mcdonalds-run-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RUS alcanza los 1.000 productores capacitados en inteligencia artificial",
+      "resumen": "A través de su Universidad Corporativa, U-RUS, la aseguradora cooperativa inició la segunda cohorte 2026 de su programa abierto y gratuito \"PAS Digital: IA aplicada a tu negocio\", con foco en IA privada y en cómo vender…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/rus-alcanza-los-1-000-productores-capacitados-en-inteligencia-artificial/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/RUS-IA-PAS-2.jpg"
+    },
+    {
+      "titulo": "Día del Seguro: qué le preguntan las personas a la inteligencia artificial",
+      "resumen": "Desde las diferencias entre coberturas de auto hasta la protección del hogar y los seguros de vida, Zurich Argentina presenta las consultas más frecuentes sobre seguros en plataformas de IA y destaca el rol de AcademIA…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/dia-del-seguro-que-le-preguntan-las-personas-a-la-inteligencia-artificial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día del Seguro: anticiparse a los riesgos, una responsabilidad cada vez más importante",
+      "resumen": "En un contexto de mayor incertidumbre climática, ATM Seguros destaca el valor de la prevención, la protección del patrimonio y el asesoramiento para tomar decisiones informadas. La entrada Día del Seguro: anticiparse a…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/dia-del-seguro-anticiparse-a-los-riesgos-una-responsabilidad-cada-vez-mas-importante/",
+      "imagen": ""
+    },
+    {
+      "titulo": "En el Día del Seguro, Galicia Seguros reafirma el valor de la conciencia aseguradora y el rol del productor como asesor",
+      "resumen": "El rol del productor es determinante en el mercado argentino: según la Superintendencia de Seguros de la Nación, los PAS y las sociedades de productores concentraron el 69,9% de toda la producción de seguros del país al…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/en-el-dia-del-seguro-galicia-seguros-reafirma-el-valor-de-la-conciencia-aseguradora-y-el-rol-del-productor-como-asesor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Generali transforma su liderazgo internacional con una nueva estructura organizacional aprobada por el Directorio",
+      "resumen": "Generali, una de las aseguradoras más grandes del mundo, ha dado un paso significativo al aprobar una nueva estructura organizacional. Esta decisión, impulsada por el CEO del Grupo, Philippe Donnet, busca mejorar la…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://nbs.ar/generali-transforma-su-liderazgo-internacional-con-una-nueva-estructura-organizacional-aprobada-por-el-directorio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "TDI publica herramienta que revela por qué rechazan seguros de auto",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Texas Department of Insurance puso en línea en 2026 una herramienta que muestra por código postal cuántas pólizas de auto fueron declinadas, canceladas o no…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-20",
+      "url": "https://mercadosyseguros.com/tdi-publica-herramienta-que-revela-por-que-rechazan-seguros-de-auto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Regla 100+edad y la falla histórica en la presión arterial",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La vieja regla de \"100 más la edad\" validó presiones altas en ancianos y contribuyó a subestimar riesgos. El caso del presidente Franklin D. Roosevelt, con presión de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-20",
+      "url": "https://mercadosyseguros.com/regla-100edad-y-la-falla-historica-en-la-presion-arterial/",
+      "imagen": ""
+    },
+    {
+      "titulo": "REDMES reunió a más de 60 profesionales en Paraguay",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com REDMES celebró el Meeting Point Paraguay 2026 el 15 de octubre con más de 60 profesionales de 11 aseguradoras. Se abordaron liderazgo sostenible, un programa contra…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-20",
+      "url": "https://mercadosyseguros.com/redmes-reunio-a-mas-de-60-profesionales-en-paraguay/",
+      "imagen": ""
+    },
+    {
+      "titulo": "VTC en el Foro NEA del Seguro: soluciones para vehículos siniestrados",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com VTC – Vendé Tu Chocado participó el 8 de octubre en el Foro NEA del Seguro en Resistencia, presentó su compra de vehículos siniestrados y VTC Parts (certificación…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-20",
+      "url": "https://mercadosyseguros.com/vtc-en-el-foro-nea-del-seguro-soluciones-para-vehiculos-siniestrados/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN detectó un déficit de capital de $620 millones en una aseguradora y le exigió un plan de saneamiento",
+      "resumen": "RESOLUCIÓN SSN 447/2026.- La Superintendencia de Seguros de la Nación (SSN) determinó un déficit de capitales mínimos de $620.698.998 en Comarseg Compañía Argentina de Seguros S.A. y la intimó a presentar, dentro de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-20",
+      "url": "https://100seguro.com.ar/la-ssn-detecto-un-deficit-de-capital-de-620-millones-en-una-aseguradora-y-le-exigio-un-plan-de-saneamiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Gobierno postergó la entrada en vigencia del FAL al 1 de diciembre y duplica el período de carencia",
+      "resumen": "Mediante el Decreto 1228/2026, publicado en el Boletín Oficial, el Poder Ejecutivo volvió a postergar la puesta en marcha del Fondo de Asistencia Laboral (FAL), creado por el Título II de la Ley de Modernización Laboral…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-20",
+      "url": "https://100seguro.com.ar/el-gobierno-postergo-la-entrada-en-vigencia-del-fal-al-1-de-diciembre-y-duplica-el-periodo-de-carencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Generali redefine su estructura y anuncia cambios en su liderazgo internacional",
+      "resumen": "El Directorio de Generali aprobó, por iniciativa del CEO del Grupo, Philippe Donnet, una nueva estructura organizacional para acompañar la etapa final del plan estratégico Lifetime Partner 27: Driving Excellence y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-20",
+      "url": "https://100seguro.com.ar/generali-redefine-su-estructura-y-anuncia-cambios-en-su-liderazgo-internacional/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Generali-Philippe-Donnet.jpg"
+    },
+    {
+      "titulo": "Congreso de COPAPROSE 2026: Quito fue la capital del seguro iberoamericano",
+      "resumen": "El XXXVI Congreso Iberoamericano de COPAPROSE reunió en Ecuador a más de 200 asistentes y delegaciones de la región para debatir sobre regulación, tecnología, profesionalización y experiencia del cliente. FAPASA…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-20",
+      "url": "https://100seguro.com.ar/congreso-de-copaprose-2026-quito-fue-la-capital-del-seguro-iberoamericano/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Decarre-con-Superintendente-de-Seguros-de-Ecuador-y-la-Directora-de-Normativa-Antilavado-de-la-Superintendencia-de-Seguros-de-Ecuador.jpeg"
+    },
+    {
+      "titulo": "¿Qué pasa con un auto después de ser robado?",
+      "resumen": "El robo de un vehículo es una situación que impacta de manera directa en la vida cotidiana de las personas. Más allá del hecho en sí, lo que ocurre en las horas posteriores resulta clave para definir si el auto podrá…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-20",
+      "url": "https://100seguro.com.ar/que-pasa-con-un-auto-despues-de-ser-robado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Flavia Núñez ”La Argentina todavía tiene mucho espacio para aumentar la penetración de los seguros»",
+      "resumen": "Flavia Núñez, gerente general de Life Seguros, destaca el potencial de la inteligencia artificial para optimizar procesos, detectar posibles fraudes y mejorar la atención al cliente mediante respuestas más ágiles y…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-20",
+      "url": "https://nbs.ar/flavia-nunez-life-seguros-penetracion-seguros-argentina/",
+      "imagen": ""
+    },
     {
       "titulo": "Cumbre de aseguradoras: impacto, cifras y desafíos del sector",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com En la cumbre del sector, AVIRA, UART, ADEAA y ADIRA expusieron cifras y problemas: los seguros de personas pesan 14% de las primas y crecieron ~13% real; la…",
@@ -39,48 +183,21 @@
       "imagen": ""
     },
     {
-      "titulo": "Plate expuso ante el Comité de Finanzas y Seguros de AmCham",
-      "resumen": "El superintendente destacó la solvencia real de las aseguradoras, la evolución del modelo de supervisión y las oportunidades para ampliar el mercado asegurador argentino. La entrada Plate expuso ante el Comité de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://100seguro.com.ar/plate-expuso-ante-el-comite-de-finanzas-y-seguros-de-amcham/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
-      "resumen": "El fideicomiso financiero impulsado por Río Uruguay Seguros (RUS) recibió una mención especial de A3 Mercados por su propuesta innovadora, que conecta el mercado de capitales con la inversión inmobiliaria. La entrada La…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-19",
-      "url": "https://100seguro.com.ar/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/RUS-Futuro-2.jpeg"
-    },
-    {
-      "titulo": "Claims Services presenta su ecosistema IA multiagente para transformar la gestión de siniestros",
-      "resumen": "La insurtech presentó un ecosistema compuesto por herramientas multiagentes de inteligencia artificial, desarrollado con el respaldo tecnológico de Google Cloud, que busca potenciar cada instancia del proceso de gestión…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-19",
-      "url": "https://100seguro.com.ar/claims-services-presenta-su-ecosistema-ia-multiagente-para-transformar-la-gestion-de-siniestros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2023/11/Leonardo-Valseche_3.jpg"
-    },
-    {
-      "titulo": "Elon Musk vuelve a desafiar al seguro automotor: el auto volador de Tesla abre nuevos interrogantes para el mercado asegurador",
-      "resumen": "La conducción autónoma ya obligó a las aseguradoras a revisar cómo evalúan los riesgos, calculan las primas y determinan responsabilidades. Ahora, Tesla presentó una versión del Roadster con capacidad de vuelo, una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://100seguro.com.ar/elon-musk-vuelve-a-desafiar-al-seguro-automotor-el-auto-volador-de-tesla-abre-nuevos-interrogantes-para-el-mercado-asegurador/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-19-120747.png"
-    },
-    {
       "titulo": "Continúa subiendo la satisfacción de los clientes con sus Aseguradoras",
       "resumen": "Los resultados del Monitor del Mercado Asegurador demostraron que una mayor proporción de usuarios está a gusto con compañía de seguros. La satisfacción global obtuvo 8,1 puntos en el 2026, dos décimas más que el año…",
       "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-10-19",
       "url": "https://elseguroenaccion.com.ar/continua-subiendo-la-satisfaccion-de-los-clientes-con-sus-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate disertó en el Primer Congreso Iberoamericano de Salud FICS 2026",
+      "resumen": "El evento reunió a referentes del sector público y privado de Europa y Latinoamérica para debatir sobre los desafíos del financiamiento sanitario, las políticas públicas y la innovación en salud. El 15 de octubre, el…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-19",
+      "url": "https://elseguroenaccion.com.ar/guillermo-plate-diserto-en-el-primer-congreso-iberoamericano-de-salud-fics-2026/",
       "imagen": ""
     },
     {
@@ -99,123 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-19",
       "url": "https://nbs.ar/romina-valente-el-objetivo-es-ampliar-la-capacidad-del-banco-nacion-para-continuar-acompanando-tanto-al-sector-productivo-como-a-las-familias/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros impulsa el desarrollo regional en el Foro NEA 2026 con nuevas oportunidades de negocio",
-      "resumen": "CNP Seguros estuvo presente en el Foro NEA 2026, celebrado el 8 de octubre en el Centro de Eventos y Convenciones de la ciudad de Resistencia, Chaco. Este evento reunió a actores clave del sector financiero y…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://nbs.ar/cnp-seguros-impulsa-el-desarrollo-regional-en-el-foro-nea-2026-con-nuevas-oportunidades-de-negocio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AlbaCaución lanza herramienta online para facilitar la cotización de garantías de alquiler familiar",
-      "resumen": "AlbaCaución ha lanzado una innovadora herramienta online que facilita la cotización de garantías de alquiler familiar. Esta nueva plataforma permite a los usuarios obtener, en cuestión de minutos, una estimación clara y…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-19",
-      "url": "https://nbs.ar/albacaucion-lanza-herramienta-online-para-facilitar-la-cotizacion-de-garantias-de-alquiler-familiar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alianza entre Ultra PR y CELESE para proteger y comunicar marcas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ultra PR y CELESE firmaron una alianza el 16/10/2026 para combinar comunicación estratégica y asesoramiento en propiedad intelectual. Ofrecen servicios conjuntos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-18",
-      "url": "https://mercadosyseguros.com/alianza-entre-ultra-pr-y-celese-para-proteger-y-comunicar-marcas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro agrícola: cómo evitar que una pérdida climática se transforme en crisis financiera",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Jimena Baigorria (IAPSER Seguros) explicó el 29 de septiembre en Buenos Aires que un productor puede tener hasta US$930.500 comprometidos en una campaña de maíz de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-18",
-      "url": "https://mercadosyseguros.com/seguro-agricola-como-evitar-que-una-perdida-climatica-se-transforme-en-crisis-financiera/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mundial 2026 impulsó aumento de viajes asegurados a Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Squaremouth informó un aumento del 55,9% en viajes asegurados a Argentina en septiembre-octubre de 2026. España creció 23,6% y otros países finalistas también…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-18",
-      "url": "https://mercadosyseguros.com/mundial-2026-impulso-aumento-de-viajes-asegurados-a-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Madurez digital de PAS: 30,6% con bajo uso tecnológico",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Una encuesta de AAPAS a 157 PAS en AMBA ubica al 30,6% en madurez digital baja, 49% en media y 20,4% en alta. El estudio muestra uso extendido de WhatsApp y planillas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-18",
-      "url": "https://mercadosyseguros.com/madurez-digital-de-pas-306-con-bajo-uso-tecnologico/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reaseguro: más capacidad y más competencia, pero la Argentina todavía carga con su historial de pagos",
-      "resumen": "La entrada Reaseguro: más capacidad y más competencia, pero la Argentina todavía carga con su historial de pagos se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-18",
-      "url": "https://www.informeoperadores.com.ar/2026/10/18/reaseguro-mas-capacidad-y-mas-competencia-pero-la-argentina-todavia-carga-con-su-historial-de-pagos/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/Reaseguro1.jpg"
-    },
-    {
-      "titulo": "“Los seguros de Vida y de Retiro atraviesan su mejor momento en mucho tiempo”",
-      "resumen": "La entrada “Los seguros de Vida y de Retiro atraviesan su mejor momento en mucho tiempo” se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-18",
-      "url": "https://www.informeoperadores.com.ar/2026/10/18/los-seguros-de-vida-y-de-retiro-atraviesan-su-mejor-momento-en-mucho-tiempo/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/foto-01-scaled.jpg"
-    },
-    {
-      "titulo": "NAIC: pedido para excluir GLM de las reglas sobre IA en seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Asociaciones de seguros pidieron al NAIC que excluya los modelos lineales generalizados (GLM) de su herramienta de evaluación de IA antes de la reunión de noviembre,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-17",
-      "url": "https://mercadosyseguros.com/naic-pedido-para-excluir-glm-de-las-reglas-sobre-ia-en-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cooperación Seguros celebra 100 años eligiendo estar",
-      "resumen": "La compañía celebra un siglo de historia, crecimiento y compromiso con las personas. La entrada Cooperación Seguros celebra 100 años eligiendo estar se publicó primero en 100% SEGURO .",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-17",
-      "url": "https://100seguro.com.ar/cooperacion-seguros-celebra-100-anos-eligiendo-estar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros de auto: priorizar telemetría sobre el crédito",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La telemetría propone reemplazar el uso de edad, género y score crediticio —factores que hoy elevan primas— por datos de manejo reales (velocidad, frenadas,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://mercadosyseguros.com/seguros-de-auto-priorizar-telemetria-sobre-el-credito/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del Congreso de la Nación a la calle: la agenda del seguro y sus oportunidades",
-      "resumen": "En un nuevo programa de 100% SEGURO, presentamos dos miradas complementarias del mercado asegurador: la agenda institucional de los Productores Asesores y la realidad comercial de una compañía con más de un siglo de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/del-congreso-de-la-nacion-a-la-calle-la-agenda-del-seguro-y-sus-oportunidades/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CNP Seguros dijo presente en el Foro NEA 2026 para impulsar nuevas oportunidades de negocio en la región",
-      "resumen": "CNP Seguros participó del Foro NEA 2026, realizado el 8 de octubre en el Centro de Convenciones Gala, en Chaco, un espacio de encuentro para referentes del sector asegurador y empresarial que tuvo como lema “El seguro…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-16",
-      "url": "https://100seguro.com.ar/cnp-seguros-dijo-presente-en-el-foro-nea-2026-para-impulsar-nuevas-oportunidades-de-negocio-en-la-region/",
       "imagen": ""
     }
   ]
