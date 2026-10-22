@@ -1,7 +1,106 @@
 {
-  "actualizado": "2026-10-21T11:15-03:00",
+  "actualizado": "2026-10-22T11:15-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Quito fue la capital del seguro iberoamericano y FAPASA dijo presente",
+      "resumen": "El XXXVI Congreso Iberoamericano de COPAPROSE reunió en Ecuador a más de 200 asistentes y delegaciones de la región para debatir sobre regulación, tecnología, profesionalización y experiencia del cliente. FAPASA…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/quito-fue-la-capital-del-seguro-iberoamericano-y-fapasa-dijo-presente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ciberseguros, Vida y pymes desprotegidas: el diagnóstico de 5 referentes del mercado asegurador",
+      "resumen": "Javier Barros (Dirección General, Grupo Barros), Jorge Gomez (JRG Consultores), Fernando Ortuondo (Productor, Raymond & Hijos · Asesores de Seguros), Rubén Estévez (Asesor de Seguros, titular de Estévez & Asociados) y…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/ciberseguros-vida-y-pymes-desprotegidas-el-diagnostico-de-5-referentes-del-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "«Lo único que va a hacer una diferencia en el futuro es el trabajo colaborativo»",
+      "resumen": "Agustina Decarre abrió en Quito el XXXVI Congreso Iberoamericano con un mensaje centrado en la integración regional, la profesionalización y la conciencia aseguradora. Ante delegaciones de toda la región, la presidente…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/lo-unico-que-va-a-hacer-una-diferencia-en-el-futuro-es-el-trabajo-colaborativo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Galicia Seguros destaca al productor y la conciencia aseguradora",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Galicia Seguros afirmó que los productores concentraron el 69,9% de la producción de seguros al cierre de 2025; el canal reúne 53.000 productores, representa 18.500…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://mercadosyseguros.com/galicia-seguros-destaca-al-productor-y-la-conciencia-aseguradora/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Casi 20% de las pymes argentinas sigue sin seguro pese a reconocer su valor",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un 19% de las pymes argentinas no tiene seguro pese a que el 84% valora la cobertura, según el Barómetro PyMEs Argentina de Chubb y un relevamiento de Pyme Protegida.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://mercadosyseguros.com/casi-20-de-las-pymes-argentinas-sigue-sin-seguro-pese-a-reconocer-su-valor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Satisfacción de clientes con aseguradoras sube a 8,1 en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Monitor del Mercado Asegurador de SEL Consultores y la AACS registró una satisfacción global de 8,1 en 2026 (sube 0,2) tras 52.813 entrevistas; el NPS cayó de 42 a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://mercadosyseguros.com/satisfaccion-de-clientes-con-aseguradoras-sube-a-81-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros de salud: Plate en el Congreso Iberoamericano FICS 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 15 de octubre Guillermo Plate explicó en el Congreso FICS 2026 cómo la Resol. SSN N° 258/2026 habilita a aseguradoras a ofrecer coberturas con prestaciones…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-10-21",
+      "url": "https://mercadosyseguros.com/seguros-de-salud-plate-en-el-congreso-iberoamericano-fics-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "América Latina y Caribe: un desastre natural por semana, cerca de 100 mil fallecidos y más de 360 mil millones de dólares en pérdidas",
+      "resumen": "Los desastres naturales son cada vez más frecuentes y graves en América Latina y el Caribe. Durante los últimos 50 años, cuatro de cada diez personas han sido impactadas por tormentas tropicales, huracanes,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/america-latina-y-caribe-un-desastre-natural-por-semana-cerca-de-100-mil-fallecidos-y-mas-de-360-mil-millones-de-dolares-en-perdidas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Desastres-de-origen-natural-registrados-en-America-Latina-y-el-Caribe.png"
+    },
+    {
+      "titulo": "Nativa Seguros renueva su campaña de seguridad vial con nuevas propuestas educativas y digitales",
+      "resumen": "Tras recibir el Premio Luchemos por la Vida 2025 en la categoría Empresa, la compañía amplía su campaña #ManejateSeguro con nuevos juegos educativos, actividades en escuelas, una Oficina Móvil y experiencias digitales…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/nativa-seguros-renueva-su-campana-de-seguridad-vial-con-nuevas-propuestas-educativas-y-digitales/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/seg.-vial-2026-9-953x556.jpeg"
+    },
+    {
+      "titulo": "Strix designa nueva Gerente de Marketing y Negocios Consumer para Argentina, Chile y Uruguay",
+      "resumen": "Daniela González asume la responsabilidad de liderar la estrategia de marketing y el desarrollo del negocio de consumo masivo en la región. La entrada Strix designa nueva Gerente de Marketing y Negocios Consumer para…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/strix-designa-nueva-gerente-de-marketing-y-negocios-consumer-para-argentina-chile-y-uruguay/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día del Seguro: el origen de una fecha histórica y el desafío de asegurar el futuro",
+      "resumen": "Cada 21 de octubre, la Argentina conmemora el Día del Seguro, una fecha instaurada en 1944 que recupera un antecedente de 1811. Más de dos siglos después, el desafío sigue vigente: fortalecer una conciencia aseguradora…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://100seguro.com.ar/dia-del-seguro-el-origen-de-una-fecha-historica-y-el-desafio-de-asegurar-el-futuro/",
+      "imagen": ""
+    },
     {
       "titulo": "Serena ART refuerza su compromiso con el bienestar como sponsor de la McDonald’s Run 2026",
       "resumen": "Serena ART participará de una de las carreras más convocantes del país con presencia de marca y un Circuito Bienestar especialmente diseñado para acompañar a los corredores y promover hábitos saludables. “En Serena…",
@@ -48,6 +147,60 @@
       "imagen": ""
     },
     {
+      "titulo": "Salud mamaria: prevención, detección temprana y redes de acompañamiento",
+      "resumen": "En el marco del Día Mundial de la Lucha contra el Cáncer de Mama, el segundo ciclo de Voces por la Salud Mamaria, el programa de RUS Media TV, reunió a profesionales de la salud e integrantes de Cascos Fríos Entre Ríos…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://elseguroenaccion.com.ar/salud-mamaria-prevencion-deteccion-temprana-y-redes-de-acompanamiento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
+      "resumen": "El fideicomiso financiero impulsado por Río Uruguay Seguros (RUS) recibió una mención especial de A3 Mercados por su propuesta innovadora, que conecta el mercado de capitales con la inversión inmobiliaria. El pasado…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-21",
+      "url": "https://elseguroenaccion.com.ar/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Motos – Patentamientos Quincenal – 1 al 15 de octubre",
+      "resumen": "Desde CAFAM (Cámara de Fabricantes de Motovehículos) comparten los datos de patentamientos de motos del 1 al 15 de octubre.",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://elseguroenaccion.com.ar/motos-patentamientos-quincenal-1-al-15-de-octubre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Saurit Román y Fabián Castillo: seguros pyme y satisfacción al cliente",
+      "resumen": "Nicolás Saurit Román, presidente de AAPAS, y Fabián Xavier Castillo, presidente de FECOBA y vicepresidente de CAME, analizan las necesidades de aseguramiento del comercio, la articulación gremial empresaria y el rol del…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://elseguroenaccion.com.ar/saurit-roman-y-fabian-castillo-seguros-pyme-y-satisfaccion-al-cliente/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Agropecuarios y Forestales: un ramo que crece al 52% y donde tres grupos ya controlan la mitad del mercado",
+      "resumen": "Con datos a junio 2026, nuestra exclusiva estadística interactiva permite comparar el desempeño de cada grupo asegurador en uno de los ramos más concentrados del mercado El ramo Agropecuarios y Forestales registró una…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-10-21",
+      "url": "https://elseguroenaccion.com.ar/agropecuarios-y-forestales-un-ramo-que-crece-al-52-y-donde-tres-grupos-ya-controlan-la-mitad-del-mercado/",
+      "imagen": ""
+    },
+    {
+      "titulo": "«El diferencial hoy pasa por la capacidad de adaptarse a este nuevo contexto atravesado por la IA»",
+      "resumen": "René Villegas, Gerente de Estrategia Comercial del Grupo Sancor Seguros, repasa cómo la inteligencia artificial está transformando la relación con los Productores Asesores de Seguros, qué habilidades son hoy…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-21",
+      "url": "https://elseguroenaccion.com.ar/el-diferencial-hoy-pasa-por-la-capacidad-de-adaptarse-a-este-nuevo-contexto-atravesado-por-la-ia/",
+      "imagen": ""
+    },
+    {
       "titulo": "Generali transforma su liderazgo internacional con una nueva estructura organizacional aprobada por el Directorio",
       "resumen": "Generali, una de las aseguradoras más grandes del mundo, ha dado un paso significativo al aprobar una nueva estructura organizacional. Esta decisión, impulsada por el CEO del Grupo, Philippe Donnet, busca mejorar la…",
       "fuente": "NBS",
@@ -57,165 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "TDI publica herramienta que revela por qué rechazan seguros de auto",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Texas Department of Insurance puso en línea en 2026 una herramienta que muestra por código postal cuántas pólizas de auto fueron declinadas, canceladas o no…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-20",
-      "url": "https://mercadosyseguros.com/tdi-publica-herramienta-que-revela-por-que-rechazan-seguros-de-auto/",
-      "imagen": ""
-    },
-    {
       "titulo": "Regla 100+edad y la falla histórica en la presión arterial",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com La vieja regla de \"100 más la edad\" validó presiones altas en ancianos y contribuyó a subestimar riesgos. El caso del presidente Franklin D. Roosevelt, con presión de…",
       "fuente": "Mercado y Seguros",
       "categoria": "Mercado",
       "fecha": "2026-10-20",
       "url": "https://mercadosyseguros.com/regla-100edad-y-la-falla-historica-en-la-presion-arterial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "REDMES reunió a más de 60 profesionales en Paraguay",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com REDMES celebró el Meeting Point Paraguay 2026 el 15 de octubre con más de 60 profesionales de 11 aseguradoras. Se abordaron liderazgo sostenible, un programa contra…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-20",
-      "url": "https://mercadosyseguros.com/redmes-reunio-a-mas-de-60-profesionales-en-paraguay/",
-      "imagen": ""
-    },
-    {
-      "titulo": "VTC en el Foro NEA del Seguro: soluciones para vehículos siniestrados",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com VTC – Vendé Tu Chocado participó el 8 de octubre en el Foro NEA del Seguro en Resistencia, presentó su compra de vehículos siniestrados y VTC Parts (certificación…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-20",
-      "url": "https://mercadosyseguros.com/vtc-en-el-foro-nea-del-seguro-soluciones-para-vehiculos-siniestrados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN detectó un déficit de capital de $620 millones en una aseguradora y le exigió un plan de saneamiento",
-      "resumen": "RESOLUCIÓN SSN 447/2026.- La Superintendencia de Seguros de la Nación (SSN) determinó un déficit de capitales mínimos de $620.698.998 en Comarseg Compañía Argentina de Seguros S.A. y la intimó a presentar, dentro de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-20",
-      "url": "https://100seguro.com.ar/la-ssn-detecto-un-deficit-de-capital-de-620-millones-en-una-aseguradora-y-le-exigio-un-plan-de-saneamiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El Gobierno postergó la entrada en vigencia del FAL al 1 de diciembre y duplica el período de carencia",
-      "resumen": "Mediante el Decreto 1228/2026, publicado en el Boletín Oficial, el Poder Ejecutivo volvió a postergar la puesta en marcha del Fondo de Asistencia Laboral (FAL), creado por el Título II de la Ley de Modernización Laboral…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-20",
-      "url": "https://100seguro.com.ar/el-gobierno-postergo-la-entrada-en-vigencia-del-fal-al-1-de-diciembre-y-duplica-el-periodo-de-carencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Generali redefine su estructura y anuncia cambios en su liderazgo internacional",
-      "resumen": "El Directorio de Generali aprobó, por iniciativa del CEO del Grupo, Philippe Donnet, una nueva estructura organizacional para acompañar la etapa final del plan estratégico Lifetime Partner 27: Driving Excellence y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-20",
-      "url": "https://100seguro.com.ar/generali-redefine-su-estructura-y-anuncia-cambios-en-su-liderazgo-internacional/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Generali-Philippe-Donnet.jpg"
-    },
-    {
-      "titulo": "Congreso de COPAPROSE 2026: Quito fue la capital del seguro iberoamericano",
-      "resumen": "El XXXVI Congreso Iberoamericano de COPAPROSE reunió en Ecuador a más de 200 asistentes y delegaciones de la región para debatir sobre regulación, tecnología, profesionalización y experiencia del cliente. FAPASA…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-20",
-      "url": "https://100seguro.com.ar/congreso-de-copaprose-2026-quito-fue-la-capital-del-seguro-iberoamericano/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Decarre-con-Superintendente-de-Seguros-de-Ecuador-y-la-Directora-de-Normativa-Antilavado-de-la-Superintendencia-de-Seguros-de-Ecuador.jpeg"
-    },
-    {
-      "titulo": "¿Qué pasa con un auto después de ser robado?",
-      "resumen": "El robo de un vehículo es una situación que impacta de manera directa en la vida cotidiana de las personas. Más allá del hecho en sí, lo que ocurre en las horas posteriores resulta clave para definir si el auto podrá…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-20",
-      "url": "https://100seguro.com.ar/que-pasa-con-un-auto-despues-de-ser-robado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Flavia Núñez ”La Argentina todavía tiene mucho espacio para aumentar la penetración de los seguros»",
-      "resumen": "Flavia Núñez, gerente general de Life Seguros, destaca el potencial de la inteligencia artificial para optimizar procesos, detectar posibles fraudes y mejorar la atención al cliente mediante respuestas más ágiles y…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-20",
-      "url": "https://nbs.ar/flavia-nunez-life-seguros-penetracion-seguros-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cumbre de aseguradoras: impacto, cifras y desafíos del sector",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En la cumbre del sector, AVIRA, UART, ADEAA y ADIRA expusieron cifras y problemas: los seguros de personas pesan 14% de las primas y crecieron ~13% real; la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://mercadosyseguros.com/cumbre-de-aseguradoras-impacto-cifras-y-desafios-del-sector/",
-      "imagen": ""
-    },
-    {
-      "titulo": "AlbaCaución lanzó cotizador online para garantías de alquiler",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AlbaCaución lanzó en octubre de 2026 un cotizador online que estima la prima de garantías de alquiler y permite iniciar la gestión con la compañía. La herramienta…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://mercadosyseguros.com/albacaucion-lanzo-cotizador-online-para-garantias-de-alquiler/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Coris apuesta a la IA y mantiene atención humana en asistencia al viajero",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Pilar Lozano, CEO de Grupo Coris LATAM, explicó que la empresa lleva tres años con proyectos de inteligencia artificial, formó a 50 de sus 170 empleados y lanzó 16…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-19",
-      "url": "https://mercadosyseguros.com/coris-apuesta-a-la-ia-y-mantiene-atencion-humana-en-asistencia-al-viajero/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Webinar Sedgwick: El Niño 2026/2027 y riesgos asegurables en LATAM",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sedgwick ofrecerá un webinar el 20 de octubre a las 12:00 (hora de Argentina) sobre El Niño 2026/2027, su probabilidad de intensificación y los riesgos para…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://mercadosyseguros.com/webinar-sedgwick-el-nino-2026-2027-y-riesgos-asegurables-en-latam/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Continúa subiendo la satisfacción de los clientes con sus Aseguradoras",
-      "resumen": "Los resultados del Monitor del Mercado Asegurador demostraron que una mayor proporción de usuarios está a gusto con compañía de seguros. La satisfacción global obtuvo 8,1 puntos en el 2026, dos décimas más que el año…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://elseguroenaccion.com.ar/continua-subiendo-la-satisfaccion-de-los-clientes-con-sus-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Guillermo Plate disertó en el Primer Congreso Iberoamericano de Salud FICS 2026",
-      "resumen": "El evento reunió a referentes del sector público y privado de Europa y Latinoamérica para debatir sobre los desafíos del financiamiento sanitario, las políticas públicas y la innovación en salud. El 15 de octubre, el…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-10-19",
-      "url": "https://elseguroenaccion.com.ar/guillermo-plate-diserto-en-el-primer-congreso-iberoamericano-de-salud-fics-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El nuevo restaurante de Belgrano que propone descubrir la carne desde el origen, el fuego y el vino",
-      "resumen": "La entrada El nuevo restaurante de Belgrano que propone descubrir la carne desde el origen, el fuego y el vino se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://www.informeoperadores.com.ar/2026/10/18/el-nuevo-restaurante-de-belgrano-que-propone-descubrir-la-carne-desde-el-origen-el-fuego-y-el-vino/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/ficha820.png"
-    },
-    {
-      "titulo": "Romina Valente: “El objetivo es ampliar la capacidad del banco Nación para continuar acompañando tanto al sector productivo como a las familias»",
-      "resumen": "Banco Nación obtuvo aproximadamente US$ 644 millones en dos emisiones de deuda realizadas en 2026, tras más de tres décadas fuera del mercado de capitales. Según Romina L. Valente, gerente de Banca de Inversión y…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-19",
-      "url": "https://nbs.ar/romina-valente-el-objetivo-es-ampliar-la-capacidad-del-banco-nacion-para-continuar-acompanando-tanto-al-sector-productivo-como-a-las-familias/",
       "imagen": ""
     }
   ]
