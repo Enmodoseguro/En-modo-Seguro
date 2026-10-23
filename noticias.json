@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-10-22T11:15-03:00",
+  "actualizado": "2026-10-23T10:58-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Adrian Sasse, líder estratégico de Mista Seguros: «Necesitamos un marco que acompañe la evolución del sector»",
+      "resumen": "La inteligencia artificial permite optimizar procesos, mejorar la toma de decisiones y personalizar la atención en el sector asegurador. Su implementación debe combinar tecnología e innovación con la cercanía humana.…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-23",
+      "url": "https://nbs.ar/inteligencia-artificial-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA y ciberseguridad: prácticas clave de Akamai",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Akamai propone siete prácticas para adoptar la IA de forma segura: reglas de uso, protección de datos, limitación de permisos, supervisión humana, validación de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://mercadosyseguros.com/ia-y-ciberseguridad-practicas-clave-de-akamai/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Preguntas sobre seguros que buscan las IA en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Zurich Argentina presentó, en el Día del Seguro (21 de octubre), las consultas más frecuentes que captan las plataformas de IA: dudas sobre coberturas de auto,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://mercadosyseguros.com/preguntas-sobre-seguros-que-buscan-las-ia-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día del Seguro: prevención y consejos de ATM Seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros destacó el 21 de octubre la importancia de la prevención y el asesoramiento para proteger el patrimonio. Recomendó revisar coberturas por granizo e…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://mercadosyseguros.com/dia-del-seguro-prevencion-y-consejos-de-atm-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ADIRA aprobó balance 2025/2026 y renovó autoridades en Rosario",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADIRA celebró su 45ª Asamblea el 24/9/2026 en Rosario, aprobó la Memoria y Balance 2025/2026 y renovó autoridades. Las asociadas representaron más del 26% de la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://mercadosyseguros.com/adira-aprobo-balance-2025-2026-y-renovo-autoridades-en-rosario/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Avances y desafíos del sistema de riesgos del trabajo en la tercera Cumbre Aseguradora Argentina",
+      "resumen": "La Superintendencia de Riesgos del Trabajo (SRT) participó de la jornada organizada por el Comité Asegurador Argentino, bajo el lema “Más seguros, más futuro”, en la Bolsa de Comercio de Buenos Aires. La entrada Avances…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://100seguro.com.ar/avances-y-desafios-del-sistema-de-riesgos-del-trabajo-en-la-tercera-cumbre-aseguradora-argentina/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/2026-10-22srtcumbre_aseguradora_02.jpeg"
+    },
+    {
+      "titulo": "IA en las empresas: las compañías líderes generan hasta cinco veces más valor cuando combinan estrategia y ejecución",
+      "resumen": "El Applied AI Index 2026 de Boston Consulting Group (BCG), basado en una encuesta a 1.330 directivos y altos ejecutivos de más de 20 sectores y 60 países, revela que casi la mitad de las organizaciones ya obtiene…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://100seguro.com.ar/ia-en-las-empresas-las-companias-lideres-generan-hasta-cinco-veces-mas-valor-cuando-combinan-estrategia-y-ejecucion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Tuio: la insurtech que entró en ChatGPT, sacudió a los brokers y ahora mira a Latinoamérica",
+      "resumen": "Por Hugues Bertin, CEO & Founder de Digital Insurance LatAm y Presidente de la Alianza Insurtech Panamericana (AIP).- Cada vez que analizo una insurtech me hago la misma pregunta: ¿crea valor real o solo hace ruido? Con…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-22",
+      "url": "https://100seguro.com.ar/tuio-la-insurtech-que-entro-en-chatgpt-sacudio-a-los-brokers-y-ahora-mira-a-latinoamerica/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/HUGUES-BERTIN-150x150.png"
+    },
+    {
+      "titulo": "La Caja, entre las mejores empleadoras del país",
+      "resumen": "La compañía ingresó al Ranking Merco Empresas Argentina 2026 y se ubicó entre las tres aseguradoras con mejor reputación del país, consolidando su liderazgo en el mercado y fortaleciendo su posicionamiento entre las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-22",
+      "url": "https://100seguro.com.ar/la-caja-entre-las-mejores-empleadoras-del-pais/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Jorge-Habif-Director-de-Personas-y-Cultura.jpg"
+    },
+    {
+      "titulo": "La SSN realizó la tradicional Santa Misa por el Día del Seguro en homenaje a Manuel Belgrano",
+      "resumen": "Autoridades, trabajadores del organismo y representantes del sector asegurador participaron de la ceremonia religiosa y del reconocimiento al precursor de la actividad en Argentina. La entrada La SSN realizó la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://100seguro.com.ar/la-ssn-realizo-la-tradicional-santa-misa-por-el-dia-del-seguro-en-homenaje-a-manuel-belgrano/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/ssn_misadelseguro_231021_28.jpg"
+    },
+    {
+      "titulo": "IF-2026-102047978-APN-GEYE#SSN – TASA TESTIGO SEGURO DE RETIRO VOLUNTARIO – OCTUBRE DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/if-2026-102047978-apn-geyessn-tasa-testigo-seguro-de-retiro-voluntario-octubre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-102047955-APN-GEYE#SSN – TASA TESTIGO RENTAS VITALICIAS PREVISIONALES – OCTUBRE DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/if-2026-102047955-apn-geyessn-tasa-testigo-rentas-vitalicias-previsionales-octubre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-101425086-APN-GE#SSN-Aclaraciones respecto a la presentación de los Estados Contables al 30/09/2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/if-2026-101425086-apn-gessn-aclaraciones-respecto-a-la-presentacion-de-los-estados-contables-al-30-09-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-449-APN-SSN#MEC – BARBUSS RISK SEGUROS (ARGENTINA) S.A. – AUTORIZACIÓN RAMA CAUCIÓN – SEGURO DE CAUCIÓN PARA OBRA Y/O SUMINISTROS Y/O SERVICIOS PÚBLICOS",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-449-apn-ssnmec-barbuss-risk-seguros-argentina-s-a-autorizacion-rama-caucion-seguro-de-caucion-para-obra-y-o-suministros-y-o-servicios-publicos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-448-APN-SSN#MEC – N.S.A. SEGUROS GENERALES S.A. – AUTORIZACIÓN RAMA CAUCIÓN – SEGURO DE CAUCIÓN PARA OBRA Y/O SUMINISTROS Y/O SERVICIOS PÚBLICOS",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-448-apn-ssnmec-n-s-a-seguros-generales-s-a-autorizacion-rama-caucion-seguro-de-caucion-para-obra-y-o-suministros-y-o-servicios-publicos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-447-APN-SSN#MEC- COMARSEG COMPAÑÍA ARGENTINA DE SEGUROS S.A. – AJUSTES DEFINITIVOS AL 30/06/2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-22",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-447-apn-ssnmec-comarseg-compania-argentina-de-seguros-s-a-ajustes-definitivos-al-30-06-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Quito fue la capital del seguro iberoamericano y FAPASA dijo presente",
       "resumen": "El XXXVI Congreso Iberoamericano de COPAPROSE reunió en Ecuador a más de 200 asistentes y delegaciones de la región para debatir sobre regulación, tecnología, profesionalización y experiencia del cliente. FAPASA…",
@@ -27,6 +171,15 @@
       "categoria": "Mercado",
       "fecha": "2026-10-22",
       "url": "https://elseguroenaccion.com.ar/lo-unico-que-va-a-hacer-una-diferencia-en-el-futuro-es-el-trabajo-colaborativo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Agustín Giménez y Santiago Seigneur, directores generales de Fianzas y Créditos: «La caución es, ante todo, un negocio de confianza y relación personal»",
+      "resumen": "Agustín Giménez y Santiago Seigneur, directores generales de Fianzas y Créditos, analizan cómo la inteligencia artificial está transformando el negocio de seguros de caución mediante la automatización de procesos, la…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-22",
+      "url": "https://nbs.ar/agustin-gimenez-y-santiago-seigneur-directores-generales-de-fianzas-y-creditos-la-caucion-es-ante-todo-un-negocio-de-confianza-y-relacion-personal/",
       "imagen": ""
     },
     {
@@ -63,159 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-10-21",
       "url": "https://mercadosyseguros.com/seguros-de-salud-plate-en-el-congreso-iberoamericano-fics-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "América Latina y Caribe: un desastre natural por semana, cerca de 100 mil fallecidos y más de 360 mil millones de dólares en pérdidas",
-      "resumen": "Los desastres naturales son cada vez más frecuentes y graves en América Latina y el Caribe. Durante los últimos 50 años, cuatro de cada diez personas han sido impactadas por tormentas tropicales, huracanes,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/america-latina-y-caribe-un-desastre-natural-por-semana-cerca-de-100-mil-fallecidos-y-mas-de-360-mil-millones-de-dolares-en-perdidas/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Desastres-de-origen-natural-registrados-en-America-Latina-y-el-Caribe.png"
-    },
-    {
-      "titulo": "Nativa Seguros renueva su campaña de seguridad vial con nuevas propuestas educativas y digitales",
-      "resumen": "Tras recibir el Premio Luchemos por la Vida 2025 en la categoría Empresa, la compañía amplía su campaña #ManejateSeguro con nuevos juegos educativos, actividades en escuelas, una Oficina Móvil y experiencias digitales…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/nativa-seguros-renueva-su-campana-de-seguridad-vial-con-nuevas-propuestas-educativas-y-digitales/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/seg.-vial-2026-9-953x556.jpeg"
-    },
-    {
-      "titulo": "Strix designa nueva Gerente de Marketing y Negocios Consumer para Argentina, Chile y Uruguay",
-      "resumen": "Daniela González asume la responsabilidad de liderar la estrategia de marketing y el desarrollo del negocio de consumo masivo en la región. La entrada Strix designa nueva Gerente de Marketing y Negocios Consumer para…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/strix-designa-nueva-gerente-de-marketing-y-negocios-consumer-para-argentina-chile-y-uruguay/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día del Seguro: el origen de una fecha histórica y el desafío de asegurar el futuro",
-      "resumen": "Cada 21 de octubre, la Argentina conmemora el Día del Seguro, una fecha instaurada en 1944 que recupera un antecedente de 1811. Más de dos siglos después, el desafío sigue vigente: fortalecer una conciencia aseguradora…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/dia-del-seguro-el-origen-de-una-fecha-historica-y-el-desafio-de-asegurar-el-futuro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Serena ART refuerza su compromiso con el bienestar como sponsor de la McDonald’s Run 2026",
-      "resumen": "Serena ART participará de una de las carreras más convocantes del país con presencia de marca y un Circuito Bienestar especialmente diseñado para acompañar a los corredores y promover hábitos saludables. “En Serena…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/serena-art-refuerza-su-compromiso-con-el-bienestar-como-sponsor-de-la-mcdonalds-run-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS alcanza los 1.000 productores capacitados en inteligencia artificial",
-      "resumen": "A través de su Universidad Corporativa, U-RUS, la aseguradora cooperativa inició la segunda cohorte 2026 de su programa abierto y gratuito \"PAS Digital: IA aplicada a tu negocio\", con foco en IA privada y en cómo vender…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/rus-alcanza-los-1-000-productores-capacitados-en-inteligencia-artificial/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/RUS-IA-PAS-2.jpg"
-    },
-    {
-      "titulo": "Día del Seguro: qué le preguntan las personas a la inteligencia artificial",
-      "resumen": "Desde las diferencias entre coberturas de auto hasta la protección del hogar y los seguros de vida, Zurich Argentina presenta las consultas más frecuentes sobre seguros en plataformas de IA y destaca el rol de AcademIA…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/dia-del-seguro-que-le-preguntan-las-personas-a-la-inteligencia-artificial/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día del Seguro: anticiparse a los riesgos, una responsabilidad cada vez más importante",
-      "resumen": "En un contexto de mayor incertidumbre climática, ATM Seguros destaca el valor de la prevención, la protección del patrimonio y el asesoramiento para tomar decisiones informadas. La entrada Día del Seguro: anticiparse a…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/dia-del-seguro-anticiparse-a-los-riesgos-una-responsabilidad-cada-vez-mas-importante/",
-      "imagen": ""
-    },
-    {
-      "titulo": "En el Día del Seguro, Galicia Seguros reafirma el valor de la conciencia aseguradora y el rol del productor como asesor",
-      "resumen": "El rol del productor es determinante en el mercado argentino: según la Superintendencia de Seguros de la Nación, los PAS y las sociedades de productores concentraron el 69,9% de toda la producción de seguros del país al…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-21",
-      "url": "https://100seguro.com.ar/en-el-dia-del-seguro-galicia-seguros-reafirma-el-valor-de-la-conciencia-aseguradora-y-el-rol-del-productor-como-asesor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Salud mamaria: prevención, detección temprana y redes de acompañamiento",
-      "resumen": "En el marco del Día Mundial de la Lucha contra el Cáncer de Mama, el segundo ciclo de Voces por la Salud Mamaria, el programa de RUS Media TV, reunió a profesionales de la salud e integrantes de Cascos Fríos Entre Ríos…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://elseguroenaccion.com.ar/salud-mamaria-prevencion-deteccion-temprana-y-redes-de-acompanamiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
-      "resumen": "El fideicomiso financiero impulsado por Río Uruguay Seguros (RUS) recibió una mención especial de A3 Mercados por su propuesta innovadora, que conecta el mercado de capitales con la inversión inmobiliaria. El pasado…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-10-21",
-      "url": "https://elseguroenaccion.com.ar/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Motos – Patentamientos Quincenal – 1 al 15 de octubre",
-      "resumen": "Desde CAFAM (Cámara de Fabricantes de Motovehículos) comparten los datos de patentamientos de motos del 1 al 15 de octubre.",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://elseguroenaccion.com.ar/motos-patentamientos-quincenal-1-al-15-de-octubre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Saurit Román y Fabián Castillo: seguros pyme y satisfacción al cliente",
-      "resumen": "Nicolás Saurit Román, presidente de AAPAS, y Fabián Xavier Castillo, presidente de FECOBA y vicepresidente de CAME, analizan las necesidades de aseguramiento del comercio, la articulación gremial empresaria y el rol del…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://elseguroenaccion.com.ar/saurit-roman-y-fabian-castillo-seguros-pyme-y-satisfaccion-al-cliente/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Agropecuarios y Forestales: un ramo que crece al 52% y donde tres grupos ya controlan la mitad del mercado",
-      "resumen": "Con datos a junio 2026, nuestra exclusiva estadística interactiva permite comparar el desempeño de cada grupo asegurador en uno de los ramos más concentrados del mercado El ramo Agropecuarios y Forestales registró una…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://elseguroenaccion.com.ar/agropecuarios-y-forestales-un-ramo-que-crece-al-52-y-donde-tres-grupos-ya-controlan-la-mitad-del-mercado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "«El diferencial hoy pasa por la capacidad de adaptarse a este nuevo contexto atravesado por la IA»",
-      "resumen": "René Villegas, Gerente de Estrategia Comercial del Grupo Sancor Seguros, repasa cómo la inteligencia artificial está transformando la relación con los Productores Asesores de Seguros, qué habilidades son hoy…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-10-21",
-      "url": "https://elseguroenaccion.com.ar/el-diferencial-hoy-pasa-por-la-capacidad-de-adaptarse-a-este-nuevo-contexto-atravesado-por-la-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Generali transforma su liderazgo internacional con una nueva estructura organizacional aprobada por el Directorio",
-      "resumen": "Generali, una de las aseguradoras más grandes del mundo, ha dado un paso significativo al aprobar una nueva estructura organizacional. Esta decisión, impulsada por el CEO del Grupo, Philippe Donnet, busca mejorar la…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-21",
-      "url": "https://nbs.ar/generali-transforma-su-liderazgo-internacional-con-una-nueva-estructura-organizacional-aprobada-por-el-directorio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Regla 100+edad y la falla histórica en la presión arterial",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La vieja regla de \"100 más la edad\" validó presiones altas en ancianos y contribuyó a subestimar riesgos. El caso del presidente Franklin D. Roosevelt, con presión de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-20",
-      "url": "https://mercadosyseguros.com/regla-100edad-y-la-falla-historica-en-la-presion-arterial/",
       "imagen": ""
     }
   ]
