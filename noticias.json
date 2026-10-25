@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-10-24T10:01-03:00",
+  "actualizado": "2026-10-25T10:28-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Generali ajusta su estructura y renueva liderazgo 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Generali aprobó el 26/10/2026 una nueva estructura que entra en vigor el 2/11/2026 y reorganiza funciones hacia el Group Deputy CEO Giulio Terzariol; habrá cambios…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-24",
+      "url": "https://mercadosyseguros.com/generali-ajusta-su-estructura-y-renueva-liderazgo-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Liberty Mutual: la reconstrucción que dejó a la empresa lista para IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Liberty Mutual unificó sus unidades tecnológicas entre 2021 y 2024 y creó un \"AI backbone\" integrado para incorporar IA en procesos y decisiones, combinando modelos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-24",
+      "url": "https://mercadosyseguros.com/liberty-mutual-la-reconstruccion-que-dejo-a-la-empresa-lista-para-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Impacto de la IA en seguros cibernéticos: Coalition no ve aumento de siniestros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Coalition, con datos de más de 110.000 pólizas, reporta que los reclamos por ransomware no aumentaron, pero detectó un alza del 30% en BEC a fines de 2025 y anticipa…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-24",
+      "url": "https://mercadosyseguros.com/impacto-de-la-ia-en-seguros-ciberneticos-coalition-no-ve-aumento-de-siniestros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Riesgos de IA superan al cambio climático según AXA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe \"AXA Future Risks\" revela que el 65% de los expertos considera a la IA más preocupante que el cambio climático; el 66% de clientes corporativos espera…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-24",
+      "url": "https://mercadosyseguros.com/riesgos-de-ia-superan-al-cambio-climatico-segun-axa/",
+      "imagen": ""
+    },
     {
       "titulo": "Aspire General automatiza 70% de las llamadas FNOL con IA",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aspire General implementó a Aria, un asistente de Liberate, que automatiza el 70% de las llamadas FNOL para recabar datos de siniestros, reducir tiempos de gestión y…",
@@ -180,42 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-22",
       "url": "https://mercadosyseguros.com/preguntas-sobre-seguros-que-buscan-las-ia-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día del Seguro: prevención y consejos de ATM Seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ATM Seguros destacó el 21 de octubre la importancia de la prevención y el asesoramiento para proteger el patrimonio. Recomendó revisar coberturas por granizo e…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-22",
-      "url": "https://mercadosyseguros.com/dia-del-seguro-prevencion-y-consejos-de-atm-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ADIRA aprobó balance 2025/2026 y renovó autoridades en Rosario",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADIRA celebró su 45ª Asamblea el 24/9/2026 en Rosario, aprobó la Memoria y Balance 2025/2026 y renovó autoridades. Las asociadas representaron más del 26% de la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-22",
-      "url": "https://mercadosyseguros.com/adira-aprobo-balance-2025-2026-y-renovo-autoridades-en-rosario/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Avances y desafíos del sistema de riesgos del trabajo en la tercera Cumbre Aseguradora Argentina",
-      "resumen": "La Superintendencia de Riesgos del Trabajo (SRT) participó de la jornada organizada por el Comité Asegurador Argentino, bajo el lema “Más seguros, más futuro”, en la Bolsa de Comercio de Buenos Aires. La entrada Avances…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-22",
-      "url": "https://100seguro.com.ar/avances-y-desafios-del-sistema-de-riesgos-del-trabajo-en-la-tercera-cumbre-aseguradora-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/2026-10-22srtcumbre_aseguradora_02.jpeg"
-    },
-    {
-      "titulo": "IF-2026-102047978-APN-GEYE#SSN – TASA TESTIGO SEGURO DE RETIRO VOLUNTARIO – OCTUBRE DE 2026",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-22",
-      "url": "https://elseguroenaccion.com.ar/if-2026-102047978-apn-geyessn-tasa-testigo-seguro-de-retiro-voluntario-octubre-de-2026/",
       "imagen": ""
     }
   ]
