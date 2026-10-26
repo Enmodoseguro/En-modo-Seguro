@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-10-25T10:28-03:00",
+  "actualizado": "2026-10-26T12:40-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Daniel Figueirido, CEO de Illumia: «La IA generativa está transformando el mercado de los seguros»",
+      "resumen": "Daniel Figueirido, CEO de Illumia, analiza cómo la inteligencia artificial generativa está transformando el mercado asegurador mediante la automatización, la atención omnicanal y soluciones más personalizadas. La…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-26",
+      "url": "https://nbs.ar/daniel-figueirido-ceo-de-illumia-la-ia-generativa-esta-transformando-el-mercado-de-los-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IAPSER ART renovó certificación IRAM-ISO 9001:2015",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com IAPSER ART renovó por sexto año consecutivo la certificación IRAM-ISO 9001:2015 e incorporó al alcance los servicios de rehabilitación del CIAM. La norma valida la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-25",
+      "url": "https://mercadosyseguros.com/iapser-art-renovo-certificacion-iram-iso-90012015/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cooperativismo asegurador y el desafío de subir la penetración del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Alejandro Canale Becker, director ejecutivo de la AACMS, destacó el aporte del cooperativismo en la inclusión regional, el valor de la IA en modelos predictivos y la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-25",
+      "url": "https://mercadosyseguros.com/cooperativismo-asegurador-y-el-desafio-de-subir-la-penetracion-del-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Agenda de ADEAA: solvencia, fraude y vínculo con la Justicia",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aldo Álvarez, presidente de ADEAA, detalló que las compañías avanzan en un ajuste de 24 meses para pasivos judiciales e IBNR, que se inaugurará el 26/10 una mesa con…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-25",
+      "url": "https://mercadosyseguros.com/agenda-de-adeaa-solvencia-fraude-y-vinculo-con-la-justicia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro de personas: brecha, oportunidad y agenda para crecer",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AVIRA afirmó que la penetración del seguro de Vida en Argentina fue 0,3% del PBI en 2024 y que los nacimientos cayeron ~47% desde 2014. La asociación pide una agenda…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-25",
+      "url": "https://mercadosyseguros.com/seguro-de-personas-brecha-oportunidad-y-agenda-para-crecer/",
+      "imagen": ""
+    },
     {
       "titulo": "Generali ajusta su estructura y renueva liderazgo 2026",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Generali aprobó el 26/10/2026 una nueva estructura que entra en vigor el 2/11/2026 y reorganiza funciones hacia el Group Deputy CEO Giulio Terzariol; habrá cambios…",
@@ -9,51 +54,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-24",
       "url": "https://mercadosyseguros.com/generali-ajusta-su-estructura-y-renueva-liderazgo-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Liberty Mutual: la reconstrucción que dejó a la empresa lista para IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Liberty Mutual unificó sus unidades tecnológicas entre 2021 y 2024 y creó un \"AI backbone\" integrado para incorporar IA en procesos y decisiones, combinando modelos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-24",
-      "url": "https://mercadosyseguros.com/liberty-mutual-la-reconstruccion-que-dejo-a-la-empresa-lista-para-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Impacto de la IA en seguros cibernéticos: Coalition no ve aumento de siniestros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Coalition, con datos de más de 110.000 pólizas, reporta que los reclamos por ransomware no aumentaron, pero detectó un alza del 30% en BEC a fines de 2025 y anticipa…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-24",
-      "url": "https://mercadosyseguros.com/impacto-de-la-ia-en-seguros-ciberneticos-coalition-no-ve-aumento-de-siniestros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Riesgos de IA superan al cambio climático según AXA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El informe \"AXA Future Risks\" revela que el 65% de los expertos considera a la IA más preocupante que el cambio climático; el 66% de clientes corporativos espera…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-24",
-      "url": "https://mercadosyseguros.com/riesgos-de-ia-superan-al-cambio-climatico-segun-axa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aspire General automatiza 70% de las llamadas FNOL con IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aspire General implementó a Aria, un asistente de Liberate, que automatiza el 70% de las llamadas FNOL para recabar datos de siniestros, reducir tiempos de gestión y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://mercadosyseguros.com/aspire-general-automatiza-70-de-las-llamadas-fnol-con-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reclamos cyber: AI y activos digitales reconfiguran la responsabilidad",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Los reclamos cibernéticos migraron de ransomware a incidentes mediados por inteligencia artificial y activos digitales. Fallas en modelos de IA y robos de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-10-23",
-      "url": "https://mercadosyseguros.com/reclamos-cyber-ai-y-activos-digitales-reconfiguran-la-responsabilidad/",
       "imagen": ""
     },
     {
