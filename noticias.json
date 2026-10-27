@@ -1,7 +1,124 @@
 {
-  "actualizado": "2026-10-26T12:40-03:00",
+  "actualizado": "2026-10-27T12:03-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Galicia y la compra de Sura: ¿un gran negocio para quién?",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Análisis: Galicia compró Sura con 775.000 clientes y 5.000 productores por US$ 19 millones, un 30% bajo el valor contable. ¿Un gran negocio para quién? La entrada…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-27",
+      "url": "https://mercadosyseguros.com/galicia-compra-sura-gran-negocio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Zona Oeste concentró casi la mitad de los robos de vehículos en septiembre",
+      "resumen": "El último Indicador de Robo Vehicular (IRV) de Ituran reveló que el Oeste concentró el 44,9% de los casos. Además, creció la participación de los robos a mano armada, que representaron más del 60% de los hechos, y los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-27",
+      "url": "https://100seguro.com.ar/zona-oeste-concentro-casi-la-mitad-de-los-robos-de-vehiculos-en-septiembre/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/IRV-Septiembre-2026-Tipo-de-vehiculo-mas-robado.png"
+    },
+    {
+      "titulo": "¿Qué busca una gran empresa para contratar una startup? Las claves que dejó la Rosario Tech Week",
+      "resumen": "La Segunda Seguros impulsó un espacio de networking y debate sobre los desafíos, aprendizajes y factores que pueden convertir a una startup en proveedor de una gran compañía. La entrada ¿Qué busca una gran empresa para…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-27",
+      "url": "https://100seguro.com.ar/que-busca-una-gran-empresa-para-contratar-una-startup-las-claves-que-dejo-la-rosario-tech-week/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/batch_DSC08922.jpg"
+    },
+    {
+      "titulo": "Meridional Seguros y River Plate renuevan su compromiso por el bienestar de sus millones de seguidores",
+      "resumen": "Meridional Seguros y el Club Atlético River Plate han anunciado la renovación de su alianza estratégica, un acuerdo que busca continuar ofreciendo beneficios a millones de personas, tanto dentro como fuera de la cancha.…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-27",
+      "url": "https://nbs.ar/meridional-seguros-y-river-plate-renuevan-su-compromiso-por-el-bienestar-de-sus-millones-de-seguidores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gerónimo Fresco, CEO de Galicia Seguros: «La IA en seguros no viene a reemplazar trabajos, sino a potenciar a las personas”",
+      "resumen": "Gerónimo Fresco, CEO de Galicia Seguros, analiza cómo la inteligencia artificial está transformando el sector asegurador mediante la automatización de procesos, la agilización de siniestros y la mejora de la experiencia…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-10-27",
+      "url": "https://nbs.ar/geronimo-fresco-ceo-de-galicia-seguros-la-ia-en-seguros-no-viene-a-reemplazar-trabajos-sino-a-potenciar-a-las-personas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA y productores: adaptación y oportunidades en seguros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Sancor Seguros incorpora IA en 2024: cotizador por WhatsApp, OCR para facturas y agentes virtuales para PAS. La firma impulsa formación en IA, programas de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://mercadosyseguros.com/ia-y-productores-adaptacion-y-oportunidades-en-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ualá lanza seguro de autos con Allianz en su app",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ualá lanzó en su app un seguro de autos junto a Allianz con dos planes de Terceros Completo y Responsabilidad Civil hasta $416 millones. La contratación se realiza…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://mercadosyseguros.com/uala-lanza-seguro-de-autos-con-allianz-en-su-app/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro cibernético y pérdidas de alimentos tras hackeo a supermercados",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un ciberataque el 15 de octubre sobre 350 supermercados en Francia obligó a tirar alimentos por el calentamiento de refrigeradores a 50 ºC. Las aseguradoras sostienen…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://mercadosyseguros.com/seguro-cibernetico-y-perdidas-de-alimentos-tras-hackeo-a-supermercados/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Financiación insurtech 2026: IA concentra 2.440 MUSD",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En el segundo trimestre de 2026, las insurtech orientadas a IA captaron 2.440 MUSD (99,1% del total) y todas las rondas mayores a 5 MUSD; la inversión en etapas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-10-26",
+      "url": "https://mercadosyseguros.com/financiacion-insurtech-2026-ia-concentra-2-440-musd/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“La mejor póliza no es la más compleja, sino la que el cliente entiende, valora y sabe usar cuando la necesita”",
+      "resumen": "ENTREVISTA 100% SEGURO.- Cada 21 de octubre, la celebración por el Día del Seguro es un buen motivo para analizar el presente y las perspectivas que tiene por delante el mercado asegurador argentino. En esta…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://100seguro.com.ar/la-mejor-poliza-no-es-la-mas-compleja-sino-la-que-el-cliente-entiende-valora-y-sabe-usar-cuando-la-necesita/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Segunda Seguros acompañó la séptima edición del Festival Bandera en Rosario",
+      "resumen": "Con más de 20 mil asistentes, 30 artistas, el festival estrenó nuevo predio, sumó cuatro escenarios y ofreció una propuesta cargada de intervenciones interactivas y grandes sorpresas para el público. La entrada La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-acompano-la-septima-edicion-del-festival-bandera-en-rosario/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Meridional Seguros y River Plate renuevan su alianza estratégica para seguir acompañando a millones de personas dentro y fuera de la cancha",
+      "resumen": "Meridional Seguros y el Club Atlético River Plate anuncian la renovación del vínculo hasta fines de 2028. Esta nueva etapa refleja una visión compartida, centrada en las personas, la confianza y el desarrollo de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://100seguro.com.ar/meridional-seguros-y-river-plate-renuevan-su-alianza-estrategica-para-seguir-acompanando-a-millones-de-personas-dentro-y-fuera-de-la-cancha/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/DSC_1815.jpg"
+    },
+    {
+      "titulo": "Strix invita al 9º Seminario IAATI América Latina junto a INTERPOL",
+      "resumen": "Se trata de una nueva edición del seminario anual organizado por la Asociación Internacional de Investigadores del Robo de Autos (IAATI), que reunirá a más de 100 expertos en materia de delitos automotores de la región.…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-26",
+      "url": "https://100seguro.com.ar/strix-invita-al-9o-seminario-iaati-america-latina-junto-a-interpol/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Flayer-Martin-Py-IAATI.jpeg"
+    },
     {
       "titulo": "Daniel Figueirido, CEO de Illumia: «La IA generativa está transformando el mercado de los seguros»",
       "resumen": "Daniel Figueirido, CEO de Illumia, analiza cómo la inteligencia artificial generativa está transformando el mercado asegurador mediante la automatización, la atención omnicanal y soluciones más personalizadas. La…",
@@ -57,24 +174,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Serena ART sponsor de la McDonald’s Run 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Serena ART será sponsor de la McDonald’s Run 2026, el 25 de octubre en Vicente López, con más de 6.000 participantes previstos en 5K y 10K. La aseguradora instalará…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://mercadosyseguros.com/serena-art-sponsor-de-la-mcdonalds-run-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Día del Seguro: origen y legado en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En 1811 el Primer Triunvirato, con impulso de Manuel Belgrano, promovió la creación de una entidad aseguradora, origen de la actividad del seguro en Argentina. Hoy el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://mercadosyseguros.com/dia-del-seguro-origen-y-legado-en-argentina/",
-      "imagen": ""
-    },
-    {
       "titulo": "Del cobro de la póliza al siniestro: dos “momentos de la verdad” del seguro",
       "resumen": "En un nuevo programa de 100% SEGURO, pusimos el foco en la eficiencia de los sistemas de cobranza y la gestión de los grandes siniestros, con impacto directo en los resultados de las compañías y en la protección de los…",
       "fuente": "100% Seguro",
@@ -111,111 +210,12 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/aalps-cumbre-2.jpg"
     },
     {
-      "titulo": "Bajo el lema “Más seguros, más futuro”, se realizó la tercera Cumbre Aseguradora Argentina",
-      "resumen": "La tercera edición del evento contó con la conducción de 100% SEGURO, así como también la moderación del panel sobre Riesgos del Trabajo. La entrada Bajo el lema “Más seguros, más futuro”, se realizó la tercera Cumbre…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-23",
-      "url": "https://100seguro.com.ar/bajo-el-lema-mas-seguros-mas-futuro-se-realizo-la-tercera-cumbre-aseguradora-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Diego-Guaita-ADIRA-en-la-3era-Cumbre-Aseguradora-Argentina.jpeg"
-    },
-    {
-      "titulo": "Plate llamó al sector asegurador a ampliar su capacidad para acompañar las grandes inversiones en la Argentina",
-      "resumen": "En la 3ª Cumbre Aseguradora Argentina, destacó la necesidad de fortalecer el capital y el respaldo técnico de las compañías para contribuir al crecimiento económico, asumir nuevos riesgos y ampliar la cobertura del…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://100seguro.com.ar/plate-llamo-al-sector-asegurador-a-ampliar-su-capacidad-para-acompanar-las-grandes-inversiones-en-la-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/ssn_cumbreaseg_261022_-38.jpg"
-    },
-    {
-      "titulo": "La SSN levantó la inhibición general de bienes que pesaba sobre una aseguradora",
-      "resumen": "La medida se tomó luego de que la compañía cumpliera con el Plan de Regularización y Saneamiento aprobado por el organismo en agosto, tras detectarse un déficit de capitales mínimos de más de $720 millones. La SSN…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-23",
-      "url": "https://100seguro.com.ar/la-ssn-levanto-la-inhibicion-general-de-bienes-que-pesaba-sobre-una-aseguradora/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Semana de la Seguridad en Pilkington: prevención, interdependencia y compromiso para construir entornos de trabajo más seguros",
-      "resumen": "En Pilkington Argentina, la seguridad es un valor fundamental que atraviesa tanto el ámbito laboral como la vida cotidiana. En el marco del Día Mundial de la Seguridad de NSG Group que se conmemora el 13 de octubre, la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://100seguro.com.ar/semana-de-la-seguridad-en-pilkington-prevencion-interdependencia-y-compromiso-para-construir-entornos-de-trabajo-mas-seguros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Semana-de-la-Seguridad-en-Pilkington-003.jpg"
-    },
-    {
-      "titulo": "RUS realizó su 64ª Asamblea General Ordinaria y renovó autoridades",
-      "resumen": "En cumplimiento de lo establecido por el artículo 47 de la Ley de Cooperativas 20.337 de Argentina y el Estatuto Social de la cooperativa, el pasado jueves 22 de octubre, a las 13 horas, RUS realizó su sexagésima cuarta…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://100seguro.com.ar/rus-realizo-su-64a-asamblea-general-ordinaria-y-renovo-autoridades/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Gregorio-Garro-y-Juan-Carlos-Lucio-Godoy.jpeg"
-    },
-    {
       "titulo": "Nuevo presidente del consejo de administración de RUS",
       "resumen": "En cumplimiento de lo establecido por el artículo 47 de la Ley de Cooperativas Nº 20.337 de Argentina y el Estatuto Social de la cooperativa, este jueves 22 de octubre, a las 13 hs, RUS realizó su sexagésima cuarta…",
       "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-10-23",
       "url": "https://elseguroenaccion.com.ar/nuevo-presidente-del-consejo-de-administracion-de-rus/",
-      "imagen": ""
-    },
-    {
-      "titulo": "3era Cumbre Aseguradora Argentina",
-      "resumen": "Bajo el lema «Más seguros, más futuro», se realizó la tercera Cumbre Aseguradora Argentina en la Bolsa de Comercio de Buenos Aires. En el marco de la celebración del Día del Seguro, los presidentes de las cámaras…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://elseguroenaccion.com.ar/3era-cumbre-aseguradora-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Caja se destaca en el Ranking Merco 2026 como una de las mejores empleadoras de Argentina",
-      "resumen": "La Caja ha sido reconocida recientemente en el Ranking Merco Empresas Argentina 2026, un estudio de referencia que clasifica a las empresas según su reputación y responsabilidad corporativa. En este ranking, La Caja se…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://nbs.ar/la-caja-se-destaca-en-el-ranking-merco-2026-como-una-de-las-mejores-empleadoras-de-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Citi invierte USD 72 millones en proyecto de biocarbón para impulsar la captura de carbono en Texas",
-      "resumen": "Citi ha cerrado una operación de USD 72 millones mediante un instrumento financiero que permitirá el desarrollo de un proyecto de biocarbón en Texas. Esta iniciativa tiene como objetivo principal la captura de carbono,…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-23",
-      "url": "https://nbs.ar/citi-invierte-usd-72-millones-en-proyecto-de-biocarbon-para-impulsar-la-captura-de-carbono-en-texas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Adrian Sasse, líder estratégico de Mista Seguros: «Necesitamos un marco que acompañe la evolución del sector»",
-      "resumen": "La inteligencia artificial permite optimizar procesos, mejorar la toma de decisiones y personalizar la atención en el sector asegurador. Su implementación debe combinar tecnología e innovación con la cercanía humana.…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-23",
-      "url": "https://nbs.ar/inteligencia-artificial-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y ciberseguridad: prácticas clave de Akamai",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Akamai propone siete prácticas para adoptar la IA de forma segura: reglas de uso, protección de datos, limitación de permisos, supervisión humana, validación de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-22",
-      "url": "https://mercadosyseguros.com/ia-y-ciberseguridad-practicas-clave-de-akamai/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Preguntas sobre seguros que buscan las IA en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Zurich Argentina presentó, en el Día del Seguro (21 de octubre), las consultas más frecuentes que captan las plataformas de IA: dudas sobre coberturas de auto,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-22",
-      "url": "https://mercadosyseguros.com/preguntas-sobre-seguros-que-buscan-las-ia-en-argentina/",
       "imagen": ""
     }
   ]
