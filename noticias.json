@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-10-29T12:45-03:00",
+  "actualizado": "2026-10-30T12:27-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "La SSN concedió la apelación de una aseguradora contra la revocación de su autorización para operar",
+      "resumen": "RESOLUCIÓN SSN 462/2026.- La Superintendencia de Seguros de la Nación (SSN) concedió el recurso de apelación presentado por Productores de Frutas Argentinas Cooperativa de Seguros Limitada (Prof Seguros) contra la…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-30",
+      "url": "https://100seguro.com.ar/la-ssn-concedio-la-apelacion-de-una-aseguradora-contra-la-revocacion-de-su-autorizacion-para-operar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN concedió la apelación de una aseguradora contra una multa de $7,5 millones",
+      "resumen": "RESOLUCIÓN SSN 457/2026.- La Superintendencia de Seguros de la Nación (SSN) concedió el recurso de apelación interpuesto por Aseguradora del Finisterre Compañía Argentina de Seguros S.A. contra la resolución que, en…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://100seguro.com.ar/la-ssn-concedio-la-apelacion-de-una-aseguradora-contra-una-multa-de-75-millones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ATM Seguros invita a vivir la Expo Moto Gualeguaychú 2026 y sortea 100 entradas para el evento",
+      "resumen": "La compañía emblema en seguros de motos acompañará una nueva edición del encuentro motociclista como sponsor principal, que se realizará del 13 al 15 de noviembre en los Galpones del Puerto de esa ciudad entrerriana. A…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-29",
+      "url": "https://100seguro.com.ar/atm-seguros-invita-a-vivir-la-expo-moto-gualeguaychu-2026-y-sortea-100-entradas-para-el-evento/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Anthropic advierte que una catástrofe provocada por la IA podría superar la capacidad de toda la industria aseguradora",
+      "resumen": "La compañía detrás de Claude incluyó en el prospecto presentado para su salida a bolsa una advertencia sobre los riesgos catastróficos que podrían generar los sistemas de inteligencia artificial más avanzados. El…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-10-29",
+      "url": "https://100seguro.com.ar/anthropic-advierte-que-una-catastrofe-provocada-por-la-ia-podria-superar-la-capacidad-de-toda-la-industria-aseguradora/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día del Seguro",
+      "resumen": "Virginia Alarcia asistió a la ceremonia religiosa que la Superintendencia de Seguros de la Nación realizó en honor a Manuel Belgrano. La entrada Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://100seguro.com.ar/virginia-alarcia-presidente-de-la-aalps-participo-de-la-misa-por-el-dia-del-seguro/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/misa-seguro-2026-.jpg"
+    },
     {
       "titulo": "Grupo Sancor Seguros integra nuevamente la Mesa Directiva de Pacto Global Argentina",
       "resumen": "Grupo Sancor Seguros fue elegido para integrar el Directorio de Pacto Global Argentina para el período 2026-2028, en calidad de miembro titular en la categoría Grandes Empresas, renovando así su participación en el…",
@@ -48,30 +93,48 @@
       "imagen": ""
     },
     {
-      "titulo": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026",
-      "resumen": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026, realizada los días 22 y 23 de octubre en el Predio Las Camelias, en San José, Entre Ríos. El encuentro, organizado por la Asociación Civil…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/el-grupo-cooperativo-rus-participo-de-la-bienal-de-la-produccion-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SRT recibió a autoridades del Instituto Salvadoreño del Seguro Social",
-      "resumen": "El Superintendente de Riesgos del Trabajo, Gustavo Morón, y el Gerente General del organismo, Fernando Pérez, recibieron a una delegación del Instituto Salvadoreño del Seguro Social (ISSS), encabezada por su Directora…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/la-srt-recibio-a-autoridades-del-instituto-salvadoreno-del-seguro-social/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día del Seguro",
-      "resumen": "Virginia Alarcia asistió a la ceremonia religiosa que la Superintendencia de Seguros de la Nación realizó en honor a Manuel Belgrano. Virginia Alarcia, presidente de la Asociación Argentina de Liquidadores y Peritos de…",
+      "titulo": "IF-2026-104174459-APN-GEYE#SSN – RENTABILIDAD BRUTA MENSUAL – SEPTIEMBRE DE 2026",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
       "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/virginia-alarcia-presidente-de-la-aalps-participo-de-la-misa-por-el-dia-del-seguro/",
+      "url": "https://elseguroenaccion.com.ar/if-2026-104174459-apn-geyessn-rentabilidad-bruta-mensual-septiembre-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-460-APN-SSN#MEC – INSCRIPCIÓN RAE – OSCAR EDUARDO VILLAREAL",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-460-apn-ssnmec-inscripcion-rae-oscar-eduardo-villareal/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-459-APN-SSN#MEC – INSCRIPCIÓN RAE – BERNARDO CESAR DAS NEVES",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-459-apn-ssnmec-inscripcion-rae-bernardo-cesar-das-neves/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-458-APN-SSN#MEC – LOGRAR COMPAÑÍA DE SEGUROS PATRIMONIALES SOCIEDAD ANÓNIMA (CON CAMBIO DE DENOMINACIÓN A SERENA COMPAÑÍA DE SEGUROS PATRIMONIALES S.A.U. PENDIENTE DE INSCRIPCIÓN) – AUTORIZACIÓN DE RAMA Y SEGURO DE RESPONSABILIDAD CIVIL",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-458-apn-ssnmec-lograr-compania-de-seguros-patrimoniales-sociedad-anonima-con-cambio-de-denominacion-a-serena-compania-de-seguros-patrimoniales-s-a-u-pendiente-de-inscripcion-autoriz/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RESOL-2026-457-APN-SSN#MEC – ASEGURADORA DEL FINISTERRE COMPANÍA ARGENTINA DE SEGUROS S.A. – CONCEDE RECURSO ARTÍCULO 83 LEY N° 20.091",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-457-apn-ssnmec-aseguradora-del-finisterre-compania-argentina-de-seguros-s-a-concede-recurso-articulo-83-ley-n-20-091/",
       "imagen": ""
     },
     {
@@ -93,30 +156,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Zona oeste concentró casi la mitad de los robos de vehículos en septiembre",
-      "resumen": "El último Indicador de Robo Vehicular (IRV) de Ituran reveló que el Oeste concentró el 44,9% de los casos. Además, creció la participación de los robos a mano armada, que representaron más del 60% de los hechos, y los…",
+      "titulo": "Experta Seguros reunió a clientes y productores en Mendoza",
+      "resumen": "En el marco de las acciones relacionadas a los 30 años del sistema de Riesgos del Trabajo en la Argentina, Experta Seguros compartió una visita a Mendoza con clientes y productores vinculados a la compañía. Mendoza,…",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
+      "categoria": "Regulación",
       "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/zona-oeste-concentro-casi-la-mitad-de-los-robos-de-vehiculos-en-septiembre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Octubre Rosa: Prevención Salud impulsó un espacio de diálogo y concientización en Santa Fe",
-      "resumen": "La prepaga de SANCOR SEGUROS reunió a especialistas y mujeres que atravesaron la enfermedad en un espacio de diálogo e intercambio de experiencias, con foco en la prevención, el cuidado de la salud y el acompañamiento.…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/octubre-rosa-prevencion-salud-impulso-un-espacio-de-dialogo-y-concientizacion-en-santa-fe/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jorge Litvin: ciberseguridad, ciberdelitos y gestión de riesgos informáticos",
-      "resumen": "Jorge Litvin, fundador y CEO de Safe You, abogado y especialista en cibercrimen, analiza las principales amenazas informáticas que enfrentan las empresas, como el ransomware, los fraudes de proveedores (BEC) y los…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/jorge-litvin-ciberseguridad-ciberdelitos-y-gestion-de-riesgos-informaticos/",
+      "url": "https://elseguroenaccion.com.ar/experta-seguros-reunio-a-clientes-y-productores-en-mendoza/",
       "imagen": ""
     },
     {
@@ -126,15 +171,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-29",
       "url": "https://nbs.ar/la-banca-global-se-mete-de-lleno-en-la-pelea-por-las-stablecoins/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Buenos Aires será sede del XIV CIAFAC con foco en riesgos, integridad y transformación digital",
-      "resumen": "Del 16 al 20 de noviembre de 2026, Buenos Aires recibirá una nueva edición del Congreso Internacional Antifraude, Anticorrupción y Compliance. El encuentro reunirá a autoridades, reguladores y ejecutivos de distintos…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-10-28",
-      "url": "https://elseguroenaccion.com.ar/buenos-aires-sera-sede-del-xiv-ciafac-con-foco-en-riesgos-integridad-y-transformacion-digital/",
       "imagen": ""
     },
     {
@@ -154,33 +190,6 @@
       "fecha": "2026-10-27",
       "url": "https://mercadosyseguros.com/galicia-compra-sura-gran-negocio/",
       "imagen": ""
-    },
-    {
-      "titulo": "El 86% de las empresas adapta su ciberseguridad ante el avance de la inteligencia artificial",
-      "resumen": "Fueron encuestados 2.131 ejecutivos de empresas de 20 países de los cuales una gran mayoría coincide en la importancia de cómo se usa a gran escala la inteligencia artificial y no tanto en su funcionamiento. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-27",
-      "url": "https://100seguro.com.ar/el-86-de-las-empresas-adapta-su-ciberseguridad-ante-el-avance-de-la-inteligencia-artificial/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/05/KPMG.-Foto-Mauro-Avendano.jpg"
-    },
-    {
-      "titulo": "Experta Seguros reunió a clientes y productores en Mendoza",
-      "resumen": "En el marco de las acciones relacionadas a los 30 años del sistema de Riesgos del Trabajo en la Argentina, Experta Seguros compartió una visita a Mendoza con clientes y productores vinculados a la compañía. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-27",
-      "url": "https://100seguro.com.ar/experta-seguros-reunio-a-clientes-y-productores-en-mendoza/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Experta-ART-junto-a-clientes-y-productores-en-Mendoza-.jpg"
-    },
-    {
-      "titulo": "Infraestructura IT: por qué las empresas avanzan hacia modelos tecnológicos más flexibles",
-      "resumen": "La inteligencia artificial y el crecimiento de los datos impulsan nuevas formas de gestionar la infraestructura IT, con modelos más flexibles y escalables que buscan optimizar las inversiones y simplificar la operación…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-27",
-      "url": "https://100seguro.com.ar/infraestructura-it-por-que-las-empresas-avanzan-hacia-modelos-tecnologicos-mas-flexibles/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Rodrigo-Lopez-Director-Comercial-Ricoh-Argentina.jpeg"
     },
     {
       "titulo": "Meridional Seguros y River Plate renuevan su compromiso por el bienestar de sus millones de seguidores",
@@ -207,15 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-10-26",
       "url": "https://mercadosyseguros.com/ia-y-productores-adaptacion-y-oportunidades-en-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ualá lanza seguro de autos con Allianz en su app",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Ualá lanzó en su app un seguro de autos junto a Allianz con dos planes de Terceros Completo y Responsabilidad Civil hasta $416 millones. La contratación se realiza…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-26",
-      "url": "https://mercadosyseguros.com/uala-lanza-seguro-de-autos-con-allianz-en-su-app/",
       "imagen": ""
     }
   ]
