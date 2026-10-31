@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-10-30T12:27-03:00",
+  "actualizado": "2026-10-31T11:55-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Presentación 5TA edición del IMD CESSI – AACS",
+      "resumen": "📊 5 años analizando la evolución digital de la industria aseguradora argentina. El próximo 17 de noviembre presentaremos los resultados de la 5.ª edición del Índice de Maduración Digital (IMD) de Compañías de Seguros,…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-10-31",
+      "url": "https://elseguroenaccion.com.ar/presentacion-5ta-edicion-del-imd-cessi-aacs/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
+      "resumen": "El fideicomiso financiero impulsado por Río Uruguay Seguros (RUS) recibió una mención especial de A3 Mercados por su propuesta innovadora, que conecta el mercado de capitales con la inversión inmobiliaria. El pasado…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-10-31",
+      "url": "https://www.informeoperadores.com.ar/2026/10/30/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/21-450x600.jpeg"
+    },
+    {
+      "titulo": "Especial LaConfe 2026 con expertos internacionales: la aseguradora del futuro y un caso de éxito en Brasil",
+      "resumen": "En un programa especial de 100% SEGURO desde el Hotel Hilton de Puerto Madero, revivimos algunos de los principales contenidos de LaConfe 2026, que este miércoles 28 de octubre reunió a un récord de 2.850 asistentes.…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-10-30",
+      "url": "https://100seguro.com.ar/especial-laconfe-2026-con-expertos-internacionales-la-aseguradora-del-futuro-y-un-caso-de-exito-en-brasil/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sturzenegger anunció reformas para facilitar el autoseguro en Riesgos del Trabajo y se refirió al impacto de la IA",
+      "resumen": "Con la participación especial del ministro de Desregulación y Transformación del Estado de la Nación, Federico Sturzenegger, y la asistencia de más de 650 profesionales del área de capital humano, cerró este viernes 30…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-30",
+      "url": "https://100seguro.com.ar/sturzenegger-anuncio-reformas-para-facilitar-el-autoseguro-en-riesgos-del-trabajo-y-se-refirio-al-impacto-de-la-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN elimina declaraciones juradas y simplifica las obligaciones de las aseguradoras",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN), mediante la Resolución SSN 466/2026, eliminó la obligación de presentar las declaraciones juradas de Inactividad Procesal y de No Seguro, con el objetivo de reducir…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-10-30",
+      "url": "https://100seguro.com.ar/la-ssn-elimina-declaraciones-juradas-y-simplifica-las-obligaciones-de-las-aseguradoras/",
+      "imagen": ""
+    },
     {
       "titulo": "La SSN concedió la apelación de una aseguradora contra la revocación de su autorización para operar",
       "resumen": "RESOLUCIÓN SSN 462/2026.- La Superintendencia de Seguros de la Nación (SSN) concedió el recurso de apelación presentado por Productores de Frutas Argentinas Cooperativa de Seguros Limitada (Prof Seguros) contra la…",
@@ -9,6 +54,24 @@
       "categoria": "Regulación",
       "fecha": "2026-10-30",
       "url": "https://100seguro.com.ar/la-ssn-concedio-la-apelacion-de-una-aseguradora-contra-la-revocacion-de-su-autorizacion-para-operar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día del Seguro: Qué le preguntan las personas a la inteligencia artificial",
+      "resumen": "Desde las diferencias entre coberturas de auto hasta la protección del hogar y los seguros de vida, Zurich Argentina presenta las consultas más frecuentes sobre seguros en plataformas de IA y destaca el rol de AcademIA…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-10-30",
+      "url": "https://www.informeoperadores.com.ar/2026/10/30/dia-del-seguro-que-le-preguntan-las-personas-a-la-inteligencia-artificial/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/pexels-picjumbo-com-55570-196655-600x400.jpg"
+    },
+    {
+      "titulo": "Martín Eandi: “Del futuro prometido al presente administrado”",
+      "resumen": "Martín Eandi, gerente de Insights de Moiguer Consultora de Estrategia, analiza el cambio en los hábitos de consumo en Argentina: cae el optimismo, se debilitan las expectativas económicas y los hogares se adaptan a una…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-10-30",
+      "url": "https://nbs.ar/consumo-argentina-nueva-normalidad/",
       "imagen": ""
     },
     {
@@ -63,33 +126,6 @@
       "categoria": "Regulación",
       "fecha": "2026-10-29",
       "url": "https://100seguro.com.ar/fundacion-mapfre-abre-la-10a-edicion-de-sus-premios-a-la-innovacion-social-con-100-000-euros-para-el-proyecto-ganador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Chubb confirma que la Inteligencia Artificial encabeza la hoja de ruta tecnológica de las pymes argentinas",
-      "resumen": "Chubb, compañía global líder en seguros, presenta un análisis completo de su Barómetro de Pymes en Argentina sobre las tecnologías que las pequeñas y medianas empresas del país identifican como prioritarias para su hoja…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/chubb-confirma-que-la-inteligencia-artificial-encabeza-la-hoja-de-ruta-tecnologica-de-las-pymes-argentinas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lo barato puede salir caro: 5 errores que cometen las pymes al contratar seguros",
-      "resumen": "Elegir una póliza únicamente por su precio puede generar una falsa sensación de protección. Exclusiones desconocidas, sumas aseguradas insuficientes y riesgos que no fueron contemplados son algunos de los errores que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/lo-barato-puede-salir-caro-5-errores-que-cometen-las-pymes-al-contratar-seguros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Pyme-Protegida-fuego.jpg"
-    },
-    {
-      "titulo": "Federación Patronal ART impulsa la prevención laboral a través del Ciclo Aprender: antropometría y diseño de puestos de trabajo",
-      "resumen": "A través del Ciclo Aprender, Federación Patronal ART promueve el abordaje de temas clave para la prevención y acerca conocimientos técnicos a productores asesores de seguros y asegurados. El próximo 5 de noviembre, la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/federacion-patronal-art-impulsa-la-prevencion-laboral-a-traves-del-ciclo-aprender-antropometria-y-diseno-de-puestos-de-trabajo/",
       "imagen": ""
     },
     {
@@ -180,42 +216,6 @@
       "categoria": "Innovación",
       "fecha": "2026-10-28",
       "url": "https://nbs.ar/federico-guthmann-ceo-de-meridional-seguros-las-mejores-implementaciones-son-aquellas-en-las-que-la-tecnologia-potencia-a-las-personas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Galicia y la compra de Sura: ¿un gran negocio para quién?",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Análisis: Galicia compró Sura con 775.000 clientes y 5.000 productores por US$ 19 millones, un 30% bajo el valor contable. ¿Un gran negocio para quién? La entrada…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-27",
-      "url": "https://mercadosyseguros.com/galicia-compra-sura-gran-negocio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Meridional Seguros y River Plate renuevan su compromiso por el bienestar de sus millones de seguidores",
-      "resumen": "Meridional Seguros y el Club Atlético River Plate han anunciado la renovación de su alianza estratégica, un acuerdo que busca continuar ofreciendo beneficios a millones de personas, tanto dentro como fuera de la cancha.…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-27",
-      "url": "https://nbs.ar/meridional-seguros-y-river-plate-renuevan-su-compromiso-por-el-bienestar-de-sus-millones-de-seguidores/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gerónimo Fresco, CEO de Galicia Seguros: «La IA en seguros no viene a reemplazar trabajos, sino a potenciar a las personas”",
-      "resumen": "Gerónimo Fresco, CEO de Galicia Seguros, analiza cómo la inteligencia artificial está transformando el sector asegurador mediante la automatización de procesos, la agilización de siniestros y la mejora de la experiencia…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-27",
-      "url": "https://nbs.ar/geronimo-fresco-ceo-de-galicia-seguros-la-ia-en-seguros-no-viene-a-reemplazar-trabajos-sino-a-potenciar-a-las-personas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y productores: adaptación y oportunidades en seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Grupo Sancor Seguros incorpora IA en 2024: cotizador por WhatsApp, OCR para facturas y agentes virtuales para PAS. La firma impulsa formación en IA, programas de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-10-26",
-      "url": "https://mercadosyseguros.com/ia-y-productores-adaptacion-y-oportunidades-en-seguros/",
       "imagen": ""
     }
   ]
