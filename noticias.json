@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T11:55-03:00",
+  "actualizado": "2026-11-01T12:38-03:00",
   "total": 24,
   "noticias": [
     {
@@ -10,15 +10,6 @@
       "fecha": "2026-10-31",
       "url": "https://elseguroenaccion.com.ar/presentacion-5ta-edicion-del-imd-cessi-aacs/",
       "imagen": ""
-    },
-    {
-      "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
-      "resumen": "El fideicomiso financiero impulsado por Río Uruguay Seguros (RUS) recibió una mención especial de A3 Mercados por su propuesta innovadora, que conecta el mercado de capitales con la inversión inmobiliaria. El pasado…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-10-31",
-      "url": "https://www.informeoperadores.com.ar/2026/10/30/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/21-450x600.jpeg"
     },
     {
       "titulo": "Especial LaConfe 2026 con expertos internacionales: la aseguradora del futuro y un caso de éxito en Brasil",
@@ -55,15 +46,6 @@
       "fecha": "2026-10-30",
       "url": "https://100seguro.com.ar/la-ssn-concedio-la-apelacion-de-una-aseguradora-contra-la-revocacion-de-su-autorizacion-para-operar/",
       "imagen": ""
-    },
-    {
-      "titulo": "Día del Seguro: Qué le preguntan las personas a la inteligencia artificial",
-      "resumen": "Desde las diferencias entre coberturas de auto hasta la protección del hogar y los seguros de vida, Zurich Argentina presenta las consultas más frecuentes sobre seguros en plataformas de IA y destaca el rol de AcademIA…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-10-30",
-      "url": "https://www.informeoperadores.com.ar/2026/10/30/dia-del-seguro-que-le-preguntan-las-personas-a-la-inteligencia-artificial/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/10/pexels-picjumbo-com-55570-196655-600x400.jpg"
     },
     {
       "titulo": "Martín Eandi: “Del futuro prometido al presente administrado”",
@@ -201,6 +183,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Gire designa a Pablo Neumann como Director Comercial",
+      "resumen": "Con más de 25 años de trayectoria en medios de pago y alianzas comerciales, Neumann asume el liderazgo del área comercial de Gire, compañía a la que se incorporó en 2024. Gire, empresa dueña de Rapipago, anuncia el…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-29",
+      "url": "https://www.informeoperadores.com.ar/2026/10/29/gire-designa-a-pablo-neumann-como-director-comercial/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Gire-designa-a-Pablo-Neumann-600x400.jpg"
+    },
+    {
       "titulo": "La banca global se mete de lleno en la pelea por las stablecoins",
       "resumen": "Un grupo de 21 entidades financieras internacionales, entre ellas Bank of America, Citi, Santander y BBVA, lanzará una stablecoin vinculada al dólar durante 2027. La iniciativa busca competir con los principales…",
       "fuente": "NBS",
@@ -208,6 +199,15 @@
       "fecha": "2026-10-29",
       "url": "https://nbs.ar/la-banca-global-se-mete-de-lleno-en-la-pelea-por-las-stablecoins/",
       "imagen": ""
+    },
+    {
+      "titulo": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026",
+      "resumen": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026, realizada los días 22 y 23 de octubre en el Predio Las Camelias, en San José, Entre Ríos. El encuentro, organizado por la Asociación Civil…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-10-28",
+      "url": "https://www.informeoperadores.com.ar/2026/10/28/el-grupo-cooperativo-rus-participo-de-la-bienal-de-la-produccion-2026/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Luciano-Rey-Grupo-RUS-600x400.png"
     },
     {
       "titulo": "Federico Guthmann, CEO de Meridional Seguros: “Las mejores implementaciones son aquellas en las que la tecnología potencia a las personas”",
