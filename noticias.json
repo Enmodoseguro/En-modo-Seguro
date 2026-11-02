@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-11-01T12:38-03:00",
+  "actualizado": "2026-11-02T16:00-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "LaConfe volvió a sorpender: 2.850 asistentes y una experiencia de clase mundial que subió la vara una vez más",
+      "resumen": "La edición #11 del evento organizado por 100% SEGURO rompió su récord de convocatoria y sorprendió con la temática de Halloween. Speakers internacionales, gigantes tecnológicos, una agenda de excelencia, shows en vivo,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://100seguro.com.ar/laconfe-volvio-a-sorpender-2-850-asistentes-y-una-experiencia-de-clase-mundial-que-subio-la-vara-una-vez-mas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/LaConfe-2026-Hernan-Fernandez-Leonardo-Redolfi.jpg"
+    },
+    {
+      "titulo": "Viviana Chaskielberg, nueva presidente de AVIRA",
+      "resumen": "La Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina (AVIRA) anunció la elección de Viviana Chaskielberg como su nueva presidente. Las 39 compañías que integran la Asociación le desean el mayor…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://100seguro.com.ar/viviana-chaskielberg-nueva-presidente-de-avira/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Nueva-Comision-Directiva-de-AVIRA-2026.png"
+    },
+    {
+      "titulo": "HDI Seguros e insureMO llevan la IA a la ingeniería de productos de seguros tras una migración récord",
+      "resumen": "Con más de R$ 500 millones (USD 93,5 millones) en primas acumuladas en el nuevo sistema central de Vida, la aseguradora y la plataforma tecnológica avanzan en el uso de agentes de IA para reducir hasta un 85% el tiempo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://100seguro.com.ar/hdi-seguros-e-insuremo-llevan-la-inteligencia-artificial-a-la-ingenieria-de-productos-de-seguros-tras-una-migracion-record/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Rafael-Rodrigues-General-Manager-Latam-InsureMO.jpg"
+    },
+    {
+      "titulo": "Orlando Ferreres: “¿La debilidad del consumo complica la evolución de la economía?”",
+      "resumen": "El economista Orlando Ferreres analiza la evolución del consumo en la Argentina y advierte sobre las diferencias entre la caída de las ventas en supermercados y el crecimiento del consumo privado que reflejan las…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://nbs.ar/debilidad-consumo-argentina-orlando-ferreres/",
+      "imagen": ""
+    },
+    {
+      "titulo": "821",
+      "resumen": "",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-01",
+      "url": "https://www.informeoperadores.com.ar/2026/11/01/821/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Tapa-821-R90.jpg"
+    },
     {
       "titulo": "Presentación 5TA edición del IMD CESSI – AACS",
       "resumen": "📊 5 años analizando la evolución digital de la industria aseguradora argentina. El próximo 17 de noviembre presentaremos los resultados de la 5.ª edición del Índice de Maduración Digital (IMD) de Compañías de Seguros,…",
@@ -84,33 +129,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día del Seguro",
-      "resumen": "Virginia Alarcia asistió a la ceremonia religiosa que la Superintendencia de Seguros de la Nación realizó en honor a Manuel Belgrano. La entrada Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/virginia-alarcia-presidente-de-la-aalps-participo-de-la-misa-por-el-dia-del-seguro/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/misa-seguro-2026-.jpg"
-    },
-    {
-      "titulo": "Grupo Sancor Seguros integra nuevamente la Mesa Directiva de Pacto Global Argentina",
-      "resumen": "Grupo Sancor Seguros fue elegido para integrar el Directorio de Pacto Global Argentina para el período 2026-2028, en calidad de miembro titular en la categoría Grandes Empresas, renovando así su participación en el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/grupo-sancor-seguros-integra-nuevamente-la-mesa-directiva-de-pacto-global-argentina/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/10-Asamblea-Pacto-Global.jpg"
-    },
-    {
-      "titulo": "Fundación Mapfre abre la 10ª edición de sus Premios a la Innovación Social, con 100.000 euros para el proyecto ganador",
-      "resumen": "Fundación Mapfre abrió la convocatoria de la décima edición de sus Premios a la Innovación Social, una iniciativa que busca identificar y apoyar propuestas innovadoras capaces de resolver problemas concretos de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/fundacion-mapfre-abre-la-10a-edicion-de-sus-premios-a-la-innovacion-social-con-100-000-euros-para-el-proyecto-ganador/",
-      "imagen": ""
-    },
-    {
       "titulo": "IF-2026-104174459-APN-GEYE#SSN – RENTABILIDAD BRUTA MENSUAL – SEPTIEMBRE DE 2026",
       "resumen": "",
       "fuente": "El Seguro en Acción",
@@ -156,6 +174,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día del Seguro",
+      "resumen": "Virginia Alarcia asistió a la ceremonia religiosa que la Superintendencia de Seguros de la Nación realizó en honor a Manuel Belgrano. Virginia Alarcia, presidente de la Asociación Argentina de Liquidadores y Peritos de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-10-29",
+      "url": "https://elseguroenaccion.com.ar/virginia-alarcia-presidente-de-la-aalps-participo-de-la-misa-por-el-dia-del-seguro/",
+      "imagen": ""
+    },
+    {
       "titulo": "Generali redefine su estructura yanuncia cambios en su liderazgo internacional",
       "resumen": "El Directorio de Generali aprobó hoy, por iniciativa del CEO del Grupo, Philippe Donnet, una nueva estructura organizacional para acompañar la etapa final del plan estratégico Lifetime Partner 27: Driving Excellence y…",
       "fuente": "El Seguro en Acción",
@@ -190,33 +217,6 @@
       "fecha": "2026-10-29",
       "url": "https://www.informeoperadores.com.ar/2026/10/29/gire-designa-a-pablo-neumann-como-director-comercial/",
       "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Gire-designa-a-Pablo-Neumann-600x400.jpg"
-    },
-    {
-      "titulo": "La banca global se mete de lleno en la pelea por las stablecoins",
-      "resumen": "Un grupo de 21 entidades financieras internacionales, entre ellas Bank of America, Citi, Santander y BBVA, lanzará una stablecoin vinculada al dólar durante 2027. La iniciativa busca competir con los principales…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://nbs.ar/la-banca-global-se-mete-de-lleno-en-la-pelea-por-las-stablecoins/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026",
-      "resumen": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026, realizada los días 22 y 23 de octubre en el Predio Las Camelias, en San José, Entre Ríos. El encuentro, organizado por la Asociación Civil…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-28",
-      "url": "https://www.informeoperadores.com.ar/2026/10/28/el-grupo-cooperativo-rus-participo-de-la-bienal-de-la-produccion-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Luciano-Rey-Grupo-RUS-600x400.png"
-    },
-    {
-      "titulo": "Federico Guthmann, CEO de Meridional Seguros: “Las mejores implementaciones son aquellas en las que la tecnología potencia a las personas”",
-      "resumen": "En Meridional, incorporamos la inteligencia artificial de manera transversal para optimizar procesos, agilizar decisiones y mejorar la experiencia de nuestros clientes. A través de iniciativas como Cross Pulse, agentes…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-10-28",
-      "url": "https://nbs.ar/federico-guthmann-ceo-de-meridional-seguros-las-mejores-implementaciones-son-aquellas-en-las-que-la-tecnologia-potencia-a-las-personas/",
-      "imagen": ""
     }
   ]
 }
