@@ -1,14 +1,104 @@
 {
-  "actualizado": "2026-11-02T16:00-03:00",
+  "actualizado": "2026-11-03T13:45-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "LaConfe volvió a sorpender: 2.850 asistentes y una experiencia de clase mundial que subió la vara una vez más",
+      "titulo": "FAPASA y una destacada comitiva federal de productores asesores participaron de LaConfe 2026",
+      "resumen": "Autoridades de la Federación y representantes de distintas APAS de todo el país fueron parte de la edición #11 del encuentro organizado por 100% SEGURO, que reunió a 2.850 asistentes en Buenos Aires. Inteligencia…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://100seguro.com.ar/fapasa-y-una-destacada-comitiva-federal-de-productores-asesores-participaron-de-laconfe-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "BARBUSS presenta la agenda del encuentro “Unlocking Argentina, a Financial Services Perspective”",
+      "resumen": "\"Unlocking Argentina, a Financial Services Perspective\" se realizará el miércoles 25 de noviembre de 2026 en la residencia de la embajadora argentina en el Reino Unido, con la participación de referentes de los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://100seguro.com.ar/barbuss-presenta-la-agenda-del-encuentro-unlocking-argentina-a-financial-services-perspective/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate participó en la 13ª Jornada de Seguros",
+      "resumen": "El Superintendente de Seguros de la Nación destacó la centralidad de la solvencia, analizó el avance hacia un modelo de capital basado en riesgo y valoró el potencial de crecimiento de la industria en sectores…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://100seguro.com.ar/plate-participo-en-la-13a-jornada-de-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/ssn_familia_consejo_profesional_3_costado.jpg"
+    },
+    {
+      "titulo": "En Parque Chacabuco: Restaurante y moscatería especializado en pizza porteña y pastas artesanales",
+      "resumen": "",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://www.informeoperadores.com.ar/2026/11/03/en-parque-chacabuco-restaurante-y-moscateria-especializado-en-pizza-portena-y-pastas-artesanales/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/ficha-tecnica-821.jpg"
+    },
+    {
+      "titulo": "22° Congreso Nacional de RRHH: IA y cambios clave en el régimen de ART en 2026",
+      "resumen": "Más de 650 líderes de RRHH debatieron en el 22° Congreso de AdRHA sobre IA y cultura corporativa. Además, el Ministro de Desregulación de la Nación, Federico Sturzenegger, anunció reformas para facilitar el autoseguro…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://www.informeoperadores.com.ar/2026/11/03/22-congreso-nacional-de-rrhh-ia-y-cambios-clave-en-el-regimen-de-art-en-2026/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Tomas-Gomez-Alzaga-Presidente-de-AdRHA-junto-con-el-Ministro-Federico-Sturzenegger-600x400.jpg"
+    },
+    {
+      "titulo": "El legado de Justina: una historia que sigue multiplicando oportunidades de vida",
+      "resumen": "Ezequiel Lo Cane, impulsor de la Ley Justina visitó Concepción del Uruguay y participó, junto al Dr. Carlos Casas, de una entrevista en Directo al Punto, programa conducido por Hugo Barreto que se emite por RUS Media…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://www.informeoperadores.com.ar/2026/11/03/el-legado-de-justina-una-historia-que-sigue-multiplicando-oportunidades-de-vida/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/LO-CANE-Y-CASAS-600x400.jpg"
+    },
+    {
+      "titulo": "Seguros paramétricos: el salto del campo a la ciudad y a la infraestructura crítica",
+      "resumen": "",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-03",
+      "url": "https://www.informeoperadores.com.ar/2026/11/02/seguros-parametricos-el-salto-del-campo-a-la-ciudad-y-a-la-infraestructura-critica/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Seguros-parametricos1-scaled.jpg"
+    },
+    {
+      "titulo": "La Segunda Seguros llevó su propuesta inmersiva a LaConfe 2026",
+      "resumen": "En una edición histórica con más de 2.850 asistentes y una agenda internacional, la aseguradora participó con una activación interactiva centrada en su campaña “Nada te saca la calma”. La entrada La Segunda Seguros…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-llevo-su-propuesta-inmersiva-a-laconfe-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/La-Segunda-LaConfe-2026.jpeg"
+    },
+    {
+      "titulo": "Mapfre participó de LaConfe 2026 y reafirmó su compromiso con el desarrollo del sector asegurador",
+      "resumen": "La compañía acompañó como Sponsor Top una nueva edición del encuentro, que reunió a referentes y profesionales de la industria aseguradora. Mapfre contó con un stand propio, donde propuso juegos y actividades…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://100seguro.com.ar/mapfre-participo-de-laconfe-2026-y-reafirmo-su-compromiso-con-el-desarrollo-del-sector-asegurador/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Stand-Mapfre-LaConfe-2026-2.jpeg"
+    },
+    {
+      "titulo": "Provincia ART: cronograma de cursos gratuitos para el mes de noviembre",
+      "resumen": "Provincia ART, la aseguradora de riesgos de Grupo Provincia, confirmó su cronograma de cursos gratuitos para el undécimo mes del año. La entrada Provincia ART: cronograma de cursos gratuitos para el mes de noviembre se…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-02",
+      "url": "https://100seguro.com.ar/provincia-art-cronograma-de-cursos-gratuitos-para-el-mes-de-noviembre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "LaConfe volvió a sorprender: 2.850 asistentes y una experiencia de clase mundial que subió la vara una vez más",
       "resumen": "La edición #11 del evento organizado por 100% SEGURO rompió su récord de convocatoria y sorprendió con la temática de Halloween. Speakers internacionales, gigantes tecnológicos, una agenda de excelencia, shows en vivo,…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-11-02",
-      "url": "https://100seguro.com.ar/laconfe-volvio-a-sorpender-2-850-asistentes-y-una-experiencia-de-clase-mundial-que-subio-la-vara-una-vez-mas/",
+      "url": "https://100seguro.com.ar/laconfe-volvio-a-sorprender-2-850-asistentes-y-una-experiencia-de-clase-mundial-que-subio-la-vara-una-vez-mas/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/LaConfe-2026-Hernan-Fernandez-Leonardo-Redolfi.jpg"
     },
     {
@@ -28,6 +118,24 @@
       "fecha": "2026-11-02",
       "url": "https://100seguro.com.ar/hdi-seguros-e-insuremo-llevan-la-inteligencia-artificial-a-la-ingenieria-de-productos-de-seguros-tras-una-migracion-record/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Rafael-Rodrigues-General-Manager-Latam-InsureMO.jpg"
+    },
+    {
+      "titulo": "Aldo Kazakevich: inteligencia artificial, gestión de datos y madurez digital",
+      "resumen": "Aldo Kazakevich, fundador y CEO de BDT Global, analiza las principales tendencias tecnológicas tras su participación en Dreamforce (San Francisco) y su impacto directo en las compañías de seguros. En la entrevista…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Innovación",
+      "fecha": "2026-11-02",
+      "url": "https://elseguroenaccion.com.ar/aldo-kazakevich-inteligencia-artificial-gestion-de-datos-y-madurez-digital/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“La tecnología reemplazará al intermediario administrativo, pero potenciará al asesor estratégico”",
+      "resumen": "",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-11-02",
+      "url": "https://www.informeoperadores.com.ar/2026/11/02/la-tecnologia-reemplazara-al-intermediario-administrativo-pero-potenciara-al-asesor-estrategico/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Ruben-Machado-1-1.jpg"
     },
     {
       "titulo": "Orlando Ferreres: “¿La debilidad del consumo complica la evolución de la economía?”",
@@ -66,66 +174,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Sturzenegger anunció reformas para facilitar el autoseguro en Riesgos del Trabajo y se refirió al impacto de la IA",
-      "resumen": "Con la participación especial del ministro de Desregulación y Transformación del Estado de la Nación, Federico Sturzenegger, y la asistencia de más de 650 profesionales del área de capital humano, cerró este viernes 30…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-30",
-      "url": "https://100seguro.com.ar/sturzenegger-anuncio-reformas-para-facilitar-el-autoseguro-en-riesgos-del-trabajo-y-se-refirio-al-impacto-de-la-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN elimina declaraciones juradas y simplifica las obligaciones de las aseguradoras",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN), mediante la Resolución SSN 466/2026, eliminó la obligación de presentar las declaraciones juradas de Inactividad Procesal y de No Seguro, con el objetivo de reducir…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-30",
-      "url": "https://100seguro.com.ar/la-ssn-elimina-declaraciones-juradas-y-simplifica-las-obligaciones-de-las-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN concedió la apelación de una aseguradora contra la revocación de su autorización para operar",
-      "resumen": "RESOLUCIÓN SSN 462/2026.- La Superintendencia de Seguros de la Nación (SSN) concedió el recurso de apelación presentado por Productores de Frutas Argentinas Cooperativa de Seguros Limitada (Prof Seguros) contra la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-30",
-      "url": "https://100seguro.com.ar/la-ssn-concedio-la-apelacion-de-una-aseguradora-contra-la-revocacion-de-su-autorizacion-para-operar/",
-      "imagen": ""
-    },
-    {
       "titulo": "Martín Eandi: “Del futuro prometido al presente administrado”",
       "resumen": "Martín Eandi, gerente de Insights de Moiguer Consultora de Estrategia, analiza el cambio en los hábitos de consumo en Argentina: cae el optimismo, se debilitan las expectativas económicas y los hogares se adaptan a una…",
       "fuente": "NBS",
       "categoria": "Mercado",
       "fecha": "2026-10-30",
       "url": "https://nbs.ar/consumo-argentina-nueva-normalidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN concedió la apelación de una aseguradora contra una multa de $7,5 millones",
-      "resumen": "RESOLUCIÓN SSN 457/2026.- La Superintendencia de Seguros de la Nación (SSN) concedió el recurso de apelación interpuesto por Aseguradora del Finisterre Compañía Argentina de Seguros S.A. contra la resolución que, en…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/la-ssn-concedio-la-apelacion-de-una-aseguradora-contra-una-multa-de-75-millones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ATM Seguros invita a vivir la Expo Moto Gualeguaychú 2026 y sortea 100 entradas para el evento",
-      "resumen": "La compañía emblema en seguros de motos acompañará una nueva edición del encuentro motociclista como sponsor principal, que se realizará del 13 al 15 de noviembre en los Galpones del Puerto de esa ciudad entrerriana. A…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/atm-seguros-invita-a-vivir-la-expo-moto-gualeguaychu-2026-y-sortea-100-entradas-para-el-evento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Anthropic advierte que una catástrofe provocada por la IA podría superar la capacidad de toda la industria aseguradora",
-      "resumen": "La compañía detrás de Claude incluyó en el prospecto presentado para su salida a bolsa una advertencia sobre los riesgos catastróficos que podrían generar los sistemas de inteligencia artificial más avanzados. El…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-10-29",
-      "url": "https://100seguro.com.ar/anthropic-advierte-que-una-catastrofe-provocada-por-la-ia-podria-superar-la-capacidad-de-toda-la-industria-aseguradora/",
       "imagen": ""
     },
     {
@@ -163,60 +217,6 @@
       "fecha": "2026-10-29",
       "url": "https://elseguroenaccion.com.ar/resol-2026-458-apn-ssnmec-lograr-compania-de-seguros-patrimoniales-sociedad-anonima-con-cambio-de-denominacion-a-serena-compania-de-seguros-patrimoniales-s-a-u-pendiente-de-inscripcion-autoriz/",
       "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-457-APN-SSN#MEC – ASEGURADORA DEL FINISTERRE COMPANÍA ARGENTINA DE SEGUROS S.A. – CONCEDE RECURSO ARTÍCULO 83 LEY N° 20.091",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-457-apn-ssnmec-aseguradora-del-finisterre-compania-argentina-de-seguros-s-a-concede-recurso-articulo-83-ley-n-20-091/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Virginia Alarcia, presidente de la AALPS, participó de la misa por el Día del Seguro",
-      "resumen": "Virginia Alarcia asistió a la ceremonia religiosa que la Superintendencia de Seguros de la Nación realizó en honor a Manuel Belgrano. Virginia Alarcia, presidente de la Asociación Argentina de Liquidadores y Peritos de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/virginia-alarcia-presidente-de-la-aalps-participo-de-la-misa-por-el-dia-del-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Generali redefine su estructura yanuncia cambios en su liderazgo internacional",
-      "resumen": "El Directorio de Generali aprobó hoy, por iniciativa del CEO del Grupo, Philippe Donnet, una nueva estructura organizacional para acompañar la etapa final del plan estratégico Lifetime Partner 27: Driving Excellence y…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/generali-redefine-su-estructura-yanuncia-cambios-en-su-liderazgo-internacional/",
-      "imagen": ""
-    },
-    {
-      "titulo": "América Latina y Caribe: un desastre natural por semana, cerca de 100.000 fallecidos y más de 360.000 millones de dólares en pérdidas",
-      "resumen": "Los desastres naturales son cada vez más frecuentes y graves en América Latina y el Caribe. Durante los últimos 50 años, cuatro de cada diez personas han sido impactadas por tormentas tropicales, huracanes,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/america-latina-y-caribe-un-desastre-natural-por-semana-cerca-de-100-000-fallecidos-y-mas-de-360-000-millones-de-dolares-en-perdidas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Experta Seguros reunió a clientes y productores en Mendoza",
-      "resumen": "En el marco de las acciones relacionadas a los 30 años del sistema de Riesgos del Trabajo en la Argentina, Experta Seguros compartió una visita a Mendoza con clientes y productores vinculados a la compañía. Mendoza,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-10-29",
-      "url": "https://elseguroenaccion.com.ar/experta-seguros-reunio-a-clientes-y-productores-en-mendoza/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gire designa a Pablo Neumann como Director Comercial",
-      "resumen": "Con más de 25 años de trayectoria en medios de pago y alianzas comerciales, Neumann asume el liderazgo del área comercial de Gire, compañía a la que se incorporó en 2024. Gire, empresa dueña de Rapipago, anuncia el…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-10-29",
-      "url": "https://www.informeoperadores.com.ar/2026/10/29/gire-designa-a-pablo-neumann-como-director-comercial/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Gire-designa-a-Pablo-Neumann-600x400.jpg"
     }
   ]
 }
