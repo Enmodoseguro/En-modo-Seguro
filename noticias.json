@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-11-04T13:43-03:00",
+  "actualizado": "2026-11-05T13:59-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Congreso COPAPROSE en Quito: FAPASA participó y se leyó la Carta 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El XXXVI Congreso Iberoamericano de COPAPROSE se realizó del 12 al 14 de octubre en Quito con más de 200 asistentes. FAPASA, liderada por Agustina Decarre, participó…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://mercadosyseguros.com/congreso-copaprose-en-quito-fapasa-participo-y-se-leyo-la-carta-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Trabajo colaborativo clave para ampliar la penetración del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Agustina Decarre, presidenta de FAPASA y COPAPROSE, abrió el XXXVI Congreso Iberoamericano en Quito el 13 de octubre y defendió el rol del asesor profesional y el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://mercadosyseguros.com/trabajo-colaborativo-clave-para-ampliar-la-penetracion-del-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Patentamientos de motos: 1-15 de octubre en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CAFAM publicó los patentamientos de motos del 1 al 15 de octubre, con la cifra quincenal que permite comparar variaciones mensuales y anuales y evaluar tendencias del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://mercadosyseguros.com/patentamientos-de-motos-1-15-de-octubre-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros pyme: satisfacción récord y desafíos del sector",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Monitor del Mercado Asegurador 2026 relevó 52.813 casos en 19 compañías y registró una satisfacción de 8,1 puntos; sin embargo el NPS cayó a 37. Líderes como…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://mercadosyseguros.com/seguros-pyme-satisfaccion-record-y-desafios-del-sector/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Longevidad y transformación laboral: el desafío de rediseñar los sistemas de ingresos para el retiro",
+      "resumen": "La 18ª edición del Marsh CFA Institute Global Pension Index analiza 55 sistemas de ingresos para el retiro y examina cómo la longevidad, los cambios demográficos y las nuevas trayectorias laborales inciden en su diseño…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/longevidad-y-transformacion-laboral-el-desafio-de-redisenar-los-sistemas-de-ingresos-para-el-retiro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "LaConfe 2026 en 2 minutos: el video que resume una edición que sorprendió de inicio a fin",
+      "resumen": "Un récord de asistencia, contenidos de clase mundial, un imponente show de Halloween, experiencias innovadoras y networking de alto impacto. LaConfe 2026 dejó momentos inolvidables y ahora invita a revivirlos en un…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/laconfe-2026-en-2-minutos-el-video-que-resume-una-edicion-que-sorprendio-de-inicio-a-fin/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jooycar: la insurtech que metió la IA en toda su operación y publicó los números",
+      "resumen": "Por Hugues Bertin, CEO & Founder de Digital Insurance LatAm y Presidente de la Alianza Insurtech Panamericana (AIP).- Conozco a Rodrigo Labbé desde que fundó Jooycar, y juntos, con otros directores, fundamos…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/jooycar-la-insurtech-que-metio-la-ia-en-toda-su-operacion-y-publico-los-numeros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/HUGUES-BERTIN-150x150.png"
+    },
+    {
+      "titulo": "Claims Services Hogar ya está generando USD 6,9 millones de ahorro anual para las aseguradoras",
+      "resumen": "Con un índice de reparabilidad del 50% y una red de más de 1.000 servicios técnicos autorizados en todo el país, la plataforma se consolida como una solución tecnológica clave para optimizar la gestión de siniestros del…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/claims-services-hogar-ya-esta-generando-usd-69-millones-de-ahorro-anual-para-las-aseguradoras/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Martin-Valseche-Director-de-Operaciones-de-Claims-Services.jpg"
+    },
+    {
+      "titulo": "Dos productores de seguros lanzan sensei, un agente de IA que cotiza y atiende seguros por WhatsApp en lenguaje simple",
+      "resumen": "Ezequiel Stegmann y Valentín Coghlan lo llevaron de prototipo a atender clientes en tres meses. Cotiza un seguro de auto en una conversación, lee la póliza de cualquier compañía y, si lo que la persona tiene está bien,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/dos-productores-de-seguros-lanzan-sensei-un-agente-de-ia-que-cotiza-y-atiende-seguros-por-whatsapp-en-lenguaje-simple/",
+      "imagen": ""
+    },
+    {
+      "titulo": "BARBUSS presenta la agenda de Unlocking Argentina, aFinancial Services Perspective",
+      "resumen": "Unlocking Argentina, a Financial Services Perspective se realizará el miércoles 25 de noviembre de 2026 en la Residencia de la Embajadora argentina en el Reino Unido, con la participación de referentes de los servicios…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/barbuss-presenta-la-agenda-de-unlocking-argentina-afinancial-services-perspective/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Viviana Chaskielberg, nueva presidente de AVIRA",
+      "resumen": "AVIRA, Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina, anuncia la elección de Viviana Chaskielberg como su nueva presidente. Las 39 compañías que integran la Asociación le desean el mayor de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/viviana-chaskielberg-nueva-presidente-de-avira/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Superintendente de Seguros de la Nación participó en la 13.ª Jornada de Seguros",
+      "resumen": "Guillermo Plate destacó la centralidad de la solvencia, analizó el avance hacia un modelo de capital basado en riesgo y valoró el potencial de crecimiento de la industria en sectores estratégicos. El Superintendente de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/el-superintendente-de-seguros-de-la-nacion-participo-en-la-13-a-jornada-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Greenwashing: el temor a equivocarse también lleva a las empresas a callar",
+      "resumen": "El temor a ser acusado de greenwashing lleva a algunas empresas a reducir o evitar sus comunicaciones ambientales. El fenómeno del greenhushing plantea el desafío de comunicar avances reales en sustentabilidad con…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-05",
+      "url": "https://nbs.ar/greenhushing-empresarial-temor-al-greenwashing/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Segunda Seguros renueva su lugar en el Directorio de Pacto Global Argentina",
+      "resumen": "Las organizaciones de la Red Argentina del Pacto Global de las Naciones Unidas eligieron a La Segunda Seguros como integrante titular de su Directorio para el período 2026-2028. La elección renueva una participación que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-04",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-renueva-su-lugar-en-el-directorio-de-pacto-global-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La empresa chilena ComparaOnline se integra a la Alianza Insurtech Panamericana",
+      "resumen": "ComparaOnline, marketplace que permite comparar y contratar seguros y productos financieros de forma simple, transparente y 100% online, se incorporó como Global Member Insurtech de la Alianza Insurtech Panamericana…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-04",
+      "url": "https://100seguro.com.ar/la-empresa-chilena-comparaonline-se-integra-a-la-alianza-insurtech-panamericana/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Maria-Sol-Gonzalez-Chief-Revenue-Officer-de-ComparaOnline-Foto-Horizontal.jpg"
+    },
+    {
+      "titulo": "El Norte Seguros cerró el segundo cuatrimestre de los PCC",
+      "resumen": "El pasado viernes 30 de octubre, El Norte Seguros finalizó el segundo cuatrimestre de los Programas de Capacitación Continua (PCC), que en esta oportunidad estuvo dedicado al producto Integral de Comercio y contó con la…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-04",
+      "url": "https://100seguro.com.ar/el-norte-seguros-cerro-el-segundo-cuatrimestre-de-los-pcc/",
+      "imagen": ""
+    },
     {
       "titulo": "Es estratégico trabajar salud",
       "resumen": "El presidente de RiskGroup Argentina analiza por qué el seguro y el reaseguro de salud representan una apuesta estratégica para el mercado al ofrecer menores márgenes, pero mayor permanencia y estabilidad en las…",
@@ -21,201 +165,57 @@
       "imagen": ""
     },
     {
-      "titulo": "Patentamientos de octubre: los autos no prolongaron el repunte del mes pasado y las motos tuvieron un leve freno",
-      "resumen": "Como viene sucediendo en los últimos meses, octubre trajo resultados dispares para el mercado automotor y de motovehículos en Argentina. En el caso de los autos, durante el décimo mes de 2026 se patentaron 45.965…",
-      "fuente": "100% Seguro",
+      "titulo": "El legado de Justina: una historia que sigue multiplicando oportunidades de vida",
+      "resumen": "Ezequiel Lo Cane, impulsor de la Ley Justina visitó Concepción del Uruguay y participó, junto al Dr. Carlos Casas, de una entrevista en Directo al Punto, programa conducido por Hugo Barreto que se emite por RUS Media…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/patentamientos-de-octubre-los-autos-no-prolongaron-el-repunte-del-mes-pasado-y-las-motos-tuvieron-un-leve-freno/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Patentamiento-de-autos-octubre-2026-Resumen-del-mercado.png"
-    },
-    {
-      "titulo": "Grupo San Cristóbal fue reconocida por su campaña “Podés cuidar tu casa cómo cuidás tu auto”",
-      "resumen": "La compañía recibió una distinción en la categoría Campaña General de Difusión por una iniciativa que buscó promover una mayor conciencia aseguradora y fomentar la protección en el hogar. La entrada Grupo San Cristóbal…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/grupo-san-cristobal-fue-reconocida-por-su-campana-podes-cuidar-tu-casa-como-cuidas-tu-auto/",
+      "url": "https://elseguroenaccion.com.ar/el-legado-de-justina-una-historia-que-sigue-multiplicando-oportunidades-de-vida/",
       "imagen": ""
     },
     {
-      "titulo": "Vencora amplía su portafolio de tecnología para seguros con la adquisición de CT InsureTech",
-      "resumen": "Vencora, empresa global que adquiere compañías de tecnología para la banca, los servicios financieros y los seguros con la filosofía de conservarlas para siempre, anunció hoy la adquisición de CT InsureTech (CTI),…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
+      "titulo": "La SSN elimina declaraciones juradas y simplifica las obligaciones de las aseguradoras",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN), mediante la Resolución SSN N.º 466/2026, eliminó la obligación de presentar las declaraciones juradas de Inactividad Procesal y de No Seguro, reduciendo cargas…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
       "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/vencora-amplia-su-portafolio-de-tecnologia-para-seguros-con-la-adquisicion-de-ct-insuretech/",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-elimina-declaraciones-juradas-y-simplifica-las-obligaciones-de-las-aseguradoras/",
       "imagen": ""
     },
     {
-      "titulo": "Hawk Insurance Broker presentó a Andrés Malamud en LaConfe 2026",
+      "titulo": "¿Y si la próxima oportunidad está en esta sala? | Jornada de Integración Regional",
+      "resumen": "Desde REDMES te invitamos a participar de la Jornada de Integración Regional para Productoras y Corredoras de Seguros, un encuentro virtual facilitado por Angie Mastrangelo. ¿Cuántas experiencias, ideas y oportunidades…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-04",
+      "url": "https://elseguroenaccion.com.ar/y-si-la-proxima-oportunidad-esta-en-esta-sala-jornada-de-integracion-regional/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hawk Insurance Broker reunió al mercado asegurador con Andrés Malamud",
       "resumen": "Invitado en exclusiva por Hawk Insurance Broker, el politólogo Andrés Malamud realizó una presentación sobre el escenario internacional y sus implicancias para el sector asegurador. La propuesta fomentó la interacción…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/hawk-insurance-broker-presento-a-andres-malamud-en-la-confe-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Hawk-Insurance-Broker-reunio-al-mercado-asegurador-con-Andres-Malamud-para-analizar-el-futuro-del-sector-.jpg"
-    },
-    {
-      "titulo": "Cambios en el cálculo de reservas judiciales: todos los detalles de la medida",
-      "resumen": "RESOLUCIÓN SSN 466/2026.- Tal como adelantamos días atrás (ver nota), la Superintendencia de Seguros de la Nación introdujo modificaciones en el Reglamento General de la Actividad Aseguradora (RGAA) vinculadas con la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/cambios-en-el-calculo-de-reservas-judiciales-todos-los-detalles-de-la-medida/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN exige plan de regularización a aseguradora, y esta formula descargo",
-      "resumen": "La Superintendencia de Seguros de la Nación (mediante la RESOL 468) emplazó a Aseguradores de Cauciones a recomponer su respaldo patrimonial o adecuar su reaseguro, luego de verificar una desproporción técnica que…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-exige-plan-de-regularizacion-a-aseguradora-y-esta-formula-descargo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "“Los agentes de IA ya llegaron al seguro”",
-      "resumen": "Gabriel Depascual, presidente de la Cámara Insurtech Argentina, repasa el crecimiento de un ecosistema que ya reúne a más de 130 organizaciones, presenta InsurMap 2.0 con inteligencia artificial y explica por qué los…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/los-agentes-de-ia-ya-llegaron-al-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los sitios pequeños también reciben ataques automáticos y estas son las defensas que trabajan sin que nadie las vea",
-      "resumen": "Quien publica un blog, el portfolio de su trabajo o el sitio de un pequeño emprendimiento suele pensar que nadie va a fijarse en una página con pocas visitas, y esa tranquilidad se desvanece cuando revisa los registros…",
       "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/los-sitios-pequenos-tambien-reciben-ataques-automaticos-y-estas-son-las-defensas-que-trabajan-sin-que-nadie-las-vea/",
+      "url": "https://elseguroenaccion.com.ar/hawk-insurance-broker-reunio-al-mercado-asegurador-con-andres-malamud/",
       "imagen": ""
     },
     {
-      "titulo": "Datos, auditorías y controles: las claves para evitar el greenwashing",
-      "resumen": "Las empresas enfrentan mayores exigencias para demostrar sus compromisos ambientales. Datos verificables, auditorías independientes y estándares reconocidos son claves para evitar el greenwashing y construir una…",
-      "fuente": "NBS",
+      "titulo": "Más de seis de cada diez robos de motos corresponden a modelos de 110 y 150 cc, vehículos que para miles de personas son su medio de transporte diario y, a la vez, su herramienta de trabajo",
+      "resumen": "Las motos de baja cilindrada concentran el 65,9% de los robos de motos registrados en lo que va del año, según el Informe de Movilidad de Strix, empresa especializada en soluciones tecnológicas para la seguridad y el…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-11-04",
-      "url": "https://nbs.ar/greenwashing-empresarial-datos-auditorias-controles/",
+      "url": "https://elseguroenaccion.com.ar/mas-de-seis-de-cada-diez-robos-de-motos-corresponden-a-modelos-de-110-y-150-cc-vehiculos-que-para-miles-de-personas-son-su-medio-de-transporte-diario-y-a-la-vez-su-herramienta-de-trabajo/",
       "imagen": ""
     },
     {
       "titulo": "Por octavo año consecutivo, Allianz es la marca de seguros más valiosa del mundo",
-      "resumen": "La aseguradora alcanza el valor de marca más alto de su historia con USD 30.700 millones y ocupa el puesto #26 entre todas las marcas. El desempeño financiero y gestión continua de la marca son la base de su fortaleza,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://100seguro.com.ar/por-octavo-ano-consecutivo-allianz-es-la-marca-de-seguros-mas-valiosa-del-mundo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA y una destacada comitiva federal de productores asesores participaron de LaConfe 2026",
-      "resumen": "Autoridades de la Federación y representantes de distintas APAS de todo el país fueron parte de la edición #11 del encuentro organizado por 100% SEGURO, que reunió a 2.850 asistentes en Buenos Aires. Inteligencia…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://100seguro.com.ar/fapasa-y-una-destacada-comitiva-federal-de-productores-asesores-participaron-de-laconfe-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "BARBUSS presenta la agenda del encuentro “Unlocking Argentina, a Financial Services Perspective”",
-      "resumen": "\"Unlocking Argentina, a Financial Services Perspective\" se realizará el miércoles 25 de noviembre de 2026 en la residencia de la embajadora argentina en el Reino Unido, con la participación de referentes de los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://100seguro.com.ar/barbuss-presenta-la-agenda-del-encuentro-unlocking-argentina-a-financial-services-perspective/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Informe patentamientos CAFAM: Motos, el mercado creció 28% interanual en octubre y acumula más de 755.000 unidades en el año",
-      "resumen": "CAFAM registró 81.599 unidades patentadas durante octubre. El acumulado enero-octubre alcanzó 755.266 unidades, contra 541.831 en igual período de 2025. El mercado argentino de motovehículos registró 81.599…",
+      "resumen": "La aseguradora alcanza el valor de marca más alto de su historia con USD 30.700 millones y ocupa el puesto 26 entre todas las marcas. El desempeño financiero y gestión continua de la marca son la base de su fortaleza,…",
       "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://elseguroenaccion.com.ar/informe-patentamientos-cafam-motos-el-mercado-crecio-28-interanual-en-octubre-y-acumula-mas-de-755-000-unidades-en-el-ano/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Meeting Point REDMES Argentina 2026: liderazgo, diversidad e inteligencia artificial en Buenos Aires",
-      "resumen": "REDMES (Red Mujeres en Seguros) realizó el 27 de octubre el Meeting Point Argentina 2026 en Puerto Madero. Bajo el eje “Construyendo futuro en entornos dinámicos”, el encuentro reunió a referentes del mercado asegurador…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-11-03",
-      "url": "https://elseguroenaccion.com.ar/meeting-point-redmes-argentina-2026-liderazgo-diversidad-e-inteligencia-artificial-en-buenos-aires/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Miguel Secchi y José Pedro Bustos: seguridad social, salud y judicialización",
-      "resumen": "Miguel Secchi, presidente del Foro para el Desarrollo de las Ciencias, y José Pedro Bustos, director regional de la Organización Iberoamericana de Seguridad Social (OISS), debaten sobre la sostenibilidad financiera de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://elseguroenaccion.com.ar/miguel-secchi-y-jose-pedro-bustos-seguridad-social-salud-y-judicializacion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "«El seguro de salud está en una etapa primaria: las oportunidades son todas»",
-      "resumen": "El Lic. Carlos Salinas, presidente de Galdas, analiza, en diálogo con El Seguro en Acción, los cambios regulatorios recientes, el rol complementario de las aseguradoras frente a obras sociales y prepagas, y las claves…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://elseguroenaccion.com.ar/el-seguro-de-salud-esta-en-una-etapa-primaria-las-oportunidades-son-todas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "En Parque Chacabuco: Restaurante y moscatería especializado en pizza porteña y pastas artesanales",
-      "resumen": "",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://www.informeoperadores.com.ar/2026/11/03/en-parque-chacabuco-restaurante-y-moscateria-especializado-en-pizza-portena-y-pastas-artesanales/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/ficha-tecnica-821.jpg"
-    },
-    {
-      "titulo": "22° Congreso Nacional de RRHH: IA y cambios clave en el régimen de ART en 2026",
-      "resumen": "Más de 650 líderes de RRHH debatieron en el 22° Congreso de AdRHA sobre IA y cultura corporativa. Además, el Ministro de Desregulación de la Nación, Federico Sturzenegger, anunció reformas para facilitar el autoseguro…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://www.informeoperadores.com.ar/2026/11/03/22-congreso-nacional-de-rrhh-ia-y-cambios-clave-en-el-regimen-de-art-en-2026/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Tomas-Gomez-Alzaga-Presidente-de-AdRHA-junto-con-el-Ministro-Federico-Sturzenegger-600x400.jpg"
-    },
-    {
-      "titulo": "El legado de Justina: una historia que sigue multiplicando oportunidades de vida",
-      "resumen": "Ezequiel Lo Cane, impulsor de la Ley Justina visitó Concepción del Uruguay y participó, junto al Dr. Carlos Casas, de una entrevista en Directo al Punto, programa conducido por Hugo Barreto que se emite por RUS Media…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://www.informeoperadores.com.ar/2026/11/03/el-legado-de-justina-una-historia-que-sigue-multiplicando-oportunidades-de-vida/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/LO-CANE-Y-CASAS-600x400.jpg"
-    },
-    {
-      "titulo": "Seguros paramétricos: el salto del campo a la ciudad y a la infraestructura crítica",
-      "resumen": "",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://www.informeoperadores.com.ar/2026/11/02/seguros-parametricos-el-salto-del-campo-a-la-ciudad-y-a-la-infraestructura-critica/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Seguros-parametricos1-scaled.jpg"
-    },
-    {
-      "titulo": "Fernando Marengo: “El actual nivel de consumo es el más alto en los últimos 23 trimestres”",
-      "resumen": "Fernando Marengo, economista jefe de BlackTORO, analiza la evolución de la economía argentina, destaca que el consumo alcanzó su nivel más alto de los últimos 23 trimestres y advierte sobre la heterogeneidad del…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-03",
-      "url": "https://nbs.ar/consumo-argentino-nivel-mas-alto-23-trimestres/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aldo Kazakevich: inteligencia artificial, gestión de datos y madurez digital",
-      "resumen": "Aldo Kazakevich, fundador y CEO de BDT Global, analiza las principales tendencias tecnológicas tras su participación en Dreamforce (San Francisco) y su impacto directo en las compañías de seguros. En la entrevista…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-11-02",
-      "url": "https://elseguroenaccion.com.ar/aldo-kazakevich-inteligencia-artificial-gestion-de-datos-y-madurez-digital/",
+      "fecha": "2026-11-04",
+      "url": "https://elseguroenaccion.com.ar/por-octavo-ano-consecutivo-allianz-es-la-marca-de-seguros-mas-valiosa-del-mundo/",
       "imagen": ""
     }
   ]
