@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-11-05T13:59-03:00",
+  "actualizado": "2026-11-06T13:31-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seguros Argentina: primas crecen y pérdida se reduce en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El mercado asegurador cerró al 30/6/2026 con primas por $27,1 billones (+41,5% nominal) y una pérdida neta que cayó de 2,48% a 0,43% de primas. La siniestralidad…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://mercadosyseguros.com/seguros-argentina-primas-crecen-y-perdida-se-reduce-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Voluntariado en Pola de Allande: vivir gratis a cambio de 25 h/semana",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Polagrino, un albergue privado de Pola de Allande, ofrece alojamiento y tres comidas a cambio de unas 25 horas semanales de trabajo. La oferta requiere la membresía…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://mercadosyseguros.com/voluntariado-en-pola-de-allande-vivir-gratis-a-cambio-de-25-h-semana/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cumbre Aseguradora: el seguro sostiene al 97% de la economía",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com En la 3.ª Cumbre Aseguradora Argentina, autoridades y cámaras del sector afirmaron que el seguro representa el 3% del PBI y sostiene al 97% de la economía; se…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://mercadosyseguros.com/cumbre-aseguradora-el-seguro-sostiene-al-97-de-la-economia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Apagar el móvil para seguridad: qué dijo Moncloa y qué funciona",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Pedro Sánchez dijo que técnicos de La Moncloa le recomendaron apagar el móvil cinco minutos al día para protegerlo. Apagar puede eliminar malware que sólo reside en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://mercadosyseguros.com/apagar-el-movil-para-seguridad-que-dijo-moncloa-y-que-funciona/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los terremotos de Venezuela y Colombia exponen la brecha de protección de seguros en América Latina, según Aon",
+      "resumen": "Argentina estuvo afectada en este período por incendios forestales, inundaciones y tormentas severas. La entrada Los terremotos de Venezuela y Colombia exponen la brecha de protección de seguros en América Latina, según…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/los-terremotos-de-venezuela-y-colombia-exponen-la-brecha-de-proteccion-de-seguros-en-america-latina-segun-aon/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Terremoto-en-Colombia-Reuters.jpg"
+    },
+    {
+      "titulo": "La SSN aumenta los límites de RC del seguro automotor: estos son los nuevos montos que regirán desde 2027",
+      "resumen": "A través de la Resolución SSN 480/2026, el organismo actualizó los límites de cobertura de Responsabilidad Civil para vehículos particulares, comerciales y de transporte de pasajeros. También modificó franquicias y los…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/la-ssn-aumenta-los-limites-de-rc-del-seguro-automotor-estos-son-los-nuevos-montos-que-regiran-desde-2027/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RUS recibió una distinción honorífica en Concordia",
+      "resumen": "Río Uruguay Seguros (RUS), a través de su sucursal Concordia, recibió una distinción honorífica otorgada por el Centro de Comercio, Industria y Servicios de Concordia (CCISC), en el marco de los Reconocimientos CCISC…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/rus-recibio-una-distincion-honorifica-en-concordia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/RUS-recibio-una-distincion-honorifica-en-Concordia-2.jpeg"
+    },
+    {
+      "titulo": "Del siniestro a la atención del cliente: la IA transforma el seguro con las personas en el centro",
+      "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos dimensiones clave de la transformación del mercado asegurador: la evolución de la gestión de siniestros en un contexto de riesgos cada vez más complejos, y el avance…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/del-siniestro-a-la-atencion-del-cliente-la-ia-transforma-el-seguro-con-las-personas-en-el-centro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Caja ya concreta 900 ventas mensuales de seguros de auto a través de su asistente virtual con IA",
+      "resumen": "A través de Letizia, su asistente virtual, la aseguradora permite cotizar, contratar coberturas, enviar documentación y realizar pagos desde el celular las 24 horas. En diálogo con 100% SEGURO, José Niro, Data &…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/la-caja-ya-concreta-900-ventas-mensuales-de-seguros-de-auto-a-traves-de-su-asistente-virtual-con-ia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/La-Caja-edifico-sede-122.jpg"
+    },
+    {
+      "titulo": "El 65% de los robos de motos se concentra en unidades de baja cilindrada",
+      "resumen": "Según el Informe de Movilidad de Strix de octubre, más de seis de cada diez robos de motos corresponden a modelos de 110 y 150 cc., vehículos que para miles de personas son su medio de transporte diario y, a la vez, su…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/el-65-de-los-robos-de-motos-se-concentra-en-unidades-de-baja-cilindrada/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rivadavia Seguros designa a sus nuevas autoridades ejecutivas",
+      "resumen": "El Cr. Julio Salvioli asume como Gerente General y el Lic. Gustavo Manilla como Subgerente General, consolidando su trayectoria profesional dentro de la compañía. Las designaciones suceden a la Cra. Rosana Ibarrart tras…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/rivadavia-seguros-designa-a-sus-nuevas-autoridades-ejecutivas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Julio-C.-Salvioli.jpg"
+    },
+    {
+      "titulo": "Fabián Pérez, Experta Seguros: el campo inicia la campaña gruesa con el seguro como una herramienta clave frente a riesgos climáticos",
+      "resumen": "Fabián Pérez, de Experta Seguros, analiza la importancia del seguro agropecuario ante el aumento de los riesgos climáticos. Con el inicio de la campaña gruesa y la amenaza de El Niño, las coberturas agrícolas se…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://nbs.ar/seguro-agropecuario-riesgos-climaticos-campana-gruesa/",
+      "imagen": ""
+    },
     {
       "titulo": "Congreso COPAPROSE en Quito: FAPASA participó y se leyó la Carta 2026",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El XXXVI Congreso Iberoamericano de COPAPROSE se realizó del 12 al 14 de octubre en Quito con más de 200 asistentes. FAPASA, liderada por Agustina Decarre, participó…",
@@ -39,183 +147,75 @@
       "imagen": ""
     },
     {
-      "titulo": "Longevidad y transformación laboral: el desafío de rediseñar los sistemas de ingresos para el retiro",
-      "resumen": "La 18ª edición del Marsh CFA Institute Global Pension Index analiza 55 sistemas de ingresos para el retiro y examina cómo la longevidad, los cambios demográficos y las nuevas trayectorias laborales inciden en su diseño…",
+      "titulo": "Crisis de ueno bank: renunció el presidente Santiago Peña y Diputados aprobó por unanimidad la acusación para su juicio político",
+      "resumen": "La crisis de ueno bank sacudió las máximas esferas políticas de Paraguay y precipitó la renuncia del presidente Santiago Peña. En una jornada de máxima tensión institucional, la Cámara de Diputados aprobó por unanimidad…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/longevidad-y-transformacion-laboral-el-desafio-de-redisenar-los-sistemas-de-ingresos-para-el-retiro/",
+      "url": "https://100seguro.com.ar/crisis-de-ueno-bank-renuncio-el-presidente-santiago-pena-y-diputados-aprobo-por-unanimidad-la-acusacion-para-su-juicio-politico/",
       "imagen": ""
     },
     {
-      "titulo": "LaConfe 2026 en 2 minutos: el video que resume una edición que sorprendió de inicio a fin",
-      "resumen": "Un récord de asistencia, contenidos de clase mundial, un imponente show de Halloween, experiencias innovadoras y networking de alto impacto. LaConfe 2026 dejó momentos inolvidables y ahora invita a revivirlos en un…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/laconfe-2026-en-2-minutos-el-video-que-resume-una-edicion-que-sorprendio-de-inicio-a-fin/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jooycar: la insurtech que metió la IA en toda su operación y publicó los números",
-      "resumen": "Por Hugues Bertin, CEO & Founder de Digital Insurance LatAm y Presidente de la Alianza Insurtech Panamericana (AIP).- Conozco a Rodrigo Labbé desde que fundó Jooycar, y juntos, con otros directores, fundamos…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/jooycar-la-insurtech-que-metio-la-ia-en-toda-su-operacion-y-publico-los-numeros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/08/HUGUES-BERTIN-150x150.png"
-    },
-    {
-      "titulo": "Claims Services Hogar ya está generando USD 6,9 millones de ahorro anual para las aseguradoras",
-      "resumen": "Con un índice de reparabilidad del 50% y una red de más de 1.000 servicios técnicos autorizados en todo el país, la plataforma se consolida como una solución tecnológica clave para optimizar la gestión de siniestros del…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/claims-services-hogar-ya-esta-generando-usd-69-millones-de-ahorro-anual-para-las-aseguradoras/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Martin-Valseche-Director-de-Operaciones-de-Claims-Services.jpg"
-    },
-    {
-      "titulo": "Dos productores de seguros lanzan sensei, un agente de IA que cotiza y atiende seguros por WhatsApp en lenguaje simple",
-      "resumen": "Ezequiel Stegmann y Valentín Coghlan lo llevaron de prototipo a atender clientes en tres meses. Cotiza un seguro de auto en una conversación, lee la póliza de cualquier compañía y, si lo que la persona tiene está bien,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/dos-productores-de-seguros-lanzan-sensei-un-agente-de-ia-que-cotiza-y-atiende-seguros-por-whatsapp-en-lenguaje-simple/",
-      "imagen": ""
-    },
-    {
-      "titulo": "BARBUSS presenta la agenda de Unlocking Argentina, aFinancial Services Perspective",
-      "resumen": "Unlocking Argentina, a Financial Services Perspective se realizará el miércoles 25 de noviembre de 2026 en la Residencia de la Embajadora argentina en el Reino Unido, con la participación de referentes de los servicios…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/barbuss-presenta-la-agenda-de-unlocking-argentina-afinancial-services-perspective/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Viviana Chaskielberg, nueva presidente de AVIRA",
-      "resumen": "AVIRA, Asociación Civil de Aseguradores de Vida y Retiro de la República Argentina, anuncia la elección de Viviana Chaskielberg como su nueva presidente. Las 39 compañías que integran la Asociación le desean el mayor de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/viviana-chaskielberg-nueva-presidente-de-avira/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El Superintendente de Seguros de la Nación participó en la 13.ª Jornada de Seguros",
-      "resumen": "Guillermo Plate destacó la centralidad de la solvencia, analizó el avance hacia un modelo de capital basado en riesgo y valoró el potencial de crecimiento de la industria en sectores estratégicos. El Superintendente de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/el-superintendente-de-seguros-de-la-nacion-participo-en-la-13-a-jornada-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Greenwashing: el temor a equivocarse también lleva a las empresas a callar",
-      "resumen": "El temor a ser acusado de greenwashing lleva a algunas empresas a reducir o evitar sus comunicaciones ambientales. El fenómeno del greenhushing plantea el desafío de comunicar avances reales en sustentabilidad con…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://nbs.ar/greenhushing-empresarial-temor-al-greenwashing/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Segunda Seguros renueva su lugar en el Directorio de Pacto Global Argentina",
-      "resumen": "Las organizaciones de la Red Argentina del Pacto Global de las Naciones Unidas eligieron a La Segunda Seguros como integrante titular de su Directorio para el período 2026-2028. La elección renueva una participación que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/la-segunda-seguros-renueva-su-lugar-en-el-directorio-de-pacto-global-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La empresa chilena ComparaOnline se integra a la Alianza Insurtech Panamericana",
-      "resumen": "ComparaOnline, marketplace que permite comparar y contratar seguros y productos financieros de forma simple, transparente y 100% online, se incorporó como Global Member Insurtech de la Alianza Insurtech Panamericana…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/la-empresa-chilena-comparaonline-se-integra-a-la-alianza-insurtech-panamericana/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/09/Maria-Sol-Gonzalez-Chief-Revenue-Officer-de-ComparaOnline-Foto-Horizontal.jpg"
-    },
-    {
-      "titulo": "El Norte Seguros cerró el segundo cuatrimestre de los PCC",
-      "resumen": "El pasado viernes 30 de octubre, El Norte Seguros finalizó el segundo cuatrimestre de los Programas de Capacitación Continua (PCC), que en esta oportunidad estuvo dedicado al producto Integral de Comercio y contó con la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/el-norte-seguros-cerro-el-segundo-cuatrimestre-de-los-pcc/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Es estratégico trabajar salud",
-      "resumen": "El presidente de RiskGroup Argentina analiza por qué el seguro y el reaseguro de salud representan una apuesta estratégica para el mercado al ofrecer menores márgenes, pero mayor permanencia y estabilidad en las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/es-estrategico-trabajar-salud/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN detectó que una aseguradora retiene riesgos casi 70 veces por encima de su capacidad patrimonial",
-      "resumen": "El organismo le exigió explicaciones y un Plan de Regularización y Saneamiento en un plazo de 15 días. La compañía respondió que trabaja en la ampliación de su programa de reaseguro. La entrada La SSN detectó que una…",
+      "titulo": "Paraguay: la crisis de ueno bank abre interrogantes sobre el futuro de ueno Seguros y las empresas del holding",
+      "resumen": "La decisión del Banco Central del Paraguay de iniciar el proceso de resolución de ueno bank desató una crisis financiera de fuerte impacto político e institucional, que ahora plantea interrogantes sobre las demás…",
       "fuente": "100% Seguro",
       "categoria": "Regulación",
-      "fecha": "2026-11-04",
-      "url": "https://100seguro.com.ar/la-ssn-detecto-que-una-aseguradora-retiene-riesgos-casi-70-veces-por-encima-de-su-capacidad-patrimonial/",
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/paraguay-la-crisis-de-ueno-bank-abre-interrogantes-sobre-el-futuro-de-ueno-seguros-y-las-empresas-del-holding/",
       "imagen": ""
     },
     {
-      "titulo": "El legado de Justina: una historia que sigue multiplicando oportunidades de vida",
-      "resumen": "Ezequiel Lo Cane, impulsor de la Ley Justina visitó Concepción del Uruguay y participó, junto al Dr. Carlos Casas, de una entrevista en Directo al Punto, programa conducido por Hugo Barreto que se emite por RUS Media…",
-      "fuente": "El Seguro en Acción",
+      "titulo": "Zurich Argentina participó de la 35ª edición de arteba",
+      "resumen": "El programa Matching Funds, impulsado por Zurich y Fundación arteba, acompañó a instituciones culturales de distintas provincias en la adquisición de obras, con el objetivo de ampliar sus colecciones y contribuir a la…",
+      "fuente": "100% Seguro",
       "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/el-legado-de-justina-una-historia-que-sigue-multiplicando-oportunidades-de-vida/",
-      "imagen": ""
+      "fecha": "2026-11-05",
+      "url": "https://100seguro.com.ar/zurich-argentina-participo-de-la-35a-edicion-de-arteba/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/5_-Polesello_-Via-M_-Rosa-Sf.jpg"
     },
     {
-      "titulo": "La SSN elimina declaraciones juradas y simplifica las obligaciones de las aseguradoras",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN), mediante la Resolución SSN N.º 466/2026, eliminó la obligación de presentar las declaraciones juradas de Inactividad Procesal y de No Seguro, reduciendo cargas…",
+      "titulo": "IF-2026-107200569-APN-GEYE#SSN – CIRCULAR ESTRUCTURA DE LAS CARTERAS (AL 30 DE JUNIO DE 2026)",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-elimina-declaraciones-juradas-y-simplifica-las-obligaciones-de-las-aseguradoras/",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/if-2026-107200569-apn-geyessn-circular-estructura-de-las-carteras-al-30-de-junio-de-2026/",
       "imagen": ""
     },
     {
-      "titulo": "¿Y si la próxima oportunidad está en esta sala? | Jornada de Integración Regional",
-      "resumen": "Desde REDMES te invitamos a participar de la Jornada de Integración Regional para Productoras y Corredoras de Seguros, un encuentro virtual facilitado por Angie Mastrangelo. ¿Cuántas experiencias, ideas y oportunidades…",
+      "titulo": "RESOL-2026-479-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA TRANSPORTE DE MERCADERÍAS – SEGURO DE TRANSPORTE MARÍTIMO, TERRESTRE Y/O AÉREO",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/y-si-la-proxima-oportunidad-esta-en-esta-sala-jornada-de-integracion-regional/",
+      "categoria": "Regulación",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-479-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-transporte-de-mercaderias-seguro-de-transporte-maritimo-terrestre-y-o-aereo/",
       "imagen": ""
     },
     {
-      "titulo": "Hawk Insurance Broker reunió al mercado asegurador con Andrés Malamud",
-      "resumen": "Invitado en exclusiva por Hawk Insurance Broker, el politólogo Andrés Malamud realizó una presentación sobre el escenario internacional y sus implicancias para el sector asegurador. La propuesta fomentó la interacción…",
+      "titulo": "RESOL-2026-477-APN-SSN#MEC – CUCHARELLO SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.R.L. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/hawk-insurance-broker-reunio-al-mercado-asegurador-con-andres-malamud/",
+      "categoria": "Regulación",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-477-apn-ssnmec-cucharello-sociedad-de-productores-asesores-de-seguros-s-r-l-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     },
     {
-      "titulo": "Más de seis de cada diez robos de motos corresponden a modelos de 110 y 150 cc, vehículos que para miles de personas son su medio de transporte diario y, a la vez, su herramienta de trabajo",
-      "resumen": "Las motos de baja cilindrada concentran el 65,9% de los robos de motos registrados en lo que va del año, según el Informe de Movilidad de Strix, empresa especializada en soluciones tecnológicas para la seguridad y el…",
+      "titulo": "RESOL-2026-476-APN-SSN#MEC – ORGANIZACIÓN SAR SAR SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A.S. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/mas-de-seis-de-cada-diez-robos-de-motos-corresponden-a-modelos-de-110-y-150-cc-vehiculos-que-para-miles-de-personas-son-su-medio-de-transporte-diario-y-a-la-vez-su-herramienta-de-trabajo/",
+      "categoria": "Regulación",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-476-apn-ssnmec-organizacion-sar-sar-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     },
     {
-      "titulo": "Por octavo año consecutivo, Allianz es la marca de seguros más valiosa del mundo",
-      "resumen": "La aseguradora alcanza el valor de marca más alto de su historia con USD 30.700 millones y ocupa el puesto 26 entre todas las marcas. El desempeño financiero y gestión continua de la marca son la base de su fortaleza,…",
+      "titulo": "RESOL-2026-475-APN-SSN#MEC – SOUTHERN CROSS PRODUCTORES ASESORES DE SEGUROS S.R.L. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-04",
-      "url": "https://elseguroenaccion.com.ar/por-octavo-ano-consecutivo-allianz-es-la-marca-de-seguros-mas-valiosa-del-mundo/",
+      "categoria": "Regulación",
+      "fecha": "2026-11-05",
+      "url": "https://elseguroenaccion.com.ar/resol-2026-475-apn-ssnmec-southern-cross-productores-asesores-de-seguros-s-r-l-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     }
   ]
