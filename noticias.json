@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-11-06T13:31-03:00",
+  "actualizado": "2026-11-07T12:17-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Crédito y Caución apuesta a un crecimiento sostenible en caución",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Crédito y Caución apunta a un crecimiento sostenible en 2026, con foco en calidad de cartera, respaldo de reaseguro y digitalización. Registra mayor demanda en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-07",
+      "url": "https://mercadosyseguros.com/credito-y-caucion-apuesta-a-un-crecimiento-sostenible-en-caucion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "WR Berkley prevé caída del reaseguro entre 10% y 20%",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com WR Berkley anunció que su negocio de reaseguro asumido podría reducirse entre 10% y 20% en los próximos trimestres. En el 3T2026 reportó primas netas suscritas por…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-07",
+      "url": "https://mercadosyseguros.com/wr-berkley-preve-caida-del-reaseguro-entre-10-y-20/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en seguros: cómo cambia la suscripción y siniestros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA ya interviene en evaluación de riesgos, siniestros y detección de fraude en aseguradoras, transformando procesos operativos y la relación con clientes. El…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-07",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-como-cambia-la-suscripcion-y-siniestros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Litigiosidad en Riesgos del Trabajo: 91% más demandas desde 2019",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Las demandas laborales aumentaron 91% desde 2019: en 2025 ingresaron más de 134.000 juicios. UART señala que la mayor parte de las causas corresponde a dolencias…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-07",
+      "url": "https://mercadosyseguros.com/litigiosidad-en-riesgos-del-trabajo-91-mas-demandas-desde-2019/",
+      "imagen": ""
+    },
     {
       "titulo": "Seguros Argentina: primas crecen y pérdida se reduce en 2026",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El mercado asegurador cerró al 30/6/2026 con primas por $27,1 billones (+41,5% nominal) y una pérdida neta que cayó de 2,48% a 0,43% de primas. La siniestralidad…",
@@ -39,6 +75,24 @@
       "imagen": ""
     },
     {
+      "titulo": "Del siniestro a la atención del cliente: la IA transforma el seguro con las personas en el centro",
+      "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos dimensiones clave de la transformación del mercado asegurador: la evolución de la gestión de siniestros en un contexto de riesgos cada vez más complejos, y el avance…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/del-siniestro-a-la-atencion-del-cliente-la-ia-transforma-el-seguro-con-las-personas-en-el-centro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El robo de pick-ups crece en la Argentina y refuerza el desafío de la cooperación regional",
+      "resumen": "En el marco del 9° Seminario Regional Latinoamericano de IAATI, que reúne a especialistas y fuerzas de seguridad para abordar el delito automotor, datos de Strix muestran que el robo de pick-ups aumentó 5% interanual…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-06",
+      "url": "https://100seguro.com.ar/el-robo-de-pick-ups-crece-en-la-argentina-y-refuerza-el-desafio-de-la-cooperacion-regional/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/02-Imagen-Hilux.jpg"
+    },
+    {
       "titulo": "Los terremotos de Venezuela y Colombia exponen la brecha de protección de seguros en América Latina, según Aon",
       "resumen": "Argentina estuvo afectada en este período por incendios forestales, inundaciones y tormentas severas. La entrada Los terremotos de Venezuela y Colombia exponen la brecha de protección de seguros en América Latina, según…",
       "fuente": "100% Seguro",
@@ -64,15 +118,6 @@
       "fecha": "2026-11-06",
       "url": "https://100seguro.com.ar/rus-recibio-una-distincion-honorifica-en-concordia/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/RUS-recibio-una-distincion-honorifica-en-Concordia-2.jpeg"
-    },
-    {
-      "titulo": "Del siniestro a la atención del cliente: la IA transforma el seguro con las personas en el centro",
-      "resumen": "En un nuevo programa de 100% SEGURO, analizamos dos dimensiones clave de la transformación del mercado asegurador: la evolución de la gestión de siniestros en un contexto de riesgos cada vez más complejos, y el avance…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://100seguro.com.ar/del-siniestro-a-la-atencion-del-cliente-la-ia-transforma-el-seguro-con-las-personas-en-el-centro/",
-      "imagen": ""
     },
     {
       "titulo": "La Caja ya concreta 900 ventas mensuales de seguros de auto a través de su asistente virtual con IA",
@@ -102,6 +147,15 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Julio-C.-Salvioli.jpg"
     },
     {
+      "titulo": "De la sucursal al celular: qué trámites del seguro ya se pueden hacer online",
+      "resumen": "Después de un choque, realizar la denuncia del siniestro y reunir la documentación necesaria son pasos fundamentales para avanzar con el reclamo al seguro. Hoy, gracias a los canales digitales, es posible denunciar un…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-06",
+      "url": "https://nbs.ar/denunciar-siniestro-auto-online/",
+      "imagen": ""
+    },
+    {
       "titulo": "Fabián Pérez, Experta Seguros: el campo inicia la campaña gruesa con el seguro como una herramienta clave frente a riesgos climáticos",
       "resumen": "Fabián Pérez, de Experta Seguros, analiza la importancia del seguro agropecuario ante el aumento de los riesgos climáticos. Con el inicio de la campaña gruesa y la amenaza de El Niño, las coberturas agrícolas se…",
       "fuente": "NBS",
@@ -129,24 +183,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Patentamientos de motos: 1-15 de octubre en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CAFAM publicó los patentamientos de motos del 1 al 15 de octubre, con la cifra quincenal que permite comparar variaciones mensuales y anuales y evaluar tendencias del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://mercadosyseguros.com/patentamientos-de-motos-1-15-de-octubre-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros pyme: satisfacción récord y desafíos del sector",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Monitor del Mercado Asegurador 2026 relevó 52.813 casos en 19 compañías y registró una satisfacción de 8,1 puntos; sin embargo el NPS cayó a 37. Líderes como…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://mercadosyseguros.com/seguros-pyme-satisfaccion-record-y-desafios-del-sector/",
-      "imagen": ""
-    },
-    {
       "titulo": "Crisis de ueno bank: renunció el presidente Santiago Peña y Diputados aprobó por unanimidad la acusación para su juicio político",
       "resumen": "La crisis de ueno bank sacudió las máximas esferas políticas de Paraguay y precipitó la renuncia del presidente Santiago Peña. En una jornada de máxima tensión institucional, la Cámara de Diputados aprobó por unanimidad…",
       "fuente": "100% Seguro",
@@ -165,15 +201,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Zurich Argentina participó de la 35ª edición de arteba",
-      "resumen": "El programa Matching Funds, impulsado por Zurich y Fundación arteba, acompañó a instituciones culturales de distintas provincias en la adquisición de obras, con el objetivo de ampliar sus colecciones y contribuir a la…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/zurich-argentina-participo-de-la-35a-edicion-de-arteba/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/5_-Polesello_-Via-M_-Rosa-Sf.jpg"
-    },
-    {
       "titulo": "IF-2026-107200569-APN-GEYE#SSN – CIRCULAR ESTRUCTURA DE LAS CARTERAS (AL 30 DE JUNIO DE 2026)",
       "resumen": "",
       "fuente": "El Seguro en Acción",
@@ -189,33 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-11-05",
       "url": "https://elseguroenaccion.com.ar/resol-2026-479-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-transporte-de-mercaderias-seguro-de-transporte-maritimo-terrestre-y-o-aereo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-477-APN-SSN#MEC – CUCHARELLO SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.R.L. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-477-apn-ssnmec-cucharello-sociedad-de-productores-asesores-de-seguros-s-r-l-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-476-APN-SSN#MEC – ORGANIZACIÓN SAR SAR SOCIEDAD DE PRODUCTORES ASESORES DE SEGUROS S.A.S. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-476-apn-ssnmec-organizacion-sar-sar-sociedad-de-productores-asesores-de-seguros-s-a-s-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-475-APN-SSN#MEC – SOUTHERN CROSS PRODUCTORES ASESORES DE SEGUROS S.R.L. – INSCRIPCIÓN EN EL REGISTRO DE SOCIEDADES DE PRODUCTORES DE SEGUROS",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-475-apn-ssnmec-southern-cross-productores-asesores-de-seguros-s-r-l-inscripcion-en-el-registro-de-sociedades-de-productores-de-seguros/",
       "imagen": ""
     }
   ]
