@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-11-08T12:41-03:00",
+  "actualizado": "2026-11-09T16:23-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Robos de motos: 65,9% corresponden a modelos 110 y 150 cc",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 65,9% de los robos de motos en lo que va del año afecta a modelos de 110 y 150 cc (35,9% y 30% respectivamente), y el 77% de esos casos son asaltos a mano armada,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://mercadosyseguros.com/robos-de-motos-659-corresponden-a-modelos-110-y-150-cc/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz: la marca de seguros más valiosa por octavo año",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Allianz alcanzó un valor de marca récord de USD 30.700 millones y quedó 26° en el ranking Best Global Brands 2026 de Interbrand, tras un avance del 9% respecto a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://mercadosyseguros.com/allianz-la-marca-de-seguros-mas-valiosa-por-octavo-ano/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Deuda con asegurados: $10.558.457 millones a junio 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A junio de 2026 el mercado asegurador argentino registra una deuda con asegurados de $10.558.457 millones, con una variación real interanual de 9,7%. La litigiosidad…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://mercadosyseguros.com/deuda-con-asegurados-10-558-457-millones-a-junio-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Inteligencia artificial y datos en seguros: claves de Aldo Kazakevich",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aldo Kazakevich, CEO de BDT Global, afirmó en Dreamforce que integración, calidad y gobierno de datos son indispensables para aplicar inteligencia artificial en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-09",
+      "url": "https://mercadosyseguros.com/inteligencia-artificial-y-datos-en-seguros-claves-de-aldo-kazakevich/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Claims Services Hogar ya está generandoUSD 6,9 millones de ahorro anual paralas aseguradoras",
+      "resumen": "Con un índice de reparabilidad del 50% y una red de más de 1.000 servicios técnicos autorizados en todo el país, la plataforma se consolida como una solución tecnológica clave para optimizar la gestión de siniestros del…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://www.informeoperadores.com.ar/2026/11/08/claims-services-hogar-ya-esta-generandousd-69-millones-de-ahorro-anual-paralas-aseguradoras/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Martin-V-600x400.jpg"
+    },
+    {
+      "titulo": "Grupo San Cristóbal fue reconocida por su campaña “Podés cuidar tu casa cómo cuidás tu auto”",
+      "resumen": "La compañía recibió una distinción en la categoría Campaña General de Difusión por una iniciativa que buscó promover una mayor conciencia aseguradora y fomentar la protección en el hogar. Grupo San Cristóbal fue…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://www.informeoperadores.com.ar/2026/11/08/grupo-san-cristobal-fue-reconocida-por-su-campana-podes-cuidar-tu-casa-como-cuidas-tu-auto/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Grupo-San-Cristobal-Podes-cuidar-tu-casa-como-cuidas-tu-auto-600x400.jpg"
+    },
+    {
+      "titulo": "BARBUSS presenta la agenda de Unlocking Argentina, a Financial Services Perspective",
+      "resumen": "Unlocking Argentina, a Financial Services Perspective se realizará el miércoles 25 de noviembre de 2026 en la Residencia de la Embajadora argentina en el Reino Unido, con la participación de referentes de los servicios…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://www.informeoperadores.com.ar/2026/11/08/barbuss-presenta-la-agenda-de-unlocking-argentina-a-financial-services-perspective/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/BARBUSS-RISK-600x400.png"
+    },
+    {
+      "titulo": "El 65% de los robos de motos se concentra en unidades de baja cilindrada, según el Informe de Movilidad de Strix de octubre",
+      "resumen": "Más de seis de cada diez robos de motos corresponden a modelos de 110 y 150 cc, vehículos que para miles de personas son su medio de transporte diario y, a la vez, su herramienta de trabajo. Las motos de baja cilindrada…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://www.informeoperadores.com.ar/2026/11/08/el-65-de-los-robos-de-motos-se-concentra-en-unidades-de-baja-cilindrada-segun-el-informe-de-movilidad-de-strix-de-octubre/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Strix-moto004-600x400.png"
+    },
+    {
+      "titulo": "Sebastián Tobio, Marsh: “En un contexto de aumento de fenómenos climáticos extremos las aseguradoras están revisando sus modelos de suscripción, sus capacidades de acumulación y sus estrategias de reaseguro”",
+      "resumen": "Sebastián Tobio, de Marsh, analiza cómo el aumento de los fenómenos climáticos extremos está transformando el mercado asegurador. Las compañías revisan sus modelos de suscripción, tarifas y estrategias de reaseguro,…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://nbs.ar/riesgos-climaticos-mercado-asegurador-marsh/",
+      "imagen": ""
+    },
     {
       "titulo": "Informe DGT: pide el informe completo antes de comprar un auto",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Francisco Javier Páez, doctor e investigador del INSIA‑UPM, advierte que la prueba de la moneda no basta al comprar un vehículo usado y recomienda pedir el informe…",
@@ -39,6 +120,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Argentina proyecta aumento de 29,5% en los costos de salud corporativos para 2027, según Aon",
+      "resumen": "Un aumento de 8,5 puntos porcentuales frente a 2026 Aon plc (NYSE: AON), empresa líder mundial en servicios profesionales, publicó su Informe de Tendencias de Costos Médicos 2027, el cual analiza las proyecciones de…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-08",
+      "url": "https://www.informeoperadores.com.ar/2026/11/08/argentina-proyecta-aumento-de-295-en-los-costos-de-salud-corporativos-para-2027-segun-aon/",
+      "imagen": ""
+    },
+    {
       "titulo": "Crédito y Caución apuesta a un crecimiento sostenible en caución",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Crédito y Caución apunta a un crecimiento sostenible en 2026, con foco en calidad de cartera, respaldo de reaseguro y digitalización. Registra mayor demanda en…",
       "fuente": "Mercado y Seguros",
@@ -54,42 +144,6 @@
       "categoria": "Mercado",
       "fecha": "2026-11-07",
       "url": "https://mercadosyseguros.com/wr-berkley-preve-caida-del-reaseguro-entre-10-y-20/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA en seguros: cómo cambia la suscripción y siniestros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA ya interviene en evaluación de riesgos, siniestros y detección de fraude en aseguradoras, transformando procesos operativos y la relación con clientes. El…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-07",
-      "url": "https://mercadosyseguros.com/ia-en-seguros-como-cambia-la-suscripcion-y-siniestros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Litigiosidad en Riesgos del Trabajo: 91% más demandas desde 2019",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Las demandas laborales aumentaron 91% desde 2019: en 2025 ingresaron más de 134.000 juicios. UART señala que la mayor parte de las causas corresponde a dolencias…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-07",
-      "url": "https://mercadosyseguros.com/litigiosidad-en-riesgos-del-trabajo-91-mas-demandas-desde-2019/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros Argentina: primas crecen y pérdida se reduce en 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El mercado asegurador cerró al 30/6/2026 con primas por $27,1 billones (+41,5% nominal) y una pérdida neta que cayó de 2,48% a 0,43% de primas. La siniestralidad…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://mercadosyseguros.com/seguros-argentina-primas-crecen-y-perdida-se-reduce-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Voluntariado en Pola de Allande: vivir gratis a cambio de 25 h/semana",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Polagrino, un albergue privado de Pola de Allande, ofrece alojamiento y tres comidas a cambio de unas 25 horas semanales de trabajo. La oferta requiere la membresía…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://mercadosyseguros.com/voluntariado-en-pola-de-allande-vivir-gratis-a-cambio-de-25-h-semana/",
       "imagen": ""
     },
     {
@@ -163,60 +217,6 @@
       "fecha": "2026-11-06",
       "url": "https://100seguro.com.ar/rivadavia-seguros-designa-a-sus-nuevas-autoridades-ejecutivas/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Julio-C.-Salvioli.jpg"
-    },
-    {
-      "titulo": "De la sucursal al celular: qué trámites del seguro ya se pueden hacer online",
-      "resumen": "Después de un choque, realizar la denuncia del siniestro y reunir la documentación necesaria son pasos fundamentales para avanzar con el reclamo al seguro. Hoy, gracias a los canales digitales, es posible denunciar un…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-06",
-      "url": "https://nbs.ar/denunciar-siniestro-auto-online/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fabián Pérez, Experta Seguros: el campo inicia la campaña gruesa con el seguro como una herramienta clave frente a riesgos climáticos",
-      "resumen": "Fabián Pérez, de Experta Seguros, analiza la importancia del seguro agropecuario ante el aumento de los riesgos climáticos. Con el inicio de la campaña gruesa y la amenaza de El Niño, las coberturas agrícolas se…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://nbs.ar/seguro-agropecuario-riesgos-climaticos-campana-gruesa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Crisis de ueno bank: renunció el presidente Santiago Peña y Diputados aprobó por unanimidad la acusación para su juicio político",
-      "resumen": "La crisis de ueno bank sacudió las máximas esferas políticas de Paraguay y precipitó la renuncia del presidente Santiago Peña. En una jornada de máxima tensión institucional, la Cámara de Diputados aprobó por unanimidad…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/crisis-de-ueno-bank-renuncio-el-presidente-santiago-pena-y-diputados-aprobo-por-unanimidad-la-acusacion-para-su-juicio-politico/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Paraguay: la crisis de ueno bank abre interrogantes sobre el futuro de ueno Seguros y las empresas del holding",
-      "resumen": "La decisión del Banco Central del Paraguay de iniciar el proceso de resolución de ueno bank desató una crisis financiera de fuerte impacto político e institucional, que ahora plantea interrogantes sobre las demás…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-05",
-      "url": "https://100seguro.com.ar/paraguay-la-crisis-de-ueno-bank-abre-interrogantes-sobre-el-futuro-de-ueno-seguros-y-las-empresas-del-holding/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-107200569-APN-GEYE#SSN – CIRCULAR ESTRUCTURA DE LAS CARTERAS (AL 30 DE JUNIO DE 2026)",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/if-2026-107200569-apn-geyessn-circular-estructura-de-las-carteras-al-30-de-junio-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-479-APN-SSN#MEC – LA PAZ COMPAÑÍA DE SEGUROS S.A. – AUTORIZACIÓN RAMA TRANSPORTE DE MERCADERÍAS – SEGURO DE TRANSPORTE MARÍTIMO, TERRESTRE Y/O AÉREO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-05",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-479-apn-ssnmec-la-paz-compania-de-seguros-s-a-autorizacion-rama-transporte-de-mercaderias-seguro-de-transporte-maritimo-terrestre-y-o-aereo/",
-      "imagen": ""
     }
   ]
 }
