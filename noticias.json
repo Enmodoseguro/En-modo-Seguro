@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-11-09T16:23-03:00",
+  "actualizado": "2026-11-10T13:42-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Superintendencia enfatiza solvencia y avance hacia capital basado en riesgo",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 13 de junio de 2026, Guillermo Plate, superintendente de la Superintendencia de Seguros de la Nación, afirmó que la solvencia es central y planteó avanzar hacia un…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-10",
+      "url": "https://mercadosyseguros.com/superintendencia-enfatiza-solvencia-y-avance-hacia-capital-basado-en-riesgo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN elimina declaraciones juradas y simplifica trámites",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la Resolución SSN N.º 466/2026 el 30/10/2026 y eliminó las declaraciones juradas de Inactividad Procesal y de No Seguro; el control ahora se hará…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-10",
+      "url": "https://mercadosyseguros.com/ssn-elimina-declaraciones-juradas-y-simplifica-tramites/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jornada regional de integración para productoras y corredoras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com REDMES realizó el martes 10 de noviembre una Jornada de Integración Regional virtual facilitada por Angie Mastrangelo para productoras y corredoras de seguros, con…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-10",
+      "url": "https://mercadosyseguros.com/jornada-regional-de-integracion-para-productoras-y-corredoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hawk reunió al mercado con Andrés Malamud en La Confe 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Insurance Broker invitó a Andrés Malamud el 28 de octubre en La Confe 2026; el politólogo presentó \"Argentina en el mundo que viene\" y luego mantuvo un encuentro…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-10",
+      "url": "https://mercadosyseguros.com/hawk-reunio-al-mercado-con-andres-malamud-en-la-confe-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Andrés Martino, Sancor Seguros: “La experiencia del cliente se ha vuelto fundamental”",
+      "resumen": "Andrés Martino, jefe de Suscripción de Seguros Agropecuarios de Sancor Seguros, analiza los desafíos del mercado asegurador agropecuario frente al aumento de los riesgos climáticos. Destaca la importancia de ofrecer…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-10",
+      "url": "https://nbs.ar/sancor-seguros-experiencia-cliente-seguros-agropecuarios/",
+      "imagen": ""
+    },
     {
       "titulo": "Robos de motos: 65,9% corresponden a modelos 110 y 150 cc",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 65,9% de los robos de motos en lo que va del año afecta a modelos de 110 y 150 cc (35,9% y 30% respectivamente), y el 77% de esos casos son asaltos a mano armada,…",
@@ -36,6 +81,15 @@
       "categoria": "Innovación",
       "fecha": "2026-11-09",
       "url": "https://mercadosyseguros.com/inteligencia-artificial-y-datos-en-seguros-claves-de-aldo-kazakevich/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Museo Argentino del Seguro se suma a La Noche de los Museos en la sede de AAPAS",
+      "resumen": "El próximo sábado 14 de noviembre, a partir de las 19 h, la sede central de la Asociación Argentina de Productores Asesores de Seguros (AAPAS) será escenario de una propuesta cultural imperdible para repasar el…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-09",
+      "url": "https://elseguroenaccion.com.ar/el-museo-argentino-del-seguro-se-suma-a-la-noche-de-los-museos-en-la-sede-de-aapas/",
       "imagen": ""
     },
     {
@@ -102,24 +156,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Hanseatica: calificación A+.ar de Moody’s Local Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Moody’s Local Argentina asignó a Hanseatica la calificación A+.ar con perspectiva estable, destacando un superávit de capital del 462%, 11,2% de participación en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-08",
-      "url": "https://mercadosyseguros.com/hanseatica-calificacion-a-ar-de-moodys-local-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Encuentro Perspectivas 2027 de Special Division Reinsurance Brokers",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 20 de octubre Special Division Reinsurance Brokers realizó el Encuentro Ejecutivo Perspectivas 2027 en el Alvear Icon Hotel; Damián Di Pace expuso escenarios para…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-08",
-      "url": "https://mercadosyseguros.com/encuentro-perspectivas-2027-de-special-division-reinsurance-brokers/",
-      "imagen": ""
-    },
-    {
       "titulo": "Argentina proyecta aumento de 29,5% en los costos de salud corporativos para 2027, según Aon",
       "resumen": "Un aumento de 8,5 puntos porcentuales frente a 2026 Aon plc (NYSE: AON), empresa líder mundial en servicios profesionales, publicó su Informe de Tendencias de Costos Médicos 2027, el cual analiza las proyecciones de…",
       "fuente": "Informe Operadores",
@@ -129,21 +165,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Crédito y Caución apuesta a un crecimiento sostenible en caución",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Crédito y Caución apunta a un crecimiento sostenible en 2026, con foco en calidad de cartera, respaldo de reaseguro y digitalización. Registra mayor demanda en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
+      "titulo": "La SSN actualiza los límites de cobertura y las franquicias de los seguros de responsabilidad civil automotor",
+      "resumen": "La medida, establecida mediante la Resolución SSN N° 480/2026, alcanza a los seguros obligatorios y voluntarios y comenzará a regir para las pólizas emitidas y/o renovadas a partir del 1° de enero de 2027. La…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
       "fecha": "2026-11-07",
-      "url": "https://mercadosyseguros.com/credito-y-caucion-apuesta-a-un-crecimiento-sostenible-en-caucion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "WR Berkley prevé caída del reaseguro entre 10% y 20%",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com WR Berkley anunció que su negocio de reaseguro asumido podría reducirse entre 10% y 20% en los próximos trimestres. En el 3T2026 reportó primas netas suscritas por…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-07",
-      "url": "https://mercadosyseguros.com/wr-berkley-preve-caida-del-reaseguro-entre-10-y-20/",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-actualiza-los-limites-de-cobertura-y-las-franquicias-de-los-seguros-de-responsabilidad-civil-automotor/",
       "imagen": ""
     },
     {
@@ -190,33 +217,6 @@
       "fecha": "2026-11-06",
       "url": "https://100seguro.com.ar/rus-recibio-una-distincion-honorifica-en-concordia/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/RUS-recibio-una-distincion-honorifica-en-Concordia-2.jpeg"
-    },
-    {
-      "titulo": "La Caja ya concreta 900 ventas mensuales de seguros de auto a través de su asistente virtual con IA",
-      "resumen": "A través de Letizia, su asistente virtual, la aseguradora permite cotizar, contratar coberturas, enviar documentación y realizar pagos desde el celular las 24 horas. En diálogo con 100% SEGURO, José Niro, Data &…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://100seguro.com.ar/la-caja-ya-concreta-900-ventas-mensuales-de-seguros-de-auto-a-traves-de-su-asistente-virtual-con-ia/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/La-Caja-edifico-sede-122.jpg"
-    },
-    {
-      "titulo": "El 65% de los robos de motos se concentra en unidades de baja cilindrada",
-      "resumen": "Según el Informe de Movilidad de Strix de octubre, más de seis de cada diez robos de motos corresponden a modelos de 110 y 150 cc., vehículos que para miles de personas son su medio de transporte diario y, a la vez, su…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://100seguro.com.ar/el-65-de-los-robos-de-motos-se-concentra-en-unidades-de-baja-cilindrada/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rivadavia Seguros designa a sus nuevas autoridades ejecutivas",
-      "resumen": "El Cr. Julio Salvioli asume como Gerente General y el Lic. Gustavo Manilla como Subgerente General, consolidando su trayectoria profesional dentro de la compañía. Las designaciones suceden a la Cra. Rosana Ibarrart tras…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-06",
-      "url": "https://100seguro.com.ar/rivadavia-seguros-designa-a-sus-nuevas-autoridades-ejecutivas/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Julio-C.-Salvioli.jpg"
     }
   ]
 }
