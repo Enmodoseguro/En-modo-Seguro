@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-11-11T13:47-03:00",
+  "actualizado": "2026-11-12T14:15-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Inversión y seguros: necesidad urgente en Latinoamérica y el Caribe",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de la Fundación Iberoamericana Empresarial, patrocinado por Mapfre y CAF, exige hasta 31.000 millones de dólares anuales para infraestructuras resilientes…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://mercadosyseguros.com/inversion-y-seguros-necesidad-urgente-en-latinoamerica-y-el-caribe/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA lidera la hoja de ruta tecnológica de las pymes argentinas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Barómetro de Pymes de Chubb (31/10/2026) muestra que el 55% de las pymes argentinas prioriza la Inteligencia Artificial; herramientas conversacionales suman 30% y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-12",
+      "url": "https://mercadosyseguros.com/ia-lidera-la-hoja-de-ruta-tecnologica-de-las-pymes-argentinas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hitachi Digital creará ~2.000 empleos y aportará US$300 millones",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hitachi Digital anunció una inversión de US$300 millones en América Latina hasta 2028, con el 75% destinado a la Argentina, y planea crear cerca de 2.000 empleos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-12",
+      "url": "https://mercadosyseguros.com/hitachi-digital-creara-2-000-empleos-y-aportara-us300-millones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA y conectividad impulsan la transformación del seguro en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA, la analítica de datos y la conectividad vehicular encabezan la agenda de las aseguradoras en Argentina: un relevamiento de EY y CIDeS (septiembre 2026) señaló…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://mercadosyseguros.com/ia-y-conectividad-impulsan-la-transformacion-del-seguro-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La economía argentina cambió, pero los seguros para las PyMEs siguen atrapados en el pasado",
+      "resumen": "Por Gustavo Giorgi, CEO de PyME Protegida.- Mientras las pequeñas y medianas empresas enfrentan nuevas condiciones de competencia, financiamiento y rentabilidad, el mercado asegurador tiene el desafío de dejar atrás las…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://100seguro.com.ar/la-economia-argentina-cambio-pero-los-seguros-para-las-pymes-siguen-atrapados-en-el-pasado/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Gustavo-Giorgi-CEO-de-PyME-Protegida-150x150.jpg"
+    },
+    {
+      "titulo": "La Segunda Seguros fue galardonada con el Eikon de Oro por su Informe Anual Integrado 2025",
+      "resumen": "La aseguradora se alzó con la máxima distinción en la categoría Reportes de Sustentabilidad de los Premios Eikon 2026, consolidando su liderazgo en transparencia corporativa y gestión bajo criterios ambientales,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-fue-galardonada-con-el-eikon-de-oro-por-su-informe-anual-integrado-2025/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IF-2026-108095772-APN-GE#SSN – FE DE ERRATAS – CIRCULAR IF-2025-136041616-APN-GE#SSN – SUBRAMO 1.080.05",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-11-12",
+      "url": "https://elseguroenaccion.com.ar/if-2026-108095772-apn-gessn-fe-de-erratas-circular-if-2025-136041616-apn-gessn-subramo-1-080-05/",
+      "imagen": ""
+    },
+    {
+      "titulo": "National Brokers, presente en el 86° Abierto de Polo del Tortugas Country Club",
+      "resumen": "Durante las semifinales, disputadas el 31 de octubre y el 1 de noviembre, y la final celebrada el 8 de noviembre, National Brokers acompañó el 86° Abierto de Polo del Tortugas Country Club, uno de los encuentros más…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://elseguroenaccion.com.ar/national-brokers-presente-en-el-86-abierto-de-polo-del-tortugas-country-club/",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Cuánto respaldo tiene cada aseguradora para pagar lo que debe? Los datos de solvencia",
+      "resumen": "El indicador de solvencia mide cuántos pesos líquidos y respaldados tiene una compañía por cada peso que debe a sus asegurados y a los terceros damnificados. Con la serie de seis años hasta junio de 2026, cada lector…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://elseguroenaccion.com.ar/cuanto-respaldo-tiene-cada-aseguradora-para-pagar-lo-que-debe-los-datos-de-solvencia/",
+      "imagen": ""
+    },
     {
       "titulo": "Darío Smaldone, nuevo socio de Nuevos Negocios en CE Brokers",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com CE Brokers incorporó a Darío Smaldone como socio de Nuevos Negocios en noviembre de 2026. Smaldone aporta 34 años de trayectoria, 22 en Zurich Argentina, y trabajará…",
@@ -37,6 +118,15 @@
       "fecha": "2026-11-11",
       "url": "https://mercadosyseguros.com/viviana-chaskielberg-nueva-presidenta-de-avira/",
       "imagen": ""
+    },
+    {
+      "titulo": "National Brokers presente en el 86° Abierto de Polo del Tortugas Country Club",
+      "resumen": "Durante las semifinales, disputadas el 31 de octubre y el 1 de noviembre, y la final, celebrada el 8 de noviembre, National Brokers acompañó el 86° Abierto de Polo del Tortugas Country Club, uno de los encuentros más…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-11",
+      "url": "https://100seguro.com.ar/national-brokers-presente-en-el-86-abierto-de-polo-del-tortugas-country-club/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/ImagenPolo02.png"
     },
     {
       "titulo": "Aseguradora, broker y fútbol: una mirada distinta sobre el valor del asesoramiento",
@@ -93,129 +183,39 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Mesa-de-trabajo-contra-el-fraude-en-seguros-del-Ministerio-Publico-de-la-Provincia-de-Buenos-Aires-y-la-Asociacion-de-Aseguradores-Argentinos-ADEAA-2.jpg"
     },
     {
-      "titulo": "Vencora Amplía Su Portafolio de Tecnología para Seguros con la Adquisición de CT InsureTech",
-      "resumen": "Vencora, empresa global que adquiere compañías de tecnología para la banca, los servicios financieros y los seguros con la filosofía de conservarlas para siempre, anunció hoy la adquisición de CT InsureTech (CTI),…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/vencora-amplia-su-portafolio-de-tecnologia-para-seguros-con-la-adquisicion-de-ct-insuretech/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De la automatización simple a los agentes de IA en seguros (Colinet Trotta)",
-      "resumen": "Maximiliano Velázquez, director de Colinet Trotta, explica cómo la inteligencia artificial y los agentes de IA están transformando el seguro en Argentina. Hablamos de automatización, ciberseguridad, modernización del…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/de-la-automatizacion-simple-a-los-agentes-de-ia-en-seguros-colinet-trotta/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Oscar Prieto y Dicla López: reaseguros, cambio climático y compliance",
-      "resumen": "Oscar Prieto, gerente general de Reaseguradores Argentinos S.A. (RASA), analiza el panorama del reaseguro nacional e internacional en un ciclo de mercado blando, la normalización en los pagos al exterior, el impacto del…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/oscar-prieto-y-dicla-lopez-reaseguros-cambio-climatico-y-compliance/",
-      "imagen": ""
-    },
-    {
-      "titulo": "UN PLANAZO: MENOS PANTALLA, MÁS VÍNCULO",
-      "resumen": "En Afianzadora Latinoamericana abrimos las puertas de nuestra oficina sustentable para compartir un verdadero “planazo” con nuestros socios estratégicos. Bajo el lema “Menos pantalla, más vínculo”, reunimos a nuestro…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://www.informeoperadores.com.ar/2026/11/11/un-planazo-menos-pantalla-mas-vinculo/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/DSC_7961-600x400.jpg"
-    },
-    {
-      "titulo": "arteba 2026: siete museos argentinos incorporaron un total de 20 obras a sus colecciones",
+      "titulo": "Arteba 2026: siete museos argentinos incorporaron un total de 20 obras a sus colecciones",
       "resumen": "El programa Matching Funds, impulsado por Zurich y Fundación arteba, acompañó a instituciones culturales de distintas provincias en la adquisición de obras, con el objetivo de ampliar sus colecciones y contribuir a la…",
-      "fuente": "Informe Operadores",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-11-11",
-      "url": "https://www.informeoperadores.com.ar/2026/11/11/61811/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/4_-Cima_-Constitucion_-Franklin-400x600.jpg"
+      "url": "https://elseguroenaccion.com.ar/arteba-2026-siete-museos-argentinos-incorporaron-un-total-de-20-obras-a-sus-colecciones/",
+      "imagen": ""
     },
     {
-      "titulo": "Dario Smaldone se incorpora a CE Brokers como Socio de Nuevos Negocios",
-      "resumen": "Referente comercial del mercado asegurador y con 22 años de carrera en Zurich Argentina, el ejecutivo se suma al broker para impulsar el crecimiento de todas sus unidades de negocio. De izquierda a derecha: Ariel…",
-      "fuente": "Informe Operadores",
+      "titulo": "FAPASA reunió a sus tres Consejos y fijó la Asamblea para la renovación de autoridades",
+      "resumen": "Con la participación de 47 dirigentes de todo el país y la visita del superintendente de Seguros de la Nación, Guillermo Plate, FAPASA reunió el 5 de noviembre a sus tres órganos de conducción. La Asamblea General…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-11-11",
-      "url": "https://www.informeoperadores.com.ar/2026/11/11/dario-smaldone-se-incorpora-a-ce-brokers-como-socio-de-nuevos-negocios/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Dario-Smaldone-se-incorpora-a-CE-Brokers-600x400.jpg"
+      "url": "https://elseguroenaccion.com.ar/fapasa-reunio-a-sus-tres-consejos-y-fijo-la-asamblea-para-la-renovacion-de-autoridades/",
+      "imagen": ""
     },
     {
-      "titulo": "Cómo contratar un seguro por WhatsApp: qué puede hacer la inteligencia artificial",
-      "resumen": "La inteligencia artificial está transformando la forma de contratar y gestionar seguros. A través de WhatsApp, los clientes pueden cotizar seguros de auto y hogar, consultar opciones de cobertura, enviar documentación y…",
-      "fuente": "NBS",
+      "titulo": "Avanza la tarea conjunta del MPF y ADEAA para erradicar las estafas y fraude organizado contra las aseguradoras",
+      "resumen": "Avanza la tarea conjunta del MPF y ADEAA para erradicar las estafas y fraude organizado contra las aseguradoras. Con el objetivo de frenar el impacto económico y judicial de las estafas al sistema asegurador, el…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-11",
+      "url": "https://elseguroenaccion.com.ar/avanza-la-tarea-conjunta-del-mpf-y-adeaa-para-erradicar-las-estafas-y-fraude-organizado-contra-las-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Innovación, capacitación y calidad: CESVI ARGENTINA reconoció a su red de talleres",
+      "resumen": "En el marco de la 4.ª Expo Reparación Automotriz, CESVI ARGENTINA realizó la entrega de los Premios XXI Jornada Regional de Talleres, con el auspicio de Galicia Seguros. La iniciativa reconoce el desempeño de los…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Innovación",
       "fecha": "2026-11-11",
-      "url": "https://nbs.ar/contratar-seguro-por-whatsapp/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jorge Luis Valencia, Galicia Seguros: “La tecnología está cambiando profundamente nuestra capacidad de entender, medir y gestionar el riesgo climático”",
-      "resumen": "Jorge Luis Valencia, de Galicia Seguros, analiza cómo el cambio climático está transformando el mercado asegurador y exige nuevas herramientas para gestionar los riesgos. Destaca el papel de la tecnología, las imágenes…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-11",
-      "url": "https://nbs.ar/galicia-seguros-tecnologia-riesgo-climatico/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Superintendencia enfatiza solvencia y avance hacia capital basado en riesgo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 13 de junio de 2026, Guillermo Plate, superintendente de la Superintendencia de Seguros de la Nación, afirmó que la solvencia es central y planteó avanzar hacia un…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-10",
-      "url": "https://mercadosyseguros.com/superintendencia-enfatiza-solvencia-y-avance-hacia-capital-basado-en-riesgo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN elimina declaraciones juradas y simplifica trámites",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN publicó la Resolución SSN N.º 466/2026 el 30/10/2026 y eliminó las declaraciones juradas de Inactividad Procesal y de No Seguro; el control ahora se hará…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-10",
-      "url": "https://mercadosyseguros.com/ssn-elimina-declaraciones-juradas-y-simplifica-tramites/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jornada regional de integración para productoras y corredoras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com REDMES realizó el martes 10 de noviembre una Jornada de Integración Regional virtual facilitada por Angie Mastrangelo para productoras y corredoras de seguros, con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-10",
-      "url": "https://mercadosyseguros.com/jornada-regional-de-integracion-para-productoras-y-corredoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hawk reunió al mercado con Andrés Malamud en La Confe 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hawk Insurance Broker invitó a Andrés Malamud el 28 de octubre en La Confe 2026; el politólogo presentó \"Argentina en el mundo que viene\" y luego mantuvo un encuentro…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-10",
-      "url": "https://mercadosyseguros.com/hawk-reunio-al-mercado-con-andres-malamud-en-la-confe-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gestión de riesgos en megaeventos: cómo se diseñan las coberturas para eventos multitudinarios",
-      "resumen": "Con la llegada de León XIV, y frente a convocatorias masivas que reúnen a decenas de miles de personas, la estructuración de pólizas integrales resulta clave para respaldar infraestructura, montaje y seguridad…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-10",
-      "url": "https://100seguro.com.ar/gestion-de-riesgos-en-megaeventos-como-se-disenan-las-coberturas-para-eventos-multitudinarios/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Andrés Martino, Sancor Seguros: “La experiencia del cliente se ha vuelto fundamental”",
-      "resumen": "Andrés Martino, jefe de Suscripción de Seguros Agropecuarios de Sancor Seguros, analiza los desafíos del mercado asegurador agropecuario frente al aumento de los riesgos climáticos. Destaca la importancia de ofrecer…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-10",
-      "url": "https://nbs.ar/sancor-seguros-experiencia-cliente-seguros-agropecuarios/",
+      "url": "https://elseguroenaccion.com.ar/innovacion-capacitacion-y-calidad-cesvi-argentina-reconocio-a-su-red-de-talleres/",
       "imagen": ""
     }
   ]
