@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-11-12T14:15-03:00",
+  "actualizado": "2026-11-13T13:52-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Museo Argentino del Seguro abre en La Noche de los Museos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Museo Argentino del Seguro y AAPAS abrirán la sede de Bolívar 332 (CABA) el sábado 14 de noviembre desde las 19 h. La muestra, con entrada libre y gratuita, exhibe…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://mercadosyseguros.com/museo-argentino-del-seguro-abre-en-la-noche-de-los-museos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN actualiza límites y franquicias del seguro de responsabilidad civil",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la Resolución 480/2026 que actualiza sumas aseguradas, franquicias y la OLA para seguros de responsabilidad civil automotor; las nuevas condiciones…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-13",
+      "url": "https://mercadosyseguros.com/ssn-actualiza-limites-y-franquicias-del-seguro-de-responsabilidad-civil/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aumento de sumas aseguradas por RC para autos y transporte",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN dictó la resolución 480/2026 que aumenta las sumas aseguradas y franquicias de responsabilidad civil para vehículos destinados al transporte de pasajeros y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-13",
+      "url": "https://mercadosyseguros.com/aumento-de-sumas-aseguradas-por-rc-para-autos-y-transporte/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguridad vial ante la visita del Papa: consejos y datos clave",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La visita del papa León XIV (8-11 de noviembre) implicará cortes y desvíos en varias ciudades. Según la ANSV, entre enero y agosto de 2026 hubo 2.085 siniestros…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://mercadosyseguros.com/seguridad-vial-ante-la-visita-del-papa-consejos-y-datos-clave/",
+      "imagen": ""
+    },
+    {
+      "titulo": "De las mascotas a los ciberataques: nuevas necesidades y oportunidades para el seguro",
+      "resumen": "En un nuevo programa de 100% SEGURO, ponemos el foco en dos segmentos con potencial de crecimiento, aunque con características y niveles de desarrollo diferentes. En primer lugar, conversamos con Gonzalo Magliano,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/de-las-mascotas-a-los-ciberataques-nuevas-necesidades-y-oportunidades-para-el-seguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Generali continúa generando sólidos resultados gracias a todos sus segmentos de negocio",
+      "resumen": "La aseguradora global con base en Milán cierra los primeros nueve meses de 2026 con un crecimiento del resultado operativo y del resultado neto ajustado, impulsado por todos sus segmentos de negocio. La entrada Generali…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/generali-continua-generando-solidos-resultados-gracias-a-todos-sus-segmentos-de-negocio/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2024/11/Andrea-Sironi-Presidente-del-directorio-de-Assicurazioni-Generali.jpg"
+    },
+    {
+      "titulo": "Una nueva experiencia de integración: se presentó Sysone Developer Portal",
+      "resumen": "En Sysone continúan evolucionando su plataforma para ofrecer un ecosistema tecnológico cada vez más abierto, conectado y preparado para acompañar el crecimiento de sus clientes. Como parte de esta evolución, presentaron…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/una-nueva-experiencia-de-integracion-se-presento-sysone-developer-portal/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La IA avanza en las empresas, pero escalarla sigue siendo el principal desafío",
+      "resumen": "7 de 10 empresas declara tener inteligencia artificial activa en sus organizaciones, aunque solo una minoría alcanzó una etapa de integración a escala. El estudio Tech Pulse LATAM 2026 de TIVIT Almaviva Group identifica…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/la-ia-avanza-en-las-empresas-pero-escalarla-sigue-siendo-el-principal-desafio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La SSN intimó a una aseguradora para que en 30 días cubra un déficit de capital de $620 millones",
+      "resumen": "RESOLUCIÓN SSN 481/2026.- La Superintendencia de Seguros de la Nación (SSN) volvió a adoptar medidas sobre la situación patrimonial de Comarseg Compañía Argentina de Seguros S.A. Mediante la presente resolución, fechada…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/la-ssn-intimo-a-una-aseguradora-para-que-en-30-dias-cubra-un-deficit-de-capital-de-620-millones/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Cámara Insurtech Argentina y La Segunda Seguros convocan a empresas tecnológicas a través de LinkUp",
+      "resumen": "El programa de innovación abierta de la Cámara cierra el año con un Demo Day presencial en Rosario el 15 de diciembre. Las startups y scaleups tecnológicas podrán postularse hasta el 16 de noviembre. La entrada La…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/la-camara-insurtech-argentina-y-la-segunda-seguros-convocan-a-empresas-tecnologicas-a-traves-de-linkup/",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Teresa Arrosagaray: «La IA debe funcionar como una herramienta de asistencia y no como un reemplazo absoluto del criterio técnico”",
+      "resumen": "La inteligencia artificial está transformando la operatoria del seguro de caución mediante la automatización, el análisis de datos y la agilización de procesos. María Teresa Arrosagaray, gerente de IT de Afianzadora,…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-13",
+      "url": "https://nbs.ar/inteligencia-artificial-seguros-caucion/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Greenwashing: por qué las empresas deben respaldar sus promesas con datos",
+      "resumen": "Evitar el greenwashing exige que las empresas respalden sus compromisos de sustentabilidad con acciones, indicadores y resultados verificables. Guillermo Schulmeier, cofundador y director de Emprendia, analiza los…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://nbs.ar/greenwashing-empresas-comunicacion-sustentabilidad/",
+      "imagen": ""
+    },
     {
       "titulo": "Inversión y seguros: necesidad urgente en Latinoamérica y el Caribe",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de la Fundación Iberoamericana Empresarial, patrocinado por Mapfre y CAF, exige hasta 31.000 millones de dólares anuales para infraestructuras resilientes…",
@@ -36,6 +144,24 @@
       "categoria": "Mercado",
       "fecha": "2026-11-12",
       "url": "https://mercadosyseguros.com/ia-y-conectividad-impulsan-la-transformacion-del-seguro-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Calor extremo: Swiss Re analiza el potencial de los seguros paramétricos para proteger a las poblaciones más vulnerables",
+      "resumen": "El aumento de la frecuencia y la intensidad de las olas de calor está abriendo un nuevo campo para la industria aseguradora. En un reciente informe, Swiss Re examina cómo los seguros paramétricos pueden aportar respaldo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://100seguro.com.ar/calor-extremo-swiss-re-analiza-el-potencial-de-los-seguros-parametricos-para-proteger-a-las-poblaciones-mas-vulnerables/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Insurance Week 2027 abrió inscripciones con una tarifa especial de preventa",
+      "resumen": "La tercera edición del encuentro organizado por CIDeS se realizará del 6 al 8 de abril de 2027 en Salta. Ya se encuentra habilitada la inscripción con una tarifa exclusiva hasta el 31 de diciembre de 2026 y beneficios…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-12",
+      "url": "https://100seguro.com.ar/insurance-week-2027-abrio-inscripciones-con-una-tarifa-especial-de-preventa/",
       "imagen": ""
     },
     {
@@ -84,138 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Darío Smaldone, nuevo socio de Nuevos Negocios en CE Brokers",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com CE Brokers incorporó a Darío Smaldone como socio de Nuevos Negocios en noviembre de 2026. Smaldone aporta 34 años de trayectoria, 22 en Zurich Argentina, y trabajará…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Gonzalo Córdoba (h): «La caución tiene así un rol concreto como facilitador de negocios»",
+      "resumen": "El seguro de caución encuentra nuevas oportunidades de crecimiento en energía, minería y comercio exterior. Gonzalo Córdoba (h), gerente comercial de Crédito y Caución, analiza el potencial del sector, la ampliación de…",
+      "fuente": "NBS",
       "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://mercadosyseguros.com/dario-smaldone-nuevo-socio-de-nuevos-negocios-en-ce-brokers/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seminario de AAPAS y LEARISK sobre Todo Riesgo Operativo",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS y LEARISK realizan el jueves 12 de noviembre a las 10:30 el seminario \"La continuidad del negocio\" sobre Todo Riesgo Operativo; es presencial en Bolívar 332,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://mercadosyseguros.com/seminario-de-aapas-y-learisk-sobre-todo-riesgo-operativo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Unlocking Argentina: agenda de BARBUSS para servicios financieros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com BARBUSS dio a conocer la agenda de Unlocking Argentina, a Financial Services Perspective, que se realizará el 25 de noviembre de 2026 en la Residencia de la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://mercadosyseguros.com/unlocking-argentina-agenda-de-barbuss-para-servicios-financieros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Viviana Chaskielberg, nueva presidenta de AVIRA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AVIRA eligió a Viviana Chaskielberg como presidenta; la asociación agrupa a 39 compañías y promete impulsar seguros de Vida y Retiro, fortalecer el diálogo con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://mercadosyseguros.com/viviana-chaskielberg-nueva-presidenta-de-avira/",
-      "imagen": ""
-    },
-    {
-      "titulo": "National Brokers presente en el 86° Abierto de Polo del Tortugas Country Club",
-      "resumen": "Durante las semifinales, disputadas el 31 de octubre y el 1 de noviembre, y la final, celebrada el 8 de noviembre, National Brokers acompañó el 86° Abierto de Polo del Tortugas Country Club, uno de los encuentros más…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/national-brokers-presente-en-el-86-abierto-de-polo-del-tortugas-country-club/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/ImagenPolo02.png"
-    },
-    {
-      "titulo": "Aseguradora, broker y fútbol: una mirada distinta sobre el valor del asesoramiento",
-      "resumen": "Después de casi cuatro décadas vinculado al mercado asegurador, Ignacio Amui reúne una combinación poco habitual en la industria: desarrolló buena parte de su carrera dentro de compañías de seguros, hoy impulsa…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/aseguradora-broker-y-futbol-una-mirada-distinta-sobre-el-valor-del-asesoramiento/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Ignacio-Amui-06028.jpg"
-    },
-    {
-      "titulo": "Diciembre, el mes de celebraciones: la importancia de anticiparse a los riesgos",
-      "resumen": "Las cenas de egresados, fiestas de empresa y reuniones familiares multiplican los encuentros durante las últimas semanas del año. Qué tener en cuenta para prevenir imprevistos y por qué un seguro de Responsabilidad…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/diciembre-el-mes-de-celebraciones-la-importancia-de-anticiparse-a-los-riesgos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros lanza su Asistencia al Viajero y lleva su respuesta a todo el mundo",
-      "resumen": "Con esta propuesta, se convierte en la primera aseguradora argentina en incorporar una solución integral diseñada para proteger a los viajeros durante su estadía en el exterior, con un respaldo de 80 años de trayectoria…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/sancor-seguros-lanza-su-asistencia-al-viajero-y-lleva-su-respuesta-a-todo-el-mundo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El mapa mundial del seguro: dónde se produce, quién lo compra y qué dice de nosotros",
-      "resumen": "El presidente global de Russell Bedford International propone un recorrido por la geografía de la producción aseguradora mundial para analizar dónde se generan las primas, qué mercados concentran el negocio y cómo se…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/el-mapa-mundial-del-seguro-donde-se-produce-quien-lo-compra-y-que-dice-de-nosotros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Autos y ART siguen dominando el mercado, mientras 10 aseguradoras concentran la mitad de la producción",
-      "resumen": "El último informe de la SSN revela cómo se distribuye el negocio entre las principales aseguradoras. Automotores y Riesgos del Trabajo explican el 63% de las primas, mientras que los seguros de personas representan…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/autos-y-art-siguen-dominando-el-mercado-mientras-10-aseguradoras-concentran-la-mitad-de-la-produccion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Avanza la tarea conjunta del Ministerio Público Fiscal y ADEAA para erradicar las estafas y el fraude organizado contra las aseguradoras",
-      "resumen": "Con el objetivo de frenar el impacto económico y judicial de las estafas al sistema asegurador, el Ministerio Público de la Provincia de Buenos Aires y la Asociación de Aseguradores Argentinos (ADEAA) concretaron una…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://100seguro.com.ar/avanza-la-tarea-conjunta-del-ministerio-publico-fiscal-y-adeaa-para-erradicar-las-estafas-y-el-fraude-organizado-contra-las-aseguradoras/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Mesa-de-trabajo-contra-el-fraude-en-seguros-del-Ministerio-Publico-de-la-Provincia-de-Buenos-Aires-y-la-Asociacion-de-Aseguradores-Argentinos-ADEAA-2.jpg"
-    },
-    {
-      "titulo": "Arteba 2026: siete museos argentinos incorporaron un total de 20 obras a sus colecciones",
-      "resumen": "El programa Matching Funds, impulsado por Zurich y Fundación arteba, acompañó a instituciones culturales de distintas provincias en la adquisición de obras, con el objetivo de ampliar sus colecciones y contribuir a la…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/arteba-2026-siete-museos-argentinos-incorporaron-un-total-de-20-obras-a-sus-colecciones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA reunió a sus tres Consejos y fijó la Asamblea para la renovación de autoridades",
-      "resumen": "Con la participación de 47 dirigentes de todo el país y la visita del superintendente de Seguros de la Nación, Guillermo Plate, FAPASA reunió el 5 de noviembre a sus tres órganos de conducción. La Asamblea General…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/fapasa-reunio-a-sus-tres-consejos-y-fijo-la-asamblea-para-la-renovacion-de-autoridades/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Avanza la tarea conjunta del MPF y ADEAA para erradicar las estafas y fraude organizado contra las aseguradoras",
-      "resumen": "Avanza la tarea conjunta del MPF y ADEAA para erradicar las estafas y fraude organizado contra las aseguradoras. Con el objetivo de frenar el impacto económico y judicial de las estafas al sistema asegurador, el…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/avanza-la-tarea-conjunta-del-mpf-y-adeaa-para-erradicar-las-estafas-y-fraude-organizado-contra-las-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Innovación, capacitación y calidad: CESVI ARGENTINA reconoció a su red de talleres",
-      "resumen": "En el marco de la 4.ª Expo Reparación Automotriz, CESVI ARGENTINA realizó la entrega de los Premios XXI Jornada Regional de Talleres, con el auspicio de Galicia Seguros. La iniciativa reconoce el desempeño de los…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Innovación",
-      "fecha": "2026-11-11",
-      "url": "https://elseguroenaccion.com.ar/innovacion-capacitacion-y-calidad-cesvi-argentina-reconocio-a-su-red-de-talleres/",
+      "fecha": "2026-11-12",
+      "url": "https://nbs.ar/seguro-de-caucion-nuevas-oportunidades/",
       "imagen": ""
     }
   ]
