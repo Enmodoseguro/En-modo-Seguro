@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-11-13T13:52-03:00",
+  "actualizado": "2026-11-14T12:26-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Reaseguradora incorporó automatización sin equipo grande de TI",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Munich Re Syndicate 2007 implementó en 2024 herramientas low-code y automatización que redujeron hasta 70% los tiempos de emisión de pólizas sin ampliar su equipo de…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-14",
+      "url": "https://mercadosyseguros.com/reaseguradora-incorporo-automatizacion-sin-equipo-grande-de-ti/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Exposición de carteras ante la falla de un modelo de IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Anthropic advirtió en su S-1 que una falla catastrófica de un modelo de IA podría superar la capacidad de aseguradoras. El riesgo clave es la concentración: una única…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-14",
+      "url": "https://mercadosyseguros.com/exposicion-de-carteras-ante-la-falla-de-un-modelo-de-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Evitar que la IA amplifique inconsistencias de ajustadores",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Investigaciones muestran que la IA puede replicar y amplificar inconsistencias de ajustadores al entrenarse con registros históricos. La nota explica riesgos y ofrece…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-14",
+      "url": "https://mercadosyseguros.com/evitar-que-la-ia-amplifique-inconsistencias-de-ajustadores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Conducí tu Curso en Paraná: 1.200 estudiantes participaron",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 6 de noviembre más de 1.200 estudiantes participaron en Paraná de Conducí tu Curso, organizado por IAPSER Seguros con apoyo del gobierno provincial. Los cuatro…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-14",
+      "url": "https://mercadosyseguros.com/conduci-tu-curso-en-parana-1-200-estudiantes-participaron/",
+      "imagen": ""
+    },
     {
       "titulo": "Museo Argentino del Seguro abre en La Noche de los Museos",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Museo Argentino del Seguro y AAPAS abrirán la sede de Bolívar 332 (CABA) el sábado 14 de noviembre desde las 19 h. La muestra, con entrada libre y gratuita, exhibe…",
@@ -40,12 +76,39 @@
     },
     {
       "titulo": "De las mascotas a los ciberataques: nuevas necesidades y oportunidades para el seguro",
-      "resumen": "En un nuevo programa de 100% SEGURO, ponemos el foco en dos segmentos con potencial de crecimiento, aunque con características y niveles de desarrollo diferentes. En primer lugar, conversamos con Gonzalo Magliano,…",
+      "resumen": "En un nuevo programa de 100% SEGURO, pusimos el foco en dos segmentos con potencial de crecimiento, aunque con características y niveles de desarrollo diferentes. En primer lugar, conversamos con Gonzalo Magliano,…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-11-13",
       "url": "https://100seguro.com.ar/de-las-mascotas-a-los-ciberataques-nuevas-necesidades-y-oportunidades-para-el-seguro/",
       "imagen": ""
+    },
+    {
+      "titulo": "La Segunda Seguros marca presencia en la cumbre mundial de aseguradoras cooperativas en Canadá",
+      "resumen": "La compañía rosarina tuvo un rol protagónico en la cumbre internacional al ser la única aseguradora del país en disertar en los paneles centrales y en integrar el Comité de Inteligencia de la federación. La entrada La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-marca-presencia-en-la-cumbre-mundial-de-aseguradoras-cooperativas-en-canada/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Guillermo-Muller-director-de-Gestion-Corporativa-de-La-Segunda-Seguros.jpeg"
+    },
+    {
+      "titulo": "ATM Seguros fortalece su vínculo con la comunidad motociclista en la 12ª Expo Moto Gualeguaychú",
+      "resumen": "La aseguradora participa del encuentro que reúne a más de 100 marcas de motos y accesorios en los Galpones del Puerto, en Gualeguaychú, Entre Ríos. Su presencia reafirma su posicionamiento en el mercado de las dos…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/atm-seguros-fortalece-su-vinculo-con-la-comunidad-motociclista-en-la-12a-expo-moto-gualeguaychu/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Zurich y Universal Assistance acompañaron la final del URBA Top 14 con una experiencia para los hinchas",
+      "resumen": "Las compañías desarrollaron un espacio conjunto en el Fan Fest del CASI con propuestas recreativas y áreas de descanso. Además, Zurich entregó la Copa al Mejor Jugador del Torneo. La entrada Zurich y Universal…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://100seguro.com.ar/zurich-y-universal-assistance-acompanaron-la-final-del-urba-top-14-con-una-experiencia-para-los-hinchas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/DSC02068-1.jpg"
     },
     {
       "titulo": "Generali continúa generando sólidos resultados gracias a todos sus segmentos de negocio",
@@ -93,6 +156,24 @@
       "imagen": ""
     },
     {
+      "titulo": "Avanza la tarea conjunta del MPF y ADEAA para erradicar las estafas y fraude organizado contra las aseguradoras.",
+      "resumen": "Epígrafe: Aseguradores, liquidadores y fiscales analizando la acuciante problemática. Con el objetivo de frenar el impacto económico y judicial de las estafas al sistema asegurador, el Ministerio Público de la Provincia…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://www.informeoperadores.com.ar/2026/11/13/avanza-la-tarea-conjunta-del-mpf-y-adeaa-para-erradicar-las-estafas-y-fraude-organizado-contra-las-aseguradoras/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/MPF-y-ADEAA-600x400.jpg"
+    },
+    {
+      "titulo": "Diciembre, el mes de celebraciones: La importancia de anticiparse a los riesgos",
+      "resumen": "Las cenas de egresados, fiestas de empresa y reuniones familiares multiplican los encuentros durante las últimas semanas del año. Qué tener en cuenta para prevenir imprevistos y por qué un seguro de Responsabilidad…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-13",
+      "url": "https://www.informeoperadores.com.ar/2026/11/13/diciembre-el-mes-de-celebraciones-la-importancia-de-anticiparse-a-los-riesgos/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/celebraciones-de-fin-de-ano-por-que-contar-con-seguro-de-responsabilidad-civil-LPS-600x400.jpg"
+    },
+    {
       "titulo": "María Teresa Arrosagaray: «La IA debe funcionar como una herramienta de asistencia y no como un reemplazo absoluto del criterio técnico”",
       "resumen": "La inteligencia artificial está transformando la operatoria del seguro de caución mediante la automatización, el análisis de datos y la agilización de procesos. María Teresa Arrosagaray, gerente de IT de Afianzadora,…",
       "fuente": "NBS",
@@ -129,93 +210,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Hitachi Digital creará ~2.000 empleos y aportará US$300 millones",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Hitachi Digital anunció una inversión de US$300 millones en América Latina hasta 2028, con el 75% destinado a la Argentina, y planea crear cerca de 2.000 empleos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-11-12",
-      "url": "https://mercadosyseguros.com/hitachi-digital-creara-2-000-empleos-y-aportara-us300-millones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA y conectividad impulsan la transformación del seguro en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La IA, la analítica de datos y la conectividad vehicular encabezan la agenda de las aseguradoras en Argentina: un relevamiento de EY y CIDeS (septiembre 2026) señaló…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://mercadosyseguros.com/ia-y-conectividad-impulsan-la-transformacion-del-seguro-en-argentina/",
-      "imagen": ""
-    },
-    {
       "titulo": "Calor extremo: Swiss Re analiza el potencial de los seguros paramétricos para proteger a las poblaciones más vulnerables",
       "resumen": "El aumento de la frecuencia y la intensidad de las olas de calor está abriendo un nuevo campo para la industria aseguradora. En un reciente informe, Swiss Re examina cómo los seguros paramétricos pueden aportar respaldo…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-11-12",
       "url": "https://100seguro.com.ar/calor-extremo-swiss-re-analiza-el-potencial-de-los-seguros-parametricos-para-proteger-a-las-poblaciones-mas-vulnerables/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Insurance Week 2027 abrió inscripciones con una tarifa especial de preventa",
-      "resumen": "La tercera edición del encuentro organizado por CIDeS se realizará del 6 al 8 de abril de 2027 en Salta. Ya se encuentra habilitada la inscripción con una tarifa exclusiva hasta el 31 de diciembre de 2026 y beneficios…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://100seguro.com.ar/insurance-week-2027-abrio-inscripciones-con-una-tarifa-especial-de-preventa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La economía argentina cambió, pero los seguros para las PyMEs siguen atrapados en el pasado",
-      "resumen": "Por Gustavo Giorgi, CEO de PyME Protegida.- Mientras las pequeñas y medianas empresas enfrentan nuevas condiciones de competencia, financiamiento y rentabilidad, el mercado asegurador tiene el desafío de dejar atrás las…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://100seguro.com.ar/la-economia-argentina-cambio-pero-los-seguros-para-las-pymes-siguen-atrapados-en-el-pasado/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Gustavo-Giorgi-CEO-de-PyME-Protegida-150x150.jpg"
-    },
-    {
-      "titulo": "La Segunda Seguros fue galardonada con el Eikon de Oro por su Informe Anual Integrado 2025",
-      "resumen": "La aseguradora se alzó con la máxima distinción en la categoría Reportes de Sustentabilidad de los Premios Eikon 2026, consolidando su liderazgo en transparencia corporativa y gestión bajo criterios ambientales,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://100seguro.com.ar/la-segunda-seguros-fue-galardonada-con-el-eikon-de-oro-por-su-informe-anual-integrado-2025/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IF-2026-108095772-APN-GE#SSN – FE DE ERRATAS – CIRCULAR IF-2025-136041616-APN-GE#SSN – SUBRAMO 1.080.05",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-12",
-      "url": "https://elseguroenaccion.com.ar/if-2026-108095772-apn-gessn-fe-de-erratas-circular-if-2025-136041616-apn-gessn-subramo-1-080-05/",
-      "imagen": ""
-    },
-    {
-      "titulo": "National Brokers, presente en el 86° Abierto de Polo del Tortugas Country Club",
-      "resumen": "Durante las semifinales, disputadas el 31 de octubre y el 1 de noviembre, y la final celebrada el 8 de noviembre, National Brokers acompañó el 86° Abierto de Polo del Tortugas Country Club, uno de los encuentros más…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://elseguroenaccion.com.ar/national-brokers-presente-en-el-86-abierto-de-polo-del-tortugas-country-club/",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Cuánto respaldo tiene cada aseguradora para pagar lo que debe? Los datos de solvencia",
-      "resumen": "El indicador de solvencia mide cuántos pesos líquidos y respaldados tiene una compañía por cada peso que debe a sus asegurados y a los terceros damnificados. Con la serie de seis años hasta junio de 2026, cada lector…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://elseguroenaccion.com.ar/cuanto-respaldo-tiene-cada-aseguradora-para-pagar-lo-que-debe-los-datos-de-solvencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gonzalo Córdoba (h): «La caución tiene así un rol concreto como facilitador de negocios»",
-      "resumen": "El seguro de caución encuentra nuevas oportunidades de crecimiento en energía, minería y comercio exterior. Gonzalo Córdoba (h), gerente comercial de Crédito y Caución, analiza el potencial del sector, la ampliación de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://nbs.ar/seguro-de-caucion-nuevas-oportunidades/",
       "imagen": ""
     }
   ]
