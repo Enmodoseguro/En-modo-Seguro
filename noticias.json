@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-11-14T12:26-03:00",
+  "actualizado": "2026-11-15T12:59-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seminario AAPAS: Descubrí el poder del social selling",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS dictará el seminario \"Descubrí el poder del social selling\" el 19 de noviembre a las 10:00 por Zoom; la disertante será Natalia Abalo. La capacitación es…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-15",
+      "url": "https://mercadosyseguros.com/seminario-aapas-descubri-el-poder-del-social-selling/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reaseguros y cambio climático: desafíos y compliance en 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Oscar Prieto (RASA) y Dicla López (CES Internacional) analizaron un mercado de reaseguro global en ciclo blando, la normalización de pagos al exterior, el impacto del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-15",
+      "url": "https://mercadosyseguros.com/reaseguros-y-cambio-climatico-desafios-y-compliance-en-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Antes de aplicar agentes de IA en sistemas de siniestros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Las aseguradoras analizan usar agentes de IA sobre sistemas de siniestros heredados para automatizar tareas sin reemplazar tecnología. Conviene realizar pilotos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-15",
+      "url": "https://mercadosyseguros.com/antes-de-aplicar-agentes-de-ia-en-sistemas-de-siniestros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros comerciales: opciones móviles reducen la carga administrativa",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Keynova Group publicó su 2026 Small Commercial Insurance Scorecard: asegura que las aseguradoras enfocaron inversiones en cotización y reclamos móviles para pequeñas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-15",
+      "url": "https://mercadosyseguros.com/seguros-comerciales-opciones-moviles-reducen-la-carga-administrativa/",
+      "imagen": ""
+    },
     {
       "titulo": "Reaseguradora incorporó automatización sin equipo grande de TI",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Munich Re Syndicate 2007 implementó en 2024 herramientas low-code y automatización que redujeron hasta 70% los tiempos de emisión de pólizas sin ampliar su equipo de…",
@@ -54,24 +90,6 @@
       "categoria": "Regulación",
       "fecha": "2026-11-13",
       "url": "https://mercadosyseguros.com/ssn-actualiza-limites-y-franquicias-del-seguro-de-responsabilidad-civil/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aumento de sumas aseguradas por RC para autos y transporte",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN dictó la resolución 480/2026 que aumenta las sumas aseguradas y franquicias de responsabilidad civil para vehículos destinados al transporte de pasajeros y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-13",
-      "url": "https://mercadosyseguros.com/aumento-de-sumas-aseguradas-por-rc-para-autos-y-transporte/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguridad vial ante la visita del Papa: consejos y datos clave",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La visita del papa León XIV (8-11 de noviembre) implicará cortes y desvíos en varias ciudades. Según la ANSV, entre enero y agosto de 2026 hubo 2.085 siniestros…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://mercadosyseguros.com/seguridad-vial-ante-la-visita-del-papa-consejos-y-datos-clave/",
       "imagen": ""
     },
     {
@@ -189,24 +207,6 @@
       "categoria": "Mercado",
       "fecha": "2026-11-13",
       "url": "https://nbs.ar/greenwashing-empresas-comunicacion-sustentabilidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Inversión y seguros: necesidad urgente en Latinoamérica y el Caribe",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un informe de la Fundación Iberoamericana Empresarial, patrocinado por Mapfre y CAF, exige hasta 31.000 millones de dólares anuales para infraestructuras resilientes…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://mercadosyseguros.com/inversion-y-seguros-necesidad-urgente-en-latinoamerica-y-el-caribe/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA lidera la hoja de ruta tecnológica de las pymes argentinas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Barómetro de Pymes de Chubb (31/10/2026) muestra que el 55% de las pymes argentinas prioriza la Inteligencia Artificial; herramientas conversacionales suman 30% y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-11-12",
-      "url": "https://mercadosyseguros.com/ia-lidera-la-hoja-de-ruta-tecnologica-de-las-pymes-argentinas/",
       "imagen": ""
     },
     {
