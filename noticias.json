@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-11-15T12:59-03:00",
+  "actualizado": "2026-11-16T16:07-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sancor Seguros lanzó Asistencia al Viajero con seis planes globales",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros lanzó Asistencia al Viajero con seis planes médicos globales, atención virtual 24 horas y coberturas que incluyen repatriación, preexistencias,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://mercadosyseguros.com/sancor-seguros-lanzo-asistencia-al-viajero-con-seis-planes-globales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "XIII Jornada de Seguros: AACS y CPCECABA abordan la solvencia",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La AACS y el CPCECABA realizaron la XIII Jornada de Seguros el 2 de noviembre a las 9:00 para promover una industria “ágil y solvente”. Hubo paneles sobre…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://mercadosyseguros.com/xiii-jornada-de-seguros-aacs-y-cpcecaba-abordan-la-solvencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vencora compra CT InsureTech y refuerza su oferta tecnológica",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Vencora adquirió CT InsureTech en 2024, integrando un proveedor con oficinas en Londres, Buenos Aires y Ciudad de México. CTI conservará tres unidades operativas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://mercadosyseguros.com/vencora-compra-ct-insuretech-y-refuerza-su-oferta-tecnologica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Agentes de IA y automatización en seguros en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Maximiliano Velázquez, director de Colinet Trotta, explicó cómo los agentes de IA avanzan desde la automatización simple hacia decisiones autónomas en suscripción,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://mercadosyseguros.com/agentes-de-ia-y-automatizacion-en-seguros-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Redefinición de estrategias salariales en Argentina: empresas priorizan diferenciación por talento crítico, competitividad y eficiencia",
+      "resumen": "Según la encuesta Total Remuneration Survey (TRS) 2026 de Marsh People & Investments, el mercado corporativo muestra una evolución interanual (mayo 2025-mayo 2026) con variaciones del 27 al 32% en el salario base, al…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/redefinicion-de-estrategias-salariales-en-argentina-empresas-priorizan-diferenciacion-por-talento-critico-competitividad-y-eficiencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El seguro empieza a subirse a los robotaxis y cambia la lógica del riesgo automotor",
+      "resumen": "La conducción autónoma empieza a dejar el terreno experimental para plantear desafíos concretos al mercado asegurador. En Europa ya existen compañías que están asegurando flotas de robotaxis en pruebas, un paso que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/el-seguro-empieza-a-subirse-a-los-robotaxis-y-cambia-la-logica-del-riesgo-automotor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ciberseguros bajo presión: Buffett advierte por pérdidas capaces de superar a una catástrofe natural",
+      "resumen": "El mercado de ciberseguros mantiene buenos niveles de rentabilidad en Estados Unidos y las primas muestran una evolución mucho más moderada que años atrás. Sin embargo, IBM advierte sobre un riesgo que gana protagonismo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/ciberseguros-bajo-presion-buffett-advierte-por-perdidas-capaces-de-superar-a-una-catastrofe-natural/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros personalizados: 95% cree que la tarifa debería reflejar cómo conduce cada automovilista",
+      "resumen": "La telemática y los seguros basados en el uso continúan ganando terreno en Estados Unidos, uno de los mercados donde estas soluciones tienen mayor grado de madurez. Un nuevo estudio de CMT.AI muestra un fuerte…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/seguros-personalizados-95-cree-que-la-tarifa-deberia-reflejar-como-conduce-cada-automovilista/",
+      "imagen": ""
+    },
+    {
+      "titulo": "RUS y sus PAS crecen en la venta digital más que el comercio online argentino",
+      "resumen": "La cartera digital de Río Uruguay Seguros aumentó 27% en un año, por encima del 21% que creció el comercio electrónico del país. Todas sus plataformas de venta por internet incluyen al productor asesor, que vende con su…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/rus-y-sus-pas-crecen-en-la-venta-digital-mas-que-el-comercio-online-argentino/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/marketplace-rus-codigo-pas-seguros.webp"
+    },
+    {
+      "titulo": "Capacitaciones gratuitas para técnicos de Iké: una clave para mejorar el servicio, generar confianza y oportunidades laborales",
+      "resumen": "La formación técnica y el desarrollo de habilidades vinculadas al buen trato, la seguridad y la atención al cliente son fundamentales para profesionalizar los oficios, fortalecer la confianza de las familias y ampliar…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/capacitaciones-gratuitas-para-tecnicos-de-ike-una-clave-para-mejorar-el-servicio-generar-confianza-y-oportunidades-laborales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Prevenir antes de que ocurra: las señales de riesgo que suelen pasar desapercibidas al volante",
+      "resumen": "Con motivo del Día Mundial en Recuerdo de las Víctimas de Accidentes de Tráfico, Ituran Argentina reflexiona sobre las conductas que anticipan un siniestro y sobre el valor de la información para actuar a tiempo. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://100seguro.com.ar/prevenir-antes-de-que-ocurra-las-senales-de-riesgo-que-suelen-pasar-desapercibidas-al-volante/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Capacitar a quienes ingresan en un hogar: una clave para mejorar el servicio, generar confianza y abrir nuevas oportunidades laborales",
+      "resumen": "La formación técnica y el desarrollo de habilidades vinculadas al buen trato, la seguridad y la atención al cliente son fundamentales para profesionalizar los oficios, fortalecer la confianza de las familias y ampliar…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://elseguroenaccion.com.ar/capacitar-a-quienes-ingresan-en-un-hogar-una-clave-para-mejorar-el-servicio-generar-confianza-y-abrir-nuevas-oportunidades-laborales/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ATM fortalece su vínculo con la comunidad motociclista en la 12va Expo Moto Gualeguaychú",
+      "resumen": "La aseguradora participa del encuentro que reúne a más de 100 marcas de motos y accesorios en los Galpones del Puerto, en Gualeguaychú, Entre Ríos. Su presencia reafirma el posicionamiento de ATM en el mercado de las…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://www.informeoperadores.com.ar/2026/11/16/atm-fortalece-su-vinculo-con-la-comunidad-motociclista-en-la-12va-expo-moto-gualeguaychu/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/atm-nov-600x400.jpg"
+    },
+    {
+      "titulo": "Vencora Amplía Su Portafolio de Tecnología para Seguros con la Adquisición de CT InsureTech",
+      "resumen": "Vencora, empresa global que adquiere compañías de tecnología para la banca, los servicios financieros y los seguros con la filosofía de conservarlas para siempre, anunció hoy la adquisición de CT InsureTech (CTI),…",
+      "fuente": "Informe Operadores",
+      "categoria": "Innovación",
+      "fecha": "2026-11-16",
+      "url": "https://www.informeoperadores.com.ar/2026/11/16/vencora-amplia-su-portafolio-de-tecnologia-para-seguros-con-la-adquisicion-de-ct-insuretech/",
+      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Vencora-600x400.jpg"
+    },
+    {
+      "titulo": "Banco Santa Fe reunió a más de 90 empresarios para analizar las perspectivas económicas de 2027",
+      "resumen": "Banco Santa Fe reunió a más de 90 empresarios en el encuentro Liderar 2026, proyectar 2027, donde el economista Salvador Di Stefano analizó las perspectivas económicas, los desafíos y las oportunidades para las empresas…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://nbs.ar/banco-santa-fe-perspectivas-economicas-2027/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Tetra Pak invierte en modernizar su planta de La Rioja",
+      "resumen": "Tetra Pak invertirá 30,2 millones de euros en la modernización de su planta de La Rioja. El proyecto contempla incorporar tecnología, optimizar la producción de envases y reducir el consumo energético y el impacto…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-16",
+      "url": "https://nbs.ar/tetra-pak-invierte-planta-la-rioja/",
+      "imagen": ""
+    },
     {
       "titulo": "Seminario AAPAS: Descubrí el poder del social selling",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS dictará el seminario \"Descubrí el poder del social selling\" el 19 de noviembre a las 10:00 por Zoom; la disertante será Natalia Abalo. La capacitación es…",
@@ -18,51 +162,6 @@
       "categoria": "Mercado",
       "fecha": "2026-11-15",
       "url": "https://mercadosyseguros.com/reaseguros-y-cambio-climatico-desafios-y-compliance-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Antes de aplicar agentes de IA en sistemas de siniestros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Las aseguradoras analizan usar agentes de IA sobre sistemas de siniestros heredados para automatizar tareas sin reemplazar tecnología. Conviene realizar pilotos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-11-15",
-      "url": "https://mercadosyseguros.com/antes-de-aplicar-agentes-de-ia-en-sistemas-de-siniestros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros comerciales: opciones móviles reducen la carga administrativa",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Keynova Group publicó su 2026 Small Commercial Insurance Scorecard: asegura que las aseguradoras enfocaron inversiones en cotización y reclamos móviles para pequeñas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-15",
-      "url": "https://mercadosyseguros.com/seguros-comerciales-opciones-moviles-reducen-la-carga-administrativa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reaseguradora incorporó automatización sin equipo grande de TI",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Munich Re Syndicate 2007 implementó en 2024 herramientas low-code y automatización que redujeron hasta 70% los tiempos de emisión de pólizas sin ampliar su equipo de…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-14",
-      "url": "https://mercadosyseguros.com/reaseguradora-incorporo-automatizacion-sin-equipo-grande-de-ti/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Exposición de carteras ante la falla de un modelo de IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Anthropic advirtió en su S-1 que una falla catastrófica de un modelo de IA podría superar la capacidad de aseguradoras. El riesgo clave es la concentración: una única…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-14",
-      "url": "https://mercadosyseguros.com/exposicion-de-carteras-ante-la-falla-de-un-modelo-de-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Evitar que la IA amplifique inconsistencias de ajustadores",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Investigaciones muestran que la IA puede replicar y amplificar inconsistencias de ajustadores al entrenarse con registros históricos. La nota explica riesgos y ofrece…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-14",
-      "url": "https://mercadosyseguros.com/evitar-que-la-ia-amplifique-inconsistencias-de-ajustadores/",
       "imagen": ""
     },
     {
@@ -93,6 +192,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Aumento de sumas aseguradas por RC para autos y transporte",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN dictó la resolución 480/2026 que aumenta las sumas aseguradas y franquicias de responsabilidad civil para vehículos destinados al transporte de pasajeros y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-13",
+      "url": "https://mercadosyseguros.com/aumento-de-sumas-aseguradas-por-rc-para-autos-y-transporte/",
+      "imagen": ""
+    },
+    {
       "titulo": "De las mascotas a los ciberataques: nuevas necesidades y oportunidades para el seguro",
       "resumen": "En un nuevo programa de 100% SEGURO, pusimos el foco en dos segmentos con potencial de crecimiento, aunque con características y niveles de desarrollo diferentes. En primer lugar, conversamos con Gonzalo Magliano,…",
       "fuente": "100% Seguro",
@@ -109,114 +217,6 @@
       "fecha": "2026-11-13",
       "url": "https://100seguro.com.ar/la-segunda-seguros-marca-presencia-en-la-cumbre-mundial-de-aseguradoras-cooperativas-en-canada/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Guillermo-Muller-director-de-Gestion-Corporativa-de-La-Segunda-Seguros.jpeg"
-    },
-    {
-      "titulo": "ATM Seguros fortalece su vínculo con la comunidad motociclista en la 12ª Expo Moto Gualeguaychú",
-      "resumen": "La aseguradora participa del encuentro que reúne a más de 100 marcas de motos y accesorios en los Galpones del Puerto, en Gualeguaychú, Entre Ríos. Su presencia reafirma su posicionamiento en el mercado de las dos…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/atm-seguros-fortalece-su-vinculo-con-la-comunidad-motociclista-en-la-12a-expo-moto-gualeguaychu/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Zurich y Universal Assistance acompañaron la final del URBA Top 14 con una experiencia para los hinchas",
-      "resumen": "Las compañías desarrollaron un espacio conjunto en el Fan Fest del CASI con propuestas recreativas y áreas de descanso. Además, Zurich entregó la Copa al Mejor Jugador del Torneo. La entrada Zurich y Universal…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/zurich-y-universal-assistance-acompanaron-la-final-del-urba-top-14-con-una-experiencia-para-los-hinchas/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/DSC02068-1.jpg"
-    },
-    {
-      "titulo": "Generali continúa generando sólidos resultados gracias a todos sus segmentos de negocio",
-      "resumen": "La aseguradora global con base en Milán cierra los primeros nueve meses de 2026 con un crecimiento del resultado operativo y del resultado neto ajustado, impulsado por todos sus segmentos de negocio. La entrada Generali…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/generali-continua-generando-solidos-resultados-gracias-a-todos-sus-segmentos-de-negocio/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2024/11/Andrea-Sironi-Presidente-del-directorio-de-Assicurazioni-Generali.jpg"
-    },
-    {
-      "titulo": "Una nueva experiencia de integración: se presentó Sysone Developer Portal",
-      "resumen": "En Sysone continúan evolucionando su plataforma para ofrecer un ecosistema tecnológico cada vez más abierto, conectado y preparado para acompañar el crecimiento de sus clientes. Como parte de esta evolución, presentaron…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/una-nueva-experiencia-de-integracion-se-presento-sysone-developer-portal/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La IA avanza en las empresas, pero escalarla sigue siendo el principal desafío",
-      "resumen": "7 de 10 empresas declara tener inteligencia artificial activa en sus organizaciones, aunque solo una minoría alcanzó una etapa de integración a escala. El estudio Tech Pulse LATAM 2026 de TIVIT Almaviva Group identifica…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/la-ia-avanza-en-las-empresas-pero-escalarla-sigue-siendo-el-principal-desafio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN intimó a una aseguradora para que en 30 días cubra un déficit de capital de $620 millones",
-      "resumen": "RESOLUCIÓN SSN 481/2026.- La Superintendencia de Seguros de la Nación (SSN) volvió a adoptar medidas sobre la situación patrimonial de Comarseg Compañía Argentina de Seguros S.A. Mediante la presente resolución, fechada…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/la-ssn-intimo-a-una-aseguradora-para-que-en-30-dias-cubra-un-deficit-de-capital-de-620-millones/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Cámara Insurtech Argentina y La Segunda Seguros convocan a empresas tecnológicas a través de LinkUp",
-      "resumen": "El programa de innovación abierta de la Cámara cierra el año con un Demo Day presencial en Rosario el 15 de diciembre. Las startups y scaleups tecnológicas podrán postularse hasta el 16 de noviembre. La entrada La…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/la-camara-insurtech-argentina-y-la-segunda-seguros-convocan-a-empresas-tecnologicas-a-traves-de-linkup/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Avanza la tarea conjunta del MPF y ADEAA para erradicar las estafas y fraude organizado contra las aseguradoras.",
-      "resumen": "Epígrafe: Aseguradores, liquidadores y fiscales analizando la acuciante problemática. Con el objetivo de frenar el impacto económico y judicial de las estafas al sistema asegurador, el Ministerio Público de la Provincia…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://www.informeoperadores.com.ar/2026/11/13/avanza-la-tarea-conjunta-del-mpf-y-adeaa-para-erradicar-las-estafas-y-fraude-organizado-contra-las-aseguradoras/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/MPF-y-ADEAA-600x400.jpg"
-    },
-    {
-      "titulo": "Diciembre, el mes de celebraciones: La importancia de anticiparse a los riesgos",
-      "resumen": "Las cenas de egresados, fiestas de empresa y reuniones familiares multiplican los encuentros durante las últimas semanas del año. Qué tener en cuenta para prevenir imprevistos y por qué un seguro de Responsabilidad…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://www.informeoperadores.com.ar/2026/11/13/diciembre-el-mes-de-celebraciones-la-importancia-de-anticiparse-a-los-riesgos/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/celebraciones-de-fin-de-ano-por-que-contar-con-seguro-de-responsabilidad-civil-LPS-600x400.jpg"
-    },
-    {
-      "titulo": "María Teresa Arrosagaray: «La IA debe funcionar como una herramienta de asistencia y no como un reemplazo absoluto del criterio técnico”",
-      "resumen": "La inteligencia artificial está transformando la operatoria del seguro de caución mediante la automatización, el análisis de datos y la agilización de procesos. María Teresa Arrosagaray, gerente de IT de Afianzadora,…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-13",
-      "url": "https://nbs.ar/inteligencia-artificial-seguros-caucion/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Greenwashing: por qué las empresas deben respaldar sus promesas con datos",
-      "resumen": "Evitar el greenwashing exige que las empresas respalden sus compromisos de sustentabilidad con acciones, indicadores y resultados verificables. Guillermo Schulmeier, cofundador y director de Emprendia, analiza los…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://nbs.ar/greenwashing-empresas-comunicacion-sustentabilidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Calor extremo: Swiss Re analiza el potencial de los seguros paramétricos para proteger a las poblaciones más vulnerables",
-      "resumen": "El aumento de la frecuencia y la intensidad de las olas de calor está abriendo un nuevo campo para la industria aseguradora. En un reciente informe, Swiss Re examina cómo los seguros paramétricos pueden aportar respaldo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-12",
-      "url": "https://100seguro.com.ar/calor-extremo-swiss-re-analiza-el-potencial-de-los-seguros-parametricos-para-proteger-a-las-poblaciones-mas-vulnerables/",
-      "imagen": ""
     }
   ]
 }
