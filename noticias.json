@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-11-16T16:07-03:00",
+  "actualizado": "2026-11-17T15:00-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Brecha de seguros en Latinoamérica tras sismos de Venezuela y Colombia",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon informa que los terremotos de Venezuela (25.000 MUSD, 24/6) y Colombia (9.600 MUSD, 10/8) evidencian una brecha de protección en América Latina; globalmente las…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://mercadosyseguros.com/brecha-de-seguros-en-latinoamerica-tras-sismos-de-venezuela-y-colombia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Impacto turístico de la visita del Papa en Argentina",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La visita del papa León XIV (8-11 de noviembre) movilizó a millones: 2,5 millones en Buenos Aires, 650.000 en Córdoba y 2 millones en Luján. CAME y relevos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://mercadosyseguros.com/impacto-turistico-de-la-visita-del-papa-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguro de responsabilidad civil para fiestas: qué cubrir y por qué",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Perseverancia Seguros recomienda revisar o contratar un seguro de responsabilidad civil antes de las celebraciones de fin de año. La cobertura protege frente a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://mercadosyseguros.com/seguro-de-responsabilidad-civil-para-fiestas-que-cubrir-y-por-que/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fraude en seguros: ADEAA y el MPF acuerdan protocolo conjunto",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADEAA y el Ministerio Público de la Provincia de Buenos Aires realizaron una jornada en La Plata para coordinar la detección y sanción del fraude organizado en…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://mercadosyseguros.com/fraude-en-seguros-adeaa-y-el-mpf-acuerdan-protocolo-conjunto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Munich Re anuncia acuerdo con Gangkhar y amplía sus capacidades para impulsar la distribución de seguros digitales y embebidos",
+      "resumen": "Munich Re presentó en sus oficinas de Madrid nuevas capacidades para facilitar el diseño, lanzamiento y distribución de seguros digitales y embebidos, en el marco de su acuerdo global con Gangkhar. La iniciativa combina…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-17",
+      "url": "https://100seguro.com.ar/munich-re-anuncia-acuerdo-con-gangkhar-y-amplia-sus-capacidades-para-impulsar-la-distribucion-de-seguros-digitales-y-embebidos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sancor Seguros presenta Salud Activa, una nueva propuesta para acompañar una vida más longeva y plena",
+      "resumen": "La aseguradora amplía su oferta con una solución que combina coberturas de salud con beneficios para el bienestar cotidiano, en un contexto en el que vivir más también plantea nuevas formas de cuidarse. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://100seguro.com.ar/sancor-seguros-presenta-salud-activa-una-nueva-propuesta-para-acompanar-una-vida-mas-longeva-y-plena/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Salud-Activa1.jpg"
+    },
+    {
+      "titulo": "Plate se incorpora al Comité Ejecutivo de la IAIS y fortalece la representación argentina en la agenda global de seguros",
+      "resumen": "El Superintendente de Seguros de la Nación fue designado miembro titular durante la última Asamblea General de la IAIS, celebrada el 11 de noviembre pasado en Hong Kong, China. La entrada Plate se incorpora al Comité…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://100seguro.com.ar/plate-se-incorpora-al-comite-ejecutivo-de-la-iais-y-fortalece-la-representacion-argentina-en-la-agenda-global-de-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Marcelo Bértola: «Desarrollamos herramientas para mejorar, agilizar y dar un salto de escala en la experiencia de los PAS”",
+      "resumen": "Sancor Seguros incorpora agentes de inteligencia artificial en siniestros, cobranza y atención de consultas, y desarrolla herramientas para agilizar la operatoria de los Productores Asesores de Seguros (PAS). Además,…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-17",
+      "url": "https://nbs.ar/inteligencia-artificial-sancor-seguros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La caución gana protagonismo como herramienta para cuidar el capital de trabajo",
+      "resumen": "El seguro de caución gana protagonismo como herramienta de gestión financiera para las empresas. Fianzas y Crédito destaca su potencial para preservar el capital de trabajo, agilizar garantías y facilitar el acceso de…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-17",
+      "url": "https://nbs.ar/seguro-caucion-empresas-capital-trabajo/",
+      "imagen": ""
+    },
     {
       "titulo": "Sancor Seguros lanzó Asistencia al Viajero con seis planes globales",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros lanzó Asistencia al Viajero con seis planes médicos globales, atención virtual 24 horas y coberturas que incluyen repatriación, preexistencias,…",
@@ -102,6 +183,33 @@
       "imagen": ""
     },
     {
+      "titulo": "El crecimiento de América Latina",
+      "resumen": "La perspectiva de Moody’s Ratings para los mercados emergentes en 2027 es estable, ya que los esfuerzos creíbles de los soberanos por estabilizar la deuda, la demanda aún sólida de materias primas y la reorganización de…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://elseguroenaccion.com.ar/el-crecimiento-de-america-latina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gabriel Marinozzi: balances aseguradores, solvencia y resultado técnico",
+      "resumen": "Gabriel Marinozzi, socio de Russell Bedford Argentina, analiza los indicadores financieros y técnicos del mercado asegurador al cierre del primer trimestre del ejercicio 2026/27 (30 de septiembre). En la entrevista…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://elseguroenaccion.com.ar/gabriel-marinozzi-balances-aseguradores-solvencia-y-resultado-tecnico/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Insurance Week 2027 abrió inscripciones con una tarifa especial de preventa",
+      "resumen": "La tercera edición del encuentro organizado por CIDeS se realizará del 6 al 8 de abril de 2027 en Salta. Ya se encuentra habilitada la inscripción con una tarifa exclusiva hasta el 31 de diciembre de 2026 y beneficios…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-16",
+      "url": "https://elseguroenaccion.com.ar/insurance-week-2027-abrio-inscripciones-con-una-tarifa-especial-de-preventa/",
+      "imagen": ""
+    },
+    {
       "titulo": "Capacitar a quienes ingresan en un hogar: una clave para mejorar el servicio, generar confianza y abrir nuevas oportunidades laborales",
       "resumen": "La formación técnica y el desarrollo de habilidades vinculadas al buen trato, la seguridad y la atención al cliente son fundamentales para profesionalizar los oficios, fortalecer la confianza de las familias y ampliar…",
       "fuente": "El Seguro en Acción",
@@ -109,114 +217,6 @@
       "fecha": "2026-11-16",
       "url": "https://elseguroenaccion.com.ar/capacitar-a-quienes-ingresan-en-un-hogar-una-clave-para-mejorar-el-servicio-generar-confianza-y-abrir-nuevas-oportunidades-laborales/",
       "imagen": ""
-    },
-    {
-      "titulo": "ATM fortalece su vínculo con la comunidad motociclista en la 12va Expo Moto Gualeguaychú",
-      "resumen": "La aseguradora participa del encuentro que reúne a más de 100 marcas de motos y accesorios en los Galpones del Puerto, en Gualeguaychú, Entre Ríos. Su presencia reafirma el posicionamiento de ATM en el mercado de las…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://www.informeoperadores.com.ar/2026/11/16/atm-fortalece-su-vinculo-con-la-comunidad-motociclista-en-la-12va-expo-moto-gualeguaychu/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/atm-nov-600x400.jpg"
-    },
-    {
-      "titulo": "Vencora Amplía Su Portafolio de Tecnología para Seguros con la Adquisición de CT InsureTech",
-      "resumen": "Vencora, empresa global que adquiere compañías de tecnología para la banca, los servicios financieros y los seguros con la filosofía de conservarlas para siempre, anunció hoy la adquisición de CT InsureTech (CTI),…",
-      "fuente": "Informe Operadores",
-      "categoria": "Innovación",
-      "fecha": "2026-11-16",
-      "url": "https://www.informeoperadores.com.ar/2026/11/16/vencora-amplia-su-portafolio-de-tecnologia-para-seguros-con-la-adquisicion-de-ct-insuretech/",
-      "imagen": "https://www.informeoperadores.com.ar/wp-content/uploads/2026/11/Vencora-600x400.jpg"
-    },
-    {
-      "titulo": "Banco Santa Fe reunió a más de 90 empresarios para analizar las perspectivas económicas de 2027",
-      "resumen": "Banco Santa Fe reunió a más de 90 empresarios en el encuentro Liderar 2026, proyectar 2027, donde el economista Salvador Di Stefano analizó las perspectivas económicas, los desafíos y las oportunidades para las empresas…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://nbs.ar/banco-santa-fe-perspectivas-economicas-2027/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Tetra Pak invierte en modernizar su planta de La Rioja",
-      "resumen": "Tetra Pak invertirá 30,2 millones de euros en la modernización de su planta de La Rioja. El proyecto contempla incorporar tecnología, optimizar la producción de envases y reducir el consumo energético y el impacto…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-16",
-      "url": "https://nbs.ar/tetra-pak-invierte-planta-la-rioja/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seminario AAPAS: Descubrí el poder del social selling",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com AAPAS dictará el seminario \"Descubrí el poder del social selling\" el 19 de noviembre a las 10:00 por Zoom; la disertante será Natalia Abalo. La capacitación es…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-15",
-      "url": "https://mercadosyseguros.com/seminario-aapas-descubri-el-poder-del-social-selling/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Reaseguros y cambio climático: desafíos y compliance en 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Oscar Prieto (RASA) y Dicla López (CES Internacional) analizaron un mercado de reaseguro global en ciclo blando, la normalización de pagos al exterior, el impacto del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-15",
-      "url": "https://mercadosyseguros.com/reaseguros-y-cambio-climatico-desafios-y-compliance-en-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Conducí tu Curso en Paraná: 1.200 estudiantes participaron",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 6 de noviembre más de 1.200 estudiantes participaron en Paraná de Conducí tu Curso, organizado por IAPSER Seguros con apoyo del gobierno provincial. Los cuatro…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-14",
-      "url": "https://mercadosyseguros.com/conduci-tu-curso-en-parana-1-200-estudiantes-participaron/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Museo Argentino del Seguro abre en La Noche de los Museos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Museo Argentino del Seguro y AAPAS abrirán la sede de Bolívar 332 (CABA) el sábado 14 de noviembre desde las 19 h. La muestra, con entrada libre y gratuita, exhibe…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://mercadosyseguros.com/museo-argentino-del-seguro-abre-en-la-noche-de-los-museos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN actualiza límites y franquicias del seguro de responsabilidad civil",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN aprobó la Resolución 480/2026 que actualiza sumas aseguradas, franquicias y la OLA para seguros de responsabilidad civil automotor; las nuevas condiciones…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-13",
-      "url": "https://mercadosyseguros.com/ssn-actualiza-limites-y-franquicias-del-seguro-de-responsabilidad-civil/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Aumento de sumas aseguradas por RC para autos y transporte",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN dictó la resolución 480/2026 que aumenta las sumas aseguradas y franquicias de responsabilidad civil para vehículos destinados al transporte de pasajeros y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-13",
-      "url": "https://mercadosyseguros.com/aumento-de-sumas-aseguradas-por-rc-para-autos-y-transporte/",
-      "imagen": ""
-    },
-    {
-      "titulo": "De las mascotas a los ciberataques: nuevas necesidades y oportunidades para el seguro",
-      "resumen": "En un nuevo programa de 100% SEGURO, pusimos el foco en dos segmentos con potencial de crecimiento, aunque con características y niveles de desarrollo diferentes. En primer lugar, conversamos con Gonzalo Magliano,…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/de-las-mascotas-a-los-ciberataques-nuevas-necesidades-y-oportunidades-para-el-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Segunda Seguros marca presencia en la cumbre mundial de aseguradoras cooperativas en Canadá",
-      "resumen": "La compañía rosarina tuvo un rol protagónico en la cumbre internacional al ser la única aseguradora del país en disertar en los paneles centrales y en integrar el Comité de Inteligencia de la federación. La entrada La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-13",
-      "url": "https://100seguro.com.ar/la-segunda-seguros-marca-presencia-en-la-cumbre-mundial-de-aseguradoras-cooperativas-en-canada/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Guillermo-Muller-director-de-Gestion-Corporativa-de-La-Segunda-Seguros.jpeg"
     }
   ]
 }
