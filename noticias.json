@@ -1,7 +1,160 @@
 {
-  "actualizado": "2026-11-17T15:00-03:00",
+  "actualizado": "2026-11-18T14:42-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "MPF y ADEAA intensifican acciones contra el fraude a aseguradoras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Ministerio Público bonaerense y ADEAA se reunieron el 14/11/2026 en La Plata para coordinar acciones contra estafas y fraudes organizados que afectan a…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://mercadosyseguros.com/mpf-y-adeaa-intensifican-acciones-contra-el-fraude-a-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Transformación digital en Crédito y Caución: proyectos y cifras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Crédito y Caución informó en noviembre de 2026 que impulsa su transformación digital: implementó un agente de IA para analizar estados contables, renovó su CRM,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-18",
+      "url": "https://mercadosyseguros.com/transformacion-digital-en-credito-y-caucion-proyectos-y-cifras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Brecha de seguros en América Latina por terremotos: Aon analiza impacto",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon informa que, entre enero y septiembre de 2026, las pérdidas económicas por desastres sumaron 204.000 millones de dólares y las aseguradas 91.000 millones. Los…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://mercadosyseguros.com/brecha-de-seguros-en-america-latina-por-terremotos-aon-analiza-impacto/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Financiación global de InsurTech cayó 44,6% en el 3T de 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Gallagher Re reportó que la financiación global de InsurTech cayó 44,6% en el 3T de 2026 hasta 1.360 millones de dólares, ante la reducción de megarondas. Las…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-18",
+      "url": "https://mercadosyseguros.com/financiacion-global-de-insurtech-cayo-446-en-el-3t-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Plate expuso en la Reunión Nacional de Otoño de la NAIC en Estados Unidos",
+      "resumen": "El Superintendente de Seguros de la Nación y Presidente de ASSAL mantuvo reuniones con autoridades regulatorias y referentes del mercado asegurador y reasegurador internacional. La entrada Plate expuso en la Reunión…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/plate-expuso-en-la-reunion-nacional-de-otono-de-la-naic-en-estados-unidos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Ricardo-Lara-y-Guillermo-Plate.png"
+    },
+    {
+      "titulo": "El costo millonario de las inundaciones: la economía argentina, ante la amenaza de nuevos eventos extremos",
+      "resumen": "Las crecidas del río Uruguay y el ascenso del Paraná volvieron a encender las alertas en un contexto donde las inundaciones y las tormentas severas dejaron de ser episodios aislados. Para las empresas, en ocasiones, el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/el-costo-millonario-de-las-inundaciones-la-economia-argentina-ante-la-amenaza-de-nuevos-eventos-extremos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/globaim-eventos-hidricos.png"
+    },
+    {
+      "titulo": "Galicia Seguros apuesta a la formación para potenciar el desarrollo de sus productores",
+      "resumen": "Galicia Seguros continúa fortaleciendo su propuesta de valor para los Productores Asesores de Seguros (PAS) a través de Academia Galicia Seguros, una iniciativa de capacitación que busca acompañar su desarrollo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/galicia-seguros-apuesta-a-la-formacion-para-potenciar-el-desarrollo-de-sus-productores/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Zurich destinó más de $216 millones a iniciativas comunitarias y redujo un 87% sus emisiones operativas en 2025",
+      "resumen": "Los resultados surgen del Reporte de Sustentabilidad 2025 de Zurich Argentina, que refleja los avances de la compañía en materia ambiental, social y de gobernanza. Además, alcanzó $28.521 millones en prima sustentable y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/zurich-destino-mas-de-216-millones-a-iniciativas-comunitarias-y-redujo-un-87-sus-emisiones-operativas-en-2025/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La IA avanza más rápido que su control y sólo 5% de los líderes puede explicar sus decisiones",
+      "resumen": "La inteligencia artificial empieza a demostrar resultados concretos dentro de las grandes empresas, aunque su avance expone una brecha cada vez más sensible. El 85% de los ejecutivos asegura que la tecnología cumplió o…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/la-ia-avanza-mas-rapido-que-su-control-y-solo-5-de-los-lideres-puede-explicar-sus-decisiones/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Como-se-compara-el-ROI-real-de-la-IA-en-las-organizaciones-con-las-expectativas-iniciales.png"
+    },
+    {
+      "titulo": "De una póliza a una propuesta integral: la apuesta de PyME Protegida para transformar los seguros para empresas",
+      "resumen": "ENTREVISTA 100% SEGURO.- Con una propuesta que busca ir más allá de la cobertura tradicional, PyME Protegida desembarca en el mercado para ofrecer seguros personalizados, atención cercana y beneficios especialmente…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/de-una-poliza-a-una-propuesta-integral-la-apuesta-de-pyme-protegida-para-transformar-los-seguros-para-empresas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Lanzamiento-de-PyME-Protegida-Gustavo-Giorgi.jpeg"
+    },
+    {
+      "titulo": "La SSN sancionó a tres aseguradoras por demoras en el pago de siniestros y la presentación tardía de balances",
+      "resumen": "La Superintendencia de Seguros de la Nación (SSN) volvió a aplicar sanciones económicas en el marco de su régimen de control sobre las aseguradoras del mercado. En esta oportunidad, mediante tres resoluciones fechadas…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/la-ssn-sanciono-a-tres-aseguradoras-por-demoras-en-el-pago-de-siniestros-y-la-presentacion-tardia-de-balances/",
+      "imagen": ""
+    },
+    {
+      "titulo": "La producción de seguros tuvo un repunte del 7,6% mensual en septiembre, con todos los ramos en alza",
+      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,512 billones de pesos en septiembre, lo que representa un incremento del 7,6% en términos reales con respecto al mes anterior (agosto de 2026), que tuvo…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/la-produccion-de-seguros-tuvo-un-repunte-del-76-mensual-en-septiembre-con-todos-los-ramos-en-alza/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Estimacion-de-la-Produccion-de-Seguros-Septiembre-2026.png"
+    },
+    {
+      "titulo": "Seguros: la producción creció 7,6% en septiembre contra agosto, con Automotores a la cabeza",
+      "resumen": "El mercado asegurador avanzó con fuerza en el mes: Automotores subió 14% contra agosto, Vida Individual 12,3% y Retiro 10%. En la comparación con septiembre de 2025, el total se mantuvo en el mismo nivel. La estimación…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://elseguroenaccion.com.ar/seguros-la-produccion-crecio-76-en-septiembre-contra-agosto-con-automotores-a-la-cabeza/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“El contexto actual exige estar muy cerca del cliente”",
+      "resumen": "La entrada “El contexto actual exige estar muy cerca del cliente” se publicó primero en Informe Operadores de Mercado .",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://informeoperadores.com.ar/2026/11/18/el-contexto-actual-exige-estar-muy-cerca-del-cliente/",
+      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/01Luis-Centeno.jpg"
+    },
+    {
+      "titulo": "Premio Prestigio Seguros 2026: La confianza como eje en la 23.ª edición del evento asegurador argentino",
+      "resumen": "La 23.ª edición del Premio Prestigio Seguros destacó la importancia de la confianza en el sector asegurador argentino, mediante el reconocimiento de las compañías más destacadas del mercado. La entrada Premio Prestigio…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://nbs.ar/premio-prestigio-seguros-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Julián Alí: “Hoy nos exigen productos y servicios más personalizados»",
+      "resumen": "Sancor Seguros identifica nuevas oportunidades de protección vinculadas con la longevidad, la ciberseguridad y los cambios en los hábitos de consumo. Julián Alí analiza cómo la personalización, la inteligencia…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://nbs.ar/nuevas-tendencias-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Darío Smaldone: «Existe un margen inmenso para impulsar segmentos que van más allá de las coberturas tradicionales»",
+      "resumen": "Zurich Argentina identifica oportunidades de crecimiento en el mercado asegurador a partir de la baja penetración del seguro en el país. Darío Smaldone analiza el potencial de los seguros de ahorro, salud, protección…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://nbs.ar/crecimiento-mercado-asegurador-argentino/",
+      "imagen": ""
+    },
     {
       "titulo": "Brecha de seguros en Latinoamérica tras sismos de Venezuela y Colombia",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon informa que los terremotos de Venezuela (25.000 MUSD, 24/6) y Colombia (9.600 MUSD, 10/8) evidencian una brecha de protección en América Latina; globalmente las…",
@@ -57,165 +210,12 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Salud-Activa1.jpg"
     },
     {
-      "titulo": "Plate se incorpora al Comité Ejecutivo de la IAIS y fortalece la representación argentina en la agenda global de seguros",
-      "resumen": "El Superintendente de Seguros de la Nación fue designado miembro titular durante la última Asamblea General de la IAIS, celebrada el 11 de noviembre pasado en Hong Kong, China. La entrada Plate se incorpora al Comité…",
-      "fuente": "100% Seguro",
+      "titulo": "Guillermo Plate se incorpora al Comité Ejecutivo de la IAIS y fortalece la representación argentina en la agenda global de seguros",
+      "resumen": "El Superintendente de Seguros de la Nación fue designado miembro titular durante la última Asamblea General de la IAIS, celebrada el 11 de noviembre en Hong Kong, China. La incorporación de Guillermo Plate representa un…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
       "fecha": "2026-11-17",
-      "url": "https://100seguro.com.ar/plate-se-incorpora-al-comite-ejecutivo-de-la-iais-y-fortalece-la-representacion-argentina-en-la-agenda-global-de-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Marcelo Bértola: «Desarrollamos herramientas para mejorar, agilizar y dar un salto de escala en la experiencia de los PAS”",
-      "resumen": "Sancor Seguros incorpora agentes de inteligencia artificial en siniestros, cobranza y atención de consultas, y desarrolla herramientas para agilizar la operatoria de los Productores Asesores de Seguros (PAS). Además,…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-17",
-      "url": "https://nbs.ar/inteligencia-artificial-sancor-seguros/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La caución gana protagonismo como herramienta para cuidar el capital de trabajo",
-      "resumen": "El seguro de caución gana protagonismo como herramienta de gestión financiera para las empresas. Fianzas y Crédito destaca su potencial para preservar el capital de trabajo, agilizar garantías y facilitar el acceso de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://nbs.ar/seguro-caucion-empresas-capital-trabajo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sancor Seguros lanzó Asistencia al Viajero con seis planes globales",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros lanzó Asistencia al Viajero con seis planes médicos globales, atención virtual 24 horas y coberturas que incluyen repatriación, preexistencias,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://mercadosyseguros.com/sancor-seguros-lanzo-asistencia-al-viajero-con-seis-planes-globales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "XIII Jornada de Seguros: AACS y CPCECABA abordan la solvencia",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La AACS y el CPCECABA realizaron la XIII Jornada de Seguros el 2 de noviembre a las 9:00 para promover una industria “ágil y solvente”. Hubo paneles sobre…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://mercadosyseguros.com/xiii-jornada-de-seguros-aacs-y-cpcecaba-abordan-la-solvencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vencora compra CT InsureTech y refuerza su oferta tecnológica",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Vencora adquirió CT InsureTech en 2024, integrando un proveedor con oficinas en Londres, Buenos Aires y Ciudad de México. CTI conservará tres unidades operativas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://mercadosyseguros.com/vencora-compra-ct-insuretech-y-refuerza-su-oferta-tecnologica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Agentes de IA y automatización en seguros en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Maximiliano Velázquez, director de Colinet Trotta, explicó cómo los agentes de IA avanzan desde la automatización simple hacia decisiones autónomas en suscripción,…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://mercadosyseguros.com/agentes-de-ia-y-automatizacion-en-seguros-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Redefinición de estrategias salariales en Argentina: empresas priorizan diferenciación por talento crítico, competitividad y eficiencia",
-      "resumen": "Según la encuesta Total Remuneration Survey (TRS) 2026 de Marsh People & Investments, el mercado corporativo muestra una evolución interanual (mayo 2025-mayo 2026) con variaciones del 27 al 32% en el salario base, al…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/redefinicion-de-estrategias-salariales-en-argentina-empresas-priorizan-diferenciacion-por-talento-critico-competitividad-y-eficiencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El seguro empieza a subirse a los robotaxis y cambia la lógica del riesgo automotor",
-      "resumen": "La conducción autónoma empieza a dejar el terreno experimental para plantear desafíos concretos al mercado asegurador. En Europa ya existen compañías que están asegurando flotas de robotaxis en pruebas, un paso que…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/el-seguro-empieza-a-subirse-a-los-robotaxis-y-cambia-la-logica-del-riesgo-automotor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ciberseguros bajo presión: Buffett advierte por pérdidas capaces de superar a una catástrofe natural",
-      "resumen": "El mercado de ciberseguros mantiene buenos niveles de rentabilidad en Estados Unidos y las primas muestran una evolución mucho más moderada que años atrás. Sin embargo, IBM advierte sobre un riesgo que gana protagonismo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/ciberseguros-bajo-presion-buffett-advierte-por-perdidas-capaces-de-superar-a-una-catastrofe-natural/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguros personalizados: 95% cree que la tarifa debería reflejar cómo conduce cada automovilista",
-      "resumen": "La telemática y los seguros basados en el uso continúan ganando terreno en Estados Unidos, uno de los mercados donde estas soluciones tienen mayor grado de madurez. Un nuevo estudio de CMT.AI muestra un fuerte…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/seguros-personalizados-95-cree-que-la-tarifa-deberia-reflejar-como-conduce-cada-automovilista/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RUS y sus PAS crecen en la venta digital más que el comercio online argentino",
-      "resumen": "La cartera digital de Río Uruguay Seguros aumentó 27% en un año, por encima del 21% que creció el comercio electrónico del país. Todas sus plataformas de venta por internet incluyen al productor asesor, que vende con su…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/rus-y-sus-pas-crecen-en-la-venta-digital-mas-que-el-comercio-online-argentino/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/marketplace-rus-codigo-pas-seguros.webp"
-    },
-    {
-      "titulo": "Capacitaciones gratuitas para técnicos de Iké: una clave para mejorar el servicio, generar confianza y oportunidades laborales",
-      "resumen": "La formación técnica y el desarrollo de habilidades vinculadas al buen trato, la seguridad y la atención al cliente son fundamentales para profesionalizar los oficios, fortalecer la confianza de las familias y ampliar…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/capacitaciones-gratuitas-para-tecnicos-de-ike-una-clave-para-mejorar-el-servicio-generar-confianza-y-oportunidades-laborales/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prevenir antes de que ocurra: las señales de riesgo que suelen pasar desapercibidas al volante",
-      "resumen": "Con motivo del Día Mundial en Recuerdo de las Víctimas de Accidentes de Tráfico, Ituran Argentina reflexiona sobre las conductas que anticipan un siniestro y sobre el valor de la información para actuar a tiempo. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://100seguro.com.ar/prevenir-antes-de-que-ocurra-las-senales-de-riesgo-que-suelen-pasar-desapercibidas-al-volante/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El crecimiento de América Latina",
-      "resumen": "La perspectiva de Moody’s Ratings para los mercados emergentes en 2027 es estable, ya que los esfuerzos creíbles de los soberanos por estabilizar la deuda, la demanda aún sólida de materias primas y la reorganización de…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://elseguroenaccion.com.ar/el-crecimiento-de-america-latina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gabriel Marinozzi: balances aseguradores, solvencia y resultado técnico",
-      "resumen": "Gabriel Marinozzi, socio de Russell Bedford Argentina, analiza los indicadores financieros y técnicos del mercado asegurador al cierre del primer trimestre del ejercicio 2026/27 (30 de septiembre). En la entrevista…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://elseguroenaccion.com.ar/gabriel-marinozzi-balances-aseguradores-solvencia-y-resultado-tecnico/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Insurance Week 2027 abrió inscripciones con una tarifa especial de preventa",
-      "resumen": "La tercera edición del encuentro organizado por CIDeS se realizará del 6 al 8 de abril de 2027 en Salta. Ya se encuentra habilitada la inscripción con una tarifa exclusiva hasta el 31 de diciembre de 2026 y beneficios…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://elseguroenaccion.com.ar/insurance-week-2027-abrio-inscripciones-con-una-tarifa-especial-de-preventa/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Capacitar a quienes ingresan en un hogar: una clave para mejorar el servicio, generar confianza y abrir nuevas oportunidades laborales",
-      "resumen": "La formación técnica y el desarrollo de habilidades vinculadas al buen trato, la seguridad y la atención al cliente son fundamentales para profesionalizar los oficios, fortalecer la confianza de las familias y ampliar…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-16",
-      "url": "https://elseguroenaccion.com.ar/capacitar-a-quienes-ingresan-en-un-hogar-una-clave-para-mejorar-el-servicio-generar-confianza-y-abrir-nuevas-oportunidades-laborales/",
+      "url": "https://elseguroenaccion.com.ar/guillermo-plate-se-incorpora-al-comite-ejecutivo-de-la-iais-y-fortalece-la-representacion-argentina-en-la-agenda-global-de-seguros/",
       "imagen": ""
     }
   ]
