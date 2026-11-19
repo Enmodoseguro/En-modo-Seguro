@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-11-18T14:42-03:00",
+  "actualizado": "2026-11-19T14:52-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "National Brokers en el 86° Abierto de Polo de Tortugas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com National Brokers participó en las semifinales (31 oct. y 1 nov.) y en la final (8 nov.) del 86° Abierto de Polo del Tortugas Country Club, donde La Natividad-La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://mercadosyseguros.com/national-brokers-en-el-86-abierto-de-polo-de-tortugas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Solvencia de aseguradoras: cuánto respaldo tienen para pagar",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La serie trimestral 2020-2026 del Indicador E muestra el respaldo de las aseguradoras: fórmula, umbrales y patrones. A mediados de 2025 hubo picos cercanos al 330% y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://mercadosyseguros.com/solvencia-de-aseguradoras-cuanto-respaldo-tienen-para-pagar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "arteba 2026: 20 obras sumadas a siete museos argentinos",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Matching Funds, la iniciativa de Zurich Argentina y Fundación arteba, permitió en arteba 2026 que siete museos del país incorporen 20 obras. La feria, realizada del…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://mercadosyseguros.com/arteba-2026-20-obras-sumadas-a-siete-museos-argentinos/",
+      "imagen": ""
+    },
+    {
+      "titulo": "FAPASA convocó Asamblea para el 10 de diciembre",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA reunió el 5 de noviembre a 47 dirigentes de las 22 asociaciones federadas y convocó la Asamblea General Ordinaria para el 10 de diciembre, donde se hará la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://mercadosyseguros.com/fapasa-convoco-asamblea-para-el-10-de-diciembre/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Voces clonadas con IA: crecen las estafas por WhatsApp que suplantan la identidad de familiares y empresas",
+      "resumen": "En la Semana Internacional de Concientización sobre el Fraude, la inteligencia artificial ya permite clonar la voz de un familiar, un jefe o un agente de un banco con apenas unos segundos de audio. En Argentina, las…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-19",
+      "url": "https://100seguro.com.ar/voces-clonadas-con-ia-crecen-las-estafas-por-whatsapp-que-suplantan-la-identidad-de-familiares-y-empresas/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Llamada-desconocida.png"
+    },
+    {
+      "titulo": "La Caja es la compañía de seguros #1 en Prestigio Corporativo",
+      "resumen": "En la nueva edición de los Premios Prestigio Seguros, galardón que distingue a las compañías que contribuyen a elevar los estándares de calidad de la industria aseguradora argentina, la compañía volvió a posicionarse…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://100seguro.com.ar/la-caja-es-la-compania-de-seguros-1-en-prestigio-corporativo/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Todos-los-ganadores-de-los-Premios-Prestigio-Seguros-2026.jpg"
+    },
+    {
+      "titulo": "Mapfre y Cetrogar anuncian una alianza estratégica para la venta de seguros",
+      "resumen": "A través de este acuerdo, Mapfre amplía sus canales de comercialización y fortalece su presencia en nuevos puntos de venta en todo el país. Los clientes de Cetrogar pueden acceder a tres productos: Compra Protegida,…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://100seguro.com.ar/mapfre-y-cetrogar-anuncian-una-alianza-estrategica-para-la-venta-de-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Mapfre-y-Cetrogar-Alianza-estrategica.jpg"
+    },
+    {
+      "titulo": "Si te molesta que te invadan, no lo hagas al volante: una campaña para tomar distancia",
+      "resumen": "Con ejemplos de situaciones cotidianas, La Segunda Seguros busca generar conciencia vial frente a una realidad alarmante: dos de cada diez siniestros con responsabilidad directa de los conductores corresponden a choques…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://100seguro.com.ar/si-te-molesta-que-te-invadan-no-lo-hagas-al-volante-una-campana-para-tomar-distancia/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Si-te-molesta-que-te-invadan-no-lo-hagas-al-volante-1.jpeg"
+    },
+    {
+      "titulo": "El Grupo Sancor Seguros reafirmó su liderazgo en los Premios Prestigio 2026",
+      "resumen": "Obtuvo tres distinciones que combinan el respaldo histórico de productores y empresas con un reconocimiento ligado a su transformación. La entrada El Grupo Sancor Seguros reafirmó su liderazgo en los Premios Prestigio…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-19",
+      "url": "https://100seguro.com.ar/el-grupo-sancor-seguros-reafirmo-su-liderazgo-en-los-premios-prestigio-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/DSC_5271-Reixach.jpg"
+    },
+    {
+      "titulo": "La SSN multó a una cooperativa y trabó los bienes de tres aseguradoras",
+      "resumen": "El Superintendente Guillermo Plate firmó cuatro resoluciones que se publicaron hoy en el Boletín Oficial. Agrosalta recibió una multa de más de $41 millones. A Aseguradora del Finisterre le prohibió contratar nuevos…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-11-19",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-endurecio-el-control-multo-a-una-cooperativa-y-trabo-los-bienes-de-tres-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Brazos independientes y visión 3D: llega a la Argentina el sistema de cirugía asistida por robot de Medtronic",
+      "resumen": "La llegada del sistema de cirugía robótica Hugo™ RAS de Medtronic a Argentina marca un avance significativo en la medicina, con tecnología de precisión, visión 3D y brazos robóticos independientes que buscan optimizar…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-19",
+      "url": "https://nbs.ar/cirugia-robotica-hugo-ras-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Victoria Sauca: «Usamos la IA para potenciar los resultados y ratificar nuestro compromiso con la cercanía al cliente”",
+      "resumen": "Experta incorpora inteligencia artificial y automatización para agilizar cotizaciones, emisiones y gestiones de seguros. Victoria Sauca destaca el rol estratégico de los productores asesores en una transformación que…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-19",
+      "url": "https://nbs.ar/inteligencia-artificial-seguros-experta/",
+      "imagen": ""
+    },
     {
       "titulo": "MPF y ADEAA intensifican acciones contra el fraude a aseguradoras",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Ministerio Público bonaerense y ADEAA se reunieron el 14/11/2026 en La Plata para coordinar acciones contra estafas y fraudes organizados que afectan a…",
@@ -39,183 +147,75 @@
       "imagen": ""
     },
     {
-      "titulo": "Plate expuso en la Reunión Nacional de Otoño de la NAIC en Estados Unidos",
-      "resumen": "El Superintendente de Seguros de la Nación y Presidente de ASSAL mantuvo reuniones con autoridades regulatorias y referentes del mercado asegurador y reasegurador internacional. La entrada Plate expuso en la Reunión…",
+      "titulo": "Prevención y cuidado de la salud laboral ante el avance de El Niño",
+      "resumen": "Las crecidas, inundaciones y desplazamientos de fauna asociados a la corriente de El Niño pueden generar riesgos adicionales para quienes trabajan en áreas rurales, puertos, depósitos, zonas ribereñas y actividades…",
       "fuente": "100% Seguro",
       "categoria": "Mercado",
       "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/plate-expuso-en-la-reunion-nacional-de-otono-de-la-naic-en-estados-unidos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Ricardo-Lara-y-Guillermo-Plate.png"
-    },
-    {
-      "titulo": "El costo millonario de las inundaciones: la economía argentina, ante la amenaza de nuevos eventos extremos",
-      "resumen": "Las crecidas del río Uruguay y el ascenso del Paraná volvieron a encender las alertas en un contexto donde las inundaciones y las tormentas severas dejaron de ser episodios aislados. Para las empresas, en ocasiones, el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/el-costo-millonario-de-las-inundaciones-la-economia-argentina-ante-la-amenaza-de-nuevos-eventos-extremos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/globaim-eventos-hidricos.png"
-    },
-    {
-      "titulo": "Galicia Seguros apuesta a la formación para potenciar el desarrollo de sus productores",
-      "resumen": "Galicia Seguros continúa fortaleciendo su propuesta de valor para los Productores Asesores de Seguros (PAS) a través de Academia Galicia Seguros, una iniciativa de capacitación que busca acompañar su desarrollo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/galicia-seguros-apuesta-a-la-formacion-para-potenciar-el-desarrollo-de-sus-productores/",
+      "url": "https://100seguro.com.ar/prevencion-y-cuidado-de-la-salud-laboral-ante-el-avance-de-el-nino/",
       "imagen": ""
     },
     {
-      "titulo": "Zurich destinó más de $216 millones a iniciativas comunitarias y redujo un 87% sus emisiones operativas en 2025",
-      "resumen": "Los resultados surgen del Reporte de Sustentabilidad 2025 de Zurich Argentina, que refleja los avances de la compañía en materia ambiental, social y de gobernanza. Además, alcanzó $28.521 millones en prima sustentable y…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/zurich-destino-mas-de-216-millones-a-iniciativas-comunitarias-y-redujo-un-87-sus-emisiones-operativas-en-2025/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La IA avanza más rápido que su control y sólo 5% de los líderes puede explicar sus decisiones",
-      "resumen": "La inteligencia artificial empieza a demostrar resultados concretos dentro de las grandes empresas, aunque su avance expone una brecha cada vez más sensible. El 85% de los ejecutivos asegura que la tecnología cumplió o…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/la-ia-avanza-mas-rapido-que-su-control-y-solo-5-de-los-lideres-puede-explicar-sus-decisiones/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Como-se-compara-el-ROI-real-de-la-IA-en-las-organizaciones-con-las-expectativas-iniciales.png"
-    },
-    {
-      "titulo": "De una póliza a una propuesta integral: la apuesta de PyME Protegida para transformar los seguros para empresas",
-      "resumen": "ENTREVISTA 100% SEGURO.- Con una propuesta que busca ir más allá de la cobertura tradicional, PyME Protegida desembarca en el mercado para ofrecer seguros personalizados, atención cercana y beneficios especialmente…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/de-una-poliza-a-una-propuesta-integral-la-apuesta-de-pyme-protegida-para-transformar-los-seguros-para-empresas/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Lanzamiento-de-PyME-Protegida-Gustavo-Giorgi.jpeg"
-    },
-    {
-      "titulo": "La SSN sancionó a tres aseguradoras por demoras en el pago de siniestros y la presentación tardía de balances",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) volvió a aplicar sanciones económicas en el marco de su régimen de control sobre las aseguradoras del mercado. En esta oportunidad, mediante tres resoluciones fechadas…",
+      "titulo": "Prevención 4.0: el Ministerio de Capital Humano, a través de la SRT, firmó un acuerdo con YPF y Fundación YPF",
+      "resumen": "Con la presencia de la ministra de Capital Humano, Sandra Pettovello, las tres instituciones firmaron un convenio marco para promover la innovación tecnológica aplicada a la salud y seguridad en el trabajo, y fortalecer…",
       "fuente": "100% Seguro",
       "categoria": "Regulación",
       "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/la-ssn-sanciono-a-tres-aseguradoras-por-demoras-en-el-pago-de-siniestros-y-la-presentacion-tardia-de-balances/",
-      "imagen": ""
+      "url": "https://100seguro.com.ar/prevencion-4-0-el-ministerio-de-capital-humano-a-traves-de-la-srt-firmo-un-acuerdo-con-ypf-y-fundacion-ypf/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/srt-y-cap-hum-1.jpeg"
     },
     {
-      "titulo": "La producción de seguros tuvo un repunte del 7,6% mensual en septiembre, con todos los ramos en alza",
-      "resumen": "La producción neta mensual de la industria aseguradora fue de 2,512 billones de pesos en septiembre, lo que representa un incremento del 7,6% en términos reales con respecto al mes anterior (agosto de 2026), que tuvo…",
+      "titulo": "La SSN realizó la 12ª Reunión del Comité de Control Interno junto a la SIGEN",
+      "resumen": "El encuentro permitió evaluar el trabajo desarrollado durante el año y definir nuevas medidas para continuar fortaleciendo la gestión y los procesos de control interno. La entrada La SSN realizó la 12ª Reunión del…",
       "fuente": "100% Seguro",
-      "categoria": "Mercado",
+      "categoria": "Regulación",
       "fecha": "2026-11-18",
-      "url": "https://100seguro.com.ar/la-produccion-de-seguros-tuvo-un-repunte-del-76-mensual-en-septiembre-con-todos-los-ramos-en-alza/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Estimacion-de-la-Produccion-de-Seguros-Septiembre-2026.png"
-    },
-    {
-      "titulo": "Seguros: la producción creció 7,6% en septiembre contra agosto, con Automotores a la cabeza",
-      "resumen": "El mercado asegurador avanzó con fuerza en el mes: Automotores subió 14% contra agosto, Vida Individual 12,3% y Retiro 10%. En la comparación con septiembre de 2025, el total se mantuvo en el mismo nivel. La estimación…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://elseguroenaccion.com.ar/seguros-la-produccion-crecio-76-en-septiembre-contra-agosto-con-automotores-a-la-cabeza/",
+      "url": "https://100seguro.com.ar/la-ssn-realizo-la-12a-reunion-del-comite-de-control-interno-junto-a-la-sigen/",
       "imagen": ""
     },
     {
-      "titulo": "“El contexto actual exige estar muy cerca del cliente”",
-      "resumen": "La entrada “El contexto actual exige estar muy cerca del cliente” se publicó primero en Informe Operadores de Mercado .",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://informeoperadores.com.ar/2026/11/18/el-contexto-actual-exige-estar-muy-cerca-del-cliente/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/01Luis-Centeno.jpg"
-    },
-    {
-      "titulo": "Premio Prestigio Seguros 2026: La confianza como eje en la 23.ª edición del evento asegurador argentino",
-      "resumen": "La 23.ª edición del Premio Prestigio Seguros destacó la importancia de la confianza en el sector asegurador argentino, mediante el reconocimiento de las compañías más destacadas del mercado. La entrada Premio Prestigio…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://nbs.ar/premio-prestigio-seguros-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Julián Alí: “Hoy nos exigen productos y servicios más personalizados»",
-      "resumen": "Sancor Seguros identifica nuevas oportunidades de protección vinculadas con la longevidad, la ciberseguridad y los cambios en los hábitos de consumo. Julián Alí analiza cómo la personalización, la inteligencia…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://nbs.ar/nuevas-tendencias-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Darío Smaldone: «Existe un margen inmenso para impulsar segmentos que van más allá de las coberturas tradicionales»",
-      "resumen": "Zurich Argentina identifica oportunidades de crecimiento en el mercado asegurador a partir de la baja penetración del seguro en el país. Darío Smaldone analiza el potencial de los seguros de ahorro, salud, protección…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-18",
-      "url": "https://nbs.ar/crecimiento-mercado-asegurador-argentino/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Brecha de seguros en Latinoamérica tras sismos de Venezuela y Colombia",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Aon informa que los terremotos de Venezuela (25.000 MUSD, 24/6) y Colombia (9.600 MUSD, 10/8) evidencian una brecha de protección en América Latina; globalmente las…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://mercadosyseguros.com/brecha-de-seguros-en-latinoamerica-tras-sismos-de-venezuela-y-colombia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Impacto turístico de la visita del Papa en Argentina",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La visita del papa León XIV (8-11 de noviembre) movilizó a millones: 2,5 millones en Buenos Aires, 650.000 en Córdoba y 2 millones en Luján. CAME y relevos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://mercadosyseguros.com/impacto-turistico-de-la-visita-del-papa-en-argentina/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro de responsabilidad civil para fiestas: qué cubrir y por qué",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Perseverancia Seguros recomienda revisar o contratar un seguro de responsabilidad civil antes de las celebraciones de fin de año. La cobertura protege frente a…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://mercadosyseguros.com/seguro-de-responsabilidad-civil-para-fiestas-que-cubrir-y-por-que/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fraude en seguros: ADEAA y el MPF acuerdan protocolo conjunto",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ADEAA y el Ministerio Público de la Provincia de Buenos Aires realizaron una jornada en La Plata para coordinar la detección y sanción del fraude organizado en…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://mercadosyseguros.com/fraude-en-seguros-adeaa-y-el-mpf-acuerdan-protocolo-conjunto/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Munich Re anuncia acuerdo con Gangkhar y amplía sus capacidades para impulsar la distribución de seguros digitales y embebidos",
-      "resumen": "Munich Re presentó en sus oficinas de Madrid nuevas capacidades para facilitar el diseño, lanzamiento y distribución de seguros digitales y embebidos, en el marco de su acuerdo global con Gangkhar. La iniciativa combina…",
+      "titulo": "El próximo siniestro podría ser digital",
+      "resumen": "De Microsoft a los tribunales brasileños: cómo sistemas de IA avanzados pueden ser manipulados desde una simple instrucción. La entrada El próximo siniestro podría ser digital se publicó primero en 100% SEGURO .",
       "fuente": "100% Seguro",
       "categoria": "Innovación",
-      "fecha": "2026-11-17",
-      "url": "https://100seguro.com.ar/munich-re-anuncia-acuerdo-con-gangkhar-y-amplia-sus-capacidades-para-impulsar-la-distribucion-de-seguros-digitales-y-embebidos/",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/el-proximo-siniestro-podria-ser-digital/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/10/Jorge_Eduardo_Peralta_Tracewarden-150x150.jpg"
+    },
+    {
+      "titulo": "Rivadavia Seguros abrió las puertas de su Casa Central en el marco de Open House La Plata 2026",
+      "resumen": "El pasado sábado 7 de noviembre, Rivadavia Seguros participó en la primera edición del festival de arquitectura y urbanismo Open House La Plata, una iniciativa que convocó a más de 15.000 visitantes a lo largo de sus…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-18",
+      "url": "https://100seguro.com.ar/rivadavia-seguros-abrio-las-puertas-de-su-casa-central-en-el-marco-de-open-house-la-plata-2026/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Rivadavia-Seguros-abrio-las-puertas-de-su-Casa-Central-en-el-marco-de-Open-House-La-Plata-1.jpg"
+    },
+    {
+      "titulo": "IF-2026-110701767-APN-GEYE#SSN – ESTIMACIÓN DE LA PRODUCCIÓN MENSUAL – SEPTIEMBRE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-11-18",
+      "url": "https://elseguroenaccion.com.ar/if-2026-110701767-apn-geyessn-estimacion-de-la-produccion-mensual-septiembre-2026/",
       "imagen": ""
     },
     {
-      "titulo": "Sancor Seguros presenta Salud Activa, una nueva propuesta para acompañar una vida más longeva y plena",
-      "resumen": "La aseguradora amplía su oferta con una solución que combina coberturas de salud con beneficios para el bienestar cotidiano, en un contexto en el que vivir más también plantea nuevas formas de cuidarse. La entrada…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://100seguro.com.ar/sancor-seguros-presenta-salud-activa-una-nueva-propuesta-para-acompanar-una-vida-mas-longeva-y-plena/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Salud-Activa1.jpg"
+      "titulo": "IF-2026-110681186-APN-GEYE#SSN – SITUACIÓN DEL MERCADO ASEGURADOR – JUNIO DE 2026",
+      "resumen": "",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-11-18",
+      "url": "https://elseguroenaccion.com.ar/if-2026-110681186-apn-geyessn-situacion-del-mercado-asegurador-junio-de-2026/",
+      "imagen": ""
     },
     {
-      "titulo": "Guillermo Plate se incorpora al Comité Ejecutivo de la IAIS y fortalece la representación argentina en la agenda global de seguros",
-      "resumen": "El Superintendente de Seguros de la Nación fue designado miembro titular durante la última Asamblea General de la IAIS, celebrada el 11 de noviembre en Hong Kong, China. La incorporación de Guillermo Plate representa un…",
+      "titulo": "IF-2026-110681149-APN-GEYE#SSN – INDICADORES DEL MERCADO ASEGURADOR – JUNIO DE 2026",
+      "resumen": "",
       "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-17",
-      "url": "https://elseguroenaccion.com.ar/guillermo-plate-se-incorpora-al-comite-ejecutivo-de-la-iais-y-fortalece-la-representacion-argentina-en-la-agenda-global-de-seguros/",
+      "categoria": "Regulación",
+      "fecha": "2026-11-18",
+      "url": "https://elseguroenaccion.com.ar/if-2026-110681149-apn-geyessn-indicadores-del-mercado-asegurador-junio-de-2026/",
       "imagen": ""
     }
   ]
