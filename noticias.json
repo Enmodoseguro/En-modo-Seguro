@@ -1,14 +1,41 @@
 {
-  "actualizado": "2026-11-20T14:26-03:00",
+  "actualizado": "2026-11-21T13:30-03:00",
   "total": 24,
   "noticias": [
     {
-      "titulo": "Reclamos complejos: cómo la tecnología y la comunicación cambian los seguros",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Los incidentes cibernéticos y nuevos riesgos ambientales aumentan la complejidad de los reclamos. Las áreas de siniestros apuestan a datos y herramientas…",
+      "titulo": "Testing contrastivo: verificar evaluadores de respuestas IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17/11/2026 un artículo en DEV Community mostró que la misma frase «Tu reembolso está completo» recibió pass con refund_status=completed y fail con…",
       "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-11-20",
-      "url": "https://mercadosyseguros.com/reclamos-complejos-como-la-tecnologia-y-la-comunicacion-cambian-los-seguros/",
+      "categoria": "Mercado",
+      "fecha": "2026-11-21",
+      "url": "https://mercadosyseguros.com/testing-contrastivo-verificar-evaluadores-de-respuestas-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Perspectiva 2027: crecimiento y riesgos en Latinoamérica",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Moody’s proyecta una mediana de crecimiento de 3,0% para Latinoamérica en 2027, por debajo del 3,7% de los mercados emergentes, y advierte límites fiscales, baja…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-21",
+      "url": "https://mercadosyseguros.com/perspectiva-2027-crecimiento-y-riesgos-en-latinoamerica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Insurance Week 2027: inscripciones con preventa hasta el 31/12/26",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Insurance Week 2027 (CIDeS) se realizará del 6 al 8 de abril en Salta. Inscripción en preventa: USD 980 + IVA hasta el 31/12/2026; desde el 1/1/2027 será USD 1.200 +…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-21",
+      "url": "https://mercadosyseguros.com/insurance-week-2027-inscripciones-con-preventa-hasta-el-31-12-26/",
+      "imagen": ""
+    },
+    {
+      "titulo": "GPT-6 Astra y la definición candidata del Modelo Estándar",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un preprint subido a arXiv el 6 de octubre de 2026 propone una definición candidata del Modelo Estándar en retículo; Nathaniel Craig publicó el 15 de noviembre que…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-21",
+      "url": "https://mercadosyseguros.com/gpt-6-astra-y-la-definicion-candidata-del-modelo-estandar/",
       "imagen": ""
     },
     {
@@ -39,21 +66,30 @@
       "imagen": ""
     },
     {
-      "titulo": "Life Seguros fortalece su presencia en San Juan y acompaña el crecimiento de la provincia",
-      "resumen": "La compañía de Grupo ST participa de la Fiesta Nacional del Sol para acercar sus soluciones de protección y ahorro, escuchar las necesidades de las personas y las empresas y acompañar nuevos proyectos en el mercado…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/life-seguros-fortalece-su-presencia-en-san-juan-y-acompana-el-crecimiento-de-la-provincia/",
-      "imagen": ""
-    },
-    {
       "titulo": "National Brokers y SOS: del crecimiento de un broker familiar al futuro de la asistencia",
       "resumen": "En un nuevo programa de 100% SEGURO, la evolución de un broker que va camino a las cuatro décadas de trayectoria, y la transformación de los servicios de asistencia ante las nuevas demandas de movilidad, tecnología y…",
       "fuente": "100% Seguro",
       "categoria": "Innovación",
       "fecha": "2026-11-20",
       "url": "https://100seguro.com.ar/national-brokers-y-sos-del-crecimiento-de-un-broker-familiar-al-futuro-de-la-asistencia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Lluvia, alcohol y rutas cargadas: cinco decisiones que pueden evitar un siniestro este fin de semana largo",
+      "resumen": "Los viajes, las escapadas y los encuentros sociales modifican la circulación durante los días de descanso. En un contexto de mayor inestabilidad climática en distintas regiones, anticipar imprevistos y reconocer los…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-20",
+      "url": "https://100seguro.com.ar/lluvia-alcohol-y-rutas-cargadas-cinco-decisiones-que-pueden-evitar-un-siniestro-este-fin-de-semana-largo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Life Seguros fortalece su presencia en San Juan y acompaña el crecimiento de la provincia",
+      "resumen": "La compañía de Grupo ST participa de la Fiesta Nacional del Sol para acercar sus soluciones de protección y ahorro, escuchar las necesidades de las personas y las empresas y acompañar nuevos proyectos en el mercado…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-20",
+      "url": "https://100seguro.com.ar/life-seguros-fortalece-su-presencia-en-san-juan-y-acompana-el-crecimiento-de-la-provincia/",
       "imagen": ""
     },
     {
@@ -82,6 +118,15 @@
       "fecha": "2026-11-20",
       "url": "https://100seguro.com.ar/colonias-de-vacaciones-la-importancia-de-anticiparse-a-los-riesgos/",
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Julia-Chaves-DDN.jpg"
+    },
+    {
+      "titulo": "La SSN realizó la 12ª Reunión del Comité de Control Interno junto a la SIGEN",
+      "resumen": "El encuentro permitió evaluar el trabajo desarrollado durante el año y definir nuevas medidas para continuar fortaleciendo la gestión y los procesos de control interno. El 17 de noviembre, la Superintendencia de Seguros…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-11-20",
+      "url": "https://elseguroenaccion.com.ar/la-ssn-realizo-la-12a-reunion-del-comite-de-control-interno-junto-a-la-sigen/",
+      "imagen": ""
     },
     {
       "titulo": "Lavarropas automático: prevención de riesgos en el hogar",
@@ -138,6 +183,24 @@
       "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-15.23.03-476x600.jpeg"
     },
     {
+      "titulo": "OpenAI amplía la presencia de ChatGPT Ads en 44 países",
+      "resumen": "A través de un acuerdo de reventa exclusiva con la empresa argentina Aleph, OpenAI refuerza su portafolio de soluciones publicitarias basadas en inteligencia artificial. La entrada OpenAI amplía la presencia de ChatGPT…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-20",
+      "url": "https://nbs.ar/openai-amplia-la-presencia-de-chatgpt-ads-en-44-paises/",
+      "imagen": ""
+    },
+    {
+      "titulo": "InsureMO y NTT Data impulsan la modernización de las aseguradoras en América Latina",
+      "resumen": "Los ejecutivos de ambas compañías se reunieron en Portugal para acelerar la transformación de los sistemas centrales de las compañías de seguros en la región con inteligencia artificial. La entrada InsureMO y NTT Data…",
+      "fuente": "NBS",
+      "categoria": "Innovación",
+      "fecha": "2026-11-20",
+      "url": "https://nbs.ar/insuremo-y-ntt-data-impulsan-la-modernizacion-de-las-aseguradoras-en-america-latina-aprobado/",
+      "imagen": ""
+    },
+    {
       "titulo": "National Brokers en el 86° Abierto de Polo de Tortugas",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com National Brokers participó en las semifinales (31 oct. y 1 nov.) y en la final (8 nov.) del 86° Abierto de Polo del Tortugas Country Club, donde La Natividad-La…",
       "fuente": "Mercado y Seguros",
@@ -153,69 +216,6 @@
       "categoria": "Mercado",
       "fecha": "2026-11-19",
       "url": "https://mercadosyseguros.com/solvencia-de-aseguradoras-cuanto-respaldo-tienen-para-pagar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "arteba 2026: 20 obras sumadas a siete museos argentinos",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Matching Funds, la iniciativa de Zurich Argentina y Fundación arteba, permitió en arteba 2026 que siete museos del país incorporen 20 obras. La feria, realizada del…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-19",
-      "url": "https://mercadosyseguros.com/arteba-2026-20-obras-sumadas-a-siete-museos-argentinos/",
-      "imagen": ""
-    },
-    {
-      "titulo": "FAPASA convocó Asamblea para el 10 de diciembre",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com FAPASA reunió el 5 de noviembre a 47 dirigentes de las 22 asociaciones federadas y convocó la Asamblea General Ordinaria para el 10 de diciembre, donde se hará la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-19",
-      "url": "https://mercadosyseguros.com/fapasa-convoco-asamblea-para-el-10-de-diciembre/",
-      "imagen": ""
-    },
-    {
-      "titulo": "El seguro creció 6% real y recortó fuerte sus pérdidas en el ejercicio 2025/26",
-      "resumen": "El mercado asegurador cerró el ejercicio anual finalizado el 30 de junio de 2026 con primas por más de $27,1 billones, un crecimiento real del 6%. La actividad mostró una mejora del resultado técnico y redujo…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-19",
-      "url": "https://100seguro.com.ar/el-seguro-crecio-6-real-y-recorto-fuerte-sus-perdidas-en-el-ejercicio-2025-26/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Resolución SSN 258/2026: cómo lanzar coberturas de salud de forma inmediata y atender a un mercado potencial de 10 millones de personas",
-      "resumen": "La Resolución SSN 258/2026 habilitó la prestación directa a través de redes de prestadores, pero su implementación exige compromisos de continuidad asistencial y respaldo de red. DoctoRed, con el respaldo de más de 30…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-19",
-      "url": "https://100seguro.com.ar/resolucion-ssn-258-2026-como-lanzar-coberturas-de-salud-de-forma-inmediata-y-atender-a-un-mercado-potencial-de-10-millones-de-personas/",
-      "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/25aa.png"
-    },
-    {
-      "titulo": "La SSN endureció las medidas sobre tres aseguradoras: una no podrá emitir nuevas pólizas y dos fueron inhibidas",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) dispuso nuevas medidas cautelares sobre tres compañías del mercado asegurador, a través de resoluciones fechadas el 17 de noviembre. Las decisiones alcanzan a…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-19",
-      "url": "https://100seguro.com.ar/la-ssn-endurecio-las-medidas-sobre-tres-aseguradoras-una-no-podra-emitir-nuevas-polizas-y-dos-fueron-inhibidas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La exclusión financiera adolescente cae al 4%, pero persisten brechas de conocimiento y riesgos digitales",
-      "resumen": "La tercera edición del estudio de Junior Achievement, el CEPE de la Universidad Torcuato Di Tella y BBVA analiza la evolución de los hábitos financieros de los jóvenes argentinos y los desafíos que plantea la…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-19",
-      "url": "https://100seguro.com.ar/la-exclusion-financiera-adolescente-cae-al-4-pero-persisten-brechas-de-conocimiento-y-riesgos-digitales/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Infografia-Los-adolescentes-y-las-finanzas.jpeg"
-    },
-    {
-      "titulo": "La SSN multó a aseguradora con $41 millones por ejercicio irregular de la actividad",
-      "resumen": "RESOLUCIÓN SSN 496/2026.- La Superintendencia de Seguros de la Nación (SSN) le aplicó una multa de $41.124.110 a Agrosalta Cooperativa de Seguros Limitada, en el marco de una investigación iniciada a partir de la…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-19",
-      "url": "https://100seguro.com.ar/la-ssn-multo-a-aseguradora-con-41-millones-por-ejercicio-irregular-de-la-actividad/",
       "imagen": ""
     }
   ]
