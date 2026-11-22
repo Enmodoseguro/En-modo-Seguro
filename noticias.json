@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-11-21T13:30-03:00",
+  "actualizado": "2026-11-22T13:48-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Sancor Seguros lanza Salud Activa para acompañar la longevidad",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros presentó Salud Activa, un producto con coberturas para cirugías, trasplantes, prótesis, renta diaria, incapacidad y fracturas por accidente, más…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-22",
+      "url": "https://mercadosyseguros.com/sancor-seguros-lanza-salud-activa-para-acompanar-la-longevidad/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Producción de seguros creció 0,2% interanual a septiembre 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en septiembre de 2026 la producción de seguros totalizó 2.511,9 billones de pesos: +33,6% a valores corrientes y +0,2% a valores constantes…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-22",
+      "url": "https://mercadosyseguros.com/produccion-de-seguros-crecio-02-interanual-a-septiembre-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate ingresó al Comité Ejecutivo de la IAIS",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate, superintendente de Seguros de la Nación, fue elegido miembro titular del Executive Committee de la IAIS el 11 de noviembre de 2026 en Hong Kong. La…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-22",
+      "url": "https://mercadosyseguros.com/guillermo-plate-ingreso-al-comite-ejecutivo-de-la-iais/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fallo: falta de pago no suspendió cobertura del seguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Cámara Comercial (Sala B) falló el 2/6/2026 en \"Taphanel c/ Provincia Seguros\" y concluyó que la falta de pago de la prima no suspendió automáticamente la…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-22",
+      "url": "https://mercadosyseguros.com/fallo-falta-de-pago-no-suspendio-cobertura-del-seguro/",
+      "imagen": ""
+    },
     {
       "titulo": "Testing contrastivo: verificar evaluadores de respuestas IA",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17/11/2026 un artículo en DEV Community mostró que la misma frase «Tu reembolso está completo» recibió pass con refund_status=completed y fail con…",
@@ -54,15 +90,6 @@
       "categoria": "Mercado",
       "fecha": "2026-11-20",
       "url": "https://mercadosyseguros.com/mcp-function-calling-y-plugins-como-se-complementan/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dificultades legales para prohibir TikTok en España",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com España estudió paralizar TikTok tras el hallazgo de 1.183 vídeos con 48 millones de visualizaciones; la AEPD no suspendió la app y apunta a acciones sobre contenidos…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://mercadosyseguros.com/dificultades-legales-para-prohibir-tiktok-en-espana/",
       "imagen": ""
     },
     {
@@ -189,33 +216,6 @@
       "categoria": "Innovación",
       "fecha": "2026-11-20",
       "url": "https://nbs.ar/openai-amplia-la-presencia-de-chatgpt-ads-en-44-paises/",
-      "imagen": ""
-    },
-    {
-      "titulo": "InsureMO y NTT Data impulsan la modernización de las aseguradoras en América Latina",
-      "resumen": "Los ejecutivos de ambas compañías se reunieron en Portugal para acelerar la transformación de los sistemas centrales de las compañías de seguros en la región con inteligencia artificial. La entrada InsureMO y NTT Data…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-20",
-      "url": "https://nbs.ar/insuremo-y-ntt-data-impulsan-la-modernizacion-de-las-aseguradoras-en-america-latina-aprobado/",
-      "imagen": ""
-    },
-    {
-      "titulo": "National Brokers en el 86° Abierto de Polo de Tortugas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com National Brokers participó en las semifinales (31 oct. y 1 nov.) y en la final (8 nov.) del 86° Abierto de Polo del Tortugas Country Club, donde La Natividad-La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-19",
-      "url": "https://mercadosyseguros.com/national-brokers-en-el-86-abierto-de-polo-de-tortugas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Solvencia de aseguradoras: cuánto respaldo tienen para pagar",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La serie trimestral 2020-2026 del Indicador E muestra el respaldo de las aseguradoras: fórmula, umbrales y patrones. A mediados de 2025 hubo picos cercanos al 330% y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-19",
-      "url": "https://mercadosyseguros.com/solvencia-de-aseguradoras-cuanto-respaldo-tienen-para-pagar/",
       "imagen": ""
     }
   ]
