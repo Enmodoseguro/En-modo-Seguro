@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-11-22T13:48-03:00",
+  "actualizado": "2026-11-23T17:45-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Zurich: $216 M en comunidad y 87% menos emisiones en 2025",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Zurich Argentina reportó en 2025 una inversión social superior a $216 millones, $28.521 millones en prima sustentable y una reducción del 87% en emisiones operativas…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-23",
+      "url": "https://mercadosyseguros.com/zurich-216-m-en-comunidad-y-87-menos-emisiones-en-2025/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Producción de seguros creció 7,6% en septiembre: Automotores lideró",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en septiembre de 2026 la producción de seguros llegó a $2.511.939 millones, con un aumento real de 7,6% contra agosto. Automotores lideró el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-23",
+      "url": "https://mercadosyseguros.com/produccion-de-seguros-crecio-76-en-septiembre-automotores-lidero/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Harness de seguridad para LLM: scout, hunt y disprove",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rokkhe presentó el 18/11/2026 un harness de seguridad en cuatro fases (scout, hunt, disprove, write it down) para revisar repos propios con roles y esquema rígido. El…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-23",
+      "url": "https://mercadosyseguros.com/harness-de-seguridad-para-llm-scout-hunt-y-disprove/",
+      "imagen": ""
+    },
+    {
+      "titulo": "ARM Latam Risk Pulse 2026: riesgos antes del viaje",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ARM Services presentó el ARM Latam Risk Pulse 2026 en ALSUM Panamá 2026 con 150 profesionales. El 40% identificó al robo y crimen organizado como principal riesgo; el…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-23",
+      "url": "https://mercadosyseguros.com/arm-latam-risk-pulse-2026-riesgos-antes-del-viaje/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Grupo RUS presentó en Paraná y Santa Fe una nueva forma de invertir en ladrillos",
+      "resumen": "Junto a Integrar S.A., Grupo RUS realizó dos encuentros con empresarios e inversores institucionales de Entre Ríos y Santa Fe para presentar RUS Futuro, una propuesta nacida en la provincia que conecta el mercado de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-23",
+      "url": "https://100seguro.com.ar/grupo-rus-presento-en-parana-y-santa-fe-una-nueva-forma-de-invertir-en-ladrillos/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/RUS-FUTURO-6.jpg"
+    },
     {
       "titulo": "Sancor Seguros lanza Salud Activa para acompañar la longevidad",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros presentó Salud Activa, un producto con coberturas para cirugías, trasplantes, prótesis, renta diaria, incapacidad y fracturas por accidente, más…",
@@ -54,42 +99,6 @@
       "categoria": "Mercado",
       "fecha": "2026-11-21",
       "url": "https://mercadosyseguros.com/perspectiva-2027-crecimiento-y-riesgos-en-latinoamerica/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Insurance Week 2027: inscripciones con preventa hasta el 31/12/26",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Insurance Week 2027 (CIDeS) se realizará del 6 al 8 de abril en Salta. Inscripción en preventa: USD 980 + IVA hasta el 31/12/2026; desde el 1/1/2027 será USD 1.200 +…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-21",
-      "url": "https://mercadosyseguros.com/insurance-week-2027-inscripciones-con-preventa-hasta-el-31-12-26/",
-      "imagen": ""
-    },
-    {
-      "titulo": "GPT-6 Astra y la definición candidata del Modelo Estándar",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Un preprint subido a arXiv el 6 de octubre de 2026 propone una definición candidata del Modelo Estándar en retículo; Nathaniel Craig publicó el 15 de noviembre que…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-21",
-      "url": "https://mercadosyseguros.com/gpt-6-astra-y-la-definicion-candidata-del-modelo-estandar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Correr el CI desde Claude Code: tres alternativas",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Claude Code puede obtener el veredicto de CI sin pushear una rama mediante tres rutas: gh workflow run (pipeline real), act (validar el YAML en local) o ejecutar…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://mercadosyseguros.com/correr-el-ci-desde-claude-code-tres-alternativas/",
-      "imagen": ""
-    },
-    {
-      "titulo": "MCP, function calling y plugins: cómo se complementan",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com DocStar (13/11/2026) distingue tres capas: function calling (capacidad del modelo), plugins (complementos de un asistente) y MCP (protocolo abierto que expone…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://mercadosyseguros.com/mcp-function-calling-y-plugins-como-se-complementan/",
       "imagen": ""
     },
     {
@@ -208,15 +217,6 @@
       "fecha": "2026-11-20",
       "url": "https://informeoperadores.com.ar/2026/11/19/afz-mas-de-una-decada-de-prestigio/",
       "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-15.23.03-476x600.jpeg"
-    },
-    {
-      "titulo": "OpenAI amplía la presencia de ChatGPT Ads en 44 países",
-      "resumen": "A través de un acuerdo de reventa exclusiva con la empresa argentina Aleph, OpenAI refuerza su portafolio de soluciones publicitarias basadas en inteligencia artificial. La entrada OpenAI amplía la presencia de ChatGPT…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-20",
-      "url": "https://nbs.ar/openai-amplia-la-presencia-de-chatgpt-ads-en-44-paises/",
-      "imagen": ""
     }
   ]
 }
