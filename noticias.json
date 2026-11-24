@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-11-23T17:45-03:00",
+  "actualizado": "2026-11-24T16:50-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Evolución del PAS ante canales digitales y IA",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Daniel Tino, director del canal PAS de National Brokers, sostiene que el PAS evoluciona frente a la venta directa y la bancaseguros, integrando IA y plataformas como…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-24",
+      "url": "https://mercadosyseguros.com/evolucion-del-pas-ante-canales-digitales-y-ia/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Guillermo Plate expuso en la reunión de la NAIC en Dallas",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate, titular de la SSN y presidente de ASSAL, expuso el 15 de noviembre de 2026 en la reunión de la NAIC en Dallas sobre el Acuerdo NAIC-ASSAL 2027 y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-24",
+      "url": "https://mercadosyseguros.com/guillermo-plate-expuso-en-la-reunion-de-la-naic-en-dallas/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en seguros: adopción crece y alcanza 44% en siniestros",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El Índice de Maduración Digital de AACS y CESSI muestra que la adopción de IA en siniestros subió del 13% al 44% en un año y la adopción en áreas comerciales al 56%.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-24",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-adopcion-crece-y-alcanza-44-en-siniestros/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Capacidad de pago de las aseguradoras a junio de 2026",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com A junio de 2026 el Indicador D1 muestra heterogeneidad: la aseguradora líder alcanza ~470%, otra ~380%, la mayoría se ubica entre 170% y 250% y varias rondan el 100%.…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://mercadosyseguros.com/capacidad-de-pago-de-las-aseguradoras-a-junio-de-2026/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Casi uno de cada dos robos de vehículos ocurre entre las 18 y las 24",
+      "resumen": "Según el último Indicador Ituran de Robo Vehicular (IRV), en octubre se registró un fuerte desplazamiento de los delitos hacia la franja de la tarde-noche. Además, La Matanza concentró el 34,9% de los casos relevados y…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://100seguro.com.ar/casi-uno-de-cada-dos-robos-de-vehiculos-ocurre-entre-las-18-y-las-24/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Tipo-de-vehiculo-mas-robado-octubre-2026.png"
+    },
+    {
+      "titulo": "Longevidad y bienestar financiero: Marsh destaca la importancia de un enfoque integral y preventivo",
+      "resumen": "En un contexto de mayor expectativa de vida y transformación de las trayectorias laborales, las organizaciones necesitan evolucionar hacia estrategias de bienestar que integren la salud, la seguridad financiera y el…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://100seguro.com.ar/longevidad-y-bienestar-financiero-marsh-destaca-la-importancia-de-un-enfoque-integral-y-preventivo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las empresas experimentan un fuerte aumento de las pérdidas por interrupción del negocio",
+      "resumen": "El siniestro promedio por interrupción del negocio supera los € 850.000, alrededor de un 70% más que el siniestro promedio por daños materiales asociado. Los incendios y explosiones representan más del 40% del valor…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://100seguro.com.ar/las-empresas-experimentan-un-fuerte-aumento-de-las-perdidas-por-interrupcion-del-negocio/",
+      "imagen": ""
+    },
+    {
+      "titulo": "CONFidens, el encuentro de Fidens Insurtech que puso el foco en la IA y la ciberseguridad en seguros",
+      "resumen": "La primera edición del encuentro fue convocada por Fidens Insurtech para compartir con clientes y ejecutivos del sector las capacidades y soluciones desarrolladas junto con los socios de su ecosistema Connect. La…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-24",
+      "url": "https://100seguro.com.ar/confidens-el-encuentro-de-fidens-insurtech-que-puso-el-foco-en-la-ia-y-la-ciberseguridad-en-seguros/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/DTC-Cyber.jpg"
+    },
+    {
+      "titulo": "Longevidad y bienestar financiero: Marsh destaca la importancia de un",
+      "resumen": "En un contexto de mayor expectativa de vida y transformación de las trayectorias laborales, las organizaciones necesitan evolucionar hacia estrategias de bienestar que integren la salud, la seguridad financiera y el…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://informeoperadores.com.ar/2026/11/24/longevidad-y-bienestar-financiero-marsh-destaca-la-importancia-de-un/",
+      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/happy-senior-family-is-managing-their-budget-together-600x400.jpg"
+    },
+    {
+      "titulo": "Casi 1 de cada 2 robos de vehículos ocurre entre las 18 y las 24",
+      "resumen": "Según el último “Indicador Ituran de Robo Vehicular (IRV)”, en octubre se registró un fuerte desplazamiento de los delitos hacia la franja de la tarde-noche. Además, La Matanza concentró el 34,9% de los casos relevados…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://informeoperadores.com.ar/2026/11/24/casi-1-de-cada-2-robos-de-vehiculos-ocurre-entre-las-18-y-las-24/",
+      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/image-3-600x340.png"
+    },
+    {
+      "titulo": "Premios Prestigio 2026: la confianza, el principal activo del mercado asegurador",
+      "resumen": "La 23.ª edición del Premio Prestigio Seguros 2026 reconoció a las aseguradoras y los ejecutivos mejor valorados del mercado argentino, destacando la confianza, la reputación, la calidad del servicio y la capacidad de…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://nbs.ar/premios-prestigio-2026-la-confianza-el-principal-activo-del-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“La confianza se construye muy gradualmente y es muy fácil de perder”",
+      "resumen": "Guadalupe Nogués, doctora en Ciencias Biológicas, analiza el papel de las emociones y las percepciones en la toma de decisiones y explica cómo las aseguradoras pueden fortalecer la confianza, gestionar la incertidumbre…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-24",
+      "url": "https://nbs.ar/guadalupe-nogues-confianza-en-las-aseguradoras/",
+      "imagen": ""
+    },
     {
       "titulo": "Zurich: $216 M en comunidad y 87% menos emisiones en 2025",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Zurich Argentina reportó en 2025 una inversión social superior a $216 millones, $28.521 millones en prima sustentable y una reducción del 87% en emisiones operativas…",
@@ -66,42 +174,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Guillermo Plate ingresó al Comité Ejecutivo de la IAIS",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Guillermo Plate, superintendente de Seguros de la Nación, fue elegido miembro titular del Executive Committee de la IAIS el 11 de noviembre de 2026 en Hong Kong. La…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-22",
-      "url": "https://mercadosyseguros.com/guillermo-plate-ingreso-al-comite-ejecutivo-de-la-iais/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fallo: falta de pago no suspendió cobertura del seguro",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La Cámara Comercial (Sala B) falló el 2/6/2026 en \"Taphanel c/ Provincia Seguros\" y concluyó que la falta de pago de la prima no suspendió automáticamente la…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-22",
-      "url": "https://mercadosyseguros.com/fallo-falta-de-pago-no-suspendio-cobertura-del-seguro/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Testing contrastivo: verificar evaluadores de respuestas IA",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17/11/2026 un artículo en DEV Community mostró que la misma frase «Tu reembolso está completo» recibió pass con refund_status=completed y fail con…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-21",
-      "url": "https://mercadosyseguros.com/testing-contrastivo-verificar-evaluadores-de-respuestas-ia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Perspectiva 2027: crecimiento y riesgos en Latinoamérica",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Moody’s proyecta una mediana de crecimiento de 3,0% para Latinoamérica en 2027, por debajo del 3,7% de los mercados emergentes, y advierte límites fiscales, baja…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-21",
-      "url": "https://mercadosyseguros.com/perspectiva-2027-crecimiento-y-riesgos-en-latinoamerica/",
-      "imagen": ""
-    },
-    {
       "titulo": "National Brokers y SOS: del crecimiento de un broker familiar al futuro de la asistencia",
       "resumen": "En un nuevo programa de 100% SEGURO, la evolución de un broker que va camino a las cuatro décadas de trayectoria, y la transformación de los servicios de asistencia ante las nuevas demandas de movilidad, tecnología y…",
       "fuente": "100% Seguro",
@@ -145,78 +217,6 @@
       "fecha": "2026-11-20",
       "url": "https://100seguro.com.ar/rio-uruguay-seguros-renovo-la-certificacion-de-su-sistema-de-gestion-de-la-calidad-bajo-la-norma-iso-90012015/",
       "imagen": ""
-    },
-    {
-      "titulo": "Colonias de vacaciones: la importancia de anticiparse a los riesgos",
-      "resumen": "Con la llegada del verano, clubes, instituciones educativas, campings, balnearios y colonias de vacaciones comienzan a organizar sus actividades recreativas y deportivas. En este contexto, la contratación de seguros de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/colonias-de-vacaciones-la-importancia-de-anticiparse-a-los-riesgos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Julia-Chaves-DDN.jpg"
-    },
-    {
-      "titulo": "La SSN realizó la 12ª Reunión del Comité de Control Interno junto a la SIGEN",
-      "resumen": "El encuentro permitió evaluar el trabajo desarrollado durante el año y definir nuevas medidas para continuar fortaleciendo la gestión y los procesos de control interno. El 17 de noviembre, la Superintendencia de Seguros…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-20",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-realizo-la-12a-reunion-del-comite-de-control-interno-junto-a-la-sigen/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lavarropas automático: prevención de riesgos en el hogar",
-      "resumen": "El lavarropas automático es un electrodoméstico esencial en prácticamente todos los hogares argentinos. Su capacidad para simplificar una de las tareas domésticas más frecuentes lo convierte en un aliado indispensable,…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://elseguroenaccion.com.ar/lavarropas-automatico-prevencion-de-riesgos-en-el-hogar/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Longevidad y transformación laboral: el desafío de rediseñar los sistemas de ingresos para el retiro",
-      "resumen": "La 18.ª edición del Marsh CFA Institute Global Pension Index analiza 55 sistemas de ingresos para el retiro y examina cómo la longevidad, los cambios demográficos y las nuevas trayectorias laborales inciden en su diseño…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://informeoperadores.com.ar/2026/11/19/longevidad-y-transformacion-laboral-el-desafio-de-redisenar-los-sistemas-de-ingresos-para-el-retiro/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/senior-couple-analyzing-their-savings-while-going-through-home-finances-600x400.jpg"
-    },
-    {
-      "titulo": "Mapfre y Cetrogar anuncian una alianza estratégica para la venta de seguros",
-      "resumen": "Mapfre, compañía aseguradora global con 40 años de trayectoria en Argentina, anuncia su alianza estratégica con Cetrogar, una de las principales cadenas de electrodomésticos del país, con el objetivo de potenciar la…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://informeoperadores.com.ar/2026/11/19/mapfre-y-cetrogar-anuncian-una-alianza-estrategica-para-la-venta-de-seguros/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/20260318_121425-363x600.jpg"
-    },
-    {
-      "titulo": "Redefinición de estrategias salariales en Argentina: las empresas priorizan la diferenciación por talento crítico, competitividad y eficiencia",
-      "resumen": "Según la encuesta Total Remuneration Survey (TRS) 2026 de Marsh People & Investments, el mercado corporativo muestra una evolución interanual (mayo 2025 – mayo 2026) con variaciones del 27 al 32% en el salario base, al…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://informeoperadores.com.ar/2026/11/19/redefinicion-de-estrategias-salariales-en-argentina-las-empresas-priorizan-la-diferenciacion-por-talento-critico-competitividad-y-eficiencia/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2025/10/marsh-destacada-1-600x400.jpg"
-    },
-    {
-      "titulo": "Rivadavia Seguros abrió las puertas de su CasaCentral en el marco de Open House La Plata 2026",
-      "resumen": "El pasado sábado 7 de noviembre, Rivadavia Seguros participó en la primera edición del festival de arquitectura y urbanismo Open House La Plata, una iniciativa que convocó a más de 15.000 visitantes a lo largo de sus…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://informeoperadores.com.ar/2026/11/19/rivadavia-seguros-abrio-las-puertas-de-su-casacentral-en-el-marco-de-open-house-la-plata-2026/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/Rivadavia-Seguros-abrio-las-puertas-de-su-Casa-Central-en-el-marco-de-Open-House-La-Plata-2-600x384.jpg"
-    },
-    {
-      "titulo": "AFZ: más de una década de Prestigio.",
-      "resumen": "Afianzadora fue distinguida con el 2.º puesto en el Premio Prestigio Seguros 2026, en la categoría Seguros de Caución, un reconocimiento que nos acompaña desde hace más de una década. Este logro nos honra y reafirma…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://informeoperadores.com.ar/2026/11/19/afz-mas-de-una-decada-de-prestigio/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-15.23.03-476x600.jpeg"
     }
   ]
 }
