@@ -1,7 +1,160 @@
 {
-  "actualizado": "2026-11-24T16:50-03:00",
+  "actualizado": "2026-11-25T15:55-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Seguro y robotaxis: cómo cambia el riesgo automotor",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mutua Madrileña aseguró 20 robotaxis del piloto de Uber y WeRide en Madrid que operan con autonomía nivel 4 desde octubre; la cobertura permitirá medir frecuencia y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://mercadosyseguros.com/seguro-y-robotaxis-como-cambia-el-riesgo-automotor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Opción Seguros mejora tiempos y servicio para productores y asegurados",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Opción Seguros informó inversiones iniciadas en 2025 para digitalizar procesos y reducir tiempos con biometría, trazabilidad y asistentes digitales como Copilot y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-25",
+      "url": "https://mercadosyseguros.com/opcion-seguros-mejora-tiempos-y-servicio-para-productores-y-asegurados/",
+      "imagen": ""
+    },
+    {
+      "titulo": "IA en seguros: uso en siniestros sube al 44% en un año",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La adopción de IA en siniestros subió del 13% al 44% entre 2025 y 2026; el uso en áreas comerciales pasó del 26% al 56%, y el Índice de Maduración Digital de AACS y…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Innovación",
+      "fecha": "2026-11-25",
+      "url": "https://mercadosyseguros.com/ia-en-seguros-uso-en-siniestros-sube-al-44-en-un-ano/",
+      "imagen": ""
+    },
+    {
+      "titulo": "SSN multa a Agrosalta y trabas a tres aseguradoras",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN multó a Agrosalta por $41.124.110,06 y dictó medidas cautelares contra Aseguradora del Finisterre, Providencia y la sucursal argentina de Coface, según las…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-25",
+      "url": "https://mercadosyseguros.com/ssn-multa-a-agrosalta-y-trabas-a-tres-aseguradoras/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Serena continúa evolucionando y amplía su propuesta de protección",
+      "resumen": "El 13 de noviembre, Serena reunió a productores asesores de seguros, brokers y referentes del sector en su Cóctel de Fin de Año, un espacio pensado para celebrar los vínculos construidos y compartir la visión de futuro…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/serena-continua-evolucionando-y-amplia-su-propuesta-de-proteccion/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Claudio-Berti-Serena.jpg"
+    },
+    {
+      "titulo": "La Segunda Seguros presenta su Informe Anual Integrado 2026: un año de crecimiento consolidado y compromiso sostenido con la sostenibilidad",
+      "resumen": "El documento reúne los principales avances del año en materia de sostenibilidad, reafirmando la visión estratégica a largo plazo de la compañía. La entrada La Segunda Seguros presenta su Informe Anual Integrado 2026: un…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/la-segunda-seguros-presenta-su-informe-anual-integrado-2026-un-ano-de-crecimiento-consolidado-y-compromiso-sostenido-con-la-sostenibilidad/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/La-Segunda-Seguros-Sostenibilidad-integrada-al-negocio.jpeg"
+    },
+    {
+      "titulo": "El Norte Seguros fue reconocida en los Premios Prestigio Seguros por la resolución de problemas en tiempo y forma",
+      "resumen": "En una nueva edición de los Premios Prestigio Seguros, El Norte Seguros obtuvo una mención especial por la resolución de problemas en tiempo y forma, a partir de la valoración de los Productores Asesores de Seguros a…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/el-norte-seguros-fue-reconocida-en-los-premios-prestigio-seguros-por-la-resolucion-de-problemas-en-tiempo-y-forma/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nueva mesa de examen para liquidadores de seguros: un paso firme hacia la profesionalización del sector",
+      "resumen": "La Superintendencia de Seguros de la Nación y la Asociación Argentina de Peritos y Liquidadores de Seguros llevaron adelante una nueva instancia de evaluación para los aspirantes a obtener la matrícula, con la que se…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/nueva-mesa-de-examen-para-liquidadores-de-seguros-un-paso-firme-hacia-la-profesionalizacion-del-sector/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/2-examen.jpeg"
+    },
+    {
+      "titulo": "Allianz alcanza un resultado operativo récord de €14.100 millones en los primeros nueve meses de 2026 y eleva sus perspectivas para el año",
+      "resumen": "La compañía registró un crecimiento interanual del 7,8% en su resultado operativo y del 10,6% en su beneficio neto básico atribuible a los accionistas. Su sólido desempeño llevó a Allianz a elevar su objetivo de…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/allianz-alcanza-un-resultado-operativo-record-de-e14-100-millones-en-los-primeros-nueve-meses-de-2026-y-eleva-sus-perspectivas-para-el-ano/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vuelven a multar a aseguradora, en este caso por la presentación tardía de balances",
+      "resumen": "RESOLUCIÓN SSN 503/2026.- La Superintendencia de Seguros de la Nación (SSN) volvió a sancionar a Providencia Compañía Argentina de Seguros S.A. En esta oportunidad, mediante la presente resolución, fechada el 20 de…",
+      "fuente": "100% Seguro",
+      "categoria": "Regulación",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/vuelven-a-multar-a-aseguradora-en-este-caso-por-la-presentacion-tardia-de-balances/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fullcober: de administrar accidentes personales a impulsar nuevos negocios de salud para el mercado asegurador",
+      "resumen": "ENTREVISTA 100% SEGURO.- El crecimiento de los Accidentes Personales Prestacionales le permitió a Fullcober desarrollar una red médica de alcance nacional y adquirir experiencia en la gestión de prestaciones que…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/fullcober-de-administrar-accidentes-personales-a-impulsar-nuevos-negocios-de-salud-para-el-mercado-asegurador/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El respaldo de una historia, el impulso de lo que viene: Mapfre cumple 40 años en Argentina",
+      "resumen": "La cercanía, la solvencia y la calidad de atención son los ejes de la campaña con la que Mapfre celebra sus 40 años en Argentina, con presencia en redes sociales, vía pública y medios del sector asegurador. La entrada…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/el-respaldo-de-una-historia-el-impulso-de-lo-que-viene-mapfre-cumple-40-anos-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AOSS se reunió en Vaca Muerta y profundiza su plan estratégico",
+      "resumen": "Dos días de trabajo institucional y recorrido por la economía regional de mayor crecimiento del país. La entrada AOSS se reunió en Vaca Muerta y profundiza su plan estratégico se publicó primero en 100% SEGURO .",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://100seguro.com.ar/aoss-se-reunio-en-vaca-muerta-y-profundiza-su-plan-estrategico/",
+      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/AOSS-Parque-Industrial-Vaca-Muerta.jpeg"
+    },
+    {
+      "titulo": "Dr. Martín Diego Pirota: mitos del tránsito, seguridad vial y actualizaciones del seguro automotor",
+      "resumen": "El Dr. Martín Diego Pirota (abogado especialista en Derecho de Daños, Seguros y Seguridad Vial) dialoga con Aníbal Cejas sobre los aspectos jurídicos de los siniestros viales en Argentina, derribando mitos históricos…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://elseguroenaccion.com.ar/dr-martin-diego-pirota-mitos-del-transito-seguridad-vial-y-actualizaciones-del-seguro-automotor/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Camilo Kahale y Julián Niccolo: situación de las pymes, cultura aseguradora y riesgos del trabajo",
+      "resumen": "Camilo Kahale (presidente de la Federación Económica de la Provincia de Buenos Aires – FEBA y vicepresidente de CAME) y Julián Niccolo (vocal 1° de APAS y secretario de CAME Joven) analizan la coyuntura actual de las…",
+      "fuente": "El Seguro en Acción",
+      "categoria": "Regulación",
+      "fecha": "2026-11-25",
+      "url": "https://elseguroenaccion.com.ar/camilo-kahale-y-julian-niccolo-situacion-de-las-pymes-cultura-aseguradora-y-riesgos-del-trabajo/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los bancos amplían las líneas de financiamiento para pymes, agro y economías regionales",
+      "resumen": "Los bancos argentinos amplían sus líneas de financiamiento para pymes, agro y economías regionales. La oferta combina créditos para inversión productiva, capital de trabajo, leasing y comercio exterior, con herramientas…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://nbs.ar/financiamiento-bancario-pymes-agro-economias-regionales-2/",
+      "imagen": ""
+    },
+    {
+      "titulo": "“La sostenibilidad debe estar integrada al core del negocio”",
+      "resumen": "Victoria Barroso, líder de Desarrollo Sostenible del Grupo Petersen, explica cómo los cuatro bancos integran la sostenibilidad a su estrategia de negocio mediante el financiamiento productivo, la inclusión financiera,…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-25",
+      "url": "https://nbs.ar/la-sostenibilidad-debe-estar-integrada-al-core-del-negocio/",
+      "imagen": ""
+    },
     {
       "titulo": "Evolución del PAS ante canales digitales y IA",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com Daniel Tino, director del canal PAS de National Brokers, sostiene que el PAS evoluciona frente a la venta directa y la bancaseguros, integrando IA y plataformas como…",
@@ -48,174 +201,21 @@
       "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/Tipo-de-vehiculo-mas-robado-octubre-2026.png"
     },
     {
-      "titulo": "Longevidad y bienestar financiero: Marsh destaca la importancia de un enfoque integral y preventivo",
-      "resumen": "En un contexto de mayor expectativa de vida y transformación de las trayectorias laborales, las organizaciones necesitan evolucionar hacia estrategias de bienestar que integren la salud, la seguridad financiera y el…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-24",
-      "url": "https://100seguro.com.ar/longevidad-y-bienestar-financiero-marsh-destaca-la-importancia-de-un-enfoque-integral-y-preventivo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Las empresas experimentan un fuerte aumento de las pérdidas por interrupción del negocio",
-      "resumen": "El siniestro promedio por interrupción del negocio supera los € 850.000, alrededor de un 70% más que el siniestro promedio por daños materiales asociado. Los incendios y explosiones representan más del 40% del valor…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-24",
-      "url": "https://100seguro.com.ar/las-empresas-experimentan-un-fuerte-aumento-de-las-perdidas-por-interrupcion-del-negocio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "CONFidens, el encuentro de Fidens Insurtech que puso el foco en la IA y la ciberseguridad en seguros",
-      "resumen": "La primera edición del encuentro fue convocada por Fidens Insurtech para compartir con clientes y ejecutivos del sector las capacidades y soluciones desarrolladas junto con los socios de su ecosistema Connect. La…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-24",
-      "url": "https://100seguro.com.ar/confidens-el-encuentro-de-fidens-insurtech-que-puso-el-foco-en-la-ia-y-la-ciberseguridad-en-seguros/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/DTC-Cyber.jpg"
-    },
-    {
-      "titulo": "Longevidad y bienestar financiero: Marsh destaca la importancia de un",
-      "resumen": "En un contexto de mayor expectativa de vida y transformación de las trayectorias laborales, las organizaciones necesitan evolucionar hacia estrategias de bienestar que integren la salud, la seguridad financiera y el…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-24",
-      "url": "https://informeoperadores.com.ar/2026/11/24/longevidad-y-bienestar-financiero-marsh-destaca-la-importancia-de-un/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/happy-senior-family-is-managing-their-budget-together-600x400.jpg"
-    },
-    {
-      "titulo": "Casi 1 de cada 2 robos de vehículos ocurre entre las 18 y las 24",
-      "resumen": "Según el último “Indicador Ituran de Robo Vehicular (IRV)”, en octubre se registró un fuerte desplazamiento de los delitos hacia la franja de la tarde-noche. Además, La Matanza concentró el 34,9% de los casos relevados…",
-      "fuente": "Informe Operadores",
-      "categoria": "Mercado",
-      "fecha": "2026-11-24",
-      "url": "https://informeoperadores.com.ar/2026/11/24/casi-1-de-cada-2-robos-de-vehiculos-ocurre-entre-las-18-y-las-24/",
-      "imagen": "https://informeoperadores.com.ar/wp-content/uploads/2026/11/image-3-600x340.png"
-    },
-    {
-      "titulo": "Premios Prestigio 2026: la confianza, el principal activo del mercado asegurador",
-      "resumen": "La 23.ª edición del Premio Prestigio Seguros 2026 reconoció a las aseguradoras y los ejecutivos mejor valorados del mercado argentino, destacando la confianza, la reputación, la calidad del servicio y la capacidad de…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-24",
-      "url": "https://nbs.ar/premios-prestigio-2026-la-confianza-el-principal-activo-del-mercado-asegurador/",
-      "imagen": ""
-    },
-    {
-      "titulo": "“La confianza se construye muy gradualmente y es muy fácil de perder”",
-      "resumen": "Guadalupe Nogués, doctora en Ciencias Biológicas, analiza el papel de las emociones y las percepciones en la toma de decisiones y explica cómo las aseguradoras pueden fortalecer la confianza, gestionar la incertidumbre…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-24",
-      "url": "https://nbs.ar/guadalupe-nogues-confianza-en-las-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Zurich: $216 M en comunidad y 87% menos emisiones en 2025",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Zurich Argentina reportó en 2025 una inversión social superior a $216 millones, $28.521 millones en prima sustentable y una reducción del 87% en emisiones operativas…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-23",
-      "url": "https://mercadosyseguros.com/zurich-216-m-en-comunidad-y-87-menos-emisiones-en-2025/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Producción de seguros creció 7,6% en septiembre: Automotores lideró",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en septiembre de 2026 la producción de seguros llegó a $2.511.939 millones, con un aumento real de 7,6% contra agosto. Automotores lideró el…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "La siniestralidad del ramo caución pasó del 14% al 48% y el golpe lo absorbió el reaseguro",
+      "resumen": "Hildo Cuffia, asesor de Directorio de Prudencia Seguros, analiza el cambio de carteras en caución, el salto de la siniestralidad que muestra el informe de la SSN a junio de 2026, el avance de las pólizas a primer…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Regulación",
-      "fecha": "2026-11-23",
-      "url": "https://mercadosyseguros.com/produccion-de-seguros-crecio-76-en-septiembre-automotores-lidero/",
+      "fecha": "2026-11-24",
+      "url": "https://elseguroenaccion.com.ar/la-siniestralidad-del-ramo-caucion-paso-del-14-al-48-y-el-golpe-lo-absorbio-el-reaseguro/",
       "imagen": ""
     },
     {
-      "titulo": "Harness de seguridad para LLM: scout, hunt y disprove",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Rokkhe presentó el 18/11/2026 un harness de seguridad en cuatro fases (scout, hunt, disprove, write it down) para revisar repos propios con roles y esquema rígido. El…",
-      "fuente": "Mercado y Seguros",
+      "titulo": "Lanzan un portafolio de seguros que cubren los riesgos reales de cada Pyme",
+      "resumen": "PyME Protegida deja atrás las pólizas estándar: analiza sin costo las coberturas vigentes de cada Pyme y diseña un plan a medida para más de 20 rubro. Las Pymes revisan cada gasto. Según el último informe de la…",
+      "fuente": "El Seguro en Acción",
       "categoria": "Mercado",
-      "fecha": "2026-11-23",
-      "url": "https://mercadosyseguros.com/harness-de-seguridad-para-llm-scout-hunt-y-disprove/",
-      "imagen": ""
-    },
-    {
-      "titulo": "ARM Latam Risk Pulse 2026: riesgos antes del viaje",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com ARM Services presentó el ARM Latam Risk Pulse 2026 en ALSUM Panamá 2026 con 150 profesionales. El 40% identificó al robo y crimen organizado como principal riesgo; el…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-23",
-      "url": "https://mercadosyseguros.com/arm-latam-risk-pulse-2026-riesgos-antes-del-viaje/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Grupo RUS presentó en Paraná y Santa Fe una nueva forma de invertir en ladrillos",
-      "resumen": "Junto a Integrar S.A., Grupo RUS realizó dos encuentros con empresarios e inversores institucionales de Entre Ríos y Santa Fe para presentar RUS Futuro, una propuesta nacida en la provincia que conecta el mercado de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-23",
-      "url": "https://100seguro.com.ar/grupo-rus-presento-en-parana-y-santa-fe-una-nueva-forma-de-invertir-en-ladrillos/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/RUS-FUTURO-6.jpg"
-    },
-    {
-      "titulo": "Sancor Seguros lanza Salud Activa para acompañar la longevidad",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Sancor Seguros presentó Salud Activa, un producto con coberturas para cirugías, trasplantes, prótesis, renta diaria, incapacidad y fracturas por accidente, más…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-22",
-      "url": "https://mercadosyseguros.com/sancor-seguros-lanza-salud-activa-para-acompanar-la-longevidad/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Producción de seguros creció 0,2% interanual a septiembre 2026",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN reportó que en septiembre de 2026 la producción de seguros totalizó 2.511,9 billones de pesos: +33,6% a valores corrientes y +0,2% a valores constantes…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-22",
-      "url": "https://mercadosyseguros.com/produccion-de-seguros-crecio-02-interanual-a-septiembre-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "National Brokers y SOS: del crecimiento de un broker familiar al futuro de la asistencia",
-      "resumen": "En un nuevo programa de 100% SEGURO, la evolución de un broker que va camino a las cuatro décadas de trayectoria, y la transformación de los servicios de asistencia ante las nuevas demandas de movilidad, tecnología y…",
-      "fuente": "100% Seguro",
-      "categoria": "Innovación",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/national-brokers-y-sos-del-crecimiento-de-un-broker-familiar-al-futuro-de-la-asistencia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lluvia, alcohol y rutas cargadas: cinco decisiones que pueden evitar un siniestro este fin de semana largo",
-      "resumen": "Los viajes, las escapadas y los encuentros sociales modifican la circulación durante los días de descanso. En un contexto de mayor inestabilidad climática en distintas regiones, anticipar imprevistos y reconocer los…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/lluvia-alcohol-y-rutas-cargadas-cinco-decisiones-que-pueden-evitar-un-siniestro-este-fin-de-semana-largo/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Life Seguros fortalece su presencia en San Juan y acompaña el crecimiento de la provincia",
-      "resumen": "La compañía de Grupo ST participa de la Fiesta Nacional del Sol para acercar sus soluciones de protección y ahorro, escuchar las necesidades de las personas y las empresas y acompañar nuevos proyectos en el mercado…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/life-seguros-fortalece-su-presencia-en-san-juan-y-acompana-el-crecimiento-de-la-provincia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Premios Prestigio Seguros: Sebastián Dabini de Zurich fue distinguido como el Mejor Ejecutivo de Seguros de 2026",
-      "resumen": "Además de la distinción a su CEO, Zurich Argentina fue reconocida como la mejor compañía en el Ranking de Vida y obtuvo una distinción en el atributo de Calidad. La entrada Premios Prestigio Seguros: Sebastián Dabini de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/premios-prestigio-seguros-sebastian-dabini-de-zurich-fue-distinguido-como-el-mejor-ejecutivo-de-seguros-de-2026/",
-      "imagen": "https://100seguro.com.ar/wp-content/uploads/2026/11/DSC_52436.jpeg"
-    },
-    {
-      "titulo": "Río Uruguay Seguros renovó la certificación de su Sistema de Gestión de la Calidad bajo la norma ISO 9001:2015",
-      "resumen": "Río Uruguay Seguros (RUS) renovó la certificación de su Sistema de Gestión de la Calidad (SGC) bajo la norma internacional ISO 9001:2015, luego de superar satisfactoriamente una nueva auditoría externa de…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-20",
-      "url": "https://100seguro.com.ar/rio-uruguay-seguros-renovo-la-certificacion-de-su-sistema-de-gestion-de-la-calidad-bajo-la-norma-iso-90012015/",
+      "fecha": "2026-11-24",
+      "url": "https://elseguroenaccion.com.ar/lanzan-un-portafolio-de-seguros-que-cubren-los-riesgos-reales-de-cada-pyme/",
       "imagen": ""
     }
   ]
