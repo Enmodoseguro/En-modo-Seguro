@@ -1,7 +1,88 @@
 {
-  "actualizado": "2026-11-26T15:44-03:00",
+  "actualizado": "2026-11-27T15:36-03:00",
   "total": 24,
   "noticias": [
+    {
+      "titulo": "Siniestralidad en caución sube del 14% al 48% y lo absorbió el reaseguro",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La siniestralidad del ramo caución escaló del 14% al 48% a junio de 2026; Prudencia Seguros indica que el reaseguro absorbió la mayor parte del impacto, mientras…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://mercadosyseguros.com/siniestralidad-en-caucion-sube-del-14-al-48-y-lo-absorbio-el-reaseguro/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Seguros a medida para PyMEs: nueva oferta de PyME Protegida",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com PyME Protegida, de CIS UNO con el apoyo de Galicia Seguros, lanzó un portafolio que evalúa sin costo pólizas vigentes y diseña seguros a medida para más de 20 rubros,…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://mercadosyseguros.com/seguros-a-medida-para-pymes-nueva-oferta-de-pyme-protegida/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reunión del Comité de Control Interno de la SSN con la SIGEN",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El 17 de noviembre la SSN y la SIGEN realizaron la 12ª reunión del Comité de Control Interno para evaluar avances, definir nuevos plazos y fortalecer los mecanismos…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Regulación",
+      "fecha": "2026-11-27",
+      "url": "https://mercadosyseguros.com/reunion-del-comite-de-control-interno-de-la-ssn-con-la-sigen/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Lavarropas automático: cómo prevenir riesgos en el hogar",
+      "resumen": "Contenido publicado en el sitio mercadosyseguros.com El uso del lavarropas automático exige precauciones por riesgos eléctricos, fugas y sobrecargas. Revisá mangueras mensualmente, reemplazalas cada 3 a 5 años y respetá…",
+      "fuente": "Mercado y Seguros",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://mercadosyseguros.com/lavarropas-automatico-como-prevenir-riesgos-en-el-hogar/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Allianz se sumó al programa de educación financiera de Junior Achievement en Argentina",
+      "resumen": "Como parte de su estrategia Move Now de Impacto Social, la compañía impulsó junto a Junior Achievement Argentina una implementación especial del programa “Activo mi economía”, incorporando un módulo exclusivo sobre…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://100seguro.com.ar/allianz-se-sumo-al-programa-de-educacion-financiera-de-junior-achievement-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "AACS y CESSI: la digitalización gana terreno y la rentabilidad vuelve al centro del debate",
+      "resumen": "En un programa especial de 100% SEGURO, analizamos la quinta edición del Índice de Maduración Digital, elaborado por la Asociación Argentina de Compañías de Seguros (AACS) y la Cámara de la Industria Argentina del…",
+      "fuente": "100% Seguro",
+      "categoria": "Innovación",
+      "fecha": "2026-11-27",
+      "url": "https://100seguro.com.ar/aacs-y-cessi-la-digitalizacion-gana-terreno-y-la-rentabilidad-vuelve-al-centro-del-debate/",
+      "imagen": ""
+    },
+    {
+      "titulo": "El respaldo de una historia, el impulso de lo que viene: Mapfre cumple 40 años en Argentina",
+      "resumen": "La cercanía, la solvencia y la calidad de atención son los ejes de la campaña con la que Mapfre celebra sus 40 años en Argentina, con presencia en redes sociales, vía pública y medios del sector asegurador. Mapfre…",
+      "fuente": "Informe Operadores",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://informeoperadores.com.ar/2026/11/27/el-respaldo-de-una-historia-el-impulso-de-lo-que-viene-mapfre-cumple-40-anos-en-argentina/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sobran dólares, falta actividad: el costo económico del ajuste",
+      "resumen": "Guido Zack, director de Economía de Fundar, analiza por qué el superávit comercial y el ingreso de dólares no logran revertir la debilidad de la actividad económica argentina. Advierte sobre el impacto del ajuste en las…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://nbs.ar/sobran-dolares-falta-actividad-el-costo-economico-del-ajuste/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Banco Nación: el financiamiento productivo ya alcanza los ARS 15,61 billones",
+      "resumen": "Banco Nación alcanzó los 15,61 billones de pesos en financiamiento productivo durante 2026, con 53.000 empresas beneficiadas. Gastón Álvarez, gerente general de la entidad, analiza las líneas de crédito, el crecimiento…",
+      "fuente": "NBS",
+      "categoria": "Mercado",
+      "fecha": "2026-11-27",
+      "url": "https://nbs.ar/banco-nacion-financiamiento-productivo-2026/",
+      "imagen": ""
+    },
     {
       "titulo": "Ranking septiembre 2026: las 50 patrimoniales y mixtas que más facturaron",
       "resumen": "Contenido publicado en el sitio mercadosyseguros.com En septiembre de 2026 las 50 patrimoniales y mixtas facturaron 4.867.557.432 miles de pesos, 24,54% más que en septiembre de 2025. Federación Patronal Seguros lideró…",
@@ -36,6 +117,15 @@
       "categoria": "Mercado",
       "fecha": "2026-11-26",
       "url": "https://mercadosyseguros.com/psi-y-aseguradoras-lanzan-plan-para-impulsar-resiliencia-climatica/",
+      "imagen": ""
+    },
+    {
+      "titulo": "Black Friday: cómo controlar las flotas en uno de los mayores picos de demanda del año",
+      "resumen": "Cada edición de Black Friday moviliza miles de compras en pocos días y pone en marcha una enorme operación logística. Y no es solo la fecha en sí, la proximidad de las fiestas de fin de año también impulsa la demanda.…",
+      "fuente": "100% Seguro",
+      "categoria": "Mercado",
+      "fecha": "2026-11-26",
+      "url": "https://100seguro.com.ar/black-friday-como-controlar-las-flotas-en-uno-de-los-mayores-picos-de-demanda-del-ano/",
       "imagen": ""
     },
     {
@@ -126,96 +216,6 @@
       "categoria": "Regulación",
       "fecha": "2026-11-26",
       "url": "https://elseguroenaccion.com.ar/if-2026-112073049-apn-geyessn-estados-patrimoniales-y-de-resultados-junio-de-2026/",
-      "imagen": ""
-    },
-    {
-      "titulo": "RESOL-2026-503-APN-SSN#MEC – PROVIDENCIA COMPAÑÍA ARGENTINA DE SEGUROS S.A. – RÉGIMEN SANCIONATORIO",
-      "resumen": "",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-26",
-      "url": "https://elseguroenaccion.com.ar/resol-2026-503-apn-ssnmec-providencia-compania-argentina-de-seguros-s-a-regimen-sancionatorio/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SSN multó con más de $30 millones a una aseguradora que reincidió en un incumplimiento",
-      "resumen": "La Superintendencia de Seguros de la Nación (SSN) aplicó una multa de $30.360.170,07 a Providencia Compañía Argentina de Seguros S.A. por presentar fuera de plazo sus estados contables al 30 de junio de 2026. La medida…",
-      "fuente": "El Seguro en Acción",
-      "categoria": "Regulación",
-      "fecha": "2026-11-26",
-      "url": "https://elseguroenaccion.com.ar/la-ssn-multo-con-mas-de-30-millones-a-una-aseguradora-que-reincidio-en-un-incumplimiento/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fernando Ors: “La tokenización añade una nueva capa a un activo que el inversor argentino conoce bien”",
-      "resumen": "Fernando Ors, presidente de Reental, analiza cómo la tokenización inmobiliaria transforma el perfil del inversor argentino, facilita el acceso a proyectos internacionales y permite diversificar carteras mediante…",
-      "fuente": "NBS",
-      "categoria": "Mercado",
-      "fecha": "2026-11-26",
-      "url": "https://nbs.ar/fernando-ors-reental-tokenizacion-inmobiliaria/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Hernán Sefusatti: “La tecnología blockchain y la tokenización son importantes, pero lo que aún tenemos que sumar es un ecosistema unido”",
-      "resumen": "Banco Coinag presentó un marketplace para desarrolladores inmobiliarios junto a Pala Blockchain. Hernán Sefusatti, presidente de la entidad, analiza las oportunidades de la tokenización de inmuebles y el desafío de…",
-      "fuente": "NBS",
-      "categoria": "Innovación",
-      "fecha": "2026-11-26",
-      "url": "https://nbs.ar/hernan-sefusatti-la-tecnologia-blockchain-y-la-tokenizacion-son-importantes-pero-lo-que-aun-tenemos-que-sumar-es-un-ecosistema-unido/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Seguro y robotaxis: cómo cambia el riesgo automotor",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Mutua Madrileña aseguró 20 robotaxis del piloto de Uber y WeRide en Madrid que operan con autonomía nivel 4 desde octubre; la cobertura permitirá medir frecuencia y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Mercado",
-      "fecha": "2026-11-25",
-      "url": "https://mercadosyseguros.com/seguro-y-robotaxis-como-cambia-el-riesgo-automotor/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Opción Seguros mejora tiempos y servicio para productores y asegurados",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com Opción Seguros informó inversiones iniciadas en 2025 para digitalizar procesos y reducir tiempos con biometría, trazabilidad y asistentes digitales como Copilot y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-11-25",
-      "url": "https://mercadosyseguros.com/opcion-seguros-mejora-tiempos-y-servicio-para-productores-y-asegurados/",
-      "imagen": ""
-    },
-    {
-      "titulo": "IA en seguros: uso en siniestros sube al 44% en un año",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La adopción de IA en siniestros subió del 13% al 44% entre 2025 y 2026; el uso en áreas comerciales pasó del 26% al 56%, y el Índice de Maduración Digital de AACS y…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Innovación",
-      "fecha": "2026-11-25",
-      "url": "https://mercadosyseguros.com/ia-en-seguros-uso-en-siniestros-sube-al-44-en-un-ano/",
-      "imagen": ""
-    },
-    {
-      "titulo": "SSN multa a Agrosalta y trabas a tres aseguradoras",
-      "resumen": "Contenido publicado en el sitio mercadosyseguros.com La SSN multó a Agrosalta por $41.124.110,06 y dictó medidas cautelares contra Aseguradora del Finisterre, Providencia y la sucursal argentina de Coface, según las…",
-      "fuente": "Mercado y Seguros",
-      "categoria": "Regulación",
-      "fecha": "2026-11-25",
-      "url": "https://mercadosyseguros.com/ssn-multa-a-agrosalta-y-trabas-a-tres-aseguradoras/",
-      "imagen": ""
-    },
-    {
-      "titulo": "MetLife y Figuro se unen para ampliar el acceso a seguros de vida con alternativas de ahorro en Colombia",
-      "resumen": "La alianza permitirá acercar Vida con Ahorro a los clientes que ya atienden los asesores y agencias vinculados a Figuro, con la posibilidad de llegar a más de 100 mil personas en Colombia. Durante el segundo trimestre…",
-      "fuente": "100% Seguro",
-      "categoria": "Mercado",
-      "fecha": "2026-11-25",
-      "url": "https://100seguro.com.ar/metlife-y-figuro-se-unen-para-ampliar-el-acceso-a-seguros-de-vida-con-alternativas-de-ahorro-en-colombia/",
-      "imagen": ""
-    },
-    {
-      "titulo": "La SRT pone en marcha un radar nacional para medir la litigiosidad laboral y comparar la situación en las 24 jurisdicciones",
-      "resumen": "Una nueva plataforma digital permite conocer la evolución de los juicios por accidentes de trabajo y enfermedades profesionales, identificar las provincias con mayores niveles de litigiosidad y analizar el impacto…",
-      "fuente": "100% Seguro",
-      "categoria": "Regulación",
-      "fecha": "2026-11-25",
-      "url": "https://100seguro.com.ar/la-srt-pone-en-marcha-un-radar-nacional-para-medir-la-litigiosidad-laboral-y-comparar-la-situacion-en-las-24-jurisdicciones/",
       "imagen": ""
     }
   ]
